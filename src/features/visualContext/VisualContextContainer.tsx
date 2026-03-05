@@ -16,7 +16,7 @@ const VisualContextContainer: React.FC<VisualContextContainerProps> = () => {
   const correctCount = useAppSelector((state) => state.session.correctCount);
   const currentSectionId = useAppSelector((state) => state.session.currentSectionId);
 
-  const questions: VisualQuestion[] = restaurantData.stage_3_visual_situational;
+  const questions: VisualQuestion[] = restaurantData.stage_3_visual_situational as VisualQuestion[];
   const currentQuestion = questions[currentQuestionIndex];
   const isLastQuestion = currentQuestionIndex === questions.length - 1;
 

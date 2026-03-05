@@ -15,8 +15,6 @@ const SectionComplete: React.FC<SectionCompletePresenterProps> = ({
   wordBank,
   onBackToHome,
 }) => {
-  const percentage = totalQuestions > 0 ? correctCount / totalQuestions : 0;
-
   const getScoreMessage = (): { text: string; level: 'excellent' | 'good' | 'practice' } => {
     if (correctCount >= 24) return { text: 'Excellent!', level: 'excellent' };
     if (correctCount >= 15) return { text: 'Good job!', level: 'good' };
