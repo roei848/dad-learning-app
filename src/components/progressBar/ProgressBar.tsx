@@ -18,7 +18,7 @@ const ProgressBar: React.FC<ProgressBarPresenterProps> = ({
         Question {overallQuestion} / {totalQuestions}
       </p>
       <div className="track" role="progressbar" aria-valuenow={overallQuestion} aria-valuemin={0} aria-valuemax={totalQuestions} aria-label={`Question ${overallQuestion} of ${totalQuestions}`}>
-        <div className="fill" style={{ width: `${progress}%` }} />
+        <ProgressBarFill $progress={progress} />
       </div>
     </ProgressBarWrapper>
   );
@@ -54,19 +54,25 @@ const ProgressBarWrapper = styled.div`
     box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.12);
   }
 
-  .fill {
-    height: 100%;
-    background-color: ${({ theme }) => theme.colors.primary};
-    border-radius: 999px;
-    /* Smooth width transition — within ui-ux-pro-max 150-300ms window */
-    transition: width 0.3s ease;
+`;
 
-    /*
-     * Honour prefers-reduced-motion: disable the width animation for users
-     * who have requested reduced motion in their OS accessibility settings.
-     */
-    @media (prefers-reduced-motion: reduce) {
-      transition: none;
-    }
+interface ProgressBarFillProps {
+  $progress: number;
+}
+
+const ProgressBarFill = styled.div<ProgressBarFillProps>`
+  height: 100%;
+  width: ${({ $progress }) => $progress}%;
+  background-color: ${({ theme }) => theme.colors.primary};
+  border-radius: 999px;
+  /* Smooth width transition — within ui-ux-pro-max 150-300ms window */
+  transition: width 0.3s ease;
+
+  /*
+   * Honour prefers-reduced-motion: disable the width animation for users
+   * who have requested reduced motion in their OS accessibility settings.
+   */
+  @media (prefers-reduced-motion: reduce) {
+    transition: none;
   }
 `;
