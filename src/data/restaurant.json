@@ -1,0 +1,266 @@
+{
+  "section_id": "restaurant_01",
+  "title": "Dining Out",
+  "category": "Lifestyle",
+  "word_bank": [
+    {
+      "word": "Reservation",
+      "translation": "הזמנת מקום מראש",
+      "example": "I made a reservation at the restaurant for 7 PM."
+    },
+    {
+      "word": "Beverage",
+      "translation": "משקה",
+      "example": "Would you like a beverage while you wait for your food?"
+    },
+    {
+      "word": "Appetizer",
+      "translation": "מנה ראשונה / פתיח",
+      "example": "We ordered soup as an appetizer before the main course."
+    },
+    {
+      "word": "Entrée",
+      "translation": "מנה עיקרית",
+      "example": "The salmon was my entrée, and it was cooked perfectly."
+    },
+    {
+      "word": "Dessert",
+      "translation": "קינוח",
+      "example": "After dinner, we shared a chocolate cake for dessert."
+    },
+    {
+      "word": "Waiter",
+      "translation": "מלצר",
+      "example": "The waiter brought the menu and asked if we were ready to order."
+    },
+    {
+      "word": "Menu",
+      "translation": "תפריט",
+      "example": "Please take a look at the menu and let me know what you would like."
+    },
+    {
+      "word": "Bill",
+      "translation": "חשבון",
+      "example": "At the end of the meal, we asked the waiter to bring the bill."
+    },
+    {
+      "word": "Tip",
+      "translation": "טיפ / תשר",
+      "example": "The service was excellent, so we left a generous tip for the waiter."
+    },
+    {
+      "word": "Portion",
+      "translation": "מנה / כמות",
+      "example": "The portion sizes at this restaurant are very large — I could not finish it."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "We have a _____ for two people at eight o'clock tonight.",
+      "options": ["(a) Reservation", "(b) Dessert", "(c) Portion", "(d) Bill"],
+      "correct_answer": "a",
+      "hint_hebrew": "הזמנת מקום מראש במסעדה"
+    },
+    {
+      "id": 2,
+      "question": "Excuse me, could I see the _____ please? I would like to choose my meal.",
+      "options": ["(a) Tip", "(b) Menu", "(c) Entrée", "(d) Waiter"],
+      "correct_answer": "b",
+      "hint_hebrew": "הרשימה שבה כתובות כל המנות"
+    },
+    {
+      "id": 3,
+      "question": "The _____ came to our table and asked if we were ready to order.",
+      "options": ["(a) Bill", "(b) Beverage", "(c) Waiter", "(d) Appetizer"],
+      "correct_answer": "c",
+      "hint_hebrew": "האדם שמשרת אותנו במסעדה"
+    },
+    {
+      "id": 4,
+      "question": "I am not very hungry, so I will only order an _____ and skip the main course.",
+      "options": ["(a) Appetizer", "(b) Reservation", "(c) Portion", "(d) Tip"],
+      "correct_answer": "a",
+      "hint_hebrew": "מנה קטנה שמוגשת לפני האוכל העיקרי"
+    },
+    {
+      "id": 5,
+      "question": "For my _____, I chose the grilled chicken with vegetables.",
+      "options": ["(a) Dessert", "(b) Beverage", "(c) Bill", "(d) Entrée"],
+      "correct_answer": "d",
+      "hint_hebrew": "המנה העיקרית בארוחה"
+    },
+    {
+      "id": 6,
+      "question": "What _____ would you like? We have water, juice, and soft drinks.",
+      "options": ["(a) Portion", "(b) Beverage", "(c) Menu", "(d) Reservation"],
+      "correct_answer": "b",
+      "hint_hebrew": "משהו לשתות"
+    },
+    {
+      "id": 7,
+      "question": "The ice cream sundae was the best _____ I have ever tasted.",
+      "options": ["(a) Waiter", "(b) Appetizer", "(c) Dessert", "(d) Tip"],
+      "correct_answer": "c",
+      "hint_hebrew": "מאכל מתוק שמוגש בסוף הארוחה"
+    },
+    {
+      "id": 8,
+      "question": "When we finished eating, I asked for the _____ because we wanted to pay and leave.",
+      "options": ["(a) Bill", "(b) Entrée", "(c) Portion", "(d) Menu"],
+      "correct_answer": "a",
+      "hint_hebrew": "הנייר שמראה כמה צריך לשלם"
+    },
+    {
+      "id": 9,
+      "question": "The service was wonderful, so we left a fifteen percent _____ for the waiter.",
+      "options": ["(a) Reservation", "(b) Dessert", "(c) Beverage", "(d) Tip"],
+      "correct_answer": "d",
+      "hint_hebrew": "כסף נוסף שנותנים למלצר כאות הוקרה"
+    },
+    {
+      "id": 10,
+      "question": "The _____ of pasta was so big that I took half of it home in a box.",
+      "options": ["(a) Portion", "(b) Waiter", "(c) Appetizer", "(d) Bill"],
+      "correct_answer": "a",
+      "hint_hebrew": "הכמות של אוכל שמוגשת בצלחת"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "Last Friday, David and his wife Sarah decided to eat at a new Italian restaurant called La Bella. David had called the day before to make a reservation, so they had a nice table by the window.\n\nWhen they arrived, the waiter greeted them warmly and handed them each a menu. The menu was long and had many choices. Sarah ordered tomato soup as an appetizer, while David chose a Caesar salad. Both dishes were fresh and delicious.\n\nFor the main course, Sarah's entrée was a creamy pasta with mushrooms. David ordered the grilled salmon, which came with rice and vegetables. The portions were generous, and they both felt full after finishing their meals.\n\nThe waiter asked if they wanted a dessert. They decided to share a slice of tiramisu, which was rich and sweet. To drink, they each ordered a beverage — Sarah had sparkling water and David had a glass of red wine.\n\nAt the end of the evening, the waiter brought the bill. The total was eighty dollars. David paid and also left a fifteen percent tip because the service had been excellent. They both agreed it was one of the best meals they had enjoyed in a long time.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "Where did David and Sarah go for dinner?",
+        "options": ["(a) A French restaurant called Le Jardin", "(b) An Italian restaurant called La Bella", "(c) A Japanese restaurant called Sakura", "(d) A Mexican restaurant called El Sol"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 12,
+        "question": "How did David make sure they would have a table?",
+        "options": ["(a) He arrived very early", "(b) He spoke to the owner", "(c) He made a reservation the day before", "(d) He paid in advance online"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 13,
+        "question": "What did the waiter give them when they arrived?",
+        "options": ["(a) A bill", "(b) A menu", "(c) A beverage", "(d) An appetizer"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "What appetizer did Sarah order?",
+        "options": ["(a) Caesar salad", "(b) Garlic bread", "(c) Tomato soup", "(d) Bruschetta"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 15,
+        "question": "What was David's entrée?",
+        "options": ["(a) Creamy pasta with mushrooms", "(b) Chicken with vegetables", "(c) Beef steak with potatoes", "(d) Grilled salmon with rice and vegetables"],
+        "correct_answer": "d"
+      },
+      {
+        "id": 16,
+        "question": "How did they feel after finishing their main courses?",
+        "options": ["(a) Still hungry", "(b) Disappointed with the taste", "(c) Full because the portions were generous", "(d) Sick from the food"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 17,
+        "question": "What dessert did they order?",
+        "options": ["(a) Chocolate cake", "(b) A slice of tiramisu", "(c) Ice cream sundae", "(d) Apple pie"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 18,
+        "question": "What beverage did Sarah drink during the meal?",
+        "options": ["(a) Orange juice", "(b) Red wine", "(c) Sparkling water", "(d) Lemonade"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 19,
+        "question": "How much was the total bill?",
+        "options": ["(a) Fifty dollars", "(b) Sixty dollars", "(c) Seventy-five dollars", "(d) Eighty dollars"],
+        "correct_answer": "d"
+      },
+      {
+        "id": 20,
+        "question": "Why did David leave a fifteen percent tip?",
+        "options": ["(a) Because the food was cheap", "(b) Because it is required by law", "(c) Because the service had been excellent", "(d) Because the waiter asked for it"],
+        "correct_answer": "c"
+      }
+    ]
+  },
+  "stage_3_visual_situational": [
+    {
+      "id": 21,
+      "type": "dialogue",
+      "prompt": "You call a restaurant and say: 'Hello, I would like to make a _____ for four people this Saturday evening.'",
+      "options": ["(a) reservation", "(b) portion", "(c) bill", "(d) tip"],
+      "correct_answer": "a"
+    },
+    {
+      "id": 22,
+      "type": "dialogue",
+      "prompt": "The waiter asks: 'Can I start you off with something to drink?' You reply: 'Yes, I would like a cold _____ — perhaps some sparkling water.'",
+      "options": ["(a) menu", "(b) entrée", "(c) beverage", "(d) dessert"],
+      "correct_answer": "c"
+    },
+    {
+      "id": 23,
+      "type": "dialogue",
+      "prompt": "You sit down at a restaurant and the waiter has not come yet. You say to your friend: 'Let me look at the _____ while we wait so I know what to order.'",
+      "options": ["(a) bill", "(b) menu", "(c) tip", "(d) appetizer"],
+      "correct_answer": "b"
+    },
+    {
+      "id": 24,
+      "type": "dialogue",
+      "prompt": "The waiter asks: 'Would you like to order a starter?' You answer: 'Yes, I will have the mushroom soup as an _____.'",
+      "options": ["(a) entrée", "(b) dessert", "(c) appetizer", "(d) portion"],
+      "correct_answer": "c"
+    },
+    {
+      "id": 25,
+      "type": "dialogue",
+      "prompt": "Your friend asks: 'What are you having for your main course?' You say: 'My _____ will be the grilled chicken with roasted potatoes.'",
+      "options": ["(a) dessert", "(b) beverage", "(c) waiter", "(d) entrée"],
+      "correct_answer": "d"
+    },
+    {
+      "id": 26,
+      "type": "dialogue",
+      "prompt": "After the meal, the waiter asks: 'Would you like something sweet to finish?' You say: 'Yes, we will share a chocolate mousse for _____.'",
+      "options": ["(a) dessert", "(b) reservation", "(c) bill", "(d) appetizer"],
+      "correct_answer": "a"
+    },
+    {
+      "id": 27,
+      "type": "dialogue",
+      "prompt": "You are ready to leave the restaurant. You call the waiter and say: 'Excuse me, could you please bring the _____ ? We would like to pay now.'",
+      "options": ["(a) menu", "(b) bill", "(c) portion", "(d) tip"],
+      "correct_answer": "b"
+    },
+    {
+      "id": 28,
+      "type": "dialogue",
+      "prompt": "Your friend says: 'The food here is amazing but the _____ sizes are small — I am still hungry after eating everything on my plate.'",
+      "options": ["(a) waiter", "(b) reservation", "(c) portion", "(d) beverage"],
+      "correct_answer": "c"
+    },
+    {
+      "id": 29,
+      "type": "dialogue",
+      "prompt": "You are about to pay the bill. Your friend asks: 'How much _____ should we leave? The waiter was very friendly and helpful.'",
+      "options": ["(a) menu", "(b) appetizer", "(c) entrée", "(d) tip"],
+      "correct_answer": "d"
+    },
+    {
+      "id": 30,
+      "type": "dialogue",
+      "prompt": "A new employee at the restaurant is being trained. The manager says: 'A _____ greets customers, takes orders, brings food, and helps guests with anything they need.'",
+      "options": ["(a) waiter", "(b) dessert", "(c) portion", "(d) reservation"],
+      "correct_answer": "a"
+    }
+  ]
+}
