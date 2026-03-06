@@ -9,11 +9,10 @@ const stageOffset: Record<Stage, number> = {
   wordBank: 0,
   sentenceCompletion: 0,
   storyComprehension: 10,
-  visualContext: 20,
-  sectionComplete: 30,
+  sectionComplete: 20,
 };
 
-const TOTAL_QUESTIONS = 30;
+const TOTAL_QUESTIONS = 20;
 
 const ProgressBarContainer: React.FC<ProgressBarContainerProps> = () => {
   const { currentStage, currentQuestionIndex } = useAppSelector(

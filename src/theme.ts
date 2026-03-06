@@ -20,11 +20,11 @@ export const theme = {
   },
   typography: {
     fontFamily: "'Georgia', 'Times New Roman', serif",
-    body: '20px',
-    story: '24px',
-    heading: '32px',
-    subheading: '24px',
-    hebrew: '18px',
+    body: '22px',
+    story: '26px',
+    heading: '36px',
+    subheading: '26px',
+    hebrew: '20px',
     lineHeight: '1.6',
   },
   spacing: {

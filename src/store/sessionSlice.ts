@@ -17,14 +17,13 @@ const initialState: SessionState = {
   currentQuestionIndex: 0,
   answers: {},
   correctCount: 0,
-  totalQuestions: 30,
+  totalQuestions: 20,
 };
 
 const stageOrder: Stage[] = [
   'wordBank',
   'sentenceCompletion',
   'storyComprehension',
-  'visualContext',
   'sectionComplete',
 ];
 

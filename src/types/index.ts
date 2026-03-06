@@ -27,15 +27,6 @@ export interface StoryData {
   questions: StoryQuestion[];
 }
 
-// Stage 3: Visual & Situational Context
-export interface VisualQuestion {
-  id: number;
-  type: 'dialogue' | 'image' | 'synonym';
-  prompt: string;
-  options: string[];
-  correct_answer: string;
-}
-
 // Section (full data for one topic)
 export interface Section {
   section_id: string;
@@ -44,7 +35,6 @@ export interface Section {
   word_bank: WordBankItem[];
   stage_1_sentences: SentenceQuestion[];
   stage_2_story: StoryData;
-  stage_3_visual_situational: VisualQuestion[];
 }
 
 // Section metadata (for home screen cards)
@@ -63,4 +53,4 @@ export interface SectionResult {
 }
 
 // Stage type union
-export type Stage = 'wordBank' | 'sentenceCompletion' | 'storyComprehension' | 'visualContext' | 'sectionComplete';
+export type Stage = 'wordBank' | 'sentenceCompletion' | 'storyComprehension' | 'sectionComplete';

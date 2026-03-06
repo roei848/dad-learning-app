@@ -3,7 +3,6 @@ import HomeContainer from './features/home/HomeContainer';
 import WordBankContainer from './features/wordBank/WordBankContainer';
 import SentenceCompletionContainer from './features/sentenceCompletion/SentenceCompletionContainer';
 import StoryComprehensionContainer from './features/storyComprehension/StoryComprehensionContainer';
-import VisualContextContainer from './features/visualContext/VisualContextContainer';
 import SectionCompleteContainer from './features/sectionComplete/SectionCompleteContainer';
 
 const App = () => {
@@ -20,8 +19,6 @@ const App = () => {
       return <SentenceCompletionContainer />;
     case 'storyComprehension':
       return <StoryComprehensionContainer />;
-    case 'visualContext':
-      return <VisualContextContainer />;
     case 'sectionComplete':
       return <SectionCompleteContainer />;
     default:
