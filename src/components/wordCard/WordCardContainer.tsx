@@ -1,5 +1,6 @@
-import React, { useState } from 'react';
+import React from 'react';
 
+import { useSpeech } from '../../hooks/useSpeech';
 import WordCard from './WordCard';
 
 export interface WordCardContainerProps {
@@ -13,27 +14,14 @@ const WordCardContainer: React.FC<WordCardContainerProps> = ({
   translation,
   example,
 }) => {
-  const [isPlaying, setIsPlaying] = useState(false);
-
-  const handlePlayAudio = () => {
-    if ('speechSynthesis' in window) {
-      window.speechSynthesis.cancel(); // cancel any ongoing speech
-      const utterance = new SpeechSynthesisUtterance(word);
-      utterance.lang = 'en-US';
-      utterance.rate = 0.85; // slightly slower for learners
-      utterance.onstart = () => setIsPlaying(true);
-      utterance.onend = () => setIsPlaying(false);
-      utterance.onerror = () => setIsPlaying(false);
-      window.speechSynthesis.speak(utterance);
-    }
-  };
+  const { isPlaying, play } = useSpeech(word);
 
   return (
     <WordCard
       word={word}
       translation={translation}
       example={example}
-      onPlayAudio={handlePlayAudio}
+      onPlayAudio={play}
       isPlaying={isPlaying}
     />
   );

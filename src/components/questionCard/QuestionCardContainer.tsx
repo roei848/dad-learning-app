@@ -2,6 +2,7 @@ import React, { useState, useCallback } from 'react';
 
 import { submitAnswer } from '../../store/sessionSlice';
 import { useAppDispatch } from '../../app/hooks';
+import { useSpeech } from '../../hooks/useSpeech';
 import QuestionCard from './QuestionCard';
 
 export interface QuestionCardContainerProps {
@@ -12,6 +13,7 @@ export interface QuestionCardContainerProps {
   hintHebrew?: string;
   onNext: () => void;
 }
+
 
 /** Maps the correctAnswer letter to its zero-based index in the options array. */
 const ANSWER_LETTER_TO_INDEX: Record<string, number> = {
@@ -33,6 +35,10 @@ const QuestionCardContainer: React.FC<QuestionCardContainerProps> = ({
 
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
   const [isHintVisible, setIsHintVisible] = useState<boolean>(false);
+
+  const { isPlaying: isAudioPlaying, play: handlePlayAudio } = useSpeech(
+    questionText.replace(/_+/g, '...'),
+  );
 
   const isAnswered = selectedAnswer !== null;
 
@@ -72,8 +78,10 @@ const QuestionCardContainer: React.FC<QuestionCardContainerProps> = ({
       isAnswered={isAnswered}
       hintHebrew={hintHebrew}
       isHintVisible={isHintVisible}
+      isAudioPlaying={isAudioPlaying}
       onSelectOption={handleSelectOption}
       onToggleHint={handleToggleHint}
+      onPlayAudio={handlePlayAudio}
       onNext={handleNext}
     />
   );

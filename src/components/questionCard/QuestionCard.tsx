@@ -1,5 +1,6 @@
 import React from 'react';
-import styled from 'styled-components';
+import styled, { keyframes } from 'styled-components';
+import { Volume2 } from 'lucide-react';
 
 import OptionButtonContainer from '../optionButton/OptionButtonContainer';
 import HebrewHint from '../hebrewHint/HebrewHint';
@@ -12,8 +13,10 @@ export interface QuestionCardPresenterProps {
   isAnswered: boolean;
   hintHebrew?: string;
   isHintVisible: boolean;
+  isAudioPlaying: boolean;
   onSelectOption: (option: string) => void;
   onToggleHint: () => void;
+  onPlayAudio: () => void;
   onNext: () => void;
 }
 
@@ -33,8 +36,10 @@ const QuestionCard: React.FC<QuestionCardPresenterProps> = ({
   isAnswered,
   hintHebrew,
   isHintVisible,
+  isAudioPlaying,
   onSelectOption,
   onToggleHint,
+  onPlayAudio,
   onNext,
 }) => {
   const correctIndex = ANSWER_LETTER_TO_INDEX[correctAnswer];
@@ -43,15 +48,27 @@ const QuestionCard: React.FC<QuestionCardPresenterProps> = ({
     <QuestionCardWrapper>
       <div className="question-card__header">
         <p className="question-card__text">{questionText}</p>
-        {hintHebrew && (
-          <div className="question-card__hint">
+        <div className="question-card__controls">
+          <button
+            className="question-card__audio-btn"
+            onClick={onPlayAudio}
+            type="button"
+            aria-label="Play sentence"
+            aria-pressed={isAudioPlaying}
+          >
+            <Volume2
+              size={20}
+              className={isAudioPlaying ? 'question-card__audio-icon--playing' : ''}
+            />
+          </button>
+          {hintHebrew && (
             <HebrewHint
               hint={hintHebrew}
               isVisible={isHintVisible}
               onToggle={onToggleHint}
             />
-          </div>
-        )}
+          )}
+        </div>
       </div>
 
       <ul className="question-card__options" role="list">
@@ -83,6 +100,11 @@ const QuestionCard: React.FC<QuestionCardPresenterProps> = ({
 
 export default QuestionCard;
 
+const pulseOpacity = keyframes`
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.45; }
+`;
+
 // ui-ux-pro-max: Claymorphism — white card with soft layered shadows, chunky 12px radius,
 // smooth 200ms ease-out transitions on interactive elements.
 const QuestionCardWrapper = styled.div`
@@ -107,8 +129,40 @@ const QuestionCardWrapper = styled.div`
     line-height: ${({ theme }) => theme.typography.lineHeight};
   }
 
-  .question-card__hint {
+  .question-card__controls {
+    display: flex;
+    align-items: center;
+    gap: ${({ theme }) => theme.spacing.sm};
     margin-top: ${({ theme }) => theme.spacing.sm};
+  }
+
+  .question-card__audio-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 44px;
+    border: 1.5px solid ${({ theme }) => theme.colors.border};
+    border-radius: ${({ theme }) => theme.borderRadius};
+    background: transparent;
+    cursor: pointer;
+    transition: all ${({ theme }) => theme.transition};
+    color: ${({ theme }) => theme.colors.primary};
+    flex-shrink: 0;
+
+    &:hover {
+      border-color: ${({ theme }) => theme.colors.primary};
+      box-shadow: ${({ theme }) => theme.shadow};
+    }
+
+    &:focus-visible {
+      outline: 2px solid ${({ theme }) => theme.colors.primary};
+      outline-offset: 3px;
+    }
+  }
+
+  .question-card__audio-icon--playing {
+    animation: ${pulseOpacity} 900ms ease-in-out infinite;
   }
 
   .question-card__options {
@@ -162,6 +216,10 @@ const QuestionCardWrapper = styled.div`
 
   /* ui-ux-pro-max: respect prefers-reduced-motion */
   @media (prefers-reduced-motion: reduce) {
+    .question-card__audio-icon--playing {
+      animation: none;
+    }
+
     .question-card__next-btn {
       transition: background-color ${({ theme }) => theme.transition};
 
