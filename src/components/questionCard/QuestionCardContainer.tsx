@@ -69,10 +69,12 @@ const QuestionCardContainer: React.FC<QuestionCardContainerProps> = ({
     onNext();
   }, [onNext]);
 
+  const displayOptions = options.map((o) => o.replace(/^\([a-d]\)\s*/i, ''));
+
   return (
     <QuestionCard
       questionText={questionText}
-      options={options}
+      options={displayOptions}
       correctAnswer={correctAnswer}
       selectedAnswer={selectedAnswer}
       isAnswered={isAnswered}

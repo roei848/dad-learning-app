@@ -2,18 +2,19 @@ import React from 'react';
 import { PenLine } from 'lucide-react';
 
 import { useAppDispatch, useAppSelector } from '../../app/hooks';
+import sectionsRegistry from '../../data/sectionsRegistry';
 import { advanceStage, nextQuestion } from '../../store/sessionSlice';
 import type { SentenceQuestion } from '../../types';
-import restaurantData from '../../data/restaurant.json';
 import SentenceCompletion from './SentenceCompletion';
 
 interface SentenceCompletionContainerProps {}
 
-const questions: SentenceQuestion[] = (restaurantData as { stage_1_sentences: SentenceQuestion[] }).stage_1_sentences;
-
 const SentenceCompletionContainer: React.FC<SentenceCompletionContainerProps> = () => {
   const dispatch = useAppDispatch();
   const currentQuestionIndex = useAppSelector((state) => state.session.currentQuestionIndex);
+  const currentSectionId = useAppSelector((state) => state.session.currentSectionId);
+  const sectionData = sectionsRegistry[currentSectionId ?? ''];
+  const questions: SentenceQuestion[] = sectionData?.stage_1_sentences ?? [];
 
   const currentQuestion = questions[currentQuestionIndex];
   const isLastQuestion = currentQuestionIndex === questions.length - 1;

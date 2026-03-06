@@ -1,8 +1,8 @@
 import React from 'react';
 import { BookOpen } from 'lucide-react';
 
-import restaurantData from '../../data/restaurant.json';
-import { useAppDispatch } from '../../app/hooks';
+import { useAppDispatch, useAppSelector } from '../../app/hooks';
+import sectionsRegistry from '../../data/sectionsRegistry';
 import { advanceStage } from '../../store/sessionSlice';
 import type { WordBankItem } from '../../types';
 import WordBank from './WordBank';
@@ -11,7 +11,9 @@ interface WordBankContainerProps {}
 
 const WordBankContainer: React.FC<WordBankContainerProps> = () => {
   const dispatch = useAppDispatch();
-  const wordBank: WordBankItem[] = restaurantData.word_bank;
+  const currentSectionId = useAppSelector((state) => state.session.currentSectionId);
+  const sectionData = sectionsRegistry[currentSectionId ?? ''];
+  const wordBank: WordBankItem[] = sectionData?.word_bank ?? [];
 
   const handleStartLearning = () => {
     dispatch(advanceStage());

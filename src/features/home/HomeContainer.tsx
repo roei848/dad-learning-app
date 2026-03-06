@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 
 import { useAppDispatch, useAppSelector } from '../../app/hooks';
+import footballData from '../../data/football.json';
 import restaurantData from '../../data/restaurant.json';
 import { loadSections } from '../../store/sectionsSlice';
 import { startSection } from '../../store/sessionSlice';
@@ -20,6 +21,12 @@ const HomeContainer: React.FC<HomeContainerProps> = () => {
         title: restaurantData.title,
         category: restaurantData.category,
         icon: 'UtensilsCrossed',
+      },
+      {
+        section_id: footballData.section_id,
+        title: footballData.title,
+        category: footballData.category,
+        icon: 'Trophy',
       },
     ];
     dispatch(loadSections(sectionsMeta));
