@@ -1,0 +1,266 @@
+{
+  "section_id": "emergency_01",
+  "title": "Travel Emergencies",
+  "category": "Travel",
+  "word_bank": [
+    {
+      "word": "Emergency",
+      "translation": "מצב חירום",
+      "example": "Call the police immediately — this is an emergency!"
+    },
+    {
+      "word": "Lost",
+      "translation": "אבוד",
+      "example": "I am lost. Can you help me find the nearest train station?"
+    },
+    {
+      "word": "Stolen",
+      "translation": "נגנב",
+      "example": "My wallet was stolen while I was on the bus."
+    },
+    {
+      "word": "Police",
+      "translation": "משטרה",
+      "example": "We went to the police station to report the theft."
+    },
+    {
+      "word": "Embassy",
+      "translation": "שגרירות",
+      "example": "If you lose your passport abroad, contact your country's embassy."
+    },
+    {
+      "word": "Insurance",
+      "translation": "ביטוח",
+      "example": "My travel insurance covered the cost of the stolen items."
+    },
+    {
+      "word": "Hospital",
+      "translation": "בית חולים",
+      "example": "The doctor at the hospital said I needed to rest for two days."
+    },
+    {
+      "word": "Ambulance",
+      "translation": "אמבולנס",
+      "example": "Someone called an ambulance because the man had fainted in the street."
+    },
+    {
+      "word": "Report",
+      "translation": "תלונה / דיווח",
+      "example": "You must file a police report before your insurance company can help you."
+    },
+    {
+      "word": "Pharmacy",
+      "translation": "בית מרקחת",
+      "example": "I went to the pharmacy to buy medicine for my headache."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "My passport was _____ from my bag while I was walking through the busy market.",
+      "options": ["(a) Lost", "(b) Stolen", "(c) Found", "(d) Borrowed"],
+      "correct_answer": "b",
+      "hint_hebrew": "נלקח על ידי גנב"
+    },
+    {
+      "id": 2,
+      "question": "This is an _____! Please call for help right away!",
+      "options": ["(a) Insurance", "(b) Report", "(c) Emergency", "(d) Embassy"],
+      "correct_answer": "c",
+      "hint_hebrew": "מצב דחוף שדורש טיפול מיידי"
+    },
+    {
+      "id": 3,
+      "question": "We went to the _____ station to report that our camera had been stolen.",
+      "options": ["(a) Ambulance", "(b) Hospital", "(c) Pharmacy", "(d) Police"],
+      "correct_answer": "d",
+      "hint_hebrew": "המקום שאליו הולכים כשצריך עזרה מהחוק"
+    },
+    {
+      "id": 4,
+      "question": "Because I lost my passport, I had to visit the Israeli _____ in London to get a new one.",
+      "options": ["(a) Pharmacy", "(b) Embassy", "(c) Hospital", "(d) Insurance"],
+      "correct_answer": "b",
+      "hint_hebrew": "המשרד הרשמי שמייצג את המדינה שלנו בחו'ל"
+    },
+    {
+      "id": 5,
+      "question": "I always buy travel _____ before a trip so that I am protected if something goes wrong.",
+      "options": ["(a) Report", "(b) Emergency", "(c) Insurance", "(d) Ambulance"],
+      "correct_answer": "c",
+      "hint_hebrew": "הגנה כלכלית שמכסה הוצאות בלתי צפויות"
+    },
+    {
+      "id": 6,
+      "question": "The injured man was taken to the _____ by ambulance after he fell on the steps.",
+      "options": ["(a) Embassy", "(b) Police", "(c) Pharmacy", "(d) Hospital"],
+      "correct_answer": "d",
+      "hint_hebrew": "המקום שבו מטפלים בחולים ובפצועים"
+    },
+    {
+      "id": 7,
+      "question": "The operator called an _____ because the woman was having chest pains and could not breathe well.",
+      "options": ["(a) Ambulance", "(b) Insurance", "(c) Report", "(d) Emergency"],
+      "correct_answer": "a",
+      "hint_hebrew": "רכב חירום שמגיע לעזור לאנשים שנפגעו"
+    },
+    {
+      "id": 8,
+      "question": "You need to file a _____ at the police station before your insurance company will pay for the stolen items.",
+      "options": ["(a) Hospital", "(b) Embassy", "(c) Report", "(d) Pharmacy"],
+      "correct_answer": "c",
+      "hint_hebrew": "מסמך רשמי שמתאר מה קרה"
+    },
+    {
+      "id": 9,
+      "question": "I felt _____ in the big city because I did not have a map and my phone battery was dead.",
+      "options": ["(a) Stolen", "(b) Lost", "(c) Reported", "(d) Insured"],
+      "correct_answer": "b",
+      "hint_hebrew": "לא יודע איפה אתה נמצא"
+    },
+    {
+      "id": 10,
+      "question": "Sarah went to the _____ around the corner to buy headache tablets and bandages.",
+      "options": ["(a) Embassy", "(b) Ambulance", "(c) Police", "(d) Pharmacy"],
+      "correct_answer": "d",
+      "hint_hebrew": "חנות שמוכרת תרופות ומוצרי בריאות"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "David and his wife Sarah were enjoying a holiday in London when something went wrong. While walking through a busy market in Camden, David felt someone bump into him from behind. A few minutes later, he reached into his coat pocket and discovered that his wallet and passport were gone — they had been stolen.\n\nDavid stayed calm and found the nearest police station. There, an officer helped him fill in a report. The officer explained that the report was important for his insurance claim.\n\nNext, David called the Israeli embassy. A helpful official told him exactly which documents he needed to apply for an emergency travel document. The process was clear and not as frightening as David had expected.\n\nSarah called their travel insurance company. The agent on the phone confirmed that the policy covered stolen items and emergency travel costs. She felt relieved.\n\nBy evening, the situation was under control. Sarah stopped at a pharmacy near the hotel to buy tablets for David's stress headache. As they sat together that night, they agreed that staying calm in an emergency makes everything much easier to handle.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "Where were David and Sarah when the theft happened?",
+        "options": ["(a) On a London bus", "(b) In a busy market in Camden", "(c) At their hotel", "(d) Inside a supermarket"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 12,
+        "question": "What items were stolen from David?",
+        "options": ["(a) His camera and sunglasses", "(b) His phone and keys", "(c) His wallet and passport", "(d) His suitcase and jacket"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 13,
+        "question": "Why did David need to file a police report?",
+        "options": ["(a) Because the police asked him to identify the thief", "(b) Because it was required for his insurance claim", "(c) Because it was required by his travel agent", "(d) Because Sarah told him to"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "Who did David contact after leaving the police station?",
+        "options": ["(a) His travel agent", "(b) A local lawyer", "(c) The Israeli embassy", "(d) His family in Israel"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 15,
+        "question": "What did the embassy official tell David?",
+        "options": ["(a) That he had to fly back to Israel immediately", "(b) Which documents he needed for an emergency travel document", "(c) That he needed to wait two weeks for a new passport", "(d) That he needed to go to the hospital first"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 16,
+        "question": "Who called the travel insurance company?",
+        "options": ["(a) David", "(b) The police officer", "(c) The embassy official", "(d) Sarah"],
+        "correct_answer": "d"
+      },
+      {
+        "id": 17,
+        "question": "What did the insurance company confirm?",
+        "options": ["(a) That the policy did not cover theft abroad", "(b) That David needed to return to Israel to file the claim", "(c) That the policy covered stolen items and emergency travel costs", "(d) That they needed more time to review the case"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 18,
+        "question": "How did David react when he discovered the theft?",
+        "options": ["(a) He shouted at people in the market", "(b) He ran after the thief", "(c) He stayed calm", "(d) He sat on the ground and cried"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 19,
+        "question": "Why did Sarah go to the pharmacy?",
+        "options": ["(a) To buy bandages for an injury", "(b) To buy tablets for David's stress headache", "(c) To get a doctor's prescription", "(d) To ask for directions to the embassy"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 20,
+        "question": "What lesson did David and Sarah take from this experience?",
+        "options": ["(a) That London is a dangerous city and they should not return", "(b) That staying calm in an emergency makes everything easier to handle", "(c) That travel insurance is too expensive to be worth it", "(d) That they should always travel with a security guard"],
+        "correct_answer": "b"
+      }
+    ]
+  },
+  "stage_3_visual_situational": [
+    {
+      "id": 21,
+      "type": "dialogue",
+      "prompt": "You are at a busy train station and you cannot find your hotel on the map. You say to a local person: 'Excuse me, I am _____ . Can you help me find King Street?'",
+      "options": ["(a) lost", "(b) stolen", "(c) insured", "(d) reported"],
+      "correct_answer": "a"
+    },
+    {
+      "id": 22,
+      "type": "dialogue",
+      "prompt": "You return to your hotel room and discover your laptop is missing. You call the front desk and say: 'I think something has been _____ from my room. I need to speak with the manager.'",
+      "options": ["(a) reported", "(b) lost", "(c) stolen", "(d) insured"],
+      "correct_answer": "c"
+    },
+    {
+      "id": 23,
+      "type": "dialogue",
+      "prompt": "A stranger on the street collapses suddenly. You shout to people nearby: 'This is an _____! Does anyone know first aid? Someone please call for help!'",
+      "options": ["(a) insurance", "(b) emergency", "(c) embassy", "(d) report"],
+      "correct_answer": "b"
+    },
+    {
+      "id": 24,
+      "type": "dialogue",
+      "prompt": "You call the emergency services and say: 'My friend is unconscious on the ground. Please send an _____ to 14 Oxford Street immediately!'",
+      "options": ["(a) embassy", "(b) report", "(c) pharmacy", "(d) ambulance"],
+      "correct_answer": "d"
+    },
+    {
+      "id": 25,
+      "type": "dialogue",
+      "prompt": "You lost your passport while travelling. You tell a local helper: 'I need to contact my country's _____ so they can issue me emergency travel documents.'",
+      "options": ["(a) police", "(b) pharmacy", "(c) embassy", "(d) hospital"],
+      "correct_answer": "c"
+    },
+    {
+      "id": 26,
+      "type": "dialogue",
+      "prompt": "At the police station, an officer says: 'You will need to fill in a _____ describing exactly what was taken and when it happened.'",
+      "options": ["(a) pharmacy", "(b) insurance", "(c) emergency", "(d) report"],
+      "correct_answer": "d"
+    },
+    {
+      "id": 27,
+      "type": "dialogue",
+      "prompt": "You call your insurance company and say: 'My camera was stolen on holiday. I have travel _____ and I would like to make a claim.'",
+      "options": ["(a) insurance", "(b) ambulance", "(c) hospital", "(d) embassy"],
+      "correct_answer": "a"
+    },
+    {
+      "id": 28,
+      "type": "dialogue",
+      "prompt": "Your travel companion has a bad fever. You say: 'We need to go to the _____ right away. This fever is very high and she needs to see a doctor.'",
+      "options": ["(a) pharmacy", "(b) police", "(c) embassy", "(d) hospital"],
+      "correct_answer": "d"
+    },
+    {
+      "id": 29,
+      "type": "dialogue",
+      "prompt": "You have a mild headache and do not want to wait at the hospital. You tell your wife: 'It is not serious — I will just go to the _____ and buy some headache tablets.'",
+      "options": ["(a) embassy", "(b) police", "(c) pharmacy", "(d) ambulance"],
+      "correct_answer": "c"
+    },
+    {
+      "id": 30,
+      "type": "dialogue",
+      "prompt": "A tourist asks you: 'If something is stolen from me here, where do I go first?' You answer: 'Go to the _____ station and file a report as soon as possible.'",
+      "options": ["(a) hospital", "(b) pharmacy", "(c) embassy", "(d) police"],
+      "correct_answer": "d"
+    }
+  ]
+}

@@ -49,6 +49,14 @@ To add a screen: add a `case` in `App.tsx` and a corresponding action/reducer.
 Uses `useReducer` + `dispatch` pattern. Dispatch `markCompleted` to advance stages.
 Containers use `useSelector` / `useDispatch` — no Redux access in Presenters.
 
+## Repository & Deployment
+
+- **GitHub:** https://github.com/roei848/dad-learning-app
+- **Hosting:** Vercel — auto-deploys on every push to `master`
+- **Build command:** `npm run build` (`tsc -b && vite build`)
+- **Output dir:** `dist/`
+- **Config:** `vercel.json` at project root
+
 ## Conventions
 
 - Container files: `ComponentContainer.tsx`

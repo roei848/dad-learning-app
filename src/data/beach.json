@@ -1,0 +1,266 @@
+{
+  "section_id": "beach_01",
+  "title": "At the Beach",
+  "category": "Travel",
+  "word_bank": [
+    {
+      "word": "Sunscreen",
+      "translation": "קרם הגנה",
+      "example": "Always apply sunscreen before going to the beach to protect your skin."
+    },
+    {
+      "word": "Towel",
+      "translation": "מגבת",
+      "example": "I dried off with my towel after swimming in the sea."
+    },
+    {
+      "word": "Tide",
+      "translation": "גאות ושפל",
+      "example": "The tide came in very quickly and covered the sand where we were sitting."
+    },
+    {
+      "word": "Shore",
+      "translation": "שפת הים",
+      "example": "The children played with shells along the shore."
+    },
+    {
+      "word": "Snorkel",
+      "translation": "שנורקל",
+      "example": "David put on his snorkel and mask to explore the underwater world."
+    },
+    {
+      "word": "Sunburn",
+      "translation": "כוויית שמש",
+      "example": "She forgot to put on sunscreen and ended up with a bad sunburn on her shoulders."
+    },
+    {
+      "word": "Sandcastle",
+      "translation": "טירת חול",
+      "example": "The children spent an hour building a sandcastle with towers and a moat."
+    },
+    {
+      "word": "Lifeguard",
+      "translation": "מציל",
+      "example": "The lifeguard watched the swimmers carefully from his high chair on the beach."
+    },
+    {
+      "word": "Reef",
+      "translation": "שונית",
+      "example": "The coral reef was full of colourful fish and sea plants."
+    },
+    {
+      "word": "Surf",
+      "translation": "גלישת גלים",
+      "example": "David watched the young people surf on the big waves near the shore."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "Before going out in the sun, you should always put on _____ to protect your skin from burning.",
+      "options": ["(a) Sunburn", "(b) Sunscreen", "(c) Towel", "(d) Surf"],
+      "correct_answer": "b",
+      "hint_hebrew": "קרם שמגן על העור מפני קרני השמש"
+    },
+    {
+      "id": 2,
+      "question": "After swimming in the sea, I wrapped myself in a soft _____ and lay down on the sand to dry.",
+      "options": ["(a) Shore", "(b) Reef", "(c) Towel", "(d) Tide"],
+      "correct_answer": "c",
+      "hint_hebrew": "בד גדול לייבוש הגוף לאחר רחצה"
+    },
+    {
+      "id": 3,
+      "question": "We built a beautiful _____ near the water, with towers and a long wall to protect it.",
+      "options": ["(a) Sandcastle", "(b) Lifeguard", "(c) Snorkel", "(d) Reef"],
+      "correct_answer": "a",
+      "hint_hebrew": "מבנה שבונים מחול על שפת הים"
+    },
+    {
+      "id": 4,
+      "question": "The _____ blew his whistle because a swimmer had gone too far from the shore.",
+      "options": ["(a) Tide", "(b) Reef", "(c) Surf", "(d) Lifeguard"],
+      "correct_answer": "d",
+      "hint_hebrew": "האדם שעובד על החוף ושומר על בטיחות הרוחצים"
+    },
+    {
+      "id": 5,
+      "question": "David put on his _____ and dipped his face into the water to look at the fish below.",
+      "options": ["(a) Sunscreen", "(b) Snorkel", "(c) Shore", "(d) Towel"],
+      "correct_answer": "b",
+      "hint_hebrew": "צינור נשימה שמשמש לצלילה רדודה"
+    },
+    {
+      "id": 6,
+      "question": "She was in pain all evening because she had forgotten sunscreen and got a terrible _____ on her back.",
+      "options": ["(a) Sandcastle", "(b) Surf", "(c) Sunburn", "(d) Tide"],
+      "correct_answer": "c",
+      "hint_hebrew": "עור אדום וכואב שנגרם מחשיפה ממושכת לשמש"
+    },
+    {
+      "id": 7,
+      "question": "The _____ came in during the afternoon, and the water reached almost all the way to the beach chairs.",
+      "options": ["(a) Snorkel", "(b) Reef", "(c) Shore", "(d) Tide"],
+      "correct_answer": "d",
+      "hint_hebrew": "עליית מפלס הים שקורית פעמיים ביממה"
+    },
+    {
+      "id": 8,
+      "question": "We walked along the _____ collecting beautiful shells that the waves had left on the wet sand.",
+      "options": ["(a) Shore", "(b) Surf", "(c) Lifeguard", "(d) Sunscreen"],
+      "correct_answer": "a",
+      "hint_hebrew": "הקו שבו הים פוגש את החוף"
+    },
+    {
+      "id": 9,
+      "question": "The colourful fish were hiding between the rocks of the coral _____, just a few metres below the surface.",
+      "options": ["(a) Towel", "(b) Sandcastle", "(c) Reef", "(d) Tide"],
+      "correct_answer": "c",
+      "hint_hebrew": "מבנה תת-ימי שנוצר מאלמוגים ושמהווה בית לדגים"
+    },
+    {
+      "id": 10,
+      "question": "The teenagers tried to _____ on the big waves, but the water was too rough for beginners.",
+      "options": ["(a) Surf", "(b) Shore", "(c) Snorkel", "(d) Lifeguard"],
+      "correct_answer": "a",
+      "hint_hebrew": "לגלוש על גבי גלי הים עם קרש גלישה"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "Last summer, David and his family spent a wonderful day at a beautiful beach on the Mediterranean coast. The sun was shining and the sea was a deep shade of blue.\n\nDavid's son, Noam, ran straight to the shore and began building an enormous sandcastle. He dug a moat around it and decorated it with shells — it was a masterpiece.\n\nDavid put on his mask and snorkel and swam out to explore the coral reef nearby. He could not believe what he saw — dozens of colourful fish swimming between the coral. He stayed in the water for almost an hour.\n\nHis daughter, Maya, was less careful. She spent the whole morning lying in the sun reading a book and completely forgot to apply sunscreen. By lunchtime, her shoulders were bright red and very sore from the sunburn.\n\nIn the afternoon, the tide came in stronger than expected. The waves grew bigger and reached close to the shore. A lifeguard on duty noticed that Noam had wandered too deep and blew his whistle, waving him back to safety. David gave Noam a towel and a firm but kind talk about listening to the lifeguard.\n\nDespite the sunburn and the exciting moment with the tide, the family agreed it had been a perfect beach day.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "Where did David's family spend the day?",
+        "options": ["(a) At a lake in the mountains", "(b) At a hotel swimming pool", "(c) At a beach on the Mediterranean coast", "(d) At a water park"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 12,
+        "question": "What did Noam do when he arrived at the beach?",
+        "options": ["(a) He went snorkelling with his father", "(b) He built a sandcastle near the shore", "(c) He tried to surf on the waves", "(d) He lay in the sun and read a book"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 13,
+        "question": "What did David use to explore underwater?",
+        "options": ["(a) A surfboard", "(b) A diving tank and wetsuit", "(c) A mask and snorkel", "(d) Swimming goggles only"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 14,
+        "question": "What did David see near the coral reef?",
+        "options": ["(a) A large shark", "(b) Dozens of colourful fish", "(c) An old shipwreck", "(d) Sea turtles laying eggs"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 15,
+        "question": "Why did Maya get a sunburn?",
+        "options": ["(a) She spent too long in the water", "(b) She forgot to bring a towel", "(c) She fell asleep on a boat", "(d) She forgot to apply sunscreen"],
+        "correct_answer": "d"
+      },
+      {
+        "id": 16,
+        "question": "Where was Maya's sunburn?",
+        "options": ["(a) On her face and nose", "(b) On her feet and legs", "(c) On her shoulders", "(d) On her arms"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 17,
+        "question": "What happened when the tide came in?",
+        "options": ["(a) The sandcastle was destroyed by a wave", "(b) The waves became bigger and reached close to the shore", "(c) David had to stop snorkelling", "(d) The beach became completely empty"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 18,
+        "question": "Why did the lifeguard blow his whistle?",
+        "options": ["(a) Because Maya was sunbathing without sunscreen", "(b) Because David had swum too far from the reef", "(c) Because Noam had wandered too deep into the water", "(d) Because the beach was closing for the day"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 19,
+        "question": "What did David give Noam after the lifeguard incident?",
+        "options": ["(a) A sandwich and a cold drink", "(b) A towel and a firm but kind talk", "(c) A new toy and a hug", "(d) Extra money to buy ice cream"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 20,
+        "question": "How did the family feel at the end of the day?",
+        "options": ["(a) Angry because of the sunburn and the lifeguard", "(b) Tired and disappointed with the beach", "(c) Happy — they agreed it had been a perfect beach day", "(d) Worried about returning to the same beach next time"],
+        "correct_answer": "c"
+      }
+    ]
+  },
+  "stage_3_visual_situational": [
+    {
+      "id": 21,
+      "type": "dialogue",
+      "prompt": "Before leaving the hotel for the beach, you tell your daughter: 'Put on your _____ before we go outside. The sun is very strong today and I don't want anyone to burn.'",
+      "options": ["(a) towel", "(b) snorkel", "(c) sunscreen", "(d) sandcastle"],
+      "correct_answer": "c"
+    },
+    {
+      "id": 22,
+      "type": "dialogue",
+      "prompt": "You come out of the sea after a swim and your friend hands you something. You say: 'Thank you — I need a _____ to dry off before I sit on the sand.'",
+      "options": ["(a) reef", "(b) towel", "(c) tide", "(d) shore"],
+      "correct_answer": "b"
+    },
+    {
+      "id": 23,
+      "type": "dialogue",
+      "prompt": "Your son wants to build something on the sand. You say: 'Let's find a good spot near the water and build a big _____ with towers and a moat around it.'",
+      "options": ["(a) lifeguard", "(b) sandcastle", "(c) snorkel", "(d) surf"],
+      "correct_answer": "b"
+    },
+    {
+      "id": 24,
+      "type": "dialogue",
+      "prompt": "You want to see what is under the water. You say to your wife: 'I brought my mask and _____ so I can breathe while I swim face-down and look at the fish.'",
+      "options": ["(a) sunburn", "(b) reef", "(c) snorkel", "(d) tide"],
+      "correct_answer": "c"
+    },
+    {
+      "id": 25,
+      "type": "dialogue",
+      "prompt": "You are swimming and you spot something beautiful below. You tell your son later: 'I swam above a coral _____ — it was full of fish in every colour you can imagine.'",
+      "options": ["(a) shore", "(b) surf", "(c) towel", "(d) reef"],
+      "correct_answer": "d"
+    },
+    {
+      "id": 26,
+      "type": "dialogue",
+      "prompt": "Your daughter's skin looks red and painful after a morning in the sun. You say: 'That looks like a bad _____ . We should put some cooling cream on it right away.'",
+      "options": ["(a) tide", "(b) sunburn", "(c) shore", "(d) lifeguard"],
+      "correct_answer": "b"
+    },
+    {
+      "id": 27,
+      "type": "dialogue",
+      "prompt": "The water is getting closer to where you put your things on the beach. You say: 'Let's move our bags back — the _____ is coming in and the waves are reaching further onto the sand.'",
+      "options": ["(a) tide", "(b) sandcastle", "(c) sunscreen", "(d) snorkel"],
+      "correct_answer": "a"
+    },
+    {
+      "id": 28,
+      "type": "dialogue",
+      "prompt": "You and your children are collecting shells by the water. You say: 'Stay close to me along the _____ — do not go into the water without telling me first.'",
+      "options": ["(a) reef", "(b) surf", "(c) shore", "(d) towel"],
+      "correct_answer": "c"
+    },
+    {
+      "id": 29,
+      "type": "dialogue",
+      "prompt": "You notice a person in a red swimsuit sitting high up on a tall chair, watching all the swimmers. You explain to your grandson: 'That person is the _____ — it is their job to keep everyone safe in the water.'",
+      "options": ["(a) snorkel", "(b) lifeguard", "(c) tide", "(d) sandcastle"],
+      "correct_answer": "b"
+    },
+    {
+      "id": 30,
+      "type": "dialogue",
+      "prompt": "You watch young people riding the waves near the beach. You say to your wife: 'Look at them _____ on those huge waves! It looks exciting but I think I prefer snorkelling.'",
+      "options": ["(a) surf", "(b) shore", "(c) reef", "(d) sunscreen"],
+      "correct_answer": "a"
+    }
+  ]
+}

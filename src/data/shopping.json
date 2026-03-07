@@ -1,0 +1,266 @@
+{
+  "section_id": "shopping_01",
+  "title": "Shopping Abroad",
+  "category": "Travel",
+  "word_bank": [
+    {
+      "word": "Duty-free",
+      "translation": "פטור ממכס",
+      "example": "At the airport, I bought perfume at the duty-free shop and saved a lot of money."
+    },
+    {
+      "word": "Bargain",
+      "translation": "מציאה",
+      "example": "These shoes were a real bargain — I got them for half the original price."
+    },
+    {
+      "word": "Discount",
+      "translation": "הנחה",
+      "example": "The store offered a thirty percent discount on all winter coats."
+    },
+    {
+      "word": "Receipt",
+      "translation": "קבלה",
+      "example": "Always keep your receipt in case you need to return or exchange an item."
+    },
+    {
+      "word": "Currency",
+      "translation": "מטבע חוץ",
+      "example": "Before travelling, I exchanged my shekels for the local currency."
+    },
+    {
+      "word": "Exchange rate",
+      "translation": "שער חליפין",
+      "example": "The exchange rate today is good, so it is a smart time to change money."
+    },
+    {
+      "word": "Refund",
+      "translation": "החזר כסף",
+      "example": "The jacket had a defect, so the shop gave me a full refund."
+    },
+    {
+      "word": "Boutique",
+      "translation": "בוטיק",
+      "example": "She found a beautiful dress at a small boutique near the town square."
+    },
+    {
+      "word": "Souvenir",
+      "translation": "מזכרת",
+      "example": "He bought a small souvenir magnet to remember his trip to Paris."
+    },
+    {
+      "word": "Marketplace",
+      "translation": "שוק",
+      "example": "The marketplace was full of colourful stalls selling food, clothes, and crafts."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "At the airport, we stopped at the _____ shop and bought chocolates and perfume without paying tax.",
+      "options": ["(a) Refund", "(b) Bargain", "(c) Duty-free", "(d) Boutique"],
+      "correct_answer": "c",
+      "hint_hebrew": "חנות שבה לא משלמים מס על קניות"
+    },
+    {
+      "id": 2,
+      "question": "I found a beautiful leather wallet for only ten dollars — what a _____!",
+      "options": ["(a) Receipt", "(b) Currency", "(c) Souvenir", "(d) Bargain"],
+      "correct_answer": "d",
+      "hint_hebrew": "דבר שקנית במחיר נמוך מאוד ביחס לערכו"
+    },
+    {
+      "id": 3,
+      "question": "The shop was offering a fifty percent _____ on all summer items, so the prices were very low.",
+      "options": ["(a) Discount", "(b) Refund", "(c) Exchange rate", "(d) Marketplace"],
+      "correct_answer": "a",
+      "hint_hebrew": "הפחתה במחיר המקורי"
+    },
+    {
+      "id": 4,
+      "question": "Please keep your _____ after buying — you will need it if you want to return the item.",
+      "options": ["(a) Souvenir", "(b) Boutique", "(c) Receipt", "(d) Currency"],
+      "correct_answer": "c",
+      "hint_hebrew": "הנייר שמוכיח שקנית משהו ומראה כמה שילמת"
+    },
+    {
+      "id": 5,
+      "question": "Before the trip, I went to the bank to exchange my shekels for British _____ — pounds sterling.",
+      "options": ["(a) Bargain", "(b) Currency", "(c) Receipt", "(d) Refund"],
+      "correct_answer": "b",
+      "hint_hebrew": "הכסף הרשמי של מדינה מסוימת"
+    },
+    {
+      "id": 6,
+      "question": "Check the _____ before you change your money — today one dollar equals three shekels and fifty agorot.",
+      "options": ["(a) Souvenir", "(b) Marketplace", "(c) Discount", "(d) Exchange rate"],
+      "correct_answer": "d",
+      "hint_hebrew": "הערך של מטבע אחד ביחס למטבע אחר"
+    },
+    {
+      "id": 7,
+      "question": "The shirt I bought had a hole in it, so I went back to the store and asked for a _____.",
+      "options": ["(a) Refund", "(b) Bargain", "(c) Boutique", "(d) Currency"],
+      "correct_answer": "a",
+      "hint_hebrew": "קבלת הכסף בחזרה לאחר החזרת מוצר"
+    },
+    {
+      "id": 8,
+      "question": "She found a lovely scarf at a small _____ hidden in a quiet street near the hotel.",
+      "options": ["(a) Marketplace", "(b) Receipt", "(c) Boutique", "(d) Exchange rate"],
+      "correct_answer": "c",
+      "hint_hebrew": "חנות קטנה ומיוחדת, לרוב למותגים או עיצובים ייחודיים"
+    },
+    {
+      "id": 9,
+      "question": "I bought a small snow globe as a _____ to remember our holiday in London.",
+      "options": ["(a) Discount", "(b) Souvenir", "(c) Refund", "(d) Duty-free"],
+      "correct_answer": "b",
+      "hint_hebrew": "פריט שקונים כדי לזכור מקום שביקרנו בו"
+    },
+    {
+      "id": 10,
+      "question": "The _____ was full of life — vendors were calling out prices, and people were bargaining everywhere.",
+      "options": ["(a) Marketplace", "(b) Bargain", "(c) Receipt", "(d) Currency"],
+      "correct_answer": "a",
+      "hint_hebrew": "מקום ציבורי שבו קונים ומוכרים סחורות"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "On his last day in London, David decided to explore the famous Portobello Road marketplace. He had heard it was the best place to find souvenirs and local treasures, so he arrived early with his wallet full of British currency.\n\nAt the first stall, he spotted a set of hand-painted ceramic mugs. The seller wanted fifteen pounds each, but David smiled and offered ten. After a friendly back-and-forth, they agreed on eleven pounds — a real bargain! He made sure to ask for a receipt, just in case.\n\nA little further down the street, he found a small boutique selling traditional English scarves. There was a large sign in the window: 'End of Season — forty percent discount on everything!' He could not resist. He bought two scarves and kept both receipts carefully in his coat pocket.\n\nBefore paying, David asked the shop assistant about the exchange rate between pounds and shekels. She was not sure, so he checked on his phone and decided the price was still very fair.\n\nOn the way back to the hotel, he passed through the airport and stopped at the duty-free shop to pick up whisky and chocolates as gifts. He smiled to himself — good souvenirs, great bargains, and no regrets.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "Which marketplace did David visit in London?",
+        "options": ["(a) Camden Market", "(b) Portobello Road marketplace", "(c) Borough Market", "(d) Covent Garden Market"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 12,
+        "question": "What did David bring with him to the marketplace?",
+        "options": ["(a) A credit card only", "(b) A list of things to buy", "(c) British currency in his wallet", "(d) A map of the city"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 13,
+        "question": "What did David find at the first stall?",
+        "options": ["(a) English scarves", "(b) Hand-painted ceramic mugs", "(c) Chocolates and whisky", "(d) Snow globes"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "How much did David and the seller agree on for the mugs?",
+        "options": ["(a) Ten pounds each", "(b) Twelve pounds each", "(c) Fifteen pounds each", "(d) Eleven pounds each"],
+        "correct_answer": "d"
+      },
+      {
+        "id": 15,
+        "question": "Why did David ask for a receipt at the first stall?",
+        "options": ["(a) Because the seller asked him to", "(b) Just in case he needed it later", "(c) Because the mugs were expensive", "(d) Because his wife told him to"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 16,
+        "question": "What was the discount offered at the boutique?",
+        "options": ["(a) Twenty percent", "(b) Thirty percent", "(c) Forty percent", "(d) Fifty percent"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 17,
+        "question": "What did David buy at the boutique?",
+        "options": ["(a) Two hats", "(b) Two scarves", "(c) A coat and a scarf", "(d) A pair of gloves"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 18,
+        "question": "What did David ask the shop assistant about?",
+        "options": ["(a) The opening hours of the boutique", "(b) How to get to the airport", "(c) The exchange rate between pounds and shekels", "(d) Whether he could get a refund"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 19,
+        "question": "Where did David stop on his way back to the hotel?",
+        "options": ["(a) A local supermarket", "(b) A restaurant", "(c) The duty-free shop at the airport", "(d) A museum gift shop"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 20,
+        "question": "What did David buy at the duty-free shop?",
+        "options": ["(a) Perfume and jewellery", "(b) Books and postcards", "(c) Clothes and shoes", "(d) Whisky and chocolates"],
+        "correct_answer": "d"
+      }
+    ]
+  },
+  "stage_3_visual_situational": [
+    {
+      "id": 21,
+      "type": "dialogue",
+      "prompt": "You are at a market stall and the seller asks for twenty pounds. You think it is too expensive and say: 'That is a bit high — can we agree on fifteen? I love a good _____.'",
+      "options": ["(a) refund", "(b) bargain", "(c) receipt", "(d) boutique"],
+      "correct_answer": "b"
+    },
+    {
+      "id": 22,
+      "type": "dialogue",
+      "prompt": "Before your trip, your wife says: 'Don't forget to go to the bank and change some money.' You reply: 'I already checked — the _____ is very good today, so we will get more for our shekels.'",
+      "options": ["(a) souvenir", "(b) discount", "(c) exchange rate", "(d) duty-free"],
+      "correct_answer": "c"
+    },
+    {
+      "id": 23,
+      "type": "dialogue",
+      "prompt": "You buy a jacket but when you get back to the hotel, you see it has a small tear. You go back to the shop and say: 'Excuse me, I would like a _____ please — the item is damaged.'",
+      "options": ["(a) refund", "(b) bargain", "(c) currency", "(d) marketplace"],
+      "correct_answer": "a"
+    },
+    {
+      "id": 24,
+      "type": "dialogue",
+      "prompt": "You are at the airport about to board your flight home. You notice a shop with no tax on the prices and tell your friend: 'Let's quickly go in there — it is the _____ shop and everything is cheaper.'",
+      "options": ["(a) boutique", "(b) souvenir", "(c) duty-free", "(d) receipt"],
+      "correct_answer": "c"
+    },
+    {
+      "id": 25,
+      "type": "dialogue",
+      "prompt": "After buying a gift for your daughter, the cashier hands you a small piece of paper. She says: 'Here is your _____. Please keep it in case you need to return the item.'",
+      "options": ["(a) currency", "(b) discount", "(c) souvenir", "(d) receipt"],
+      "correct_answer": "d"
+    },
+    {
+      "id": 26,
+      "type": "dialogue",
+      "prompt": "You walk into a lively outdoor market full of stalls and sellers. You say to your son: 'What an amazing _____! Look at all the different things they are selling here.'",
+      "options": ["(a) boutique", "(b) marketplace", "(c) refund", "(d) bargain"],
+      "correct_answer": "b"
+    },
+    {
+      "id": 27,
+      "type": "dialogue",
+      "prompt": "A sign in a shop window says 'Sale — 40% off'. Your friend asks what it means. You explain: 'It means there is a big _____ on everything — the prices are much lower than usual.'",
+      "options": ["(a) souvenir", "(b) currency", "(c) discount", "(d) exchange rate"],
+      "correct_answer": "c"
+    },
+    {
+      "id": 28,
+      "type": "dialogue",
+      "prompt": "Your children are looking for something to buy for their grandmother. You suggest: 'Let's find a nice _____ — something small that will remind her of our trip to London.'",
+      "options": ["(a) souvenir", "(b) receipt", "(c) refund", "(d) bargain"],
+      "correct_answer": "a"
+    },
+    {
+      "id": 29,
+      "type": "dialogue",
+      "prompt": "You walk past a small, elegant shop with unusual clothes in the window. Your wife says: 'Oh, that looks like a lovely little _____ — let's go inside and look around.'",
+      "options": ["(a) marketplace", "(b) duty-free", "(c) boutique", "(d) exchange rate"],
+      "correct_answer": "c"
+    },
+    {
+      "id": 30,
+      "type": "dialogue",
+      "prompt": "You arrive in a new country and realise you have no local money. You say to the taxi driver: 'Do you accept Israeli _____ , or do I need to find a bank to change money first?'",
+      "options": ["(a) souvenir", "(b) receipt", "(c) discount", "(d) currency"],
+      "correct_answer": "d"
+    }
+  ]
+}

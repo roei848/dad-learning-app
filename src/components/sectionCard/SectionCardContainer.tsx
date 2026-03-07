@@ -1,5 +1,5 @@
 import React from 'react';
-import { UtensilsCrossed, Plane, Trophy } from 'lucide-react';
+import { AlertCircle, Camera, Car, Hotel, Plane, PlaneTakeoff, ShoppingBag, Trophy, UtensilsCrossed, Waves } from 'lucide-react';
 
 import { useAppSelector } from '../../app/hooks';
 import SectionCard from './SectionCard';
@@ -16,6 +16,13 @@ const ICON_MAP: Record<string, React.ReactNode> = {
   UtensilsCrossed: <UtensilsCrossed size={48} />,
   Plane: <Plane size={48} />,
   Trophy: <Trophy size={48} />,
+  Hotel: <Hotel size={48} />,
+  Car: <Car size={48} />,
+  PlaneTakeoff: <PlaneTakeoff size={48} />,
+  Camera: <Camera size={48} />,
+  ShoppingBag: <ShoppingBag size={48} />,
+  AlertCircle: <AlertCircle size={48} />,
+  Waves: <Waves size={48} />,
 };
 
 const SectionCardContainer: React.FC<SectionCardContainerProps> = ({

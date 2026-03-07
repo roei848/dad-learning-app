@@ -1,0 +1,266 @@
+{
+  "section_id": "airport_01",
+  "title": "At the Airport",
+  "category": "Travel",
+  "word_bank": [
+    {
+      "word": "Check-in",
+      "translation": "צ'ק-אין",
+      "example": "We arrived two hours early to check in our bags before the flight."
+    },
+    {
+      "word": "Boarding pass",
+      "translation": "כרטיס עלייה למטוס",
+      "example": "You must show your boarding pass at the gate before you can board the plane."
+    },
+    {
+      "word": "Terminal",
+      "translation": "טרמינל",
+      "example": "Our flight departs from Terminal 3, so we need to take the shuttle bus."
+    },
+    {
+      "word": "Gate",
+      "translation": "שער",
+      "example": "Please proceed to Gate 14, where boarding will begin in thirty minutes."
+    },
+    {
+      "word": "Departure",
+      "translation": "יציאה",
+      "example": "The departure time is 6:45 AM, so we need to be at the airport very early."
+    },
+    {
+      "word": "Arrival",
+      "translation": "הגעה",
+      "example": "The arrival board showed that the flight from London was thirty minutes late."
+    },
+    {
+      "word": "Luggage",
+      "translation": "כבודה",
+      "example": "I had to pay extra because my luggage was over the weight limit."
+    },
+    {
+      "word": "Security",
+      "translation": "ביקורת ביטחון",
+      "example": "At security, you must remove your shoes and place your bag on the belt."
+    },
+    {
+      "word": "Customs",
+      "translation": "מכס",
+      "example": "After landing, we went through customs and declared the gifts we had bought abroad."
+    },
+    {
+      "word": "Flight",
+      "translation": "טיסה",
+      "example": "Our flight to Barcelona takes about four hours from Tel Aviv."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "You need to arrive at the airport early to _____ your bags and receive your seat assignment.",
+      "options": ["(a) Check-in", "(b) Depart", "(c) Land", "(d) Board"],
+      "correct_answer": "a",
+      "hint_hebrew": "תהליך רישום בשדה התעופה לפני הטיסה"
+    },
+    {
+      "id": 2,
+      "question": "Please have your _____ ready to show the agent at the entrance to the plane.",
+      "options": ["(a) Luggage", "(b) Customs", "(c) Boarding pass", "(d) Terminal"],
+      "correct_answer": "c",
+      "hint_hebrew": "המסמך שמאשר את מקומך על המטוס"
+    },
+    {
+      "id": 3,
+      "question": "International flights usually leave from a different _____ than domestic flights.",
+      "options": ["(a) Gate", "(b) Terminal", "(c) Arrival", "(d) Security"],
+      "correct_answer": "b",
+      "hint_hebrew": "הבניין הגדול בשדה התעופה"
+    },
+    {
+      "id": 4,
+      "question": "The screen shows that our flight will board from _____ 22 in twenty minutes.",
+      "options": ["(a) Customs", "(b) Luggage", "(c) Departure", "(d) Gate"],
+      "correct_answer": "d",
+      "hint_hebrew": "המקום הספציפי בטרמינל שממנו עולים למטוס"
+    },
+    {
+      "id": 5,
+      "question": "The _____ of our flight is scheduled for three o'clock in the afternoon.",
+      "options": ["(a) Arrival", "(b) Security", "(c) Departure", "(d) Check-in"],
+      "correct_answer": "c",
+      "hint_hebrew": "מועד עזיבת המטוס"
+    },
+    {
+      "id": 6,
+      "question": "We waited at the _____ hall to welcome our relatives who were coming from New York.",
+      "options": ["(a) Departure", "(b) Flight", "(c) Customs", "(d) Arrival"],
+      "correct_answer": "d",
+      "hint_hebrew": "האזור בשדה התעופה שבו נוחתים הנוסעים"
+    },
+    {
+      "id": 7,
+      "question": "My _____ was too heavy, so I had to take some clothes out and put them in my hand bag.",
+      "options": ["(a) Gate", "(b) Luggage", "(c) Terminal", "(d) Boarding pass"],
+      "correct_answer": "b",
+      "hint_hebrew": "מזוודות וחפצים שנוסעים עם הטיסה"
+    },
+    {
+      "id": 8,
+      "question": "At _____, you must remove your belt and laptop from your bag before walking through the scanner.",
+      "options": ["(a) Check-in", "(b) Arrival", "(c) Security", "(d) Flight"],
+      "correct_answer": "c",
+      "hint_hebrew": "הבדיקה שמוודאת שאין חפצים מסוכנים"
+    },
+    {
+      "id": 9,
+      "question": "When we landed, an officer at _____ asked us how many days we had been abroad.",
+      "options": ["(a) Customs", "(b) Gate", "(c) Departure", "(d) Terminal"],
+      "correct_answer": "a",
+      "hint_hebrew": "הבדיקה בכניסה למדינה לאחר הנחיתה"
+    },
+    {
+      "id": 10,
+      "question": "Our _____ was delayed by two hours because of bad weather over Europe.",
+      "options": ["(a) Boarding pass", "(b) Luggage", "(c) Security", "(d) Flight"],
+      "correct_answer": "d",
+      "hint_hebrew": "הנסיעה עצמה באוויר ממקום למקום"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "Last summer, David and his wife Sarah took their first family trip abroad — a vacation in Rome. David was very excited but also a little nervous, because he had never flown internationally before.\n\nThey arrived at the airport three hours before their departure. At the check-in counter, David proudly handed over their passports — and then immediately panicked because he had forgotten to weigh the luggage at home. It was two kilograms over the limit. Sarah quietly moved a pair of shoes into her hand bag, smiled at the agent, and the problem was solved.\n\nAfter receiving their boarding passes, they headed to security. David forgot to take off his belt and set off the alarm. The whole family behind him sighed. He turned red and laughed.\n\nThey found Terminal B and walked to Gate 17, only to discover a long queue already forming. David checked the departure board again, just to be sure. The flight was on time.\n\nOn the other side of the journey, after landing in Rome, they passed through customs without any trouble. As they stepped into the arrival hall and saw the city's name on the signs, David felt a huge smile spread across his face. The adventure had begun.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "Where were David and Sarah travelling to?",
+        "options": ["(a) Paris", "(b) London", "(c) Rome", "(d) Barcelona"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 12,
+        "question": "How early did they arrive at the airport before their departure?",
+        "options": ["(a) One hour", "(b) Two hours", "(c) Three hours", "(d) Four hours"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 13,
+        "question": "What problem did David have at the check-in counter?",
+        "options": ["(a) He forgot his passport", "(b) His luggage was over the weight limit", "(c) He could not find his boarding pass", "(d) His credit card was declined"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "How did Sarah solve the luggage problem?",
+        "options": ["(a) She paid the extra fee", "(b) She left one bag behind", "(c) She moved a pair of shoes into her hand bag", "(d) She asked the agent for an exception"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 15,
+        "question": "What happened to David at security?",
+        "options": ["(a) He lost his boarding pass", "(b) He forgot to remove his belt and set off the alarm", "(c) His bag was searched for an hour", "(d) He was asked to open his luggage"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 16,
+        "question": "What was the name of the terminal they needed?",
+        "options": ["(a) Terminal A", "(b) Terminal C", "(c) Terminal D", "(d) Terminal B"],
+        "correct_answer": "d"
+      },
+      {
+        "id": 17,
+        "question": "What gate number was their flight departing from?",
+        "options": ["(a) Gate 7", "(b) Gate 17", "(c) Gate 22", "(d) Gate 12"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 18,
+        "question": "Why did David check the departure board again at the gate?",
+        "options": ["(a) To find out the gate number", "(b) To check the arrival time", "(c) To confirm the flight was on time", "(d) To see if their seats had changed"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 19,
+        "question": "What did David and Sarah do after landing in Rome?",
+        "options": ["(a) They went straight to the hotel", "(b) They passed through customs", "(c) They picked up their luggage and checked in again", "(d) They waited at the departure hall"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 20,
+        "question": "How did David feel when he entered the arrival hall in Rome?",
+        "options": ["(a) Tired and frustrated", "(b) Confused and lost", "(c) Angry about the delays", "(d) Happy and excited"],
+        "correct_answer": "d"
+      }
+    ]
+  },
+  "stage_3_visual_situational": [
+    {
+      "id": 21,
+      "type": "dialogue",
+      "prompt": "You arrive at the airport and approach the counter. The agent says: 'Good morning, are you here to _____?' You answer: 'Yes, I have two bags to drop off.'",
+      "options": ["(a) check-in", "(b) depart", "(c) land", "(d) customs"],
+      "correct_answer": "a"
+    },
+    {
+      "id": 22,
+      "type": "dialogue",
+      "prompt": "The agent hands you a document and says: 'Here is your _____. Please keep it with you and show it when you board the plane.'",
+      "options": ["(a) luggage tag", "(b) departure card", "(c) boarding pass", "(d) arrival form"],
+      "correct_answer": "c"
+    },
+    {
+      "id": 23,
+      "type": "dialogue",
+      "prompt": "You are looking for your gate. You ask an airport worker: 'Excuse me, which _____ do international flights to London leave from — A or B?'",
+      "options": ["(a) terminal", "(b) customs", "(c) flight", "(d) arrival"],
+      "correct_answer": "a"
+    },
+    {
+      "id": 24,
+      "type": "dialogue",
+      "prompt": "An announcement says: 'Passengers travelling to Madrid, please proceed to _____ 31. Boarding will begin shortly.'",
+      "options": ["(a) security", "(b) departure", "(c) luggage", "(d) gate"],
+      "correct_answer": "d"
+    },
+    {
+      "id": 25,
+      "type": "dialogue",
+      "prompt": "Your friend asks: 'What time is the _____ of our flight?' You check your boarding pass and say: 'It says 14:50.'",
+      "options": ["(a) arrival", "(b) departure", "(c) check-in", "(d) gate"],
+      "correct_answer": "b"
+    },
+    {
+      "id": 26,
+      "type": "dialogue",
+      "prompt": "You are waiting for your parents at the airport. You say to your wife: 'Let us wait at the _____ hall — that is where they will come out after collecting their bags.'",
+      "options": ["(a) departure", "(b) security", "(c) arrival", "(d) customs"],
+      "correct_answer": "c"
+    },
+    {
+      "id": 27,
+      "type": "dialogue",
+      "prompt": "The check-in agent says: 'I am sorry, but your _____ is four kilograms over the allowed limit. You will need to pay an extra fee or remove some items.'",
+      "options": ["(a) boarding pass", "(b) flight", "(c) luggage", "(d) gate"],
+      "correct_answer": "c"
+    },
+    {
+      "id": 28,
+      "type": "dialogue",
+      "prompt": "A _____ officer asks you to place all metal items in the tray and walk through the scanner. You remove your watch and put it in the tray.",
+      "options": ["(a) customs", "(b) security", "(c) check-in", "(d) departure"],
+      "correct_answer": "b"
+    },
+    {
+      "id": 29,
+      "type": "dialogue",
+      "prompt": "After landing, an officer at _____ asks: 'Do you have anything to declare — food, alcohol, or items worth more than a thousand dollars?' You say: 'No, nothing to declare.'",
+      "options": ["(a) gate", "(b) terminal", "(c) customs", "(d) check-in"],
+      "correct_answer": "c"
+    },
+    {
+      "id": 30,
+      "type": "dialogue",
+      "prompt": "You call your wife and say: 'My _____ lands at 9 PM. Can you come to the airport to pick me up at around 9:30?'",
+      "options": ["(a) departure", "(b) luggage", "(c) boarding pass", "(d) flight"],
+      "correct_answer": "d"
+    }
+  ]
+}

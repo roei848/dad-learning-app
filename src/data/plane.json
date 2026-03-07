@@ -1,0 +1,266 @@
+{
+  "section_id": "plane_01",
+  "title": "On the Plane",
+  "category": "Travel",
+  "word_bank": [
+    {
+      "word": "Turbulence",
+      "translation": "טורבולנציה",
+      "example": "The pilot asked passengers to fasten their seatbelts because of turbulence ahead."
+    },
+    {
+      "word": "Aisle",
+      "translation": "מעבר",
+      "example": "I prefer an aisle seat because I can stand up and walk to the bathroom more easily."
+    },
+    {
+      "word": "Seatbelt",
+      "translation": "חגורת בטיחות",
+      "example": "Please fasten your seatbelt and keep it fastened until the plane reaches its cruising altitude."
+    },
+    {
+      "word": "Cabin crew",
+      "translation": "צוות הקבינה",
+      "example": "The cabin crew served drinks and snacks to all passengers during the flight."
+    },
+    {
+      "word": "Take-off",
+      "translation": "המראה",
+      "example": "During take-off, my ears popped from the change in air pressure."
+    },
+    {
+      "word": "Landing",
+      "translation": "נחיתה",
+      "example": "The pilot made a very smooth landing despite the strong winds."
+    },
+    {
+      "word": "Overhead compartment",
+      "translation": "תא אחסון עילי",
+      "example": "Please store your carry-on luggage in the overhead compartment above your seat."
+    },
+    {
+      "word": "Layover",
+      "translation": "עצירת ביניים",
+      "example": "We had a four-hour layover in Dubai before continuing our flight to Sydney."
+    },
+    {
+      "word": "Window seat",
+      "translation": "מושב חלון",
+      "example": "My son always asks for a window seat because he loves looking at the clouds."
+    },
+    {
+      "word": "Altitude",
+      "translation": "גובה",
+      "example": "The plane was flying at an altitude of thirty-five thousand feet above the ocean."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "The sign came on and the pilot said: 'We are expecting some _____, so please fasten your seatbelts.'",
+      "options": ["(a) Landing", "(b) Turbulence", "(c) Layover", "(d) Altitude"],
+      "correct_answer": "b",
+      "hint_hebrew": "כאשר המטוס מתנדנד בגלל אוויר לא יציב"
+    },
+    {
+      "id": 2,
+      "question": "Excuse me, I have an _____ seat — could you move so I can get through, please?",
+      "options": ["(a) Aisle", "(b) Cabin crew", "(c) Window seat", "(d) Overhead compartment"],
+      "correct_answer": "a",
+      "hint_hebrew": "המושב שנמצא ליד הדרך המרכזית במטוס"
+    },
+    {
+      "id": 3,
+      "question": "The pilot announced: 'Please fasten your _____ as we prepare for take-off.'",
+      "options": ["(a) Layover", "(b) Seatbelt", "(c) Aisle", "(d) Altitude"],
+      "correct_answer": "b",
+      "hint_hebrew": "הרצועה שמחברים על הגוף כדי להישמר בישיבה"
+    },
+    {
+      "id": 4,
+      "question": "The _____ walked through the cabin offering passengers water, juice, and snacks.",
+      "options": ["(a) Window seat", "(b) Turbulence", "(c) Cabin crew", "(d) Take-off"],
+      "correct_answer": "c",
+      "hint_hebrew": "האנשים שעובדים בתוך המטוס ועוזרים לנוסעים"
+    },
+    {
+      "id": 5,
+      "question": "During _____, the plane moved very fast down the runway and then lifted into the air.",
+      "options": ["(a) Landing", "(b) Layover", "(c) Altitude", "(d) Take-off"],
+      "correct_answer": "d",
+      "hint_hebrew": "הרגע שבו המטוס עולה לאוויר"
+    },
+    {
+      "id": 6,
+      "question": "The _____ was very smooth — I barely felt the wheels touch the ground.",
+      "options": ["(a) Landing", "(b) Turbulence", "(c) Aisle", "(d) Seatbelt"],
+      "correct_answer": "a",
+      "hint_hebrew": "הרגע שבו המטוס יורד ומגיע לאדמה"
+    },
+    {
+      "id": 7,
+      "question": "My bag is too large to fit under the seat, so I put it in the _____ above my head.",
+      "options": ["(a) Cabin crew", "(b) Window seat", "(c) Overhead compartment", "(d) Layover"],
+      "correct_answer": "c",
+      "hint_hebrew": "הארון שמעל הראש בתוך המטוס לשמירת מזוודות קטנות"
+    },
+    {
+      "id": 8,
+      "question": "We had a six-hour _____ in Amsterdam, so we left the airport and visited the city center.",
+      "options": ["(a) Altitude", "(b) Layover", "(c) Take-off", "(d) Aisle"],
+      "correct_answer": "b",
+      "hint_hebrew": "זמן ההמתנה בין שני טיסות בנמל תעופה ביניים"
+    },
+    {
+      "id": 9,
+      "question": "I always book a _____ so I can look out and see the clouds and the cities below.",
+      "options": ["(a) Seatbelt", "(b) Turbulence", "(c) Window seat", "(d) Cabin crew"],
+      "correct_answer": "c",
+      "hint_hebrew": "מושב ליד החלון במטוס"
+    },
+    {
+      "id": 10,
+      "question": "The pilot informed us that we were flying at an _____ of thirty-six thousand feet.",
+      "options": ["(a) Altitude", "(b) Landing", "(c) Layover", "(d) Overhead compartment"],
+      "correct_answer": "a",
+      "hint_hebrew": "הגובה שבו המטוס טס מעל לאדמה"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "It was David's first long-haul flight — all the way from Tel Aviv to New York, with a layover in Paris. He was very excited. He was also very nervous.\n\nAt boarding, David discovered he had a window seat, which made him extremely happy. He immediately pressed his nose against the glass before the plane even moved. However, his happiness faded quickly when he tried to put his enormous suitcase into the overhead compartment. It did not fit. He pushed. He turned it sideways. He pushed again. A kind member of the cabin crew appeared with a professional smile and solved the problem in approximately three seconds.\n\nTake-off was thrilling. David gripped his armrest and grinned like a child. An hour into the flight, the pilot announced turbulence. The plane shook. David gripped both armrests and his neighbour's arm. He apologized.\n\nDuring the layover in Paris, David bought a croissant and felt very sophisticated.\n\nBack on the second plane, he chatted happily with the cabin crew. When the landing finally came — smooth and gentle — David clapped. He was the only one who did. New York was waiting.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "Where was David flying to from Tel Aviv?",
+        "options": ["(a) London", "(b) Paris", "(c) New York", "(d) Rome"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 12,
+        "question": "Where was David's layover?",
+        "options": ["(a) Amsterdam", "(b) Dubai", "(c) Madrid", "(d) Paris"],
+        "correct_answer": "d"
+      },
+      {
+        "id": 13,
+        "question": "What type of seat did David have on the plane?",
+        "options": ["(a) An aisle seat near the front", "(b) A window seat", "(c) A middle seat", "(d) A seat near the emergency exit"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "What problem did David have with his suitcase?",
+        "options": ["(a) He lost it at the gate", "(b) It was too heavy to lift", "(c) It did not fit in the overhead compartment", "(d) It was the wrong bag"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 15,
+        "question": "Who solved the problem with David's suitcase?",
+        "options": ["(a) Another passenger", "(b) The pilot", "(c) A member of the cabin crew", "(d) David eventually managed it alone"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 16,
+        "question": "How did David react during take-off?",
+        "options": ["(a) He fell asleep immediately", "(b) He felt sick", "(c) He gripped his armrest and grinned like a child", "(d) He read a book to calm himself"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 17,
+        "question": "What happened approximately one hour into the flight?",
+        "options": ["(a) The plane landed in Paris", "(b) The pilot announced turbulence", "(c) David was served a meal", "(d) The cabin crew showed a safety video"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 18,
+        "question": "What did David accidentally do during the turbulence?",
+        "options": ["(a) He spilled his drink", "(b) He grabbed his neighbour's arm", "(c) He stood up in the aisle", "(d) He unfastened his seatbelt"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 19,
+        "question": "What did David do during his layover in Paris?",
+        "options": ["(a) He visited the Eiffel Tower", "(b) He slept at the airport hotel", "(c) He bought a croissant", "(d) He called his family from a phone booth"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 20,
+        "question": "How did David react when the plane landed in New York?",
+        "options": ["(a) He was disappointed by the rough landing", "(b) He fell asleep and missed it", "(c) He complained to the cabin crew", "(d) He clapped, even though no one else did"],
+        "correct_answer": "d"
+      }
+    ]
+  },
+  "stage_3_visual_situational": [
+    {
+      "id": 21,
+      "type": "dialogue",
+      "prompt": "The pilot comes on the speaker and says: 'We are flying at an _____ of thirty-five thousand feet. The weather ahead looks clear.' You tell your wife what the pilot said.",
+      "options": ["(a) altitude", "(b) layover", "(c) landing", "(d) aisle"],
+      "correct_answer": "a"
+    },
+    {
+      "id": 22,
+      "type": "dialogue",
+      "prompt": "You are boarding the plane. You check your boarding pass. It says Seat 14A. You know this is a _____ because 'A' is always next to the window on most aircraft.",
+      "options": ["(a) cabin crew", "(b) overhead compartment", "(c) window seat", "(d) seatbelt"],
+      "correct_answer": "c"
+    },
+    {
+      "id": 23,
+      "type": "dialogue",
+      "prompt": "A flight attendant walks past and says: 'Sir, please fasten your _____ — the captain has turned on the sign.' You look down and click it into place.",
+      "options": ["(a) seatbelt", "(b) aisle", "(c) layover", "(d) turbulence"],
+      "correct_answer": "a"
+    },
+    {
+      "id": 24,
+      "type": "dialogue",
+      "prompt": "Your bag is too large to go under the seat. A flight attendant points upward and says: 'You can put it in the _____ above your seat — there is still some space left.'",
+      "options": ["(a) window seat", "(b) cabin crew", "(c) overhead compartment", "(d) altitude"],
+      "correct_answer": "c"
+    },
+    {
+      "id": 25,
+      "type": "dialogue",
+      "prompt": "The plane starts shaking. The seatbelt sign comes on. The pilot says: 'We are passing through some _____ — please remain seated and keep your seatbelts fastened.'",
+      "options": ["(a) take-off", "(b) turbulence", "(c) landing", "(d) layover"],
+      "correct_answer": "b"
+    },
+    {
+      "id": 26,
+      "type": "dialogue",
+      "prompt": "You want to walk to the bathroom but a person is sleeping in the seat between you and the corridor. You think: 'I should have booked an _____ seat — it would be so much easier.'",
+      "options": ["(a) aisle", "(b) altitude", "(c) take-off", "(d) seatbelt"],
+      "correct_answer": "a"
+    },
+    {
+      "id": 27,
+      "type": "dialogue",
+      "prompt": "The pilot announces: 'Ladies and gentlemen, we are beginning our descent. We expect to complete our _____ in approximately fifteen minutes. Please return to your seats.'",
+      "options": ["(a) turbulence", "(b) layover", "(c) take-off", "(d) landing"],
+      "correct_answer": "d"
+    },
+    {
+      "id": 28,
+      "type": "dialogue",
+      "prompt": "You are checking in at the airport. The agent asks: 'You have a connection in Frankfurt. Your _____ there is three hours — enough time to grab a coffee and relax.'",
+      "options": ["(a) layover", "(b) cabin crew", "(c) altitude", "(d) take-off"],
+      "correct_answer": "a"
+    },
+    {
+      "id": 29,
+      "type": "dialogue",
+      "prompt": "The plane begins to speed down the runway. You hold your armrest tightly as you feel the wheels leave the ground. Your friend says: 'Relax — _____ is the most exciting part!'",
+      "options": ["(a) seatbelt", "(b) landing", "(c) take-off", "(d) overhead compartment"],
+      "correct_answer": "c"
+    },
+    {
+      "id": 30,
+      "type": "dialogue",
+      "prompt": "A flight attendant smiles at you and offers a drink. You ask: 'Are you part of the _____ on this flight?' She nods and says: 'Yes, we are here to make your journey comfortable.'",
+      "options": ["(a) window seat", "(b) cabin crew", "(c) turbulence", "(d) aisle"],
+      "correct_answer": "b"
+    }
+  ]
+}

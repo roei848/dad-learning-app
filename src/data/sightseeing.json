@@ -1,0 +1,266 @@
+{
+  "section_id": "sightseeing_01",
+  "title": "Sightseeing",
+  "category": "Travel",
+  "word_bank": [
+    {
+      "word": "Landmark",
+      "translation": "אתר מפורסם",
+      "example": "Big Ben is one of the most famous landmarks in London."
+    },
+    {
+      "word": "Museum",
+      "translation": "מוזיאון",
+      "example": "We spent the whole afternoon exploring the museum's ancient collections."
+    },
+    {
+      "word": "Tour guide",
+      "translation": "מדריך טיולים",
+      "example": "Our tour guide explained the history of every painting in the gallery."
+    },
+    {
+      "word": "Admission",
+      "translation": "דמי כניסה",
+      "example": "The admission to the museum is free for children under twelve."
+    },
+    {
+      "word": "Monument",
+      "translation": "אנדרטה",
+      "example": "They took a photo in front of the war monument in the city centre."
+    },
+    {
+      "word": "Exhibition",
+      "translation": "תערוכה",
+      "example": "The special exhibition about ancient Egypt attracted thousands of visitors."
+    },
+    {
+      "word": "Itinerary",
+      "translation": "מסלול טיול",
+      "example": "Our travel itinerary included three museums and a boat tour."
+    },
+    {
+      "word": "Heritage",
+      "translation": "מורשת",
+      "example": "This old building is part of the city's cultural heritage."
+    },
+    {
+      "word": "Guidebook",
+      "translation": "מדריך טיולים (ספר)",
+      "example": "She bought a guidebook at the entrance to learn about the exhibits."
+    },
+    {
+      "word": "Gallery",
+      "translation": "גלריה",
+      "example": "The gallery on the second floor displayed modern paintings and sculptures."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "The Eiffel Tower is a famous _____ that millions of tourists visit every year.",
+      "options": ["(a) Admission", "(b) Landmark", "(c) Guidebook", "(d) Gallery"],
+      "correct_answer": "b",
+      "hint_hebrew": "מקום מפורסם שניתן לזהות בקלות"
+    },
+    {
+      "id": 2,
+      "question": "We went to a natural history _____ and saw dinosaur skeletons on display.",
+      "options": ["(a) Monument", "(b) Heritage", "(c) Museum", "(d) Itinerary"],
+      "correct_answer": "c",
+      "hint_hebrew": "מקום שבו מוצגים אוספים היסטוריים ומדעיים"
+    },
+    {
+      "id": 3,
+      "question": "Our _____ walked us through the palace and explained its history in great detail.",
+      "options": ["(a) Tour guide", "(b) Admission", "(c) Exhibition", "(d) Landmark"],
+      "correct_answer": "a",
+      "hint_hebrew": "אדם שמוביל ומסביר למטיילים"
+    },
+    {
+      "id": 4,
+      "question": "The _____ fee was twenty dollars per adult and ten dollars for children.",
+      "options": ["(a) Heritage", "(b) Gallery", "(c) Itinerary", "(d) Admission"],
+      "correct_answer": "d",
+      "hint_hebrew": "הכסף שמשלמים כדי להיכנס למקום"
+    },
+    {
+      "id": 5,
+      "question": "In the centre of the square stood a tall stone _____ built in memory of the soldiers.",
+      "options": ["(a) Monument", "(b) Guidebook", "(c) Museum", "(d) Exhibition"],
+      "correct_answer": "a",
+      "hint_hebrew": "מבנה שנבנה לזכר אדם או אירוע היסטורי"
+    },
+    {
+      "id": 6,
+      "question": "The special _____ about ancient Rome was so interesting that we stayed for two hours.",
+      "options": ["(a) Itinerary", "(b) Admission", "(c) Exhibition", "(d) Landmark"],
+      "correct_answer": "c",
+      "hint_hebrew": "תצוגה מיוחדת של פריטים בנושא מסוים"
+    },
+    {
+      "id": 7,
+      "question": "We had a very busy _____ — three museums, two monuments, and a boat ride — all in one day.",
+      "options": ["(a) Gallery", "(b) Itinerary", "(c) Heritage", "(d) Tour guide"],
+      "correct_answer": "b",
+      "hint_hebrew": "תוכנית מסודרת של מה לעשות ומתי במהלך הטיול"
+    },
+    {
+      "id": 8,
+      "question": "The old city walls are an important part of the region's cultural _____ and must be protected.",
+      "options": ["(a) Admission", "(b) Heritage", "(c) Guidebook", "(d) Landmark"],
+      "correct_answer": "b",
+      "hint_hebrew": "דברים שעברו אלינו מהעבר ויש לשמור עליהם"
+    },
+    {
+      "id": 9,
+      "question": "I bought a _____ at the gift shop so I could read more about the exhibits after the visit.",
+      "options": ["(a) Monument", "(b) Exhibition", "(c) Guidebook", "(d) Museum"],
+      "correct_answer": "c",
+      "hint_hebrew": "ספר שעוזר לך להבין את מה שאתה רואה בסיור"
+    },
+    {
+      "id": 10,
+      "question": "The paintings in the _____ on the top floor were created by local artists from the nineteenth century.",
+      "options": ["(a) Gallery", "(b) Admission", "(c) Itinerary", "(d) Tour guide"],
+      "correct_answer": "a",
+      "hint_hebrew": "חדר או מקום שבו מוצגות יצירות אמנות"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "Last summer, David and his family visited London for the first time. Their most exciting day was a trip to the British Museum — one of the most famous landmarks in the world.\n\nAt the entrance, they paid the admission fee and each picked up a guidebook. A friendly tour guide named James met them near the main hall. He led them through a stunning heritage exhibition about ancient civilisations, explaining the stories behind each artefact.\n\nThe children loved the Egyptian mummies, and David could not stop reading the descriptions on every display. At one point, they found a smaller gallery on the second floor, filled with beautiful Greek sculptures. James explained how these pieces were part of Europe's shared cultural heritage.\n\nThe problem was that there was simply too much to see. Their itinerary had planned only two hours in the museum, but they ended up staying for almost four. By the time they reached the Roman monument display, the kids were tired but still amazed.\n\nOn the way out, David bought two more guidebooks — one for himself and one as a gift. He smiled and said, 'Next time, we need a whole week just for this museum.'",
+    "questions": [
+      {
+        "id": 11,
+        "question": "Which city did David and his family visit?",
+        "options": ["(a) Paris", "(b) Rome", "(c) London", "(d) Berlin"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 12,
+        "question": "What did each family member receive at the entrance?",
+        "options": ["(a) A free ticket for a boat ride", "(b) A guidebook", "(c) A map of the city", "(d) A souvenir badge"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 13,
+        "question": "What was the name of their tour guide?",
+        "options": ["(a) Michael", "(b) George", "(c) Thomas", "(d) James"],
+        "correct_answer": "d"
+      },
+      {
+        "id": 14,
+        "question": "What type of exhibition did the tour guide lead them through?",
+        "options": ["(a) A modern art exhibition", "(b) A science and technology exhibition", "(c) A heritage exhibition about ancient civilisations", "(d) A photography exhibition"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 15,
+        "question": "What did the children enjoy the most?",
+        "options": ["(a) The Greek sculptures", "(b) The Egyptian mummies", "(c) The Roman monuments", "(d) The guidebooks"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 16,
+        "question": "Where was the gallery with Greek sculptures located?",
+        "options": ["(a) In the basement", "(b) Near the main entrance", "(c) On the second floor", "(d) In the gift shop"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 17,
+        "question": "How long had their itinerary planned for the museum visit?",
+        "options": ["(a) One hour", "(b) Two hours", "(c) Three hours", "(d) Four hours"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 18,
+        "question": "How long did they actually stay in the museum?",
+        "options": ["(a) Two hours", "(b) Three hours", "(c) Almost four hours", "(d) All day"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 19,
+        "question": "How many guidebooks did David buy on the way out?",
+        "options": ["(a) One", "(b) Two", "(c) Three", "(d) None"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 20,
+        "question": "What did David say at the end of the visit?",
+        "options": ["(a) That the museum was boring and too expensive", "(b) That he never wanted to visit again", "(c) That they needed a whole week just for the museum next time", "(d) That the tour guide was not helpful"],
+        "correct_answer": "c"
+      }
+    ]
+  },
+  "stage_3_visual_situational": [
+    {
+      "id": 21,
+      "type": "dialogue",
+      "prompt": "You arrive at a famous castle and your friend asks what to do first. You say: 'Let's find a _____ — someone who can walk us around and explain the history.'",
+      "options": ["(a) monument", "(b) tour guide", "(c) guidebook", "(d) gallery"],
+      "correct_answer": "b"
+    },
+    {
+      "id": 22,
+      "type": "dialogue",
+      "prompt": "You are at a museum ticket desk. The clerk asks: 'How many adults?' You reply and then ask: 'How much is the _____ per person?'",
+      "options": ["(a) heritage", "(b) itinerary", "(c) admission", "(d) exhibition"],
+      "correct_answer": "c"
+    },
+    {
+      "id": 23,
+      "type": "dialogue",
+      "prompt": "Your child points to a tall statue in the middle of a square. You explain: 'That is a _____ built to honour the soldiers who fought in the war.'",
+      "options": ["(a) landmark", "(b) monument", "(c) gallery", "(d) museum"],
+      "correct_answer": "b"
+    },
+    {
+      "id": 24,
+      "type": "dialogue",
+      "prompt": "You are planning a trip and your wife asks what you will do each day. You say: 'I have written a full _____ — day one is the museum, day two is the old city.'",
+      "options": ["(a) admission", "(b) heritage", "(c) guidebook", "(d) itinerary"],
+      "correct_answer": "d"
+    },
+    {
+      "id": 25,
+      "type": "dialogue",
+      "prompt": "At the museum shop, the assistant recommends a book about the exhibits. You decide to buy it and say: 'I will take this _____ — it will help me understand everything I saw today.'",
+      "options": ["(a) guidebook", "(b) landmark", "(c) exhibition", "(d) monument"],
+      "correct_answer": "a"
+    },
+    {
+      "id": 26,
+      "type": "dialogue",
+      "prompt": "You are inside a museum and see a sign for a special display. You tell your family: 'Let's go see the _____ about ancient Egypt on the third floor.'",
+      "options": ["(a) admission", "(b) tour guide", "(c) exhibition", "(d) itinerary"],
+      "correct_answer": "c"
+    },
+    {
+      "id": 27,
+      "type": "dialogue",
+      "prompt": "Your friend asks why the old bridge in town is so important. You explain: 'It is a famous _____ — everyone in the country knows it. It was built five hundred years ago.'",
+      "options": ["(a) gallery", "(b) heritage", "(c) landmark", "(d) admission"],
+      "correct_answer": "c"
+    },
+    {
+      "id": 28,
+      "type": "dialogue",
+      "prompt": "You are in a museum and find a room full of paintings. You say to your son: 'This is the art _____ — look at all these beautiful paintings on the walls.'",
+      "options": ["(a) monument", "(b) gallery", "(c) itinerary", "(d) landmark"],
+      "correct_answer": "b"
+    },
+    {
+      "id": 29,
+      "type": "dialogue",
+      "prompt": "A local person asks if you enjoyed the city. You say: 'Very much — the old buildings and traditions here show such rich cultural _____.'",
+      "options": ["(a) admission", "(b) exhibition", "(c) heritage", "(d) guidebook"],
+      "correct_answer": "c"
+    },
+    {
+      "id": 30,
+      "type": "dialogue",
+      "prompt": "You want to visit a famous art museum but are not sure if it costs money. You ask at the reception: 'Excuse me, is _____ to the permanent collection free, or do we need to pay?'",
+      "options": ["(a) heritage", "(b) admission", "(c) itinerary", "(d) landmark"],
+      "correct_answer": "b"
+    }
+  ]
+}
