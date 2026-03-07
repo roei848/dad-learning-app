@@ -27,6 +27,7 @@ Each section = one themed topic (e.g. "Dining Out", "Travel"). Adding one requir
 ```json
 {
   "section_id": "shopping_01",
+  "difficulty": "easy",
   "title": "At the Supermarket",
   "category": "Lifestyle",
   "word_bank": [
@@ -44,6 +45,8 @@ Each section = one themed topic (e.g. "Dining Out", "Travel"). Adding one requir
   ]
 }
 ```
+
+**Set `difficulty` to match the section's complexity.** Valid values: `easy | medium | hard | extreme`. Use `easy` for everyday vocabulary (greetings, food, shopping), `medium` for broader topics (travel, health), `hard` for abstract or formal language (business, law), and `extreme` for idiomatic or highly nuanced content.
 
 ## Step 2 — Create (or update) the sections registry
 
