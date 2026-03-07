@@ -24,6 +24,7 @@ const Home: React.FC<HomePresenterProps> = ({ sections, onStartSection }) => {
             title={section.title}
             category={section.category}
             icon={section.icon}
+            difficulty={section.difficulty}
             onStart={onStartSection}
           />
         ))}
