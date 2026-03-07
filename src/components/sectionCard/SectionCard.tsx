@@ -2,11 +2,15 @@ import React from 'react';
 import { CheckCircle } from 'lucide-react';
 import styled from 'styled-components';
 
+import type { Difficulty } from '../../types';
+import DifficultyBadge from '../difficultyBadge/DifficultyBadge';
+
 export interface SectionCardPresenterProps {
   title: string;
   category: string;
   icon: React.ReactNode;
   isCompleted: boolean;
+  difficulty: Difficulty;
   score?: number;
   totalQuestions?: number;
   onClick: () => void;
@@ -17,6 +21,7 @@ const SectionCard: React.FC<SectionCardPresenterProps> = ({
   category,
   icon,
   isCompleted,
+  difficulty,
   score,
   totalQuestions,
   onClick,
@@ -31,6 +36,10 @@ const SectionCard: React.FC<SectionCardPresenterProps> = ({
           )}
         </div>
       )}
+
+      <div className="difficulty-badge">
+        <DifficultyBadge difficulty={difficulty} />
+      </div>
 
       <div className="icon-container">
         {icon}
@@ -82,6 +91,14 @@ const SectionCardWrapper = styled.div`
     align-items: center;
     gap: ${({ theme }) => theme.spacing.xs};
     color: ${({ theme }) => theme.colors.correct};
+  }
+
+  .difficulty-badge {
+    position: absolute;
+    top: ${({ theme }) => theme.spacing.md};
+    left: ${({ theme }) => theme.spacing.md};
+    display: flex;
+    align-items: center;
   }
 
   .score-text {

@@ -2,6 +2,7 @@ import React from 'react';
 import { AlertCircle, Camera, Car, Hotel, Plane, PlaneTakeoff, ShoppingBag, Trophy, UtensilsCrossed, Waves } from 'lucide-react';
 
 import { useAppSelector } from '../../app/hooks';
+import type { Difficulty } from '../../types';
 import SectionCard from './SectionCard';
 
 export interface SectionCardContainerProps {
@@ -9,6 +10,7 @@ export interface SectionCardContainerProps {
   title: string;
   category: string;
   icon: string;
+  difficulty: Difficulty;
   onStart: (sectionId: string) => void;
 }
 
@@ -30,6 +32,7 @@ const SectionCardContainer: React.FC<SectionCardContainerProps> = ({
   title,
   category,
   icon,
+  difficulty,
   onStart,
 }) => {
   const completedSections = useAppSelector(state => state.sections.completedSections);
@@ -48,6 +51,7 @@ const SectionCardContainer: React.FC<SectionCardContainerProps> = ({
       category={category}
       icon={iconElement}
       isCompleted={isCompleted}
+      difficulty={difficulty}
       score={completionResult?.score}
       totalQuestions={completionResult?.totalQuestions}
       onClick={handleClick}
