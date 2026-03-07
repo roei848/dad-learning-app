@@ -27,11 +27,15 @@ export interface StoryData {
   questions: StoryQuestion[];
 }
 
+// Difficulty level for sections
+export type Difficulty = 'easy' | 'medium' | 'hard' | 'extreme';
+
 // Section (full data for one topic)
 export interface Section {
   section_id: string;
   title: string;
   category: string;
+  difficulty: Difficulty;
   word_bank: WordBankItem[];
   stage_1_sentences: SentenceQuestion[];
   stage_2_story: StoryData;
@@ -43,6 +47,7 @@ export interface SectionMeta {
   title: string;
   category: string;
   icon: string;
+  difficulty: Difficulty;
 }
 
 // Completion result

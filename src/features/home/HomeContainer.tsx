@@ -13,7 +13,7 @@ import sightseeingData from '../../data/sightseeing.json';
 import transportationData from '../../data/transportation.json';
 import { loadSections } from '../../store/sectionsSlice';
 import { startSection } from '../../store/sessionSlice';
-import type { SectionMeta } from '../../types';
+import type { Difficulty, SectionMeta } from '../../types';
 import Home from './Home';
 
 interface HomeContainerProps {}
@@ -29,60 +29,70 @@ const HomeContainer: React.FC<HomeContainerProps> = () => {
         title: restaurantData.title,
         category: restaurantData.category,
         icon: 'UtensilsCrossed',
+        difficulty: restaurantData.difficulty as Difficulty,
       },
       {
         section_id: footballData.section_id,
         title: footballData.title,
         category: footballData.category,
         icon: 'Trophy',
+        difficulty: footballData.difficulty as Difficulty,
       },
       {
         section_id: airportData.section_id,
         title: airportData.title,
         category: airportData.category,
         icon: 'Plane',
+        difficulty: airportData.difficulty as Difficulty,
       },
       {
         section_id: hotelData.section_id,
         title: hotelData.title,
         category: hotelData.category,
         icon: 'Hotel',
+        difficulty: hotelData.difficulty as Difficulty,
       },
       {
         section_id: transportationData.section_id,
         title: transportationData.title,
         category: transportationData.category,
         icon: 'Car',
+        difficulty: transportationData.difficulty as Difficulty,
       },
       {
         section_id: planeData.section_id,
         title: planeData.title,
         category: planeData.category,
         icon: 'PlaneTakeoff',
+        difficulty: planeData.difficulty as Difficulty,
       },
       {
         section_id: sightseeingData.section_id,
         title: sightseeingData.title,
         category: sightseeingData.category,
         icon: 'Camera',
+        difficulty: sightseeingData.difficulty as Difficulty,
       },
       {
         section_id: shoppingData.section_id,
         title: shoppingData.title,
         category: shoppingData.category,
         icon: 'ShoppingBag',
+        difficulty: shoppingData.difficulty as Difficulty,
       },
       {
         section_id: emergencyData.section_id,
         title: emergencyData.title,
         category: emergencyData.category,
         icon: 'AlertCircle',
+        difficulty: emergencyData.difficulty as Difficulty,
       },
       {
         section_id: beachData.section_id,
         title: beachData.title,
         category: beachData.category,
         icon: 'Waves',
+        difficulty: beachData.difficulty as Difficulty,
       },
     ];
     dispatch(loadSections(sectionsMeta));
