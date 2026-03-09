@@ -7,6 +7,10 @@ const GlobalStyles = createGlobalStyle`
     box-sizing: border-box;
   }
 
+  html, body {
+    overflow-x: hidden;
+  }
+
   body {
     font-family: ${({ theme }) => theme.typography.fontFamily};
     font-size: ${({ theme }) => theme.typography.body};

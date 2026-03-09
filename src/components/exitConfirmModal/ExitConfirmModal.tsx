@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import styled from 'styled-components';
 
 export interface ExitConfirmModalProps {
@@ -8,6 +8,16 @@ export interface ExitConfirmModalProps {
 }
 
 const ExitConfirmModal: React.FC<ExitConfirmModalProps> = ({ isOpen, onConfirm, onCancel }) => {
+  useEffect(() => {
+    const val = isOpen ? 'hidden' : '';
+    document.body.style.overflow = val;
+    document.documentElement.style.overflow = val;
+    return () => {
+      document.body.style.overflow = '';
+      document.documentElement.style.overflow = '';
+    };
+  }, [isOpen]);
+
   if (!isOpen) return null;
 
   return (
