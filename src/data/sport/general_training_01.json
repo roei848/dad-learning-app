@@ -1,0 +1,295 @@
+{
+  "section_id": "general_training_01",
+  "difficulty": "easy",
+  "title": "General Training 1",
+  "category": "Sport",
+  "word_bank": [
+    {
+      "word": "Warm-up",
+      "translation": "חימום",
+      "example": "The players did a ten-minute warm-up before the training session began."
+    },
+    {
+      "word": "Stretching",
+      "translation": "מתיחות",
+      "example": "Good stretching after exercise helps your muscles recover faster."
+    },
+    {
+      "word": "Rep",
+      "translation": "חזרה",
+      "example": "The trainer told him to do ten reps of each exercise before resting."
+    },
+    {
+      "word": "Set",
+      "translation": "סט",
+      "example": "He completed three sets of push-ups with a short rest between each one."
+    },
+    {
+      "word": "Rest",
+      "translation": "מנוחה",
+      "example": "It is important to take a rest day between hard training sessions."
+    },
+    {
+      "word": "Muscle",
+      "translation": "שריר",
+      "example": "After lifting weights for a month, he could feel his arm muscles getting stronger."
+    },
+    {
+      "word": "Weight",
+      "translation": "משקל",
+      "example": "He started with a light weight and slowly increased it as he got stronger."
+    },
+    {
+      "word": "Fitness",
+      "translation": "כושר גופני",
+      "example": "She joined the gym to improve her overall fitness and feel healthier."
+    },
+    {
+      "word": "Routine",
+      "translation": "שגרה",
+      "example": "He followed the same training routine every Monday, Wednesday, and Friday."
+    },
+    {
+      "word": "Cool-down",
+      "translation": "שחרור / קירור",
+      "example": "The trainer reminded the group to do a proper cool-down at the end of the class."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "The coach told everyone to do a good _____ before they started running.",
+      "options": [
+        "(a) Cool-down",
+        "(b) Warm-up",
+        "(c) Rep",
+        "(d) Muscle"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "פעילות קלה לפני אימון כדי לחמם את הגוף"
+    },
+    {
+      "id": 2,
+      "question": "He held each _____ for thirty seconds to keep his body flexible.",
+      "options": [
+        "(a) Weight",
+        "(b) Routine",
+        "(c) Stretching",
+        "(d) Rest"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "מתיחה של השרירים לפני או אחרי פעילות"
+    },
+    {
+      "id": 3,
+      "question": "The trainer said: 'Do twelve _____ of this exercise, then stop and breathe.'",
+      "options": [
+        "(a) Reps",
+        "(b) Sets",
+        "(c) Muscles",
+        "(d) Weights"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "מספר הפעמים שחוזרים על תנועה אחת"
+    },
+    {
+      "id": 4,
+      "question": "After each _____ of exercises, he sat down and drank some water before continuing.",
+      "options": [
+        "(a) Cool-down",
+        "(b) Fitness",
+        "(c) Set",
+        "(d) Warm-up"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "קבוצת חזרות שמבצעים יחד לפני הפסקה"
+    },
+    {
+      "id": 5,
+      "question": "The doctor told him to take at least one day of _____ between hard training sessions.",
+      "options": [
+        "(a) Rest",
+        "(b) Muscle",
+        "(c) Routine",
+        "(d) Rep"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "הפסקה כדי לאפשר לגוף להתאושש"
+    },
+    {
+      "id": 6,
+      "question": "He felt his leg _____ was sore after running for the first time in many years.",
+      "options": [
+        "(a) Fitness",
+        "(b) Set",
+        "(c) Weight",
+        "(d) Muscle"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "רקמה בגוף שמאפשרת תנועה"
+    },
+    {
+      "id": 7,
+      "question": "He started lifting a very light _____ and gradually increased it each week.",
+      "options": [
+        "(a) Weight",
+        "(b) Warm-up",
+        "(c) Cool-down",
+        "(d) Rest"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "כבד / משקל שמרימים באימון כוח"
+    },
+    {
+      "id": 8,
+      "question": "Going to the gym three times a week really improved his _____ and energy levels.",
+      "options": [
+        "(a) Rep",
+        "(b) Fitness",
+        "(c) Stretching",
+        "(d) Set"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "רמת הכושר הגופני הכללית"
+    },
+    {
+      "id": 9,
+      "question": "He had a set _____ for every morning: twenty push-ups, then a short walk.",
+      "options": [
+        "(a) Muscle",
+        "(b) Weight",
+        "(c) Routine",
+        "(d) Warm-up"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "תוכנית קבועה של פעילות חוזרת"
+    },
+    {
+      "id": 10,
+      "question": "At the end of the session, the trainer told everyone to do a gentle _____ to relax their bodies.",
+      "options": [
+        "(a) Rep",
+        "(b) Set",
+        "(c) Fitness",
+        "(d) Cool-down"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "פעילות קלה בסוף האימון להוריד את קצב הלב"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "Last Tuesday, Moshe's grandson Noam surprised him with a special invitation. 'Grandpa,' he said, 'come to the gym with me. I will show you everything.' Moshe was nervous — he had not done real exercise in many years. But he did not want to disappoint Noam, so he agreed.\n\nWhen they arrived at the gym, Noam started with a warm-up. He jogged slowly on the treadmill for five minutes. 'You must always warm up first, Grandpa,' Noam explained. 'It protects your muscles from injury.' Then Noam showed Moshe some simple stretching exercises for the legs and back.\n\nNext, Noam led Moshe to the weights area. He handed his grandfather a very light weight. 'We will do three sets,' Noam said. 'Each set has ten reps. Lift, lower — that is one rep.' Moshe tried his best. After each set, they took a short rest before continuing.\n\nMoshe felt tired quickly, but Noam was patient and encouraging. 'This is all part of the routine,' Noam said. 'If you come regularly, your fitness will improve every week.'\n\nAt the end of the session, Noam showed Moshe how to do a proper cool-down — slow walking and gentle stretching to let the body recover. Driving home, Moshe said: 'I was scared before, but now I feel wonderful. Same time next week?'",
+    "questions": [
+      {
+        "id": 11,
+        "question": "Who invited Moshe to the gym?",
+        "options": [
+          "(a) His doctor",
+          "(b) His son",
+          "(c) His grandson Noam",
+          "(d) His neighbour"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 12,
+        "question": "How did Moshe feel before going to the gym?",
+        "options": [
+          "(a) Excited and confident",
+          "(b) Nervous because he had not exercised in years",
+          "(c) Angry because Noam made him go",
+          "(d) Tired before he even arrived"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 13,
+        "question": "What did Noam do for his warm-up?",
+        "options": [
+          "(a) He lifted heavy weights",
+          "(b) He did push-ups",
+          "(c) He jogged slowly on the treadmill for five minutes",
+          "(d) He swam in the pool"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 14,
+        "question": "Why did Noam say a warm-up is important?",
+        "options": [
+          "(a) It makes you look good in the gym",
+          "(b) It protects your muscles from injury",
+          "(c) It replaces the need for stretching",
+          "(d) It burns the most calories"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 15,
+        "question": "How many reps did Noam say were in each set?",
+        "options": [
+          "(a) Five",
+          "(b) Fifteen",
+          "(c) Twenty",
+          "(d) Ten"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 16,
+        "question": "How many sets did they do with the weight?",
+        "options": [
+          "(a) Two",
+          "(b) Three",
+          "(c) Four",
+          "(d) Five"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 17,
+        "question": "What did they do between sets?",
+        "options": [
+          "(a) They drank a protein shake",
+          "(b) They did stretching",
+          "(c) They took a short rest",
+          "(d) They jogged around the gym"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 18,
+        "question": "What did Noam say would happen if Moshe came regularly?",
+        "options": [
+          "(a) He would lose a lot of weight quickly",
+          "(b) His fitness would improve every week",
+          "(c) He would become as strong as Noam",
+          "(d) He would not feel tired anymore"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 19,
+        "question": "What did the cool-down consist of?",
+        "options": [
+          "(a) Running fast and then stopping",
+          "(b) Sitting in the sauna",
+          "(c) Slow walking and gentle stretching",
+          "(d) Lifting light weights for ten minutes"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 20,
+        "question": "What did Moshe say at the end of the session?",
+        "options": [
+          "(a) He said he would never come back",
+          "(b) He asked to come again next week",
+          "(c) He said he was too sore to move",
+          "(d) He said the gym was too expensive"
+        ],
+        "correct_answer": "b"
+      }
+    ]
+  }
+}

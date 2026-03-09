@@ -18,7 +18,6 @@ export interface SectionCardPresenterProps {
 
 const SectionCard: React.FC<SectionCardPresenterProps> = ({
   title,
-  category,
   icon,
   isCompleted,
   difficulty,
@@ -47,7 +46,6 @@ const SectionCard: React.FC<SectionCardPresenterProps> = ({
 
       <div className="card-body">
         <h2 className="card-title">{title}</h2>
-        <span className="card-category">{category}</span>
       </div>
     </SectionCardWrapper>
   );
@@ -132,11 +130,4 @@ const SectionCardWrapper = styled.div`
     line-height: ${({ theme }) => theme.typography.lineHeight};
   }
 
-  .card-category {
-    font-size: 14px;
-    color: ${({ theme }) => theme.colors.textLight};
-    font-family: ${({ theme }) => theme.typography.fontFamily};
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-  }
 `;

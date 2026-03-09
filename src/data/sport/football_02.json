@@ -1,0 +1,295 @@
+{
+  "section_id": "football_02",
+  "difficulty": "easy",
+  "title": "Football 2",
+  "category": "Sport",
+  "word_bank": [
+    {
+      "word": "Goalkeeper",
+      "translation": "שוער",
+      "example": "The goalkeeper made a brilliant save to keep the score at nil-nil."
+    },
+    {
+      "word": "Corner kick",
+      "translation": "בעיטת קרן",
+      "example": "The winger won a corner kick after his shot deflected off the defender."
+    },
+    {
+      "word": "Free kick",
+      "translation": "בעיטה חופשית",
+      "example": "The captain curled a beautiful free kick over the wall and into the top corner."
+    },
+    {
+      "word": "Yellow card",
+      "translation": "כרטיס צהוב",
+      "example": "The midfielder received a yellow card for a late tackle on the winger."
+    },
+    {
+      "word": "Hat-trick",
+      "translation": "שלושער",
+      "example": "The striker completed a hat-trick in the second half to secure a famous victory."
+    },
+    {
+      "word": "Striker",
+      "translation": "חלוץ",
+      "example": "The striker sprinted past the last defender and slotted the ball calmly into the net."
+    },
+    {
+      "word": "Midfielder",
+      "translation": "קשר",
+      "example": "The midfielder controlled the game with his precise passing and tireless running."
+    },
+    {
+      "word": "Defender",
+      "translation": "מגן",
+      "example": "The defender blocked the shot on the line to keep his team in the match."
+    },
+    {
+      "word": "Tackle",
+      "translation": "תיקול",
+      "example": "The defender made a perfectly timed tackle to win the ball back from the attacker."
+    },
+    {
+      "word": "Throw-in",
+      "translation": "כדור חוץ",
+      "example": "Maccabi took a quick throw-in and caught the opposing defence completely off guard."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "The _____ dived to his left and pushed the ball around the post with one hand.",
+      "options": [
+        "(a) Goalkeeper",
+        "(b) Striker",
+        "(c) Defender",
+        "(d) Midfielder"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "השחקן שמגן על השער ועוצר בעיטות"
+    },
+    {
+      "id": 2,
+      "question": "The ball went behind for a _____ after deflecting off the goalkeeper's fingertips.",
+      "options": [
+        "(a) Yellow card",
+        "(b) Hat-trick",
+        "(c) Tackle",
+        "(d) Corner kick"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "בעיטה שמתבצעת מפינת המגרש"
+    },
+    {
+      "id": 3,
+      "question": "The captain stepped up and bent the _____ around the wall and past the goalkeeper.",
+      "options": [
+        "(a) Throw-in",
+        "(b) Free kick",
+        "(c) Striker",
+        "(d) Defender"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "בעיטה שניתנת לאחר עצירת המשחק בגלל עבירה"
+    },
+    {
+      "id": 4,
+      "question": "The referee showed the aggressive player a _____ after he pushed an opponent to the ground.",
+      "options": [
+        "(a) Corner kick",
+        "(b) Hat-trick",
+        "(c) Yellow card",
+        "(d) Throw-in"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "אזהרה שהשופט מראה לשחקן שמתנהג רע"
+    },
+    {
+      "id": 5,
+      "question": "The crowd celebrated wildly when the young forward completed his _____ with a shot from twenty metres.",
+      "options": [
+        "(a) Tackle",
+        "(b) Midfielder",
+        "(c) Hat-trick",
+        "(d) Goalkeeper"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "כשאחד השחקנים מבקיע שלושה שערים במשחק אחד"
+    },
+    {
+      "id": 6,
+      "question": "The _____ latched onto a through ball and scored with a clinical finish past the goalkeeper.",
+      "options": [
+        "(a) Striker",
+        "(b) Corner kick",
+        "(c) Free kick",
+        "(d) Throw-in"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "השחקן שתפקידו לבקוע שערים בקדמת המגרש"
+    },
+    {
+      "id": 7,
+      "question": "The _____ sprayed a precise pass wide to the winger and immediately called for the ball back.",
+      "options": [
+        "(a) Goalkeeper",
+        "(b) Yellow card",
+        "(c) Hat-trick",
+        "(d) Midfielder"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "השחקן שמשחק באמצע המגרש ומחלק כדורים"
+    },
+    {
+      "id": 8,
+      "question": "The brave _____ threw his body in front of the shot and blocked it on the goal line.",
+      "options": [
+        "(a) Tackle",
+        "(b) Defender",
+        "(c) Throw-in",
+        "(d) Corner kick"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "השחקן שתפקידו למנוע מהיריב לבקוע"
+    },
+    {
+      "id": 9,
+      "question": "He slid in with a perfectly timed _____ and won the ball cleanly without touching the player.",
+      "options": [
+        "(a) Free kick",
+        "(b) Hat-trick",
+        "(c) Tackle",
+        "(d) Striker"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "כשמגן עוצר את הכדור מרגלי המתקיף בהחלקה"
+    },
+    {
+      "id": 10,
+      "question": "Maccabi Tel Aviv took a quick _____ near the halfway line and caught the defence by surprise.",
+      "options": [
+        "(a) Midfielder",
+        "(b) Throw-in",
+        "(c) Defender",
+        "(d) Goalkeeper"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "כשהכדור יוצא מהצד ושחקן מגביה אותו בשתי ידיים"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "Last Friday evening, Moshe sat down with his grandson Noam to watch Maccabi Tel Aviv play against Hapoel Beer Sheva in a big league match. Noam had his notebook ready to write down any new English football words he heard from the commentator.\n\nThe match started at a fast pace. In the tenth minute, Hapoel Beer Sheva's striker broke through the defence, but Maccabi's goalkeeper came racing off his line and made a superb save to keep the score level. Noam wrote down 'goalkeeper' in his notebook and showed it to Moshe.\n\nMaccabi began to control the midfield. Their experienced midfielder kept the ball moving quickly from left to right, finding space for the wingers. In the thirty-second minute, Hapoel's defender brought down Maccabi's winger just outside the penalty area. The referee awarded a free kick. Maccabi's captain stepped up and curled the ball over the wall and into the net. One-nil!\n\nHapoel responded aggressively after the break. Their tall striker won nearly every header, and one of their defenders was shown a yellow card for a rough tackle from behind. Maccabi survived the pressure and hit back on the counter. In the seventy-fifth minute, Maccabi's striker completed a brilliant hat-trick — his third goal came from a corner kick, where he rose above two defenders and headed the ball into the bottom corner.\n\nAfter the match, Noam counted ten new words in his notebook. Moshe smiled and said: 'If you keep watching football with me, your English will be excellent in no time.'",
+    "questions": [
+      {
+        "id": 11,
+        "question": "Which teams played in the Friday evening match?",
+        "options": [
+          "(a) Hapoel Tel Aviv and Maccabi Haifa",
+          "(b) Maccabi Tel Aviv and Hapoel Beer Sheva",
+          "(c) Beitar Jerusalem and Maccabi Tel Aviv",
+          "(d) Hapoel Beer Sheva and Hapoel Tel Aviv"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 12,
+        "question": "Why did Noam bring his notebook to the match?",
+        "options": [
+          "(a) To draw pictures of the players",
+          "(b) To keep track of the score",
+          "(c) To write down new English football words",
+          "(d) To write a letter to his friend"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 13,
+        "question": "What did Maccabi's goalkeeper do in the tenth minute?",
+        "options": [
+          "(a) He scored from a free kick",
+          "(b) He came off his line and made a superb save",
+          "(c) He received a yellow card",
+          "(d) He was substituted at half-time"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "How did Maccabi score their first goal?",
+        "options": [
+          "(a) With a header from a corner kick",
+          "(b) After a tackle by the midfielder",
+          "(c) From a free kick curled over the wall",
+          "(d) From a throw-in near the penalty area"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 15,
+        "question": "Who received a yellow card and why?",
+        "options": [
+          "(a) Maccabi's striker, for diving",
+          "(b) Hapoel's defender, for a rough tackle from behind",
+          "(c) Maccabi's goalkeeper, for time-wasting",
+          "(d) Hapoel's midfielder, for arguing with the referee"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 16,
+        "question": "What did Maccabi's midfielder do to help create chances?",
+        "options": [
+          "(a) He scored two goals",
+          "(b) He took all the corner kicks",
+          "(c) He kept the ball moving quickly from left to right",
+          "(d) He made a series of sliding tackles"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 17,
+        "question": "How did Maccabi's striker complete his hat-trick?",
+        "options": [
+          "(a) With a free kick from outside the area",
+          "(b) With a header from a corner kick",
+          "(c) After a long throw-in from the goalkeeper",
+          "(d) With a shot from the halfway line"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 18,
+        "question": "What was the final score of the match?",
+        "options": [
+          "(a) One-nil to Hapoel Beer Sheva",
+          "(b) Two-one to Maccabi Tel Aviv",
+          "(c) Three-nil to Maccabi Tel Aviv",
+          "(d) The story does not give the final score clearly"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 19,
+        "question": "How many new words did Noam write in his notebook?",
+        "options": [
+          "(a) Five",
+          "(b) Seven",
+          "(c) Nine",
+          "(d) Ten"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 20,
+        "question": "What did Moshe say to Noam after the match?",
+        "options": [
+          "(a) That football is too boring to watch",
+          "(b) That watching football would improve Noam's English",
+          "(c) That Noam needed to practise his Hebrew",
+          "(d) That Maccabi played very badly"
+        ],
+        "correct_answer": "b"
+      }
+    ]
+  }
+}

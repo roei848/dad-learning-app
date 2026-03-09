@@ -1,0 +1,295 @@
+{
+  "section_id": "basketball_03",
+  "difficulty": "hard",
+  "title": "Basketball 3",
+  "category": "Sport",
+  "word_bank": [
+    {
+      "word": "Zone defence",
+      "translation": "הגנת אזורית",
+      "example": "The coach switched to a zone defence to slow down the opponent's fast guards."
+    },
+    {
+      "word": "Alley-oop",
+      "translation": "אלי-אופ",
+      "example": "The guard lobbed the ball high and the centre leaped to finish with an alley-oop dunk."
+    },
+    {
+      "word": "Flagrant foul",
+      "translation": "עבירה גסה",
+      "example": "The referee called a flagrant foul after the player swung his elbow into the shooter's head."
+    },
+    {
+      "word": "Triple-double",
+      "translation": "טריפל-דאבל",
+      "example": "He finished the game with a triple-double — fourteen points, eleven assists, and ten rebounds."
+    },
+    {
+      "word": "Screen",
+      "translation": "מסך / חסימה בכדורסל",
+      "example": "The big man set a solid screen on the defender to free up the guard for an open shot."
+    },
+    {
+      "word": "Isolation",
+      "translation": "אחד על אחד",
+      "example": "With thirty seconds left, the coach called an isolation play to let his best player go one-on-one."
+    },
+    {
+      "word": "Switch",
+      "translation": "החלפה",
+      "example": "The defenders called a switch so that each one covered a different opponent after the screen."
+    },
+    {
+      "word": "Arc",
+      "translation": "קשת",
+      "example": "He caught the ball just beyond the arc and released a quick three-pointer."
+    },
+    {
+      "word": "Release",
+      "translation": "שחרור",
+      "example": "His release was so fast that the defender could not get a hand up in time to contest the shot."
+    },
+    {
+      "word": "Halftime",
+      "translation": "מחצית",
+      "example": "The game was tied at halftime."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "The coach told his team to switch to a _____ because Hapoel's guards were too fast to guard man-to-man.",
+      "options": [
+        "(a) Zone defence",
+        "(b) Triple-double",
+        "(c) Alley-oop",
+        "(d) Release"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "שיטת הגנה שמגנה על אזורים ולא על שחקנים ספציפיים"
+    },
+    {
+      "id": 2,
+      "question": "The guard lobbed it perfectly towards the basket and the forward caught it mid-air for a sensational _____.",
+      "options": [
+        "(a) Isolation",
+        "(b) Screen",
+        "(c) Alley-oop",
+        "(d) Switch"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "מסירה לאוויר שמסיימים בדאנק בזמן הקפיצה"
+    },
+    {
+      "id": 3,
+      "question": "The referee stopped the game and called a _____ after the defender hit the shooter hard across the face.",
+      "options": [
+        "(a) Arc",
+        "(b) Flagrant foul",
+        "(c) Halftime",
+        "(d) Triple-double"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "עבירה חריגה וקשה שנענשת בחומרה"
+    },
+    {
+      "id": 4,
+      "question": "By the end of the game he had achieved a remarkable _____ — twelve points, ten rebounds, and ten assists.",
+      "options": [
+        "(a) Screen",
+        "(b) Release",
+        "(c) Zone defence",
+        "(d) Triple-double"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "הישג שבו שחקן מגיע ל-10+ בשלוש קטגוריות שונות"
+    },
+    {
+      "id": 5,
+      "question": "The big man planted his feet and set a hard _____ on the defender to free up his teammate.",
+      "options": [
+        "(a) Alley-oop",
+        "(b) Screen",
+        "(c) Isolation",
+        "(d) Switch"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "כששחקן חוסם את הדרך של מגן כדי לפנות מסלול לחבר"
+    },
+    {
+      "id": 6,
+      "question": "With ten seconds on the clock, the coach drew up an _____ play for the team's best scorer to go one-on-one.",
+      "options": [
+        "(a) Arc",
+        "(b) Triple-double",
+        "(c) Isolation",
+        "(d) Halftime"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "מצב שבו שחקן אחד מתמודד מול מגן אחד ללא עזרה"
+    },
+    {
+      "id": 7,
+      "question": "The defenders shouted '_____ !' to each other and traded opponents after the screen was set.",
+      "options": [
+        "(a) Release",
+        "(b) Zone defence",
+        "(c) Alley-oop",
+        "(d) Switch"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "כששני מגנים מחליפים ביניהם את השחקן שהם מגנים עליו"
+    },
+    {
+      "id": 8,
+      "question": "He caught the ball just outside the _____ and stepped back before firing his three-point attempt.",
+      "options": [
+        "(a) Arc",
+        "(b) Flagrant foul",
+        "(c) Screen",
+        "(d) Triple-double"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "הקשת המסומנת על הרצפה שממנה יורים שלשות"
+    },
+    {
+      "id": 9,
+      "question": "His shooting _____ was so quick that defenders could never get a hand up to block the shot.",
+      "options": [
+        "(a) Isolation",
+        "(b) Switch",
+        "(c) Halftime",
+        "(d) Release"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "הרגע שבו השחקן משחרר את הכדור מידיו בזריקה"
+    },
+    {
+      "id": 10,
+      "question": "The teams left the court for a short break at _____, with the score close and everything still to play for.",
+      "options": [
+        "(a) Triple-double",
+        "(b) Alley-oop",
+        "(c) Halftime",
+        "(d) Flagrant foul"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "ההפסקה שמתרחשת באמצע משחק הכדורסל"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "Moshe's grandson Yonatan, who is now sixteen and plays for his school team, sat down with his grandfather at halftime during a big Maccabi Tel Aviv EuroLeague match to explain what he had observed in the first half.\n\n'Saba,' Yonatan began, 'did you see how they used the zone defence in the first quarter? Instead of each player guarding one opponent, they covered areas of the court. It confused Hapoel's guards completely.'\n\nMoshe nodded slowly. 'But then Hapoel's big man set a screen near the arc and the shooter stepped behind it and scored a three-pointer. That surprised them.'\n\nYonatan was impressed. 'Exactly! Maccabi's switch was too slow. The defenders called out to swap opponents, but the shooter already had a clean release before anyone got close.'\n\nMoshe pointed at the screen: 'And that play where one player throws the ball up and the other one jumps to catch it above the basket — what is that called?'\n\n'That is an alley-oop,' said Yonatan. 'It is hard to defend because you need perfect timing between the two players.'\n\nIn the final minute, Maccabi called an isolation play for their star guard, who went one-on-one and scored. The other team responded with an aggressive foul — the referee called it a flagrant foul and awarded two free throws and possession.\n\nBy the final buzzer, Maccabi's star player had recorded a triple-double. Moshe shook his head in amazement. 'You know, Yonatan, when I understand the game, it is much more exciting.' Yonatan smiled. 'That is why I explain it to you, Saba.'",
+    "questions": [
+      {
+        "id": 11,
+        "question": "Who explained the basketball tactics to Moshe in this story?",
+        "options": [
+          "(a) His son Avi",
+          "(b) His grandson Yonatan",
+          "(c) A television commentator",
+          "(d) His neighbour"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 12,
+        "question": "What defensive system did Maccabi use in the first quarter?",
+        "options": [
+          "(a) Man-to-man defence",
+          "(b) Halftime",
+          "(c) Zone defence",
+          "(d) Full-court press"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 13,
+        "question": "How did Hapoel score against the zone defence?",
+        "options": [
+          "(a) With an alley-oop from the baseline",
+          "(b) By going one-on-one in isolation",
+          "(c) A shooter stepped behind the arc after a screen and scored a three-pointer",
+          "(d) Their centre scored inside after a fast break"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 14,
+        "question": "Why did Maccabi's switch fail on that play?",
+        "options": [
+          "(a) The defender slipped on the court",
+          "(b) The switch was too slow and the shooter had a clean release before anyone got close",
+          "(c) The coach called a timeout too late",
+          "(d) The screen was set illegally"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 15,
+        "question": "What did Moshe ask Yonatan about?",
+        "options": [
+          "(a) The zone defence",
+          "(b) The isolation play at the end",
+          "(c) The play where one player throws the ball up and another catches it above the basket",
+          "(d) The flagrant foul"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 16,
+        "question": "What is an alley-oop, according to Yonatan?",
+        "options": [
+          "(a) A defensive play that requires a switch",
+          "(b) A play that requires perfect timing between two players, where the ball is thrown up and caught above the basket",
+          "(c) A foul called by the referee near the arc",
+          "(d) A type of isolation move for the best scorer"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 17,
+        "question": "What play did Maccabi call in the final minute?",
+        "options": [
+          "(a) A zone defence switch",
+          "(b) An alley-oop play",
+          "(c) An isolation play for their star guard",
+          "(d) A halftime adjustment"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 18,
+        "question": "What did the referee award after the flagrant foul?",
+        "options": [
+          "(a) One free throw and a warning",
+          "(b) Two free throws and possession",
+          "(c) Three free throws only",
+          "(d) A player was ejected and no free throws were awarded"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 19,
+        "question": "What did Maccabi's star player achieve by the end of the game?",
+        "options": [
+          "(a) He scored fifty points",
+          "(b) He committed a flagrant foul",
+          "(c) He set a screen that broke the zone defence",
+          "(d) A triple-double"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 20,
+        "question": "What did Moshe say at the end of the story?",
+        "options": [
+          "(a) He said basketball was still too complicated",
+          "(b) He said Hapoel played better",
+          "(c) He said the game is much more exciting when he understands it",
+          "(d) He said Yonatan should become a coach"
+        ],
+        "correct_answer": "c"
+      }
+    ]
+  }
+}

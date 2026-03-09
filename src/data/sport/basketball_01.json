@@ -1,0 +1,295 @@
+{
+  "section_id": "basketball_01",
+  "difficulty": "easy",
+  "title": "Basketball 1",
+  "category": "Sport",
+  "word_bank": [
+    {
+      "word": "Court",
+      "translation": "מגרש",
+      "example": "The players warmed up on the court before the game."
+    },
+    {
+      "word": "Three-pointer",
+      "translation": "שלשה",
+      "example": "He stepped behind the line and sank a three-pointer to tie the score."
+    },
+    {
+      "word": "Rebound",
+      "translation": "כדור חוזר",
+      "example": "The centre jumped high and grabbed the rebound after the missed shot."
+    },
+    {
+      "word": "Free throw",
+      "translation": "זריקת עונשין",
+      "example": "He stood on the foul line and calmly sank both free throws."
+    },
+    {
+      "word": "Dunk",
+      "translation": "הטבעה",
+      "example": "The crowd roared as the forward leaped above the rim for a powerful dunk."
+    },
+    {
+      "word": "Assist",
+      "translation": "אסיסט",
+      "example": "The guard threaded a perfect assist to the centre, who scored easily."
+    },
+    {
+      "word": "Turnover",
+      "translation": "איבוד כדור",
+      "example": "A careless pass led to a turnover, and the other team scored quickly."
+    },
+    {
+      "word": "Guard",
+      "translation": "גארד / שחקן שמירה",
+      "example": "The guard dribbled up the court and set up the play for his team."
+    },
+    {
+      "word": "Centre",
+      "translation": "סנטר / שחקן מרכזי",
+      "example": "The tall centre controlled the paint and dominated the rebound battle."
+    },
+    {
+      "word": "Foul line",
+      "translation": "קו הזריקות החופשיות",
+      "example": "The player stood behind the foul line and focused before shooting."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "The players warmed up on the _____ before the Maccabi game started.",
+      "options": [
+        "(a) Court",
+        "(b) Dunk",
+        "(c) Rebound",
+        "(d) Guard"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "השטח שבו משחקים כדורסל"
+    },
+    {
+      "id": 2,
+      "question": "He stepped behind the arc and hit a _____ to put his team ahead by one point.",
+      "options": [
+        "(a) Turnover",
+        "(b) Three-pointer",
+        "(c) Assist",
+        "(d) Centre"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "זריקה מוצלחת שמכניסה שלוש נקודות"
+    },
+    {
+      "id": 3,
+      "question": "The big man leaped above everyone and grabbed the _____ after the missed shot.",
+      "options": [
+        "(a) Foul line",
+        "(b) Dunk",
+        "(c) Rebound",
+        "(d) Guard"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "כשתופסים את הכדור אחרי זריקה שפספסה"
+    },
+    {
+      "id": 4,
+      "question": "After the foul, he walked to the _____ and had two shots to score.",
+      "options": [
+        "(a) Assist",
+        "(b) Free throw",
+        "(c) Three-pointer",
+        "(d) Turnover"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "זריקה חינמית שניתנת אחרי עבירה"
+    },
+    {
+      "id": 5,
+      "question": "The crowd jumped to its feet when the forward threw down a thunderous _____.",
+      "options": [
+        "(a) Dunk",
+        "(b) Rebound",
+        "(c) Foul line",
+        "(d) Centre"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "כשמכניסים את הכדור לסל מלמעלה בכוח"
+    },
+    {
+      "id": 6,
+      "question": "The point guard delivered a beautiful _____ to the open player under the basket.",
+      "options": [
+        "(a) Foul line",
+        "(b) Three-pointer",
+        "(c) Court",
+        "(d) Assist"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "מסירה שמביאה ישירות לסל"
+    },
+    {
+      "id": 7,
+      "question": "His sloppy pass was a costly _____ that gave the other team an easy basket.",
+      "options": [
+        "(a) Turnover",
+        "(b) Guard",
+        "(c) Dunk",
+        "(d) Free throw"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "כשמאבדים את הכדור ליריב"
+    },
+    {
+      "id": 8,
+      "question": "The _____ brought the ball up the court and organised the team's attack.",
+      "options": [
+        "(a) Rebound",
+        "(b) Assist",
+        "(c) Guard",
+        "(d) Foul line"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "השחקן שמנהל את ההתקפה ומביא את הכדור"
+    },
+    {
+      "id": 9,
+      "question": "The tall _____ posted up near the basket and was impossible to stop in the paint.",
+      "options": [
+        "(a) Court",
+        "(b) Centre",
+        "(c) Three-pointer",
+        "(d) Turnover"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "השחקן הגבוה במרכז שמשחק ליד הסל"
+    },
+    {
+      "id": 10,
+      "question": "He bounced the ball twice, took a deep breath, and stepped up to the _____ to shoot.",
+      "options": [
+        "(a) Dunk",
+        "(b) Rebound",
+        "(c) Assist",
+        "(d) Foul line"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "הקו שממנו יורים זריקות חופשיות"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "Last Tuesday evening, Moshe sat in his favourite armchair with his grandson Yonatan, who is eleven years old and already knows everything about basketball. They were watching Maccabi Tel Aviv play against Hapoel Jerusalem — one of the biggest rivalries in Israeli basketball.\n\nThe game started at a fast pace. Maccabi's guard dribbled the length of the court and found the centre with a sharp assist. The centre caught the ball near the basket and finished with a strong dunk. The crowd in Menora Mivtachim Arena roared.\n\nMoshe did not understand everything, so Yonatan explained patiently. 'Saba, when the guard brings the ball up and passes to a teammate who scores, that is called an assist,' Yonatan said.\n\nIn the second quarter, Maccabi's best player was fouled and walked to the foul line. He hit both free throws to stretch the lead. A moment later, Hapoel committed a turnover with a bad pass, and Maccabi scored immediately.\n\nBut Hapoel fought back. Their shooter stepped beyond the arc and hit a three-pointer to bring the crowd back into it. Then their tall centre won a rebound off a missed shot and scored.\n\nBy the end of the game, Moshe was leaning forward in his chair and shouting along with Yonatan. Maccabi won by four points. Walking to the kitchen to make tea, Moshe smiled and said: 'Yonatan, next time I want to go to the arena with you.'",
+    "questions": [
+      {
+        "id": 11,
+        "question": "Who did Moshe watch the basketball game with?",
+        "options": [
+          "(a) His son",
+          "(b) His neighbour",
+          "(c) His grandson Yonatan",
+          "(d) His wife"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 12,
+        "question": "Which two teams were playing?",
+        "options": [
+          "(a) Maccabi Haifa and Hapoel Tel Aviv",
+          "(b) Maccabi Tel Aviv and Hapoel Jerusalem",
+          "(c) Bnei Herzliya and Maccabi Tel Aviv",
+          "(d) Hapoel Jerusalem and Hapoel Tel Aviv"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 13,
+        "question": "How did Maccabi score their first basket?",
+        "options": [
+          "(a) With a three-pointer from the arc",
+          "(b) With a free throw at the foul line",
+          "(c) The guard dunked from the baseline",
+          "(d) The guard passed an assist to the centre, who dunked"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 14,
+        "question": "What did Yonatan explain to Moshe?",
+        "options": [
+          "(a) What a dunk is",
+          "(b) What a rebound is",
+          "(c) What an assist is",
+          "(d) What a foul line is"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 15,
+        "question": "Why did Maccabi's player walk to the foul line?",
+        "options": [
+          "(a) He scored a three-pointer",
+          "(b) He was fouled by a Hapoel player",
+          "(c) He grabbed a rebound",
+          "(d) He committed a turnover"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 16,
+        "question": "What happened after Hapoel committed a turnover?",
+        "options": [
+          "(a) Hapoel scored a three-pointer",
+          "(b) Maccabi's centre grabbed a rebound",
+          "(c) Maccabi scored immediately",
+          "(d) The game was stopped for a timeout"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 17,
+        "question": "How did Hapoel begin their comeback?",
+        "options": [
+          "(a) Their guard scored a dunk",
+          "(b) Their shooter hit a three-pointer",
+          "(c) Their centre hit two free throws",
+          "(d) Their guard stole the ball and scored"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 18,
+        "question": "How did Hapoel's centre score in the second quarter?",
+        "options": [
+          "(a) He hit a three-pointer from the arc",
+          "(b) He scored from the foul line",
+          "(c) He won a rebound off a missed shot and scored",
+          "(d) He received an assist from the guard"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 19,
+        "question": "By how many points did Maccabi win?",
+        "options": [
+          "(a) Two points",
+          "(b) Three points",
+          "(c) Five points",
+          "(d) Four points"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 20,
+        "question": "What did Moshe say at the end of the story?",
+        "options": [
+          "(a) He said basketball was too confusing",
+          "(b) He said he wanted to go to the arena with Yonatan next time",
+          "(c) He said he preferred football",
+          "(d) He said Hapoel should have won"
+        ],
+        "correct_answer": "b"
+      }
+    ]
+  }
+}

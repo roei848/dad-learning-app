@@ -1,4 +1,5 @@
 import React from 'react';
+import { ArrowLeft } from 'lucide-react';
 import styled from 'styled-components';
 
 import StageHeader from '../../components/stageHeader/StageHeader';
@@ -8,16 +9,23 @@ import type { WordBankItem } from '../../types';
 export interface WordBankPresenterProps {
   wordBank: WordBankItem[];
   onStartLearning: () => void;
+  onExit: () => void;
   icon: React.ReactNode;
 }
 
 const WordBank: React.FC<WordBankPresenterProps> = ({
   wordBank,
   onStartLearning,
+  onExit,
   icon,
 }) => {
   return (
     <WordBankWrapper>
+      <button className="word-bank__back-btn" onClick={onExit} type="button">
+        <ArrowLeft size={18} />
+        <span>Back</span>
+      </button>
+
       <StageHeader
         title="Word Bank"
         description="Learn these words before starting the exercises"
@@ -55,6 +63,30 @@ const WordBankWrapper = styled.main`
   max-width: ${({ theme }) => theme.layout.maxWidth};
   margin: 0 auto;
   padding: ${({ theme }) => theme.spacing.xxl} ${({ theme }) => theme.spacing.xl};
+
+  .word-bank__back-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: ${({ theme }) => theme.spacing.sm};
+    margin-bottom: ${({ theme }) => theme.spacing.xl};
+    padding: ${({ theme }) => theme.spacing.sm} ${({ theme }) => theme.spacing.lg};
+    background: ${({ theme }) => theme.colors.cardBackground};
+    border: none;
+    border-radius: 999px;
+    box-shadow: ${({ theme }) => theme.shadow};
+    cursor: pointer;
+    font-family: ${({ theme }) => theme.typography.fontFamily};
+    font-size: 18px;
+    font-weight: 600;
+    color: ${({ theme }) => theme.colors.primary};
+    transition: box-shadow ${({ theme }) => theme.transition},
+      transform ${({ theme }) => theme.transition};
+
+    &:hover {
+      box-shadow: ${({ theme }) => theme.shadowHover};
+      transform: translateX(-2px);
+    }
+  }
 
   .word-bank__grid {
     display: grid;

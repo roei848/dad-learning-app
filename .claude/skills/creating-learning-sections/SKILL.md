@@ -16,8 +16,6 @@ Each section = one themed topic (e.g. "Dining Out", "Travel"). Adding one requir
 | `word_bank` | 10 items | Each has `word`, `translation` (Hebrew), `example` |
 | `stage_1_sentences` | 10 questions | IDs 1–10, has `hint_hebrew` |
 | `stage_2_story` | 1 story + 10 questions | Question IDs 11–20, NO `hint_hebrew` |
-| `stage_3_visual_situational` | 10 dialogue prompts | IDs 21–30, NO `hint_hebrew` — in JSON but not a live stage yet |
-
 `totalQuestions` is hardcoded to `20` in `sessionSlice.ts` (stages 1 + 2 only).
 
 ## Step 1 — Create the data file
@@ -39,10 +37,7 @@ Each section = one themed topic (e.g. "Dining Out", "Travel"). Adding one requir
   "stage_2_story": {
     "text_en": "...",
     "questions": [{ "id": 11, "question": "...", "options": ["..."], "correct_answer": "a" }]
-  },
-  "stage_3_visual_situational": [
-    { "id": 21, "type": "dialogue", "prompt": "...", "options": ["..."], "correct_answer": "a" }
-  ]
+  }
 }
 ```
 
@@ -57,10 +52,9 @@ import restaurantData from './restaurant.json';
 import shoppingData from './shopping.json';
 import type { Section } from '../types';
 
-// as unknown as Section needed because JSON has stage_3_* not in the Section interface
 const sectionsRegistry: Record<string, Section> = {
-  [restaurantData.section_id]: restaurantData as unknown as Section,
-  [shoppingData.section_id]: shoppingData as unknown as Section,
+  [restaurantData.section_id]: restaurantData as Section,
+  [shoppingData.section_id]: shoppingData as Section,
 };
 
 export default sectionsRegistry;
@@ -163,6 +157,5 @@ interface SectionMeta  { section_id: string; title: string; category: string; ic
 | New section shows restaurant content | Step 4 missed — containers still hardcoded |
 | Wrong icon shown | Step 5 missed — not added to `ICON_MAP` in `SectionCardContainer.tsx` |
 | Section doesn't appear | Step 3 missed — not in `sectionsMeta` in `HomeContainer.tsx` |
-| TypeScript error on registry | Use `as unknown as Section` (stage_3 field not in interface) |
 | Question IDs wrong | Stage 1: IDs 1–10 with `hint_hebrew`; Stage 2: IDs 11–20, no `hint_hebrew` |
 | Data not updating between sections | Constants are at module scope — move inside the component body |

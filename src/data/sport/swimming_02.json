@@ -1,0 +1,295 @@
+{
+  "section_id": "swimming_02",
+  "difficulty": "hard",
+  "title": "Swimming 2",
+  "category": "Sport",
+  "word_bank": [
+    {
+      "word": "Tumble turn",
+      "translation": "סיבוב קצה",
+      "example": "She practised her tumble turn until she could flip, push, and streamline in one smooth motion."
+    },
+    {
+      "word": "Stroke rate",
+      "translation": "קצב תנועות",
+      "example": "The coach told him to increase his stroke rate in the final twenty-five metres to pull ahead."
+    },
+    {
+      "word": "Drag",
+      "translation": "התנגדות מים",
+      "example": "A streamlined body position reduces drag and allows the swimmer to move faster through the water."
+    },
+    {
+      "word": "Pull",
+      "translation": "משיכה",
+      "example": "The coach focused on the pull phase, making sure each hand caught the water correctly beneath the body."
+    },
+    {
+      "word": "Kick",
+      "translation": "בעיטה",
+      "example": "Her kick was so powerful that you could hear the splash from the far end of the pool."
+    },
+    {
+      "word": "Taper",
+      "translation": "הפחתת אימון לפני תחרות",
+      "example": "During the taper week before the championship, the team swam only half the usual distance to feel fresh and strong."
+    },
+    {
+      "word": "Medley",
+      "translation": "מחזור",
+      "example": "In the individual medley, the swimmer must complete one length each of butterfly, backstroke, breaststroke, and freestyle."
+    },
+    {
+      "word": "Split time",
+      "translation": "זמן ביניים",
+      "example": "The coach recorded the split time at the fifty-metre mark to see if the pace was steady."
+    },
+    {
+      "word": "Open water",
+      "translation": "שחייה במים פתוחים",
+      "example": "He trained for months in the pool before his first open water race in the Sea of Galilee."
+    },
+    {
+      "word": "Pace clock",
+      "translation": "שעון קצב",
+      "example": "She checked the pace clock after every lap to make sure she was holding the target time."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "She executed a perfect _____ at the wall and pushed off in a tight streamline without losing speed.",
+      "options": [
+        "(a) Split time",
+        "(b) Tumble turn",
+        "(c) Open water",
+        "(d) Medley"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "הפיכה והתנעה מהקיר בסוף כל אורך"
+    },
+    {
+      "id": 2,
+      "question": "The coach asked him to raise his _____ in the last length so he would not be overtaken.",
+      "options": [
+        "(a) Drag",
+        "(b) Taper",
+        "(c) Stroke rate",
+        "(d) Kick"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "מספר תנועות הידיים בדקה"
+    },
+    {
+      "id": 3,
+      "question": "Keeping your hips high reduces _____ and helps you glide through the water more efficiently.",
+      "options": [
+        "(a) Pace clock",
+        "(b) Drag",
+        "(c) Pull",
+        "(d) Split time"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "ההתנגדות שהמים יוצרים נגד השחיין"
+    },
+    {
+      "id": 4,
+      "question": "A strong _____ under the water is what actually moves you forward — the entry is just the beginning.",
+      "options": [
+        "(a) Medley",
+        "(b) Open water",
+        "(c) Taper",
+        "(d) Pull"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "תנועת המשיכה של היד מתחת למים"
+    },
+    {
+      "id": 5,
+      "question": "Her _____ was fast and compact, keeping her legs high and close together throughout the race.",
+      "options": [
+        "(a) Kick",
+        "(b) Split time",
+        "(c) Pace clock",
+        "(d) Tumble turn"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "תנועת הרגליים בשחייה"
+    },
+    {
+      "id": 6,
+      "question": "During the _____ week before the national championship, Lior rested more and swam shorter distances.",
+      "options": [
+        "(a) Drag",
+        "(b) Medley",
+        "(c) Taper",
+        "(d) Stroke rate"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "שבוע מנוחה והפחתת עומס לפני תחרות"
+    },
+    {
+      "id": 7,
+      "question": "The individual _____ requires swimming all four strokes in order — butterfly, backstroke, breaststroke, and freestyle.",
+      "options": [
+        "(a) Medley",
+        "(b) Open water",
+        "(c) Pull",
+        "(d) Kick"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "מירוץ המשלב את כל ארבעת סגנונות השחייה"
+    },
+    {
+      "id": 8,
+      "question": "The coach checked the _____ at the halfway mark and saw that Lior was two seconds ahead of schedule.",
+      "options": [
+        "(a) Tumble turn",
+        "(b) Split time",
+        "(c) Taper",
+        "(d) Drag"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "הזמן שנמדד באמצע המירוץ"
+    },
+    {
+      "id": 9,
+      "question": "Swimming in _____ is very different from a pool — there are waves, currents, and no lane ropes to guide you.",
+      "options": [
+        "(a) Pace clock",
+        "(b) Stroke rate",
+        "(c) Open water",
+        "(d) Pull"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "שחייה בים, בנהר או באגם"
+    },
+    {
+      "id": 10,
+      "question": "She glanced at the _____ after touching the wall and knew she needed to push harder in the final length.",
+      "options": [
+        "(a) Kick",
+        "(b) Medley",
+        "(c) Open water",
+        "(d) Pace clock"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "השעון הגדול שעל קיר הבריכה"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "The night before the Maccabiah regional championship, Lior sat next to his grandfather Moshe at the kitchen table. Lior was sixteen and had been training five mornings a week for two years. Moshe wanted to understand.\n\n'Explain to me,' Moshe said, placing his tea down. 'What exactly happens tomorrow?'\n\nLior opened his notebook. 'I swim the two-hundred individual medley, Saba. That means all four strokes — butterfly first, then backstroke, breaststroke, and freestyle at the end. One hundred and fifty metres of suffering,' he smiled.\n\n'What has the coach told you to do differently this week?' Moshe asked. 'We are in taper,' Lior said. 'We trained much less — shorter sessions, easy distances. The body rests and feels strong again. It sounds like doing nothing, but it is very scientific.'\n\n'And in the race itself?' Lior pulled out a printed sheet with numbers on it. 'This is my split time plan. I need to finish the butterfly fifty metres in thirty-two seconds. If I check the pace clock at the turn and I am too slow, I know I need to push harder.'\n\nMoshe pointed to a drawing of a swimmer at the wall. 'What is this?' 'That is the tumble turn, Saba. At every wall, instead of stopping, you flip, plant your feet, and push off underwater. A bad tumble turn can cost you half a second — a good one gives you speed for free.'\n\n'And how do you go faster?' Moshe asked. Lior thought for a moment. 'Three things. A high stroke rate so I do not slow down in the middle. A strong pull under the water — that is where the real power comes from. And good kick to keep my legs up so there is less drag. If I do all three, I have a chance.'\n\nMoshe nodded slowly. 'You sound like an engineer.' Lior laughed. 'Swimming is engineering, Saba. Come tomorrow and you will see.'",
+    "questions": [
+      {
+        "id": 11,
+        "question": "What competition was Lior preparing for?",
+        "options": [
+          "(a) The Israeli national open water championship",
+          "(b) A school gala in Tel Aviv",
+          "(c) The Maccabiah regional championship",
+          "(d) A local club time trial"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 12,
+        "question": "How long had Lior been training five mornings a week?",
+        "options": [
+          "(a) Six months",
+          "(b) One year",
+          "(c) Three years",
+          "(d) Two years"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 13,
+        "question": "What event was Lior swimming at the championship?",
+        "options": [
+          "(a) The four-hundred freestyle",
+          "(b) The two-hundred individual medley",
+          "(c) The one-hundred backstroke",
+          "(d) The open water relay"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "In what order are the strokes swum in the individual medley?",
+        "options": [
+          "(a) Freestyle, backstroke, butterfly, breaststroke",
+          "(b) Backstroke, breaststroke, butterfly, freestyle",
+          "(c) Butterfly, backstroke, breaststroke, freestyle",
+          "(d) Breaststroke, freestyle, backstroke, butterfly"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 15,
+        "question": "What does taper mean, according to Lior?",
+        "options": [
+          "(a) Training harder than usual in the final week",
+          "(b) Eating more food before a competition",
+          "(c) Reducing training volume so the body can rest and recover",
+          "(d) Practising the tumble turn many extra times"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 16,
+        "question": "What target did Lior set for his butterfly split time?",
+        "options": [
+          "(a) Twenty-eight seconds for fifty metres",
+          "(b) Thirty-two seconds for fifty metres",
+          "(c) Thirty seconds for one hundred metres",
+          "(d) Thirty-five seconds for fifty metres"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 17,
+        "question": "What does Lior use to check his pace during the race?",
+        "options": [
+          "(a) His coach shouting the time",
+          "(b) His own watch on his wrist",
+          "(c) The split time sheet in his pocket",
+          "(d) The pace clock at the wall"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 18,
+        "question": "What is the advantage of a good tumble turn?",
+        "options": [
+          "(a) It allows the swimmer to breathe at the wall",
+          "(b) It adds speed without extra effort",
+          "(c) It gives the swimmer extra rest time",
+          "(d) It reduces the stroke rate needed"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 19,
+        "question": "What are the three things Lior says will help him go faster?",
+        "options": [
+          "(a) A high stroke rate, a strong pull, and a good kick",
+          "(b) A fast tumble turn, less drag, and open water training",
+          "(c) A good dive, a high kick, and a fast split time",
+          "(d) A long pull, a slow stroke rate, and less drag"
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": 20,
+        "question": "What did Moshe compare Lior to at the end of their conversation?",
+        "options": [
+          "(a) A soldier preparing for battle",
+          "(b) A doctor studying the body",
+          "(c) An engineer",
+          "(d) A teacher explaining a lesson"
+        ],
+        "correct_answer": "c"
+      }
+    ]
+  }
+}

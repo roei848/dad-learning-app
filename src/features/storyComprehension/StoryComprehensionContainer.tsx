@@ -1,10 +1,10 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { BookText } from 'lucide-react';
 
 import { useAppDispatch, useAppSelector } from '../../app/hooks';
 import sectionsRegistry from '../../data/sectionsRegistry';
-import { advanceStage, nextQuestion } from '../../store/sessionSlice';
 import { markCompleted } from '../../store/sectionsSlice';
+import { advanceStage, nextQuestion, resetSession } from '../../store/sessionSlice';
 import type { StoryQuestion } from '../../types';
 import StoryComprehension from './StoryComprehension';
 
@@ -18,6 +18,8 @@ const StoryComprehensionContainer: React.FC<StoryComprehensionContainerProps> = 
   const sectionData = sectionsRegistry[currentSectionId ?? ''];
   const storyText: string = sectionData?.stage_2_story.text_en ?? '';
   const questions: StoryQuestion[] = sectionData?.stage_2_story.questions ?? [];
+
+  const [showExitConfirm, setShowExitConfirm] = useState(false);
 
   const currentQuestion = questions[currentQuestionIndex];
   const isLastQuestion = currentQuestionIndex === questions.length - 1;
@@ -39,12 +41,20 @@ const StoryComprehensionContainer: React.FC<StoryComprehensionContainerProps> = 
     }
   };
 
+  const handleExitRequest = () => setShowExitConfirm(true);
+  const handleExitCancel = () => setShowExitConfirm(false);
+  const handleExitConfirm = () => dispatch(resetSession());
+
   return (
     <StoryComprehension
       storyText={storyText}
       currentQuestion={currentQuestion}
       onNext={handleNext}
       stageIcon={<BookText size={36} />}
+      showExitConfirm={showExitConfirm}
+      onExitRequest={handleExitRequest}
+      onExitConfirm={handleExitConfirm}
+      onExitCancel={handleExitCancel}
     />
   );
 };

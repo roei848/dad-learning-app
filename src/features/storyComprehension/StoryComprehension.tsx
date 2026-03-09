@@ -1,16 +1,22 @@
 import React from 'react';
+import { LogOut } from 'lucide-react';
 import styled from 'styled-components';
 
-import type { StoryQuestion } from '../../types';
+import ExitConfirmModal from '../../components/exitConfirmModal/ExitConfirmModal';
 import ProgressBarContainer from '../../components/progressBar/ProgressBarContainer';
-import StageHeader from '../../components/stageHeader/StageHeader';
 import QuestionCardContainer from '../../components/questionCard/QuestionCardContainer';
+import StageHeader from '../../components/stageHeader/StageHeader';
+import type { StoryQuestion } from '../../types';
 
 export interface StoryComprehensionPresenterProps {
   storyText: string;
   currentQuestion: StoryQuestion;
   onNext: () => void;
   stageIcon: React.ReactNode;
+  showExitConfirm: boolean;
+  onExitRequest: () => void;
+  onExitConfirm: () => void;
+  onExitCancel: () => void;
 }
 
 const StoryComprehension: React.FC<StoryComprehensionPresenterProps> = ({
@@ -18,9 +24,17 @@ const StoryComprehension: React.FC<StoryComprehensionPresenterProps> = ({
   currentQuestion,
   onNext,
   stageIcon,
+  showExitConfirm,
+  onExitRequest,
+  onExitConfirm,
+  onExitCancel,
 }) => {
   return (
     <StoryComprehensionWrapper>
+      <button className="exit-btn" onClick={onExitRequest} type="button">
+        <LogOut size={18} />
+        <span>Exit</span>
+      </button>
       <ProgressBarContainer />
       <StageHeader
         title="Story Comprehension"
@@ -37,6 +51,11 @@ const StoryComprehension: React.FC<StoryComprehensionPresenterProps> = ({
         options={currentQuestion.options}
         correctAnswer={currentQuestion.correct_answer}
         onNext={onNext}
+      />
+      <ExitConfirmModal
+        isOpen={showExitConfirm}
+        onConfirm={onExitConfirm}
+        onCancel={onExitCancel}
       />
     </StoryComprehensionWrapper>
   );
@@ -68,6 +87,29 @@ const StoryComprehensionWrapper = styled.main`
     margin-bottom: ${({ theme }) => theme.spacing.xl};
     /* Preserve paragraph breaks from the source text */
     white-space: pre-wrap;
+  }
+
+  .exit-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: ${({ theme }) => theme.spacing.sm};
+    margin-bottom: ${({ theme }) => theme.spacing.lg};
+    padding: ${({ theme }) => theme.spacing.sm} ${({ theme }) => theme.spacing.md};
+    background: none;
+    border: 1.5px solid ${({ theme }) => theme.colors.border};
+    border-radius: 999px;
+    cursor: pointer;
+    font-family: ${({ theme }) => theme.typography.fontFamily};
+    font-size: 16px;
+    font-weight: 600;
+    color: ${({ theme }) => theme.colors.textLight};
+    transition: color ${({ theme }) => theme.transition},
+      border-color ${({ theme }) => theme.transition};
+
+    &:hover {
+      color: ${({ theme }) => theme.colors.wrong};
+      border-color: ${({ theme }) => theme.colors.wrong};
+    }
   }
 
   @media (max-width: 480px) {

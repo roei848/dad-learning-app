@@ -1,0 +1,295 @@
+{
+  "section_id": "football_03",
+  "difficulty": "medium",
+  "title": "Football 3",
+  "category": "Sport",
+  "word_bank": [
+    {
+      "word": "Pressing",
+      "translation": "לחץ",
+      "example": "Their intense pressing forced the goalkeeper into a mistake that led to the opening goal."
+    },
+    {
+      "word": "Counter-attack",
+      "translation": "התקפה נגדית",
+      "example": "Maccabi soaked up the pressure and then launched a devastating counter-attack to score."
+    },
+    {
+      "word": "Marking",
+      "translation": "שמירה",
+      "example": "The defender's close marking kept their dangerous striker completely quiet all evening."
+    },
+    {
+      "word": "Overlap",
+      "translation": "ריצת חפיפה",
+      "example": "The full-back made a brilliant overlap on the right flank and delivered a perfect cross."
+    },
+    {
+      "word": "Set piece",
+      "translation": "מצב נייח",
+      "example": "The coach worked hard on set piece routines in training and they paid off with a goal today."
+    },
+    {
+      "word": "Winger",
+      "translation": "שחקן אגף",
+      "example": "The winger ran past the full-back as if he was not there and whipped in a dangerous cross."
+    },
+    {
+      "word": "Playmaker",
+      "translation": "שחקן מנהל",
+      "example": "The playmaker pulled all the strings in midfield, creating three clear chances in the first half."
+    },
+    {
+      "word": "Extra time",
+      "translation": "הארכה",
+      "example": "The match was still level after ninety minutes so the teams had to play extra time."
+    },
+    {
+      "word": "Away goal",
+      "translation": "שער חוץ",
+      "example": "Although they lost the second leg two-one, their away goal from the first match sent them through."
+    },
+    {
+      "word": "Own goal",
+      "translation": "גול עצמי",
+      "example": "The defender unluckily deflected the cross into his own net for an own goal."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "Hapoel Beer Sheva's high _____ in the second half forced Maccabi to make several mistakes at the back.",
+      "options": [
+        "(a) Extra time",
+        "(b) Pressing",
+        "(c) Overlap",
+        "(d) Away goal"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "כשהקבוצה מפעילה לחץ גבוה ויוצרת לחץ על הקבוצה היריבה"
+    },
+    {
+      "id": 2,
+      "question": "Maccabi defended deep for an hour and then broke forward on a quick _____ to score the winner.",
+      "options": [
+        "(a) Counter-attack",
+        "(b) Marking",
+        "(c) Set piece",
+        "(d) Own goal"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "כשהקבוצה מגינה ואז תוקפת במהירות לכיוון השני"
+    },
+    {
+      "id": 3,
+      "question": "The coach ordered tight _____ on Hapoel's playmaker because he was controlling the entire game.",
+      "options": [
+        "(a) Winger",
+        "(b) Extra time",
+        "(c) Marking",
+        "(d) Overlap"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "כשמגן עוקב מקרוב אחרי שחקן מסוים כדי לנטרל אותו"
+    },
+    {
+      "id": 4,
+      "question": "The left back made a superb _____ on the flank to support the attack and received the ball in acres of space.",
+      "options": [
+        "(a) Own goal",
+        "(b) Playmaker",
+        "(c) Away goal",
+        "(d) Overlap"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "כשהמגן רץ מעבר לאגפן שלו לכיוון קדימה ויוצר מצב כפול"
+    },
+    {
+      "id": 5,
+      "question": "The team spent all week practising their _____ routines and scored from a corner in the very first minute.",
+      "options": [
+        "(a) Set piece",
+        "(b) Counter-attack",
+        "(c) Pressing",
+        "(d) Winger"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "מצב של כדור עצור, כמו בעיטת פינה או בעיטה חופשית"
+    },
+    {
+      "id": 6,
+      "question": "The pacey _____ tormented the full-back all night with his speed and skill on the right flank.",
+      "options": [
+        "(a) Extra time",
+        "(b) Marking",
+        "(c) Winger",
+        "(d) Own goal"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "השחקן שמשחק על הצד ומנסה לעבור את המגן ולהכניס כדורים"
+    },
+    {
+      "id": 7,
+      "question": "Their creative _____ orchestrated the whole attack, finding space between the lines and threading brilliant passes.",
+      "options": [
+        "(a) Playmaker",
+        "(b) Overlap",
+        "(c) Away goal",
+        "(d) Counter-attack"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "השחקן היצירתי שמנהל ומארגן את ההתקפה"
+    },
+    {
+      "id": 8,
+      "question": "The match remained level after ninety minutes and the referee signalled the start of _____.",
+      "options": [
+        "(a) Set piece",
+        "(b) Extra time",
+        "(c) Pressing",
+        "(d) Marking"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "זמן נוסף שמשחקים כשהמשחק מסתיים בתיקו"
+    },
+    {
+      "id": 9,
+      "question": "Maccabi drew nil-nil in the second leg, but their _____ from the first match was enough to send them through.",
+      "options": [
+        "(a) Winger",
+        "(b) Overlap",
+        "(c) Away goal",
+        "(d) Playmaker"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "שער שנכנס במגרש הקבוצה היריבה שנחשב יותר חשוב בהדחות"
+    },
+    {
+      "id": 10,
+      "question": "The poor defender deflected the cross into his own net for a cruel _____ that decided the match.",
+      "options": [
+        "(a) Counter-attack",
+        "(b) Extra time",
+        "(c) Set piece",
+        "(d) Own goal"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "שער שנכנס על ידי שחקן לשער שלו בטעות"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "Moshe's son Avi is a big football fan who follows European competitions closely. One evening, Moshe and his grandson Yonatan sat with Avi to watch a thrilling European cup tie between Hapoel Beer Sheva and a strong side from Spain.\n\nThe Spanish team dominated the first half with intense pressing that left Hapoel's defenders no time to think. Their playmaker pulled the strings in midfield, finding the winger with clever passes again and again. Hapoel struggled to cope, and in the twenty-eighth minute, a well-worked set piece — a short corner routine — led to a goal that put the Spanish side one-nil ahead.\n\nAvi explained to Moshe and Yonatan: 'Hapoel must stop the winger. They need tighter marking on him or he will destroy them all night.'\n\nHapoel's coach listened too. After half-time, he told his full-back to make overlapping runs on the right to stretch the Spanish defence, and told his players to look for a counter-attack whenever they won the ball. The tactic worked beautifully. In the sixty-fifth minute, Hapoel's full-back made a brilliant overlap, crossed the ball, and the striker was brought down in the box. Penalty — one-all.\n\nThe match stayed level deep into the second half. With only minutes left in extra time, the Spanish captain unfortunately deflected a Hapoel cross into his own net. An own goal gave Hapoel a famous two-one victory.\n\nHapoel had scored an away goal in the first leg and now won at home — they were through! Yonatan jumped off the sofa. Moshe laughed and said to Avi: 'I think I am starting to understand football.'",
+    "questions": [
+      {
+        "id": 11,
+        "question": "Who did Hapoel Beer Sheva play against in the European cup tie?",
+        "options": [
+          "(a) A French club",
+          "(b) A Spanish club",
+          "(c) A German club",
+          "(d) An English club"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 12,
+        "question": "What made Hapoel's defenders struggle in the first half?",
+        "options": [
+          "(a) The slippery pitch",
+          "(b) The referee's decisions",
+          "(c) The Spanish team's intense pressing",
+          "(d) An early injury to their goalkeeper"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 13,
+        "question": "How did the Spanish team score their first goal?",
+        "options": [
+          "(a) From a counter-attack",
+          "(b) From a set piece — a short corner routine",
+          "(c) From a penalty kick",
+          "(d) From an own goal by a Hapoel defender"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "What did Avi tell Moshe and Yonatan Hapoel needed to do?",
+        "options": [
+          "(a) Score quickly on the counter-attack",
+          "(b) Replace the goalkeeper",
+          "(c) Press higher up the pitch",
+          "(d) Use tighter marking on the winger"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 15,
+        "question": "What tactic did Hapoel's coach introduce in the second half?",
+        "options": [
+          "(a) More pressing and an extra striker",
+          "(b) Overlapping runs and looking for a counter-attack",
+          "(c) Defensive marking and time-wasting",
+          "(d) Long balls to bypass the midfield"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 16,
+        "question": "How did Hapoel earn their penalty?",
+        "options": [
+          "(a) Their playmaker was tripped in the centre circle",
+          "(b) The winger was fouled near the corner flag",
+          "(c) The full-back was brought down after an overlap and cross",
+          "(d) The striker was pushed in the wall at a free kick"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 17,
+        "question": "How did Hapoel score their winning goal?",
+        "options": [
+          "(a) Their playmaker scored from outside the area",
+          "(b) The Spanish captain scored an own goal",
+          "(c) Hapoel scored with a counter-attack in normal time",
+          "(d) The winger scored after a one-two with the striker"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 18,
+        "question": "When did Hapoel's winning goal go in?",
+        "options": [
+          "(a) In the last minute of normal time",
+          "(b) Just after half-time",
+          "(c) With only minutes left in extra time",
+          "(d) In the opening seconds of the match"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 19,
+        "question": "Why did Hapoel go through to the next round?",
+        "options": [
+          "(a) They won both legs two-nil",
+          "(b) They won on penalties",
+          "(c) They won the second leg and had scored an away goal in the first",
+          "(d) The Spanish club were disqualified"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 20,
+        "question": "What did Moshe say at the end of the match?",
+        "options": [
+          "(a) He was too tired and went to bed",
+          "(b) He said he was starting to understand football",
+          "(c) He said football was still too complicated for him",
+          "(d) He asked Avi to switch to a different channel"
+        ],
+        "correct_answer": "b"
+      }
+    ]
+  }
+}

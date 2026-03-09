@@ -1,7 +1,7 @@
 {
   "section_id": "football_01",
   "difficulty": "easy",
-  "title": "The Beautiful Game",
+  "title": "Football 1",
   "category": "Sport",
   "word_bank": [
     {
@@ -59,70 +59,120 @@
     {
       "id": 1,
       "question": "The _____ raised the red card and sent the player off the pitch.",
-      "options": ["(a) Referee", "(b) Substitute", "(c) Formation", "(d) Header"],
+      "options": [
+        "(a) Referee",
+        "(b) Substitute",
+        "(c) Formation",
+        "(d) Header"
+      ],
       "correct_answer": "a",
       "hint_hebrew": "האיש שאחראי על הכללים במשחק"
     },
     {
       "id": 2,
       "question": "The captain stepped up and converted the _____ to give his side the lead.",
-      "options": ["(a) Offside", "(b) Penalty", "(c) Equaliser", "(d) Foul"],
+      "options": [
+        "(a) Offside",
+        "(b) Penalty",
+        "(c) Equaliser",
+        "(d) Foul"
+      ],
       "correct_answer": "b",
       "hint_hebrew": "בעיטה מנקודת ה-11 מטר"
     },
     {
       "id": 3,
       "question": "The linesman raised his flag to signal _____, and the goal was ruled out.",
-      "options": ["(a) Formation", "(b) Dribble", "(c) Offside", "(d) Pitch"],
+      "options": [
+        "(a) Formation",
+        "(b) Dribble",
+        "(c) Offside",
+        "(d) Pitch"
+      ],
       "correct_answer": "c",
       "hint_hebrew": "כשהתוקף לפני המגן האחרון"
     },
     {
       "id": 4,
       "question": "The manager decided to bring on a _____ after the striker picked up an injury.",
-      "options": ["(a) Substitute", "(b) Header", "(c) Foul", "(d) Equaliser"],
+      "options": [
+        "(a) Substitute",
+        "(b) Header",
+        "(c) Foul",
+        "(d) Equaliser"
+      ],
       "correct_answer": "a",
       "hint_hebrew": "שחקן שנכנס במקום שחקן אחר"
     },
     {
       "id": 5,
       "question": "He was booked for a dangerous _____ from behind that could have injured the midfielder.",
-      "options": ["(a) Pitch", "(b) Formation", "(c) Penalty", "(d) Foul"],
+      "options": [
+        "(a) Pitch",
+        "(b) Formation",
+        "(c) Penalty",
+        "(d) Foul"
+      ],
       "correct_answer": "d",
       "hint_hebrew": "פעולה לא חוקית בזמן משחק"
     },
     {
       "id": 6,
       "question": "The coach switched to a four-three-three _____ in the second half to push for a winner.",
-      "options": ["(a) Dribble", "(b) Formation", "(c) Offside", "(d) Referee"],
+      "options": [
+        "(a) Dribble",
+        "(b) Formation",
+        "(c) Offside",
+        "(d) Referee"
+      ],
       "correct_answer": "b",
       "hint_hebrew": "הסידור הטקטי של השחקנים במגרש"
     },
     {
       "id": 7,
       "question": "The young winger could _____ past defenders with ease, making it very difficult to stop him.",
-      "options": ["(a) Equaliser", "(b) Header", "(c) Dribble", "(d) Substitute"],
+      "options": [
+        "(a) Equaliser",
+        "(b) Header",
+        "(c) Dribble",
+        "(d) Substitute"
+      ],
       "correct_answer": "c",
       "hint_hebrew": "לנהל את הכדור ברגליים תוך כדי ריצה"
     },
     {
       "id": 8,
       "question": "He rose above the goalkeeper and powered a _____ into the top corner from the corner kick.",
-      "options": ["(a) Header", "(b) Foul", "(c) Pitch", "(d) Penalty"],
+      "options": [
+        "(a) Header",
+        "(b) Foul",
+        "(c) Pitch",
+        "(d) Penalty"
+      ],
       "correct_answer": "a",
       "hint_hebrew": "בעיטה עם הראש"
     },
     {
       "id": 9,
       "question": "The match was delayed because the _____ had flooded in one corner after the heavy storm.",
-      "options": ["(a) Formation", "(b) Referee", "(c) Substitute", "(d) Pitch"],
+      "options": [
+        "(a) Formation",
+        "(b) Referee",
+        "(c) Substitute",
+        "(d) Pitch"
+      ],
       "correct_answer": "d",
       "hint_hebrew": "השטח הירוק שבו משחקים"
     },
     {
       "id": 10,
       "question": "The crowd erupted when the striker scored an _____ deep into injury time to make it two-all.",
-      "options": ["(a) Offside", "(b) Equaliser", "(c) Dribble", "(d) Foul"],
+      "options": [
+        "(a) Offside",
+        "(b) Equaliser",
+        "(c) Dribble",
+        "(d) Foul"
+      ],
       "correct_answer": "b",
       "hint_hebrew": "שער שמשווה את התוצאה"
     }
@@ -133,135 +183,113 @@
       {
         "id": 11,
         "question": "Which two teams played in the match?",
-        "options": ["(a) Maccabi Tel Aviv and Hapoel Haifa", "(b) Hapoel Tel Aviv and Maccabi Haifa", "(c) Hapoel Jerusalem and Maccabi Tel Aviv", "(d) Beitar Jerusalem and Maccabi Haifa"],
+        "options": [
+          "(a) Maccabi Tel Aviv and Hapoel Haifa",
+          "(b) Hapoel Tel Aviv and Maccabi Haifa",
+          "(c) Hapoel Jerusalem and Maccabi Tel Aviv",
+          "(d) Beitar Jerusalem and Maccabi Haifa"
+        ],
         "correct_answer": "b"
       },
       {
         "id": 12,
         "question": "Who explained the match to Moshe?",
-        "options": ["(a) His son", "(b) His wife", "(c) His grandson Noam", "(d) His neighbour"],
+        "options": [
+          "(a) His son",
+          "(b) His wife",
+          "(c) His grandson Noam",
+          "(d) His neighbour"
+        ],
         "correct_answer": "c"
       },
       {
         "id": 13,
         "question": "Why was a penalty awarded in the fifth minute?",
-        "options": ["(a) A Maccabi player was offside", "(b) A Hapoel player committed a foul in the penalty area", "(c) The referee spotted a handball", "(d) A Hapoel player was sent off"],
+        "options": [
+          "(a) A Maccabi player was offside",
+          "(b) A Hapoel player committed a foul in the penalty area",
+          "(c) The referee spotted a handball",
+          "(d) A Hapoel player was sent off"
+        ],
         "correct_answer": "b"
       },
       {
         "id": 14,
         "question": "Who scored the penalty for Maccabi?",
-        "options": ["(a) The goalkeeper", "(b) The substitute", "(c) The winger", "(d) Maccabi's captain"],
+        "options": [
+          "(a) The goalkeeper",
+          "(b) The substitute",
+          "(c) The winger",
+          "(d) Maccabi's captain"
+        ],
         "correct_answer": "d"
       },
       {
         "id": 15,
         "question": "How many times was Hapoel caught offside in the first half?",
-        "options": ["(a) Once", "(b) Twice", "(c) Three times", "(d) Four times"],
+        "options": [
+          "(a) Once",
+          "(b) Twice",
+          "(c) Three times",
+          "(d) Four times"
+        ],
         "correct_answer": "c"
       },
       {
         "id": 16,
         "question": "What formation did Hapoel switch to at half-time?",
-        "options": ["(a) Four-four-two", "(b) Three-five-two", "(c) Four-three-three", "(d) Five-three-two"],
+        "options": [
+          "(a) Four-four-two",
+          "(b) Three-five-two",
+          "(c) Four-three-three",
+          "(d) Five-three-two"
+        ],
         "correct_answer": "c"
       },
       {
         "id": 17,
         "question": "What was the substitute known for?",
-        "options": ["(a) Dribbling past defenders", "(b) Scoring penalties", "(c) Winning headers from set pieces", "(d) His speed on the wing"],
+        "options": [
+          "(a) Dribbling past defenders",
+          "(b) Scoring penalties",
+          "(c) Winning headers from set pieces",
+          "(d) His speed on the wing"
+        ],
         "correct_answer": "c"
       },
       {
         "id": 18,
         "question": "How did Hapoel score the equaliser?",
-        "options": ["(a) From a penalty kick", "(b) With a header from a corner kick", "(c) After a long dribble by the winger", "(d) With a free kick from outside the area"],
+        "options": [
+          "(a) From a penalty kick",
+          "(b) With a header from a corner kick",
+          "(c) After a long dribble by the winger",
+          "(d) With a free kick from outside the area"
+        ],
         "correct_answer": "b"
       },
       {
         "id": 19,
         "question": "What was the final score?",
-        "options": ["(a) Two-nil to Maccabi", "(b) One-nil to Hapoel", "(c) Two-one to Hapoel", "(d) One-all"],
+        "options": [
+          "(a) Two-nil to Maccabi",
+          "(b) One-nil to Hapoel",
+          "(c) Two-one to Hapoel",
+          "(d) One-all"
+        ],
         "correct_answer": "d"
       },
       {
         "id": 20,
         "question": "What did Moshe say to Noam after the match?",
-        "options": ["(a) He was angry because Hapoel lost", "(b) He said football was boring", "(c) He said in football there is always hope", "(d) He said he would never watch football again"],
+        "options": [
+          "(a) He was angry because Hapoel lost",
+          "(b) He said football was boring",
+          "(c) He said in football there is always hope",
+          "(d) He said he would never watch football again"
+        ],
         "correct_answer": "c"
       }
     ]
-  },
-  "stage_3_visual_situational": [
-    {
-      "id": 21,
-      "type": "dialogue",
-      "prompt": "The linesman raises his flag and the _____ blows his whistle to stop play, signalling that the goal does not count.",
-      "options": ["(a) Substitute", "(b) Referee", "(c) Formation", "(d) Pitch"],
-      "correct_answer": "b"
-    },
-    {
-      "id": 22,
-      "type": "dialogue",
-      "prompt": "The coach shouts from the touchline: 'Number nine, you are coming off! Number eleven, warm up — you are the _____!'",
-      "options": ["(a) Penalty", "(b) Header", "(c) Substitute", "(d) Offside"],
-      "correct_answer": "c"
-    },
-    {
-      "id": 23,
-      "type": "dialogue",
-      "prompt": "The commentator says: 'He goes down inside the box — the referee points to the spot! That is a _____!'",
-      "options": ["(a) Foul", "(b) Dribble", "(c) Formation", "(d) Penalty"],
-      "correct_answer": "d"
-    },
-    {
-      "id": 24,
-      "type": "dialogue",
-      "prompt": "Your friend asks: 'Why did they rule out the goal?' You say: 'The striker was _____ — he was ahead of the last defender.'",
-      "options": ["(a) Offside", "(b) Equaliser", "(c) Pitch", "(d) Header"],
-      "correct_answer": "a"
-    },
-    {
-      "id": 25,
-      "type": "dialogue",
-      "prompt": "The commentator shouts: 'What a _____ — he beats one, two, three defenders and shoots! What skill!'",
-      "options": ["(a) Foul", "(b) Dribble", "(c) Substitute", "(d) Referee"],
-      "correct_answer": "b"
-    },
-    {
-      "id": 26,
-      "type": "dialogue",
-      "prompt": "The coach tells his players before the match: 'We will play a four-four-two _____ today — defenders stay disciplined!'",
-      "options": ["(a) Pitch", "(b) Offside", "(c) Formation", "(d) Equaliser"],
-      "correct_answer": "c"
-    },
-    {
-      "id": 27,
-      "type": "dialogue",
-      "prompt": "The commentator says: 'He rises above everyone and wins the _____ — the ball flies into the top corner! One-all!'",
-      "options": ["(a) Header", "(b) Penalty", "(c) Foul", "(d) Formation"],
-      "correct_answer": "a"
-    },
-    {
-      "id": 28,
-      "type": "dialogue",
-      "prompt": "The announcer says: 'The _____ is in excellent condition tonight — both teams will enjoy playing on the smooth grass.'",
-      "options": ["(a) Referee", "(b) Substitute", "(c) Offside", "(d) Pitch"],
-      "correct_answer": "d"
-    },
-    {
-      "id": 29,
-      "type": "dialogue",
-      "prompt": "The commentator says: 'He trips him from behind — that is a clear _____! The referee has no choice but to book him.'",
-      "options": ["(a) Dribble", "(b) Foul", "(c) Header", "(d) Formation"],
-      "correct_answer": "b"
-    },
-    {
-      "id": 30,
-      "type": "dialogue",
-      "prompt": "The commentator shouts: 'Ninety-third minute and he scores! The _____ — the crowd goes wild! It finishes two-all!'",
-      "options": ["(a) Offside", "(b) Penalty", "(c) Equaliser", "(d) Substitute"],
-      "correct_answer": "c"
-    }
-  ]
+  }
 }

@@ -1,0 +1,295 @@
+{
+  "section_id": "tennis_01",
+  "difficulty": "easy",
+  "title": "Tennis 1",
+  "category": "Sport",
+  "word_bank": [
+    {
+      "word": "Serve",
+      "translation": "הגשה",
+      "example": "She started the point with a powerful serve down the middle of the court."
+    },
+    {
+      "word": "Volley",
+      "translation": "וולי / מכה מהרשת",
+      "example": "He stepped forward and hit a clean volley right at the net to finish the point."
+    },
+    {
+      "word": "Deuce",
+      "translation": "שוויון",
+      "example": "After a long rally, the score reached deuce and both players needed two more points to win the game."
+    },
+    {
+      "word": "Ace",
+      "translation": "אס",
+      "example": "The server hit a perfect ace that bounced into the corner before the opponent could even move."
+    },
+    {
+      "word": "Rally",
+      "translation": "רלי / החלפת מכות",
+      "example": "The crowd held their breath during the thirty-shot rally that decided the final game of the set."
+    },
+    {
+      "word": "Backhand",
+      "translation": "מכה עם גב היד",
+      "example": "She hit a sharp backhand winner down the line that left her opponent standing still."
+    },
+    {
+      "word": "Forehand",
+      "translation": "מכה עם כף היד",
+      "example": "His forehand was so powerful that opponents rarely managed to return it when he hit it to the corner."
+    },
+    {
+      "word": "Tiebreak",
+      "translation": "שובר שיוויון",
+      "example": "The first set went to a tiebreak after both players held their serve throughout."
+    },
+    {
+      "word": "Love",
+      "translation": "אפס",
+      "example": "The server dominated the game and won it to love — the opponent did not score a single point."
+    },
+    {
+      "word": "Net",
+      "translation": "רשת",
+      "example": "His shot clipped the top of the net and fell back onto his own side, losing him the point."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "She opened the point with a powerful _____ that landed right on the service line.",
+      "options": [
+        "(a) Serve",
+        "(b) Volley",
+        "(c) Net",
+        "(d) Love"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "המכה הראשונה שפותחת כל נקודה בטניס"
+    },
+    {
+      "id": 2,
+      "question": "He rushed to the _____ and put away a sharp _____ to end the long exchange.",
+      "options": [
+        "(a) Rally",
+        "(b) Backhand",
+        "(c) Volley",
+        "(d) Tiebreak"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "מכה שמבוצעת ליד הרשת לפני שהכדור נוגע בקרקע"
+    },
+    {
+      "id": 3,
+      "question": "The score was forty-forty, which means the game was at _____.",
+      "options": [
+        "(a) Love",
+        "(b) Ace",
+        "(c) Tiebreak",
+        "(d) Deuce"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "המצב כשהניקוד שווה בארבעים-ארבעים"
+    },
+    {
+      "id": 4,
+      "question": "The first serve flew past the returner untouched — a clean _____ that brought the crowd to their feet.",
+      "options": [
+        "(a) Net",
+        "(b) Ace",
+        "(c) Rally",
+        "(d) Forehand"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "הגשה שהיריב לא מצליח לגעת בה כלל"
+    },
+    {
+      "id": 5,
+      "question": "The two players traded shots in a breathtaking thirty-shot _____ that lasted almost a full minute.",
+      "options": [
+        "(a) Rally",
+        "(b) Love",
+        "(c) Backhand",
+        "(d) Tiebreak"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "החלפת מכות ארוכה בין שני השחקנים"
+    },
+    {
+      "id": 6,
+      "question": "She hit a brilliant two-handed _____ winner that whistled down the line and landed just inside.",
+      "options": [
+        "(a) Serve",
+        "(b) Volley",
+        "(c) Deuce",
+        "(d) Backhand"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "מכה שמבוצעת עם יד ה'חלשה' – צד שמאל עבור ימניים"
+    },
+    {
+      "id": 7,
+      "question": "His _____ was his biggest weapon — he could drive the ball into the corner with tremendous pace.",
+      "options": [
+        "(a) Net",
+        "(b) Forehand",
+        "(c) Love",
+        "(d) Ace"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "מכה שמבוצעת עם יד ה'חזקה' – צד ימין עבור ימניים"
+    },
+    {
+      "id": 8,
+      "question": "After both players held their serve throughout the set, the match went to a _____ to decide the winner.",
+      "options": [
+        "(a) Tiebreak",
+        "(b) Rally",
+        "(c) Deuce",
+        "(d) Serve"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "שיטת הכרעה כשהסט שווה בשש-שש"
+    },
+    {
+      "id": 9,
+      "question": "He won the opening game to _____ — his opponent did not earn a single point throughout the whole game.",
+      "options": [
+        "(a) Backhand",
+        "(b) Net",
+        "(c) Love",
+        "(d) Volley"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "המילה לאפס בטניס — לא קיבלת אפילו נקודה אחת"
+    },
+    {
+      "id": 10,
+      "question": "His shot hit the top of the _____ and dropped back to his own side, giving the point away.",
+      "options": [
+        "(a) Forehand",
+        "(b) Deuce",
+        "(c) Ace",
+        "(d) Net"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "הרשת שמפרידה בין שני צידי המגרש"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "It was a hot Saturday afternoon and Moshe was sitting in his favourite armchair in front of the television. His grandson Yoav, who studies tennis at a local club, had come to visit and convinced Moshe to watch the Wimbledon final together.\n\nThe match was between two great champions. From the first point, the serving player hit a thundering ace that flew past his opponent before he could even raise his racket. Yoav explained to Moshe: 'Saba, that is called an ace — the other player cannot touch the serve at all.'\n\nIn the third game, a long rally began. The two players traded forehand and backhand shots from the baseline, each one trying to force an error. The rally lasted twenty-eight shots before one player finally hit the net and lost the point. The crowd applauded warmly.\n\nThe first set was extremely close. Every game seemed to go to deuce — forty-forty — before one player managed to win. Eventually the set reached six games each and went to a tiebreak. Moshe gripped his tea glass tightly as the tiebreak unfolded, shot by shot.\n\nFinally, the champion rushed to the net and finished the point with a crisp volley. He won the tiebreak seven points to five.\n\nMoshe turned to Yoav and said: 'This game is like chess — but with your body.' Yoav laughed and said: 'Exactly, Saba. Next week I will teach you how to serve.'",
+    "questions": [
+      {
+        "id": 11,
+        "question": "Where was Moshe sitting when he watched the tennis?",
+        "options": [
+          "(a) In the garden",
+          "(b) In his favourite armchair",
+          "(c) At Yoav's tennis club",
+          "(d) In the kitchen"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 12,
+        "question": "Who convinced Moshe to watch the Wimbledon final?",
+        "options": [
+          "(a) His wife",
+          "(b) His son",
+          "(c) His grandson Yoav",
+          "(d) A neighbour"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 13,
+        "question": "What happened on the very first point of the match?",
+        "options": [
+          "(a) A long rally took place",
+          "(b) The player hit the net",
+          "(c) The serving player hit an ace",
+          "(d) The score went to deuce"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 14,
+        "question": "What does an ace mean in tennis, according to Yoav?",
+        "options": [
+          "(a) The score is forty-forty",
+          "(b) The other player cannot touch the serve at all",
+          "(c) The ball hits the net",
+          "(d) The game goes to a tiebreak"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 15,
+        "question": "How long did the rally in the third game last?",
+        "options": [
+          "(a) Ten shots",
+          "(b) Fifteen shots",
+          "(c) Twenty-one shots",
+          "(d) Twenty-eight shots"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 16,
+        "question": "What does deuce mean in tennis?",
+        "options": [
+          "(a) The score is thirty-thirty",
+          "(b) One player has lost all his serves",
+          "(c) The score is forty-forty",
+          "(d) The set is over"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 17,
+        "question": "Why did the first set go to a tiebreak?",
+        "options": [
+          "(a) One player was injured",
+          "(b) Both players reached six games each",
+          "(c) A player served too many double faults",
+          "(d) The match was stopped by rain"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 18,
+        "question": "How did the champion win the final point of the tiebreak?",
+        "options": [
+          "(a) With a powerful serve",
+          "(b) With a forehand winner from the baseline",
+          "(c) With a crisp volley at the net",
+          "(d) His opponent hit the ball out"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 19,
+        "question": "What was the tiebreak score?",
+        "options": [
+          "(a) Seven to three",
+          "(b) Seven to four",
+          "(c) Seven to six",
+          "(d) Seven to five"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 20,
+        "question": "What did Moshe say about tennis at the end?",
+        "options": [
+          "(a) He said it was too slow and boring",
+          "(b) He said it was like chess but with your body",
+          "(c) He said he preferred football",
+          "(d) He said the rackets were too heavy"
+        ],
+        "correct_answer": "b"
+      }
+    ]
+  }
+}

@@ -8,7 +8,7 @@ export function useSpeech(text: string): { isPlaying: boolean; play: () => void 
     window.speechSynthesis.cancel();
     const utterance = new SpeechSynthesisUtterance(text);
     utterance.lang = 'en-US';
-    utterance.rate = 0.5;
+    utterance.rate = 0.65;
     utterance.onstart = () => setIsPlaying(true);
     utterance.onend = () => setIsPlaying(false);
     utterance.onerror = () => setIsPlaying(false);

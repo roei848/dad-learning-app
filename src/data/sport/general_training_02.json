@@ -1,0 +1,295 @@
+{
+  "section_id": "general_training_02",
+  "difficulty": "easy",
+  "title": "General Training 2",
+  "category": "Sport",
+  "word_bank": [
+    {
+      "word": "Coach",
+      "translation": "מאמן",
+      "example": "The coach gathered the team before the match and explained the game plan."
+    },
+    {
+      "word": "Practice",
+      "translation": "תרגול / אימון",
+      "example": "The team had practice every evening to prepare for the upcoming tournament."
+    },
+    {
+      "word": "Tournament",
+      "translation": "טורניר",
+      "example": "Eight schools entered the regional basketball tournament held at the sports centre."
+    },
+    {
+      "word": "Score",
+      "translation": "תוצאה / ניקוד",
+      "example": "Nobody could believe the final score — it was five goals to four in extra time."
+    },
+    {
+      "word": "Champion",
+      "translation": "אלוף",
+      "example": "She became the national chess champion after winning all seven of her matches."
+    },
+    {
+      "word": "Trophy",
+      "translation": "גביע",
+      "example": "The captain lifted the trophy above his head and the whole crowd cheered."
+    },
+    {
+      "word": "Captain",
+      "translation": "קפטן",
+      "example": "The team captain shook hands with the referee before the match began."
+    },
+    {
+      "word": "Opponent",
+      "translation": "יריב",
+      "example": "He respected his opponent but was determined to win the final match."
+    },
+    {
+      "word": "Spectator",
+      "translation": "צופה",
+      "example": "Thousands of spectators filled the stadium to watch the national championship."
+    },
+    {
+      "word": "League",
+      "translation": "ליגה",
+      "example": "Their team finished first in the league and qualified for the national play-offs."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "The _____ called the players together and told them to work harder in the second half.",
+      "options": [
+        "(a) Spectator",
+        "(b) Captain",
+        "(c) Coach",
+        "(d) Opponent"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "האדם שמאמן ומנהל את הקבוצה"
+    },
+    {
+      "id": 2,
+      "question": "The team had three sessions of _____ every week to get ready for the final.",
+      "options": [
+        "(a) Trophy",
+        "(b) Practice",
+        "(c) League",
+        "(d) Score"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "תרגול חוזר כדי להשתפר לקראת משחק"
+    },
+    {
+      "id": 3,
+      "question": "Ten teams from across the country came to compete in the summer _____.",
+      "options": [
+        "(a) Tournament",
+        "(b) Champion",
+        "(c) Captain",
+        "(d) Opponent"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "תחרות שבה קבוצות רבות מתמודדות זו מול זו"
+    },
+    {
+      "id": 4,
+      "question": "At the end of the match, everyone was surprised by the final _____ — it was three-nil.",
+      "options": [
+        "(a) Trophy",
+        "(b) League",
+        "(c) Score",
+        "(d) Practice"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "התוצאה הסופית של המשחק"
+    },
+    {
+      "id": 5,
+      "question": "After winning every match in the competition, she was declared the _____.",
+      "options": [
+        "(a) Spectator",
+        "(b) Opponent",
+        "(c) Coach",
+        "(d) Champion"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "המנצח / אלוף התחרות"
+    },
+    {
+      "id": 6,
+      "question": "The team was so proud when their _____ raised the golden cup above his head.",
+      "options": [
+        "(a) Score",
+        "(b) Tournament",
+        "(c) Trophy",
+        "(d) Practice"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "פרס בצורת גביע שמוענק לזוכה"
+    },
+    {
+      "id": 7,
+      "question": "The _____ led the team onto the pitch and shook hands with the referee.",
+      "options": [
+        "(a) Captain",
+        "(b) League",
+        "(c) Champion",
+        "(d) Spectator"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "מנהיג הקבוצה בשטח"
+    },
+    {
+      "id": 8,
+      "question": "Their _____ was a very strong team from the north, but our boys were not afraid.",
+      "options": [
+        "(a) Trophy",
+        "(b) Score",
+        "(c) Practice",
+        "(d) Opponent"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "הצד השני שמתמודדים מולו"
+    },
+    {
+      "id": 9,
+      "question": "The stadium was full of _____ who cheered loudly every time the home team attacked.",
+      "options": [
+        "(a) Coaches",
+        "(b) Captains",
+        "(c) Spectators",
+        "(d) Champions"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "אנשים שצופים במשחק מהיציע"
+    },
+    {
+      "id": 10,
+      "question": "Their club finished second in the _____ this season, just one point behind the leaders.",
+      "options": [
+        "(a) Trophy",
+        "(b) League",
+        "(c) Tournament",
+        "(d) Score"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "מערכת תחרויות קבועה לאורך עונה שלמה"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "On Friday afternoon, Moshe's daughter-in-law Rina called him with exciting news. 'Abba, come with us tomorrow! Noam's school is playing in a basketball tournament. He is the team captain this year!' Moshe was delighted. He put on his best jacket and came along with the whole family.\n\nThe sports hall was packed with spectators — parents, grandparents, brothers, and sisters all cheering together. Moshe sat in the front row next to Rina and tried to follow the game.\n\nNoam's school was facing a strong opponent from another city. Both teams had clearly worked hard in practice all week. The score changed many times — first it was eight to six, then twelve to twelve, then fifteen to eleven.\n\nAt half-time, the coach spoke quietly to the players. He pointed to Noam and said something. Noam nodded, stood up, and addressed his teammates. The captain had spoken.\n\nIn the second half, Noam's team played with much more energy. They pulled away and won the match. They were now through to the league final.\n\nAfter the match, the coach was presented with a small trophy to mark their progress in the tournament. But for Moshe, the real prize was the smile on Noam's face. Walking to the car, Moshe said: 'You are a true champion, Noami. Not because of the score — but because of how you led your friends.'",
+    "questions": [
+      {
+        "id": 11,
+        "question": "Who told Moshe about the tournament?",
+        "options": [
+          "(a) Noam himself",
+          "(b) His daughter-in-law Rina",
+          "(c) The coach",
+          "(d) His wife"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 12,
+        "question": "What was Noam's role in the team?",
+        "options": [
+          "(a) Coach",
+          "(b) Substitute",
+          "(c) Spectator",
+          "(d) Captain"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 13,
+        "question": "Who was Noam's team playing against?",
+        "options": [
+          "(a) A team from their own school",
+          "(b) A strong opponent from another city",
+          "(c) The national league champions",
+          "(d) A team coached by Moshe's friend"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "What was the score when it was equal?",
+        "options": [
+          "(a) Ten-ten",
+          "(b) Eight-eight",
+          "(c) Twelve-twelve",
+          "(d) Fifteen-fifteen"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 15,
+        "question": "What did the coach do at half-time?",
+        "options": [
+          "(a) He sent two players home",
+          "(b) He spoke quietly to the players and pointed to Noam",
+          "(c) He changed the captain",
+          "(d) He told the team they had already lost"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 16,
+        "question": "What happened in the second half?",
+        "options": [
+          "(a) Noam's team fell further behind",
+          "(b) The match ended in a draw",
+          "(c) Noam's team played better and won",
+          "(d) The coach was asked to leave the hall"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 17,
+        "question": "What did the team qualify for after winning?",
+        "options": [
+          "(a) A national tournament abroad",
+          "(b) The league final",
+          "(c) A practice match next week",
+          "(d) The regional champion play-off"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 18,
+        "question": "What was presented to the coach after the match?",
+        "options": [
+          "(a) A medal",
+          "(b) A certificate",
+          "(c) A small trophy",
+          "(d) Money"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 19,
+        "question": "What sport was Noam playing?",
+        "options": [
+          "(a) Football",
+          "(b) Tennis",
+          "(c) Swimming",
+          "(d) Basketball"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 20,
+        "question": "What did Moshe say to Noam after the match?",
+        "options": [
+          "(a) He said Noam should practise more",
+          "(b) He said Noam was a true champion because of how he led his friends",
+          "(c) He said the score did not matter at all",
+          "(d) He told Noam to speak with the coach"
+        ],
+        "correct_answer": "b"
+      }
+    ]
+  }
+}

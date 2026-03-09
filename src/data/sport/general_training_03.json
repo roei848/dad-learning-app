@@ -1,0 +1,295 @@
+{
+  "section_id": "general_training_03",
+  "difficulty": "medium",
+  "title": "General Training 3",
+  "category": "Sport",
+  "word_bank": [
+    {
+      "word": "Endurance",
+      "translation": "סיבולת",
+      "example": "Running long distances requires a great deal of endurance and mental strength."
+    },
+    {
+      "word": "Technique",
+      "translation": "טכניקה",
+      "example": "The coach spent an hour working on the swimmer's breathing technique."
+    },
+    {
+      "word": "Conditioning",
+      "translation": "הכנה גופנית",
+      "example": "The pre-season conditioning program prepared the players for the demands of the league."
+    },
+    {
+      "word": "Stamina",
+      "translation": "כוח סיבולת",
+      "example": "She had incredible stamina — she could run for two hours without slowing down."
+    },
+    {
+      "word": "Circuit",
+      "translation": "מעגל אימון",
+      "example": "The trainer designed a circuit that combined strength, speed, and balance exercises."
+    },
+    {
+      "word": "Recovery",
+      "translation": "התאוששות",
+      "example": "Proper sleep and nutrition are essential for a fast recovery after intense training."
+    },
+    {
+      "word": "Performance",
+      "translation": "ביצוע",
+      "example": "His performance in the final race was the best of his entire career."
+    },
+    {
+      "word": "Target",
+      "translation": "יעד",
+      "example": "Her target was to finish the half-marathon in under two hours."
+    },
+    {
+      "word": "Progress",
+      "translation": "התקדמות",
+      "example": "The coach was pleased with the team's progress after just six weeks of training."
+    },
+    {
+      "word": "Interval",
+      "translation": "אינטרוול",
+      "example": "He alternated between sprinting and jogging in an interval training session."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "Long-distance runners need great _____ to keep going when their body wants to stop.",
+      "options": [
+        "(a) Interval",
+        "(b) Circuit",
+        "(c) Endurance",
+        "(d) Target"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "היכולת לשמור על מאמץ לאורך זמן"
+    },
+    {
+      "id": 2,
+      "question": "The coach stopped the session to correct the player's throwing _____ before it became a bad habit.",
+      "options": [
+        "(a) Technique",
+        "(b) Recovery",
+        "(c) Stamina",
+        "(d) Progress"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "הדרך הנכונה לבצע תנועה ספורטיבית"
+    },
+    {
+      "id": 3,
+      "question": "The team's pre-season _____ programme focused on building strength and speed for the months ahead.",
+      "options": [
+        "(a) Performance",
+        "(b) Conditioning",
+        "(c) Interval",
+        "(d) Target"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "תוכנית גופנית להכנת הגוף לפני העונה"
+    },
+    {
+      "id": 4,
+      "question": "She had the _____ to keep running at full pace for the entire ninety minutes.",
+      "options": [
+        "(a) Circuit",
+        "(b) Recovery",
+        "(c) Progress",
+        "(d) Stamina"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "כוח הגוף לשמור על קצב לאורך זמן"
+    },
+    {
+      "id": 5,
+      "question": "The trainer set up a _____ with five stations — jumping, lifting, pushing, pulling, and balancing.",
+      "options": [
+        "(a) Interval",
+        "(b) Circuit",
+        "(c) Target",
+        "(d) Endurance"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "מסלול אימון עם תחנות שונות שעוברים ביניהן"
+    },
+    {
+      "id": 6,
+      "question": "Getting enough sleep is the most important part of proper _____ after a hard training day.",
+      "options": [
+        "(a) Performance",
+        "(b) Technique",
+        "(c) Recovery",
+        "(d) Conditioning"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "תהליך בו הגוף מתחזק לאחר מאמץ"
+    },
+    {
+      "id": 7,
+      "question": "His _____ in the championship race was outstanding — a personal best by thirty seconds.",
+      "options": [
+        "(a) Progress",
+        "(b) Performance",
+        "(c) Stamina",
+        "(d) Interval"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "איכות הביצוע בתחרות עצמה"
+    },
+    {
+      "id": 8,
+      "question": "Her _____ for this season was to qualify for the national team by improving her times.",
+      "options": [
+        "(a) Recovery",
+        "(b) Circuit",
+        "(c) Target",
+        "(d) Endurance"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "המטרה שקבעת לעצמך להשיג"
+    },
+    {
+      "id": 9,
+      "question": "After two months of training, Moshe was proud to see the real _____ his granddaughter was making.",
+      "options": [
+        "(a) Progress",
+        "(b) Technique",
+        "(c) Interval",
+        "(d) Conditioning"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "שיפור הדרגתי לאורך זמן"
+    },
+    {
+      "id": 10,
+      "question": "The coach used _____ training — thirty seconds of sprinting followed by one minute of slow jogging.",
+      "options": [
+        "(a) Stamina",
+        "(b) Target",
+        "(c) Performance",
+        "(d) Interval"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "שיטת אימון חילופית בין מאמץ גבוה ומנוחה"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "Moshe's granddaughter Shira had been training seriously for athletics for two years. One Sunday morning, she invited Grandpa Moshe to come and watch her practice session at the local track.\n\nMoshe sat on the bench as Shira's coach, a tall woman named Tamar, put the group through their workout. First came a conditioning session — exercises to build the body's base strength before moving to the track itself.\n\nThen Tamar set up a circuit with four stations around the field. Shira moved from one to the next without stopping, which impressed Moshe greatly. 'How does she do it?' he whispered to himself.\n\nAfterwards, Tamar explained: 'Shira has excellent endurance. Most athletes her age cannot hold their technique when they are tired. But Shira keeps her form even when her stamina is tested.'\n\nShe went on: 'We do a lot of interval training. Thirty seconds hard, sixty seconds easy. It builds her performance over time. And she is making great progress — her times have improved every month.'\n\nMoshe watched as Shira finished her last interval run. She walked over, breathing hard but smiling. 'Grandpa, did you see? I hit my target today — one minute and fifty-eight seconds for the four hundred metres!'\n\nMoshe hugged her. 'I saw everything, motek. I did not understand all of it — but I understood one thing. You work very, very hard.'",
+    "questions": [
+      {
+        "id": 11,
+        "question": "What sport was Shira training for?",
+        "options": [
+          "(a) Swimming",
+          "(b) Athletics",
+          "(c) Basketball",
+          "(d) Tennis"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 12,
+        "question": "What was the name of Shira's coach?",
+        "options": [
+          "(a) Rina",
+          "(b) Noam",
+          "(c) Tamar",
+          "(d) Moshe"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 13,
+        "question": "What did the conditioning session focus on?",
+        "options": [
+          "(a) Running fast laps on the track",
+          "(b) Building the body's base strength",
+          "(c) Improving throwing technique",
+          "(d) Practising recovery between races"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "What did the circuit consist of?",
+        "options": [
+          "(a) Three laps around the track",
+          "(b) Four stations around the field",
+          "(c) Ten minutes of interval running",
+          "(d) Stretching and cool-down"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 15,
+        "question": "What did the coach say made Shira special compared to other athletes her age?",
+        "options": [
+          "(a) She ran faster than everyone else",
+          "(b) She kept her technique even when tired",
+          "(c) She never needed recovery time",
+          "(d) She was the strongest in the circuit"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 16,
+        "question": "How did the interval training work?",
+        "options": [
+          "(a) One minute hard, thirty seconds easy",
+          "(b) Five minutes hard, two minutes easy",
+          "(c) Thirty seconds hard, sixty seconds easy",
+          "(d) Two minutes hard, two minutes easy"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 17,
+        "question": "How often had Shira's times improved?",
+        "options": [
+          "(a) Every week",
+          "(b) Every month",
+          "(c) Every six months",
+          "(d) Only once so far"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 18,
+        "question": "What was Shira's target for the four hundred metres?",
+        "options": [
+          "(a) One minute and forty seconds",
+          "(b) Two minutes exactly",
+          "(c) One minute and fifty-eight seconds",
+          "(d) Two minutes and ten seconds"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 19,
+        "question": "What did Moshe say he understood about Shira?",
+        "options": [
+          "(a) That she was the fastest in her group",
+          "(b) That she would become a national champion",
+          "(c) That she worked very, very hard",
+          "(d) That she should train at a better facility"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 20,
+        "question": "How did Shira look when she finished her last interval run?",
+        "options": [
+          "(a) Angry and frustrated",
+          "(b) Breathing hard but smiling",
+          "(c) Very tired and quiet",
+          "(d) Calm and relaxed"
+        ],
+        "correct_answer": "b"
+      }
+    ]
+  }
+}

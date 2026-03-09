@@ -1,0 +1,295 @@
+{
+  "section_id": "tennis_02",
+  "difficulty": "medium",
+  "title": "Tennis 2",
+  "category": "Sport",
+  "word_bank": [
+    {
+      "word": "Break point",
+      "translation": "נקודת שבירה",
+      "example": "She earned a break point on the opponent's serve and converted it to take the lead in the set."
+    },
+    {
+      "word": "Match point",
+      "translation": "נקודת משחק",
+      "example": "He saved three match points before coming back to win the set and eventually the match."
+    },
+    {
+      "word": "Baseline",
+      "translation": "קו הבסיס",
+      "example": "She stayed on the baseline throughout the match, preferring to win points from the back of the court."
+    },
+    {
+      "word": "Lob",
+      "translation": "לוב / מכה גבוהה",
+      "example": "When his opponent rushed to the net, he hit a perfect lob that sailed over her head and landed inside the line."
+    },
+    {
+      "word": "Drop shot",
+      "translation": "דרופ שוט / מכה נמוכה",
+      "example": "She surprised her opponent with a delicate drop shot that barely cleared the net and stopped just inside the service box."
+    },
+    {
+      "word": "Grip",
+      "translation": "אחיזה",
+      "example": "The coach told him to change his grip slightly in order to add more spin to his forehand."
+    },
+    {
+      "word": "Spin",
+      "translation": "סיבוב",
+      "example": "He put heavy topspin on the ball so that it bounced high and pushed his opponent far behind the baseline."
+    },
+    {
+      "word": "Return",
+      "translation": "חזרה",
+      "example": "Her return of serve was exceptional — she converted almost every second serve into a winning opportunity."
+    },
+    {
+      "word": "Approach shot",
+      "translation": "מכה לגישה לרשת",
+      "example": "He played a deep approach shot to the backhand corner and then moved forward to finish with a volley."
+    },
+    {
+      "word": "Slice",
+      "translation": "סלייס / מכה חותכת",
+      "example": "She used a slice backhand to keep the ball low and force her opponent to lift it, creating an easy put-away."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "She stood firm on the _____ and exchanged powerful groundstrokes with her opponent for the entire rally.",
+      "options": [
+        "(a) Baseline",
+        "(b) Lob",
+        "(c) Grip",
+        "(d) Spin"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "הקו האחורי של המגרש שממנו רוב השחקנים מכים"
+    },
+    {
+      "id": 2,
+      "question": "He was one point away from losing the match — he was facing a _____ and needed to win the next point to survive.",
+      "options": [
+        "(a) Return",
+        "(b) Drop shot",
+        "(c) Match point",
+        "(d) Slice"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "הנקודה שאם מפסידים אותה, המשחק נגמר"
+    },
+    {
+      "id": 3,
+      "question": "She chipped a clever _____ that just trickled over the net and died before her opponent could reach it.",
+      "options": [
+        "(a) Grip",
+        "(b) Approach shot",
+        "(c) Baseline",
+        "(d) Drop shot"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "מכה עדינה שנוחתת קרוב לרשת כדי להפתיע את היריב"
+    },
+    {
+      "id": 4,
+      "question": "When his opponent charged the net, he lifted a high _____ that floated over her head and bounced deep in the court.",
+      "options": [
+        "(a) Lob",
+        "(b) Match point",
+        "(c) Spin",
+        "(d) Return"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "מכה גבוהה שמיועדת לעוף מעל היריב שנמצא ליד הרשת"
+    },
+    {
+      "id": 5,
+      "question": "The coach advised him to change his _____ so that he could brush up on the ball and add more topspin.",
+      "options": [
+        "(a) Slice",
+        "(b) Grip",
+        "(c) Baseline",
+        "(d) Break point"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "הדרך שבה שחקן אוחז את המחבט"
+    },
+    {
+      "id": 6,
+      "question": "She had three chances to win the other player's service game — she earned three separate _____ opportunities.",
+      "options": [
+        "(a) Match point",
+        "(b) Return",
+        "(c) Break point",
+        "(d) Lob"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "הזדמנות לשבור את הגשת היריב ולקחת את המשחק"
+    },
+    {
+      "id": 7,
+      "question": "He put heavy _____ on the ball so it bounced sharply off the court and forced his opponent to move back.",
+      "options": [
+        "(a) Drop shot",
+        "(b) Approach shot",
+        "(c) Baseline",
+        "(d) Spin"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "סיבוב שניתן לכדור כדי לשנות את מסלולו אחרי הנחיתה"
+    },
+    {
+      "id": 8,
+      "question": "Her _____ of the second serve was so aggressive that the server immediately went on the defensive.",
+      "options": [
+        "(a) Return",
+        "(b) Lob",
+        "(c) Slice",
+        "(d) Match point"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "המכה בתגובה להגשה של היריב"
+    },
+    {
+      "id": 9,
+      "question": "He played a low, skidding _____ backhand that stayed close to the ground and made it very hard to attack.",
+      "options": [
+        "(a) Break point",
+        "(b) Grip",
+        "(c) Slice",
+        "(d) Approach shot"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "מכה שחותכת את הכדור ומגרמת לו לשמור על גובה נמוך"
+    },
+    {
+      "id": 10,
+      "question": "He hit a deep _____ to the corner and then moved towards the net to finish the point with a volley.",
+      "options": [
+        "(a) Lob",
+        "(b) Spin",
+        "(c) Drop shot",
+        "(d) Approach shot"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "מכה שמשמשת כגשר בין קו הבסיס לבין ההתקרבות לרשת"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "It was a quiet Friday evening and Moshe was watching a Wimbledon semifinal on television with his daughter Tamar, who played tennis seriously in her youth and still follows every major tournament.\n\nThe match was tense. Both players stayed behind the baseline, exchanging long groundstrokes that pushed each other from corner to corner. Tamar explained to Moshe: 'You see, Aba, both players are baseline specialists. They prefer to win from the back rather than rush the net.'\n\nIn the seventh game, the second player earned a break point on the first player's serve. Moshe leaned forward in his chair. The server hit a heavy topspin that landed deep, using the spin to push his opponent behind the baseline. Then he moved in and played a sharp approach shot to the backhand corner. His opponent, now under pressure, tried to pass him with a slice that stayed too low — it clipped the net and the break point was saved.\n\nThe match went to a tiebreak. Both players were nervous. Then came the moment Moshe talked about for weeks afterwards. The second player charged the net and looked certain to win the point. But his opponent, standing deep, lifted an incredible lob that arched perfectly over the net player's head and landed just inside the baseline. The crowd erupted.\n\nOn the very next point, the first player earned a match point — one point from victory. He stepped up to serve, the crowd fell silent, and he hit a thundering first serve right down the centre. His opponent could barely get his return back. A crisp drop shot finished the point. Match over.\n\nMoshe clapped his hands and said to Tamar: 'Now I understand why you loved this sport so much. Every point is a little battle.' Tamar smiled: 'Exactly, Aba. You see it now.'",
+    "questions": [
+      {
+        "id": 11,
+        "question": "Who did Moshe watch the match with?",
+        "options": [
+          "(a) His grandson Yoav",
+          "(b) His wife",
+          "(c) His daughter Tamar",
+          "(d) His neighbour"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 12,
+        "question": "What type of players were both competitors in the match?",
+        "options": [
+          "(a) Net-rushing specialists",
+          "(b) Baseline specialists",
+          "(c) Serve-and-volley players",
+          "(d) Doubles specialists"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 13,
+        "question": "In the seventh game, what did the second player earn?",
+        "options": [
+          "(a) A match point",
+          "(b) A break point",
+          "(c) A tiebreak",
+          "(d) A let on the serve"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "How did the server save the break point?",
+        "options": [
+          "(a) He hit an ace down the centre",
+          "(b) He won a long baseline rally",
+          "(c) He moved in and played an approach shot, and his opponent's slice hit the net",
+          "(d) He hit a lob over his opponent's head"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 15,
+        "question": "What did the second player try when the server approached the net?",
+        "options": [
+          "(a) A drop shot",
+          "(b) A return winner",
+          "(c) A topspin lob",
+          "(d) A slice that clipped the net"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 16,
+        "question": "What shot did the first player hit over the net-rushing opponent's head during the tiebreak?",
+        "options": [
+          "(a) A drop shot",
+          "(b) A lob",
+          "(c) A slice backhand",
+          "(d) A return of serve"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 17,
+        "question": "Where did the lob land?",
+        "options": [
+          "(a) It landed out near the baseline",
+          "(b) It hit the net",
+          "(c) It landed just inside the baseline",
+          "(d) It bounced beyond the service box"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 18,
+        "question": "How did the first player finish the match point?",
+        "options": [
+          "(a) With a powerful lob",
+          "(b) With a slice backhand winner",
+          "(c) With a serve and a crisp drop shot",
+          "(d) With an approach shot and a volley"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 19,
+        "question": "What did Moshe say about tennis at the end of the match?",
+        "options": [
+          "(a) He said the match was too long",
+          "(b) He said every point is a little battle",
+          "(c) He said he preferred watching football",
+          "(d) He said the players were not exciting"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 20,
+        "question": "What did Tamar say about her past?",
+        "options": [
+          "(a) She said she never understood tennis",
+          "(b) She said she used to coach young players",
+          "(c) She said she played tennis seriously in her youth",
+          "(d) She said she only watches tennis on television"
+        ],
+        "correct_answer": "c"
+      }
+    ]
+  }
+}

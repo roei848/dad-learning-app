@@ -59,70 +59,120 @@
     {
       "id": 1,
       "question": "I need a _____ to get to the airport — I have too many bags for the bus.",
-      "options": ["(a) Platform", "(b) Taxi", "(c) Transfer", "(d) Route"],
+      "options": [
+        "(a) Platform",
+        "(b) Taxi",
+        "(c) Transfer",
+        "(d) Route"
+      ],
       "correct_answer": "b",
       "hint_hebrew": "רכב עם נהג שלוקח אותך לאן שאתה צריך, בתשלום"
     },
     {
       "id": 2,
       "question": "The _____ for the bus ride across the city was only two dollars and fifty cents.",
-      "options": ["(a) Destination", "(b) Driver", "(c) Fare", "(d) Ticket"],
+      "options": [
+        "(a) Destination",
+        "(b) Driver",
+        "(c) Fare",
+        "(d) Ticket"
+      ],
       "correct_answer": "c",
       "hint_hebrew": "הסכום שמשלמים עבור הנסיעה"
     },
     {
       "id": 3,
       "question": "My _____ is the National Museum — could you tell me the best way to get there?",
-      "options": ["(a) Fare", "(b) Platform", "(c) Transfer", "(d) Destination"],
+      "options": [
+        "(a) Fare",
+        "(b) Platform",
+        "(c) Transfer",
+        "(d) Destination"
+      ],
       "correct_answer": "d",
       "hint_hebrew": "המקום שאליו אתה מנסה להגיע"
     },
     {
       "id": 4,
       "question": "I was lost in the city center, so I stopped a local and asked for _____.",
-      "options": ["(a) Directions", "(b) Subway", "(c) Ticket", "(d) Route"],
+      "options": [
+        "(a) Directions",
+        "(b) Subway",
+        "(c) Ticket",
+        "(d) Route"
+      ],
       "correct_answer": "a",
       "hint_hebrew": "הסברים על איך להגיע למקום"
     },
     {
       "id": 5,
       "question": "During rush hour, the _____ is much faster than driving because it does not get stuck in traffic.",
-      "options": ["(a) Taxi", "(b) Fare", "(c) Subway", "(d) Driver"],
+      "options": [
+        "(a) Taxi",
+        "(b) Fare",
+        "(c) Subway",
+        "(d) Driver"
+      ],
       "correct_answer": "c",
       "hint_hebrew": "רכבת שנוסעת מתחת לאדמה בעיר"
     },
     {
       "id": 6,
       "question": "The train to Oxford leaves from _____ seven at half past nine.",
-      "options": ["(a) Ticket", "(b) Transfer", "(c) Route", "(d) Platform"],
+      "options": [
+        "(a) Ticket",
+        "(b) Transfer",
+        "(c) Route",
+        "(d) Platform"
+      ],
       "correct_answer": "d",
       "hint_hebrew": "הרציף שממנו יוצאת הרכבת"
     },
     {
       "id": 7,
       "question": "You cannot board the subway without a valid _____ — the inspector checks everyone.",
-      "options": ["(a) Ticket", "(b) Fare", "(c) Destination", "(d) Driver"],
+      "options": [
+        "(a) Ticket",
+        "(b) Fare",
+        "(c) Destination",
+        "(d) Driver"
+      ],
       "correct_answer": "a",
       "hint_hebrew": "הנייר או הכרטיס שמאפשר לך לנסוע"
     },
     {
       "id": 8,
       "question": "To reach the stadium, you have to _____ at Kings Cross station and take the Circle line.",
-      "options": ["(a) Route", "(b) Transfer", "(c) Platform", "(d) Fare"],
+      "options": [
+        "(a) Route",
+        "(b) Transfer",
+        "(c) Platform",
+        "(d) Fare"
+      ],
       "correct_answer": "b",
       "hint_hebrew": "להחליף קו או תחבורה באמצע הנסיעה"
     },
     {
       "id": 9,
       "question": "The bus _____ goes through the old town, past the market, and ends at the beach.",
-      "options": ["(a) Driver", "(b) Subway", "(c) Route", "(d) Ticket"],
+      "options": [
+        "(a) Driver",
+        "(b) Subway",
+        "(c) Route",
+        "(d) Ticket"
+      ],
       "correct_answer": "c",
       "hint_hebrew": "הדרך או המסלול שבו הרכב נוסע"
     },
     {
       "id": 10,
       "question": "The taxi _____ spoke very fast, but I understood that he needed my address.",
-      "options": ["(a) Fare", "(b) Platform", "(c) Transfer", "(d) Driver"],
+      "options": [
+        "(a) Fare",
+        "(b) Platform",
+        "(c) Transfer",
+        "(d) Driver"
+      ],
       "correct_answer": "d",
       "hint_hebrew": "האדם שמנהל את הרכב"
     }
@@ -133,135 +183,113 @@
       {
         "id": 11,
         "question": "What was David's destination in London?",
-        "options": ["(a) Buckingham Palace", "(b) The Tower of London", "(c) The British Museum", "(d) Big Ben"],
+        "options": [
+          "(a) Buckingham Palace",
+          "(b) The Tower of London",
+          "(c) The British Museum",
+          "(d) Big Ben"
+        ],
         "correct_answer": "c"
       },
       {
         "id": 12,
         "question": "What problem did David have at the ticket machine?",
-        "options": ["(a) The machine was broken", "(b) He did not have enough money", "(c) He could not find the machine", "(d) He kept pressing the wrong buttons"],
+        "options": [
+          "(a) The machine was broken",
+          "(b) He did not have enough money",
+          "(c) He could not find the machine",
+          "(d) He kept pressing the wrong buttons"
+        ],
         "correct_answer": "d"
       },
       {
         "id": 13,
         "question": "Why did the woman tap David on the shoulder at the platform?",
-        "options": ["(a) To ask him for directions", "(b) To tell him he was on the wrong platform", "(c) To warn him about a pickpocket", "(d) To offer him a subway map"],
+        "options": [
+          "(a) To ask him for directions",
+          "(b) To tell him he was on the wrong platform",
+          "(c) To warn him about a pickpocket",
+          "(d) To offer him a subway map"
+        ],
         "correct_answer": "b"
       },
       {
         "id": 14,
         "question": "Where did the platform David was standing on actually go?",
-        "options": ["(a) To the city center", "(b) To the British Museum", "(c) To the airport", "(d) To a park"],
+        "options": [
+          "(a) To the city center",
+          "(b) To the British Museum",
+          "(c) To the airport",
+          "(d) To a park"
+        ],
         "correct_answer": "c"
       },
       {
         "id": 15,
         "question": "What did David need to do on the subway to reach his destination?",
-        "options": ["(a) Buy a second ticket", "(b) Make a transfer", "(c) Ask the driver for help", "(d) Take a taxi from the station"],
+        "options": [
+          "(a) Buy a second ticket",
+          "(b) Make a transfer",
+          "(c) Ask the driver for help",
+          "(d) Take a taxi from the station"
+        ],
         "correct_answer": "b"
       },
       {
         "id": 16,
         "question": "Why did David end up on the street feeling lost?",
-        "options": ["(a) He missed the last train", "(b) The subway was closed", "(c) He got off at the wrong station", "(d) He forgot to buy a ticket"],
+        "options": [
+          "(a) He missed the last train",
+          "(b) The subway was closed",
+          "(c) He got off at the wrong station",
+          "(d) He forgot to buy a ticket"
+        ],
         "correct_answer": "c"
       },
       {
         "id": 17,
         "question": "How did David react to the passerby's directions?",
-        "options": ["(a) He wrote them down carefully", "(b) He asked the man to repeat them", "(c) He nodded but then walked in the wrong direction", "(d) He followed them perfectly"],
+        "options": [
+          "(a) He wrote them down carefully",
+          "(b) He asked the man to repeat them",
+          "(c) He nodded but then walked in the wrong direction",
+          "(d) He followed them perfectly"
+        ],
         "correct_answer": "c"
       },
       {
         "id": 18,
         "question": "How did David finally reach the museum?",
-        "options": ["(a) He walked the whole way", "(b) He took a taxi", "(c) He went back to the subway", "(d) He called a friend"],
+        "options": [
+          "(a) He walked the whole way",
+          "(b) He took a taxi",
+          "(c) He went back to the subway",
+          "(d) He called a friend"
+        ],
         "correct_answer": "b"
       },
       {
         "id": 19,
         "question": "How much was the taxi fare to the museum?",
-        "options": ["(a) Eight pounds", "(b) Ten pounds", "(c) Twelve pounds", "(d) Fifteen pounds"],
+        "options": [
+          "(a) Eight pounds",
+          "(b) Ten pounds",
+          "(c) Twelve pounds",
+          "(d) Fifteen pounds"
+        ],
         "correct_answer": "c"
       },
       {
         "id": 20,
         "question": "What did David decide at the end of the story?",
-        "options": ["(a) He would never visit London again", "(b) He would only use the subway in future", "(c) He would take the taxi first next time", "(d) He would buy a bicycle"],
+        "options": [
+          "(a) He would never visit London again",
+          "(b) He would only use the subway in future",
+          "(c) He would take the taxi first next time",
+          "(d) He would buy a bicycle"
+        ],
         "correct_answer": "c"
       }
     ]
-  },
-  "stage_3_visual_situational": [
-    {
-      "id": 21,
-      "type": "dialogue",
-      "prompt": "You are standing outside the hotel. You need to get to the train station quickly. You say to the doorman: 'Could you call a _____ for me, please? I am running late.'",
-      "options": ["(a) subway", "(b) platform", "(c) taxi", "(d) ticket"],
-      "correct_answer": "c"
-    },
-    {
-      "id": 22,
-      "type": "dialogue",
-      "prompt": "You get into a taxi and the driver asks: 'Where to?' You say: 'My _____ is the Grand Hotel on Oxford Street, please.'",
-      "options": ["(a) fare", "(b) route", "(c) transfer", "(d) destination"],
-      "correct_answer": "d"
-    },
-    {
-      "id": 23,
-      "type": "dialogue",
-      "prompt": "The taxi arrives at your hotel. The driver says: 'That will be twenty dollars.' You ask: 'Is that the normal _____ for this distance?'",
-      "options": ["(a) fare", "(b) driver", "(c) platform", "(d) ticket"],
-      "correct_answer": "a"
-    },
-    {
-      "id": 24,
-      "type": "dialogue",
-      "prompt": "You are in the subway station. A stranger asks: 'Do you know which _____ the train to Victoria departs from?' You check the signs and answer.",
-      "options": ["(a) route", "(b) transfer", "(c) platform", "(d) fare"],
-      "correct_answer": "c"
-    },
-    {
-      "id": 25,
-      "type": "dialogue",
-      "prompt": "A subway inspector stops you at the gate. He says: 'Excuse me, sir, may I see your _____ please?' You reach into your pocket to find it.",
-      "options": ["(a) destination", "(b) ticket", "(c) route", "(d) driver"],
-      "correct_answer": "b"
-    },
-    {
-      "id": 26,
-      "type": "dialogue",
-      "prompt": "You are lost near a bus stop. You approach a woman and say: 'I am sorry to bother you, but could you give me _____ to the city museum?'",
-      "options": ["(a) a fare", "(b) a ticket", "(c) directions", "(d) a transfer"],
-      "correct_answer": "c"
-    },
-    {
-      "id": 27,
-      "type": "dialogue",
-      "prompt": "You are on the subway and realize you are on the wrong line. A fellow passenger tells you: 'You need to get off at the next stop and _____ to the blue line.'",
-      "options": ["(a) transfer", "(b) platform", "(c) route", "(d) fare"],
-      "correct_answer": "a"
-    },
-    {
-      "id": 28,
-      "type": "dialogue",
-      "prompt": "You are at the bus stop. You ask the driver: 'Does this bus go to the airport, or is there a different _____  I should take?'",
-      "options": ["(a) driver", "(b) subway", "(c) fare", "(d) route"],
-      "correct_answer": "d"
-    },
-    {
-      "id": 29,
-      "type": "dialogue",
-      "prompt": "You are taking a taxi. The driver introduces himself: 'Good morning, I am your _____ today. I know all the shortcuts — we will be there in no time.'",
-      "options": ["(a) ticket", "(b) driver", "(c) platform", "(d) transfer"],
-      "correct_answer": "b"
-    },
-    {
-      "id": 30,
-      "type": "dialogue",
-      "prompt": "Your friend wants to avoid traffic. You suggest: 'Let's take the _____ — it runs underground so it is never affected by road congestion.'",
-      "options": ["(a) fare", "(b) platform", "(c) subway", "(d) destination"],
-      "correct_answer": "c"
-    }
-  ]
+  }
 }

@@ -59,70 +59,120 @@
     {
       "id": 1,
       "question": "When David arrived at the hotel, he went straight to the _____ to give his name and receive his key.",
-      "options": ["(a) Suite", "(b) Lobby", "(c) Reception", "(d) Concierge"],
+      "options": [
+        "(a) Suite",
+        "(b) Lobby",
+        "(c) Reception",
+        "(d) Concierge"
+      ],
       "correct_answer": "c",
       "hint_hebrew": "הדלפק שבכניסה למלון שבו נרשמים"
     },
     {
       "id": 2,
       "question": "I called the hotel last week to make a _____ for two nights during the conference.",
-      "options": ["(a) Reservation", "(b) Check-out", "(c) Amenity", "(d) Bellhop"],
+      "options": [
+        "(a) Reservation",
+        "(b) Check-out",
+        "(c) Amenity",
+        "(d) Bellhop"
+      ],
       "correct_answer": "a",
       "hint_hebrew": "הזמנה מראש של חדר במלון"
     },
     {
       "id": 3,
       "question": "Please return your key card to the front desk by noon, as _____ time is twelve o'clock.",
-      "options": ["(a) Room service", "(b) Check-out", "(c) Housekeeping", "(d) Suite"],
+      "options": [
+        "(a) Room service",
+        "(b) Check-out",
+        "(c) Housekeeping",
+        "(d) Suite"
+      ],
       "correct_answer": "b",
       "hint_hebrew": "היציאה הרשמית מהמלון בסוף השהייה"
     },
     {
       "id": 4,
       "question": "David did not want to leave the room, so he ordered _____ and enjoyed dinner in bed.",
-      "options": ["(a) Concierge", "(b) Bellhop", "(c) Room service", "(d) Amenities"],
+      "options": [
+        "(a) Concierge",
+        "(b) Bellhop",
+        "(c) Room service",
+        "(d) Amenities"
+      ],
       "correct_answer": "c",
       "hint_hebrew": "שירות אוכל שמוגש ישירות לחדר"
     },
     {
       "id": 5,
       "question": "The hotel brochure listed many _____, including a rooftop pool, a spa, and a free gym.",
-      "options": ["(a) Amenities", "(b) Lobbies", "(c) Suites", "(d) Reservations"],
+      "options": [
+        "(a) Amenities",
+        "(b) Lobbies",
+        "(c) Suites",
+        "(d) Reservations"
+      ],
       "correct_answer": "a",
       "hint_hebrew": "כל השירותים והמתקנים שהמלון מציע"
     },
     {
       "id": 6,
       "question": "We agreed to meet the tour group in the hotel _____ at nine in the morning.",
-      "options": ["(a) Check-out", "(b) Lobby", "(c) Housekeeping", "(d) Reception"],
+      "options": [
+        "(a) Check-out",
+        "(b) Lobby",
+        "(c) Housekeeping",
+        "(d) Reception"
+      ],
       "correct_answer": "b",
       "hint_hebrew": "האזור הפתוח בכניסה למלון"
     },
     {
       "id": 7,
       "question": "For their honeymoon, the couple upgraded to a _____ with a private jacuzzi and a city view.",
-      "options": ["(a) Bellhop", "(b) Lobby", "(c) Suite", "(d) Concierge"],
+      "options": [
+        "(a) Bellhop",
+        "(b) Lobby",
+        "(c) Suite",
+        "(d) Concierge"
+      ],
       "correct_answer": "c",
       "hint_hebrew": "חדר מלון יוקרתי ומרווח במיוחד"
     },
     {
       "id": 8,
       "question": "The _____ at the front desk gave us a map of the city and recommended the best places to eat.",
-      "options": ["(a) Concierge", "(b) Amenity", "(c) Check-out", "(d) Suite"],
+      "options": [
+        "(a) Concierge",
+        "(b) Amenity",
+        "(c) Check-out",
+        "(d) Suite"
+      ],
       "correct_answer": "a",
       "hint_hebrew": "עובד המלון שעוזר לאורחים לתכנן את יומם"
     },
     {
       "id": 9,
       "question": "I called _____ to ask them to clean the room and bring fresh towels before three o'clock.",
-      "options": ["(a) Lobby", "(b) Reservation", "(c) Bellhop", "(d) Housekeeping"],
+      "options": [
+        "(a) Lobby",
+        "(b) Reservation",
+        "(c) Bellhop",
+        "(d) Housekeeping"
+      ],
       "correct_answer": "d",
       "hint_hebrew": "צוות ניקיון המלון"
     },
     {
       "id": 10,
       "question": "A friendly _____ took our suitcases from the entrance and brought them up to our room.",
-      "options": ["(a) Bellhop", "(b) Reception", "(c) Room service", "(d) Check-out"],
+      "options": [
+        "(a) Bellhop",
+        "(b) Reception",
+        "(c) Room service",
+        "(d) Check-out"
+      ],
       "correct_answer": "a",
       "hint_hebrew": "עובד המלון שנושא את המזוודות"
     }
@@ -133,135 +183,113 @@
       {
         "id": 11,
         "question": "What city was David staying in?",
-        "options": ["(a) Paris", "(b) Rome", "(c) London", "(d) Amsterdam"],
+        "options": [
+          "(a) Paris",
+          "(b) Rome",
+          "(c) London",
+          "(d) Amsterdam"
+        ],
         "correct_answer": "c"
       },
       {
         "id": 12,
         "question": "How did David react when he entered the hotel lobby?",
-        "options": ["(a) He was disappointed by how small it was", "(b) His eyes went wide because it was enormous", "(c) He was angry about the long queue", "(d) He felt confused and could not find the reception"],
+        "options": [
+          "(a) He was disappointed by how small it was",
+          "(b) His eyes went wide because it was enormous",
+          "(c) He was angry about the long queue",
+          "(d) He felt confused and could not find the reception"
+        ],
         "correct_answer": "b"
       },
       {
         "id": 13,
         "question": "What did David give the receptionist when he arrived?",
-        "options": ["(a) His credit card and a voucher", "(b) His passport and a printed reservation", "(c) His name", "(d) His luggage and boarding pass"],
+        "options": [
+          "(a) His credit card and a voucher",
+          "(b) His passport and a printed reservation",
+          "(c) His name",
+          "(d) His luggage and boarding pass"
+        ],
         "correct_answer": "c"
       },
       {
         "id": 14,
         "question": "Which amenities did the receptionist mention?",
-        "options": ["(a) A pool, a spa, and a cinema", "(b) A gym, a restaurant, Wi-Fi, and breakfast", "(c) A rooftop bar, a pool, and a gym", "(d) Free parking, a laundry service, and a sauna"],
+        "options": [
+          "(a) A pool, a spa, and a cinema",
+          "(b) A gym, a restaurant, Wi-Fi, and breakfast",
+          "(c) A rooftop bar, a pool, and a gym",
+          "(d) Free parking, a laundry service, and a sauna"
+        ],
         "correct_answer": "b"
       },
       {
         "id": 15,
         "question": "Why did David order room service that evening?",
-        "options": ["(a) The hotel restaurant was closed", "(b) He wanted to save money", "(c) He was too tired to go out", "(d) His wife asked him to stay in the room"],
+        "options": [
+          "(a) The hotel restaurant was closed",
+          "(b) He wanted to save money",
+          "(c) He was too tired to go out",
+          "(d) His wife asked him to stay in the room"
+        ],
         "correct_answer": "c"
       },
       {
         "id": 16,
         "question": "What did David order from room service?",
-        "options": ["(a) A pizza and a glass of wine", "(b) A steak and orange juice", "(c) A chicken sandwich and a pot of tea", "(d) A salad and sparkling water"],
+        "options": [
+          "(a) A pizza and a glass of wine",
+          "(b) A steak and orange juice",
+          "(c) A chicken sandwich and a pot of tea",
+          "(d) A salad and sparkling water"
+        ],
         "correct_answer": "c"
       },
       {
         "id": 17,
         "question": "How long did it take for the room service to arrive?",
-        "options": ["(a) Five minutes", "(b) Ten minutes", "(c) Thirty minutes", "(d) Twenty minutes"],
+        "options": [
+          "(a) Five minutes",
+          "(b) Ten minutes",
+          "(c) Thirty minutes",
+          "(d) Twenty minutes"
+        ],
         "correct_answer": "d"
       },
       {
         "id": 18,
         "question": "What did David ask housekeeping for the next morning?",
-        "options": ["(a) A wake-up call and breakfast", "(b) Extra towels and to tidy the room", "(c) An iron and a hair dryer", "(d) A cot and extra pillows"],
+        "options": [
+          "(a) A wake-up call and breakfast",
+          "(b) Extra towels and to tidy the room",
+          "(c) An iron and a hair dryer",
+          "(d) A cot and extra pillows"
+        ],
         "correct_answer": "b"
       },
       {
         "id": 19,
         "question": "What did David show the concierge?",
-        "options": ["(a) His boarding pass", "(b) A photograph of his family", "(c) A list of places he wanted to visit", "(d) A map of the city"],
+        "options": [
+          "(a) His boarding pass",
+          "(b) A photograph of his family",
+          "(c) A list of places he wanted to visit",
+          "(d) A map of the city"
+        ],
         "correct_answer": "c"
       },
       {
         "id": 20,
         "question": "How did the concierge help David?",
-        "options": ["(a) He drove him to the first tourist site", "(b) He made two phone calls and gave David a full itinerary", "(c) He booked a restaurant for dinner", "(d) He arranged a private tour guide"],
+        "options": [
+          "(a) He drove him to the first tourist site",
+          "(b) He made two phone calls and gave David a full itinerary",
+          "(c) He booked a restaurant for dinner",
+          "(d) He arranged a private tour guide"
+        ],
         "correct_answer": "b"
       }
     ]
-  },
-  "stage_3_visual_situational": [
-    {
-      "id": 21,
-      "type": "dialogue",
-      "prompt": "You walk into a hotel for the first time. You look for a sign and head toward the _____, where a smiling agent is waiting to help you check in.",
-      "options": ["(a) suite", "(b) lobby", "(c) reception", "(d) bellhop"],
-      "correct_answer": "c"
-    },
-    {
-      "id": 22,
-      "type": "dialogue",
-      "prompt": "The agent at the desk says: 'Good evening. Do you have a _____?' You say: 'Yes, the name is Cohen — I booked online for two nights.'",
-      "options": ["(a) reservation", "(b) check-out", "(c) concierge", "(d) amenity"],
-      "correct_answer": "a"
-    },
-    {
-      "id": 23,
-      "type": "dialogue",
-      "prompt": "You ask the receptionist: 'What time is _____? I need to catch a flight at two in the afternoon.' She replies: 'It is eleven o'clock in the morning.'",
-      "options": ["(a) room service", "(b) check-out", "(c) housekeeping", "(d) reservation"],
-      "correct_answer": "b"
-    },
-    {
-      "id": 24,
-      "type": "dialogue",
-      "prompt": "It is late and you are hungry but too tired to go out. You pick up the phone and call _____. A friendly voice says: 'What would you like to order?'",
-      "options": ["(a) the concierge", "(b) the lobby", "(c) room service", "(d) housekeeping"],
-      "correct_answer": "c"
-    },
-    {
-      "id": 25,
-      "type": "dialogue",
-      "prompt": "Before booking, you ask the hotel agent: 'What _____ does your hotel offer? Is there a gym and a swimming pool?' She lists everything available.",
-      "options": ["(a) suites", "(b) amenities", "(c) check-outs", "(d) bellhops"],
-      "correct_answer": "b"
-    },
-    {
-      "id": 26,
-      "type": "dialogue",
-      "prompt": "Your friend calls you and says: 'I am already at the hotel. Where are you?' You say: 'I just arrived. Wait for me in the _____ downstairs and I will be there in five minutes.'",
-      "options": ["(a) suite", "(b) reception", "(c) lobby", "(d) housekeeping"],
-      "correct_answer": "c"
-    },
-    {
-      "id": 27,
-      "type": "dialogue",
-      "prompt": "The travel agent asks: 'Would you like a standard room or would you prefer to upgrade to a _____ for a better view and more space?' You think about the price.",
-      "options": ["(a) bellhop", "(b) suite", "(c) lobby", "(d) amenity"],
-      "correct_answer": "b"
-    },
-    {
-      "id": 28,
-      "type": "dialogue",
-      "prompt": "You approach a desk near the entrance where a smartly dressed employee is sitting. You say: 'Excuse me, I am the _____ — can you recommend a good restaurant nearby and perhaps book us a table?'",
-      "options": ["(a) reservation", "(b) lobby", "(c) concierge", "(d) check-out"],
-      "correct_answer": "c"
-    },
-    {
-      "id": 29,
-      "type": "dialogue",
-      "prompt": "You call the hotel and say: 'Hello, this is room 408. Could _____ please come and change the sheets and bring two more towels?' The staff member says: 'Of course, we will be there shortly.'",
-      "options": ["(a) housekeeping", "(b) room service", "(c) reception", "(d) the bellhop"],
-      "correct_answer": "a"
-    },
-    {
-      "id": 30,
-      "type": "dialogue",
-      "prompt": "You arrive with five large suitcases. A hotel employee in uniform approaches and says: 'Allow me to help you.' He is the _____, and he carries all your bags to the elevator.",
-      "options": ["(a) concierge", "(b) amenity", "(c) bellhop", "(d) receptionist"],
-      "correct_answer": "c"
-    }
-  ]
+  }
 }

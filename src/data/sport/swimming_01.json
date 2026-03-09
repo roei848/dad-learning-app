@@ -1,0 +1,295 @@
+{
+  "section_id": "swimming_01",
+  "difficulty": "easy",
+  "title": "Swimming 1",
+  "category": "Sport",
+  "word_bank": [
+    {
+      "word": "Freestyle",
+      "translation": "חתירה חופשית / חופשי",
+      "example": "She swam the first length using freestyle and touched the wall in under thirty seconds."
+    },
+    {
+      "word": "Backstroke",
+      "translation": "גב",
+      "example": "He preferred backstroke because he could breathe easily while looking up at the sky."
+    },
+    {
+      "word": "Breaststroke",
+      "translation": "חזה",
+      "example": "The coach taught the children to glide smoothly between each breaststroke pull."
+    },
+    {
+      "word": "Lane",
+      "translation": "נתיב",
+      "example": "Each swimmer stayed inside their own lane throughout the entire race."
+    },
+    {
+      "word": "Lap",
+      "translation": "אורך בריכה",
+      "example": "She completed twenty laps without stopping and felt very proud of herself."
+    },
+    {
+      "word": "Dive",
+      "translation": "צלילה / קפיצה לבריכה",
+      "example": "The boy took a deep breath and made a clean dive off the starting block."
+    },
+    {
+      "word": "Butterfly",
+      "translation": "פרפר",
+      "example": "Butterfly is the most demanding swimming style because both arms move together above the water."
+    },
+    {
+      "word": "Goggles",
+      "translation": "משקפי שחייה",
+      "example": "She always wore her goggles so she could see clearly underwater and follow the black line."
+    },
+    {
+      "word": "Stroke",
+      "translation": "תנועת ידיים בשחייה",
+      "example": "The coach counted every stroke and told him to make each one longer and more powerful."
+    },
+    {
+      "word": "Relay",
+      "translation": "שליחויות",
+      "example": "In the relay, each of the four swimmers swam one length before touching off to the next."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "He chose to swim _____ because it is the fastest swimming style.",
+      "options": [
+        "(a) Backstroke",
+        "(b) Freestyle",
+        "(c) Lane",
+        "(d) Relay"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "סגנון שחייה חופשי, המהיר ביותר"
+    },
+    {
+      "id": 2,
+      "question": "She floated on her back and used _____ all the way to the other end of the pool.",
+      "options": [
+        "(a) Butterfly",
+        "(b) Dive",
+        "(c) Backstroke",
+        "(d) Stroke"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "שחייה על הגב"
+    },
+    {
+      "id": 3,
+      "question": "The children learned _____ first because the frog-like kick is easy to understand.",
+      "options": [
+        "(a) Breaststroke",
+        "(b) Goggles",
+        "(c) Relay",
+        "(d) Lap"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "שחיית חזה, כמו צפרדע"
+    },
+    {
+      "id": 4,
+      "question": "The swimmer stayed in her _____ and did not cross into the swimmer next to her.",
+      "options": [
+        "(a) Stroke",
+        "(b) Dive",
+        "(c) Freestyle",
+        "(d) Lane"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "הפס שלה בבריכה"
+    },
+    {
+      "id": 5,
+      "question": "Grandpa watched his granddaughter complete her tenth _____ without stopping to rest.",
+      "options": [
+        "(a) Lap",
+        "(b) Butterfly",
+        "(c) Backstroke",
+        "(d) Goggles"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "אורך בריכה אחד שלם"
+    },
+    {
+      "id": 6,
+      "question": "The judge watched the _____ from the starting block and said it was clean and perfect.",
+      "options": [
+        "(a) Relay",
+        "(b) Lane",
+        "(c) Dive",
+        "(d) Stroke"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "הקפיצה לתוך המים בתחילת המירוץ"
+    },
+    {
+      "id": 7,
+      "question": "She trained hard to master _____, pulling both arms over the water at the same time.",
+      "options": [
+        "(a) Goggles",
+        "(b) Butterfly",
+        "(c) Freestyle",
+        "(d) Lap"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "סגנון פרפר — שני ידיים יחד מעל המים"
+    },
+    {
+      "id": 8,
+      "question": "He put on his _____ so the chlorine would not sting his eyes during the race.",
+      "options": [
+        "(a) Backstroke",
+        "(b) Relay",
+        "(c) Breaststroke",
+        "(d) Goggles"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "משקפיים מיוחדים לבריכה"
+    },
+    {
+      "id": 9,
+      "question": "The coach said every _____ must be strong and smooth if you want to move faster through the water.",
+      "options": [
+        "(a) Stroke",
+        "(b) Lane",
+        "(c) Dive",
+        "(d) Lap"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "תנועת הידיים בשחייה"
+    },
+    {
+      "id": 10,
+      "question": "The team won the _____ because all four swimmers handed off perfectly without losing time.",
+      "options": [
+        "(a) Backstroke",
+        "(b) Goggles",
+        "(c) Relay",
+        "(d) Freestyle"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "מירוץ שבו ארבעה שחיינים מתחלפים"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "Last Friday morning, Moshe drove his two grandchildren, Noa and Yonatan, to their swimming competition at the Ramat Gan municipal pool. Moshe had never been to a swim meet before, and Noa promised to explain everything.\n\nWhen they arrived, the pool was busy. Eight lanes stretched from one end to the other, and swimmers were warming up, counting their laps back and forth. Noa adjusted her goggles and tied her cap tightly. Yonatan looked nervous.\n\n'Your first race is freestyle,' Moshe read from the programme. 'What does that mean?' Noa smiled. 'It means you can swim any style you like, Saba — but everyone swims freestyle because it is the fastest.'\n\nYonatan was first up. He stood on the starting block, bent his knees, and made a clean dive into the water. The crowd clapped. He swam with a powerful stroke all the way to the other end and came back without stopping. He finished second in his lane.\n\nNoa competed in the backstroke event. She lay back in the water and pushed off the wall smoothly. Moshe watched her face pointing up at the ceiling lights as she glided along. She won her heat.\n\nThe final event of the morning was a relay. Noa swam butterfly for her team's first leg — the hardest stroke of all. She handed off to her teammate with a clean touch. Their team finished third overall.\n\nOn the drive home, Moshe bought the children falafel and sat quietly for a moment. 'Next time,' he said, 'I want to swim one lap myself.' Noa laughed and said, 'We will teach you, Saba. First lesson: goggles on.'",
+    "questions": [
+      {
+        "id": 11,
+        "question": "Where did the swimming competition take place?",
+        "options": [
+          "(a) The Tel Aviv municipal pool",
+          "(b) The Ramat Gan municipal pool",
+          "(c) A school pool in Jerusalem",
+          "(d) A private club in Herzliya"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 12,
+        "question": "How many lanes did the competition pool have?",
+        "options": [
+          "(a) Six",
+          "(b) Ten",
+          "(c) Eight",
+          "(d) Four"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 13,
+        "question": "What did Noa do before her race began?",
+        "options": [
+          "(a) She practised her dive",
+          "(b) She adjusted her goggles and tied her cap",
+          "(c) She spoke to the coach",
+          "(d) She counted the laps"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "Why does everyone swim freestyle even though any style is allowed?",
+        "options": [
+          "(a) Because it is the easiest style",
+          "(b) Because the referee requires it",
+          "(c) Because it is the most beautiful",
+          "(d) Because it is the fastest"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 15,
+        "question": "What did Yonatan do at the start of his race?",
+        "options": [
+          "(a) He fell into the water by mistake",
+          "(b) He made a clean dive from the starting block",
+          "(c) He jumped in from the side",
+          "(d) He waited for the coach to push him"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 16,
+        "question": "Where did Yonatan finish in his lane?",
+        "options": [
+          "(a) First",
+          "(b) Third",
+          "(c) Last",
+          "(d) Second"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 17,
+        "question": "What event did Noa compete in after Yonatan's race?",
+        "options": [
+          "(a) Freestyle",
+          "(b) Butterfly",
+          "(c) Backstroke",
+          "(d) Relay"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 18,
+        "question": "Which stroke did Noa swim in the relay?",
+        "options": [
+          "(a) Breaststroke",
+          "(b) Backstroke",
+          "(c) Freestyle",
+          "(d) Butterfly"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 19,
+        "question": "How did Noa's relay team finish?",
+        "options": [
+          "(a) First place",
+          "(b) Second place",
+          "(c) Third place",
+          "(d) They were disqualified"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 20,
+        "question": "What did Moshe say he wanted to do next time?",
+        "options": [
+          "(a) Watch from a better seat",
+          "(b) Swim one lap himself",
+          "(c) Bring more family members",
+          "(d) Compete in the relay"
+        ],
+        "correct_answer": "b"
+      }
+    ]
+  }
+}

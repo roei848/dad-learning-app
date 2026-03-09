@@ -1,0 +1,295 @@
+{
+  "section_id": "general_training_04",
+  "difficulty": "extreme",
+  "title": "General Training 4",
+  "category": "Sport",
+  "word_bank": [
+    {
+      "word": "Periodisation",
+      "translation": "תכנון תקופות אימון",
+      "example": "The coach used periodisation to divide the season into phases — each one building on the last."
+    },
+    {
+      "word": "VO2 max",
+      "translation": "צריכת חמצן מרבית",
+      "example": "Elite marathon runners typically have a very high VO2 max, allowing them to use oxygen extremely efficiently."
+    },
+    {
+      "word": "Lactate threshold",
+      "translation": "סף חומצת חלב",
+      "example": "Training just below the lactate threshold teaches the body to clear lactic acid more efficiently."
+    },
+    {
+      "word": "Biomechanics",
+      "translation": "ביומכניקה / מכניקת התנועה",
+      "example": "The sports scientist used biomechanics analysis to correct the sprinter's running posture."
+    },
+    {
+      "word": "Hypertrophy",
+      "translation": "היפרטרופיה / גדילת שריר",
+      "example": "Resistance training with moderate weight and high volume is the most effective method for hypertrophy."
+    },
+    {
+      "word": "Deload",
+      "translation": "שבוע הפחתה",
+      "example": "After four weeks of intense training, the coach scheduled a deload week to prevent burnout."
+    },
+    {
+      "word": "Proprioception",
+      "translation": "תחושת מיקום גוף",
+      "example": "Balance board exercises improve proprioception, helping athletes know where their body is in space."
+    },
+    {
+      "word": "Overtraining",
+      "translation": "אימון יתר",
+      "example": "Ignoring rest days and always pushing harder can lead to overtraining, which actually reduces performance."
+    },
+    {
+      "word": "Peak performance",
+      "translation": "ביצוע שיא",
+      "example": "The entire training programme was designed to bring the athlete to peak performance on the day of the championship."
+    },
+    {
+      "word": "Adaptation",
+      "translation": "הסתגלות",
+      "example": "The body's adaptation to regular training means you must keep increasing the challenge to continue improving."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "The coach divided the year into four phases using _____, so the athlete would peak just before the championship.",
+      "options": [
+        "(a) Overtraining",
+        "(b) Deload",
+        "(c) Periodisation",
+        "(d) Hypertrophy"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "חלוקת עונת האימונים לתקופות מתוכננות"
+    },
+    {
+      "id": 2,
+      "question": "Elite cyclists work hard to raise their _____, which measures how efficiently the body uses oxygen during maximum effort.",
+      "options": [
+        "(a) Adaptation",
+        "(b) VO2 max",
+        "(c) Proprioception",
+        "(d) Deload"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "מדד לצריכת החמצן המרבית של הגוף"
+    },
+    {
+      "id": 3,
+      "question": "By training at the right intensity, athletes can raise their _____ — the point where lactic acid begins to build up faster than the body can clear it.",
+      "options": [
+        "(a) Peak performance",
+        "(b) Biomechanics",
+        "(c) Lactate threshold",
+        "(d) Hypertrophy"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "עצימות שבה חומצת החלב מצטברת בדם"
+    },
+    {
+      "id": 4,
+      "question": "The sports scientist analysed the athlete's movement using _____ to identify why his jump technique was wasting energy.",
+      "options": [
+        "(a) Periodisation",
+        "(b) Overtraining",
+        "(c) Adaptation",
+        "(d) Biomechanics"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "המדע שחוקר את מכניקת התנועה של הגוף"
+    },
+    {
+      "id": 5,
+      "question": "The bodybuilder followed a high-volume programme specifically designed to stimulate _____ and increase muscle size.",
+      "options": [
+        "(a) Hypertrophy",
+        "(b) Deload",
+        "(c) VO2 max",
+        "(d) Proprioception"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "גדילה בנפח השריר כתגובה לאימון"
+    },
+    {
+      "id": 6,
+      "question": "After six weeks of intense training, the coach insisted on a _____ week — lighter sessions to allow the body to fully absorb the work done.",
+      "options": [
+        "(a) Biomechanics",
+        "(b) Lactate threshold",
+        "(c) Deload",
+        "(d) Peak performance"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "שבוע מכוון של הפחתת עומס אימונים"
+    },
+    {
+      "id": 7,
+      "question": "Standing on one leg on an unstable surface trains _____ — the body's ability to sense its own position without looking.",
+      "options": [
+        "(a) Adaptation",
+        "(b) Overtraining",
+        "(c) Periodisation",
+        "(d) Proprioception"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "חוש המיקום הגוף במרחב"
+    },
+    {
+      "id": 8,
+      "question": "The young athlete ignored all rest advice and trained twice a day for weeks — a classic case of _____ that left him injured and exhausted.",
+      "options": [
+        "(a) Overtraining",
+        "(b) Hypertrophy",
+        "(c) VO2 max",
+        "(d) Deload"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "מצב שנגרם מאימון מופרז ללא מנוחה מספקת"
+    },
+    {
+      "id": 9,
+      "question": "Everything in the programme was designed around one goal — bringing the athlete to _____ exactly on the day of the Olympic final.",
+      "options": [
+        "(a) Proprioception",
+        "(b) Adaptation",
+        "(c) Biomechanics",
+        "(d) Peak performance"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "המצב שבו הספורטאי מגיע לרמתו הגבוהה ביותר"
+    },
+    {
+      "id": 10,
+      "question": "The body's _____ to training is why the same workout becomes easier over time — the body must constantly face new challenges to keep improving.",
+      "options": [
+        "(a) Lactate threshold",
+        "(b) Periodisation",
+        "(c) Adaptation",
+        "(d) Hypertrophy"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "תהליך ההסתגלות של הגוף לעומס האימון"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "Moshe's grandson Daniel is in his second year studying sports science at the university in Tel Aviv. Last Friday evening, the whole family came for Shabbat dinner, and Daniel arrived carrying a thick folder of notes under his arm.\n\n'Grandpa,' Daniel said, settling into the chair opposite Moshe, 'I am writing my paper on elite athletic preparation. Can I explain it to you? I need to practise talking about it simply.'\n\nMoshe raised an eyebrow. 'You want to explain university science to a retired plumber? Go ahead, motek. I am listening.'\n\nDaniel laughed. 'OK. Everything in elite sport is built around periodisation — dividing the training year into specific phases. You do not train the same way in January as you do the week before a championship. Each phase has a purpose.'\n\nMoshe nodded slowly. 'So it is like building a house. First the foundations, then the walls, then the roof.'\n\n'Exactly!' Daniel said. 'In the first phase, athletes work on conditioning and biomechanics — how the body moves — to build an efficient base. Then they work on raising their VO2 max and lactate threshold, which determines how hard they can push before their muscles stop cooperating.'\n\n'And what is that word — hypertrophy?' Moshe asked, squinting at Daniel's notes.\n\n'That is when muscles grow bigger and stronger through resistance training. But if you train too hard without rest, you get overtraining — which is the enemy of improvement. So coaches plan deload weeks where everything gets lighter. And throughout it all, they work on proprioception — the body's ability to know where it is in space, which prevents injury.'\n\nMoshe sat quietly for a moment. Then he said: 'So the whole point is adaptation — teaching the body to handle more and more, until the athlete reaches peak performance at exactly the right moment.'\n\nDaniel stared at him. 'Grandpa… that is literally the conclusion of my paper.'\n\nMoshe winked and reached for another piece of challah. 'I told you — sixty years of laying pipes teaches you something about systems.'",
+    "questions": [
+      {
+        "id": 11,
+        "question": "What is Daniel studying at university?",
+        "options": [
+          "(a) Medicine",
+          "(b) Sports science",
+          "(c) Engineering",
+          "(d) Physical education"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 12,
+        "question": "Why did Daniel want to explain his paper to Moshe?",
+        "options": [
+          "(a) He needed Moshe to check for mistakes",
+          "(b) He wanted to practise talking about it simply",
+          "(c) Moshe had asked him about sports science",
+          "(d) It was a university assignment to teach a family member"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 13,
+        "question": "What analogy did Moshe use to describe periodisation?",
+        "options": [
+          "(a) Cooking a meal in stages",
+          "(b) Growing a plant from a seed",
+          "(c) Building a house — foundations, walls, then roof",
+          "(d) Driving a long journey with rest stops"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 14,
+        "question": "What does Daniel say biomechanics helps with in the first training phase?",
+        "options": [
+          "(a) Building muscle size",
+          "(b) Raising the lactate threshold",
+          "(c) How the body moves efficiently",
+          "(d) Improving mental toughness"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 15,
+        "question": "What does VO2 max measure?",
+        "options": [
+          "(a) Muscle size after hypertrophy training",
+          "(b) How hard an athlete can push before their muscles stop cooperating",
+          "(c) The athlete's body weight in relation to performance",
+          "(d) The efficiency with which the body uses oxygen"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 16,
+        "question": "What is hypertrophy?",
+        "options": [
+          "(a) A type of interval training",
+          "(b) Muscles growing bigger and stronger through resistance training",
+          "(c) The body's sense of its own position",
+          "(d) A planned period of reduced training load"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 17,
+        "question": "What does Daniel say overtraining is?",
+        "options": [
+          "(a) The key to reaching peak performance",
+          "(b) A useful phase in periodisation",
+          "(c) The enemy of improvement",
+          "(d) A sign that the athlete is ready to compete"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 18,
+        "question": "What is a deload week?",
+        "options": [
+          "(a) A week with extra intense training",
+          "(b) A week where everything gets lighter to aid recovery",
+          "(c) A week focused only on biomechanics",
+          "(d) The week before a major competition"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 19,
+        "question": "How does Moshe summarise the whole purpose of elite training?",
+        "options": [
+          "(a) To build bigger muscles than the opponent",
+          "(b) To train every day without stopping",
+          "(c) To teach the body to handle more until reaching peak performance at the right moment",
+          "(d) To improve VO2 max above all other measures"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 20,
+        "question": "What does Moshe say his sixty years of work taught him?",
+        "options": [
+          "(a) That rest is more important than training",
+          "(b) That sports science is too complicated to understand",
+          "(c) That university education is not necessary",
+          "(d) Something about systems"
+        ],
+        "correct_answer": "d"
+      }
+    ]
+  }
+}

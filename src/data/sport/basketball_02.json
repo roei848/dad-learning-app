@@ -1,0 +1,195 @@
+{
+  "section_id": "basketball_02",
+  "difficulty": "medium",
+  "title": "Basketball 2",
+  "category": "Sport",
+  "word_bank": [
+    {
+      "word": "Pick-and-roll",
+      "translation": "פיק אנד רול",
+      "example": "The guard used a pick-and-roll with the centre to get past the defender."
+    },
+    {
+      "word": "Fast break",
+      "translation": "התקפה מתפרצת",
+      "example": "After the steal, the team pushed the ball up for a fast break and scored before the defence could recover."
+    },
+    {
+      "word": "Crossover",
+      "translation": "שינוי כיוון",
+      "example": "His quick crossover left the defender off balance and opened up a clear path to the basket."
+    },
+    {
+      "word": "Transition",
+      "translation": "מעבר",
+      "example": "The team struggled in transition and gave up easy baskets when the opponent pushed the pace."
+    },
+    {
+      "word": "Possession",
+      "translation": "החזקת כדור",
+      "example": "Maccabi controlled possession for most of the fourth quarter and ran down the clock."
+    },
+    {
+      "word": "Block",
+      "translation": "חסימה",
+      "example": "The centre rose up and swatted away the shot — a spectacular block that fired up the crowd."
+    },
+    {
+      "word": "Steal",
+      "translation": "חטיפה / לחטוף",
+      "example": "The guard reached in and made a steal, then raced the other way for an easy layup."
+    },
+    {
+      "word": "Timeout",
+      "translation": "פסק זמן",
+      "example": "The coach called a timeout to settle his team and draw up a new play."
+    },
+    {
+      "word": "Quarter",
+      "translation": "רבע",
+      "example": "Maccabi outscored their opponents by ten points in the third quarter to take control."
+    },
+    {
+      "word": "Rim",
+      "translation": "הסל / טבעת",
+      "example": "The ball rolled around the rim twice before dropping through the net."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "The guard and the centre executed a perfect _____ that freed up an easy shot at the basket.",
+      "options": ["(a) Timeout", "(b) Pick-and-roll", "(c) Steal", "(d) Quarter"],
+      "correct_answer": "b",
+      "hint_hebrew": "תמרון שבו שחקן מציב מסך ואז נע לעבר הסל"
+    },
+    {
+      "id": 2,
+      "question": "After the turnover, the whole team sprinted up the court for a _____ and scored before the defence was set.",
+      "options": ["(a) Block", "(b) Rim", "(c) Fast break", "(d) Crossover"],
+      "correct_answer": "c",
+      "hint_hebrew": "התקפה מהירה לפני שההגנה מתארגנת"
+    },
+    {
+      "id": 3,
+      "question": "His sharp _____ moved the ball from his right hand to his left and left the defender frozen.",
+      "options": ["(a) Crossover", "(b) Possession", "(c) Timeout", "(d) Steal"],
+      "correct_answer": "a",
+      "hint_hebrew": "שינוי כיוון מהיר של הכדור מיד ליד"
+    },
+    {
+      "id": 4,
+      "question": "The team was too slow in _____ and kept allowing the other team to score easy baskets on the counter-attack.",
+      "options": ["(a) Quarter", "(b) Rim", "(c) Block", "(d) Transition"],
+      "correct_answer": "d",
+      "hint_hebrew": "המעבר בין התקפה להגנה ובחזרה"
+    },
+    {
+      "id": 5,
+      "question": "Maccabi controlled _____ for the entire final minute and did not let Hapoel touch the ball.",
+      "options": ["(a) Possession", "(b) Fast break", "(c) Pick-and-roll", "(d) Timeout"],
+      "correct_answer": "a",
+      "hint_hebrew": "הצד שמחזיק את הכדור ברגע נתון"
+    },
+    {
+      "id": 6,
+      "question": "The centre leapt and sent the shot flying away from the basket — a massive _____.",
+      "options": ["(a) Steal", "(b) Block", "(c) Rim", "(d) Quarter"],
+      "correct_answer": "b",
+      "hint_hebrew": "כשמגן דוחה את הזריקה של היריב"
+    },
+    {
+      "id": 7,
+      "question": "The quick guard reached in and made a _____, then sprinted the other way for an uncontested layup.",
+      "options": ["(a) Crossover", "(b) Transition", "(c) Steal", "(d) Pick-and-roll"],
+      "correct_answer": "c",
+      "hint_hebrew": "כשלוקחים את הכדור מהיריב"
+    },
+    {
+      "id": 8,
+      "question": "The coach signalled for a _____ to stop the opponent's run and talk to his players.",
+      "options": ["(a) Rim", "(b) Timeout", "(c) Quarter", "(d) Fast break"],
+      "correct_answer": "b",
+      "hint_hebrew": "הפסקה קצרה שהמאמן קורא לה"
+    },
+    {
+      "id": 9,
+      "question": "Maccabi dominated the third _____, outscoring Hapoel fifteen to four to take a big lead.",
+      "options": ["(a) Block", "(b) Steal", "(c) Quarter", "(d) Possession"],
+      "correct_answer": "c",
+      "hint_hebrew": "אחד מארבעת חלקי המשחק"
+    },
+    {
+      "id": 10,
+      "question": "The ball bounced off the _____ and back out — so close to going in!",
+      "options": ["(a) Timeout", "(b) Crossover", "(c) Transition", "(d) Rim"],
+      "correct_answer": "d",
+      "hint_hebrew": "הטבעת המתכתית שעליה תלויה הרשת"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "Moshe and his son Avi sat down together on Friday night to watch Maccabi Tel Aviv take on their biggest rival in the EuroLeague. Avi loves basketball and has been playing since he was a teenager. He was happy to explain the tactics to his father.\n\nThe game began at a furious pace. In the first quarter, Maccabi fell behind after a series of poor turnovers. Avi explained: 'Abba, when we lose possession like that, the other team gets a fast break — they run before our defence is ready and get an easy basket.'\n\nBut Maccabi's coach called a timeout and the team regrouped. In the second quarter they started using the pick-and-roll much more effectively. The guard would receive a screen, use a sharp crossover to beat his man, and either attack the rim himself or find an open teammate.\n\nThe third quarter was Maccabi's best. Their top defender made three steals and turned each one into points on the fast break. Their centre also produced a thunderous block that sent the ball into the stands. Maccabi moved the ball quickly through transition and built a twelve-point lead.\n\nHapoel clawed back in the fourth quarter by slowing possession down and being patient. But Maccabi held on. Moshe turned to Avi at the final buzzer and said: 'So, if they keep the ball and don't rush, they win. Is that the secret?' Avi laughed. 'That's one of the secrets, Abba.'",
+    "questions": [
+      {
+        "id": 11,
+        "question": "Who did Moshe watch the game with?",
+        "options": ["(a) His grandson Yonatan", "(b) His wife", "(c) His son Avi", "(d) His neighbour"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 12,
+        "question": "What competition were Maccabi Tel Aviv playing in?",
+        "options": ["(a) The Israeli league", "(b) The cup final", "(c) A friendly match", "(d) The EuroLeague"],
+        "correct_answer": "d"
+      },
+      {
+        "id": 13,
+        "question": "Why did Maccabi fall behind in the first quarter?",
+        "options": ["(a) Their centre was injured", "(b) A series of poor turnovers", "(c) The referee made bad decisions", "(d) Their guard fouled out"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "What did Avi explain about a fast break?",
+        "options": ["(a) It is used when the coach calls a timeout", "(b) It happens when a player makes a steal and holds the ball", "(c) The opponent runs before the defence is ready and gets an easy basket", "(d) It is when the guard makes a crossover move"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 15,
+        "question": "What did the coach do after Maccabi fell behind?",
+        "options": ["(a) He made several substitutions", "(b) He called a timeout", "(c) He changed the team's formation", "(d) He argued with the referee"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 16,
+        "question": "In the second quarter, what move did the guard use after receiving a pick-and-roll screen?",
+        "options": ["(a) A rim dunk", "(b) A fast break steal", "(c) A timeout play", "(d) A sharp crossover"],
+        "correct_answer": "d"
+      },
+      {
+        "id": 17,
+        "question": "How many steals did Maccabi's top defender make in the third quarter?",
+        "options": ["(a) One", "(b) Two", "(c) Three", "(d) Four"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 18,
+        "question": "What did the centre do that sent the ball into the stands?",
+        "options": ["(a) He missed a shot off the rim", "(b) He threw the ball out of bounds", "(c) He made a thunderous block", "(d) He committed a foul"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 19,
+        "question": "How did Hapoel try to come back in the fourth quarter?",
+        "options": ["(a) By pushing the pace with fast breaks", "(b) By slowing possession down and being patient", "(c) By pressing the defence and forcing steals", "(d) By running the pick-and-roll repeatedly"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 20,
+        "question": "What conclusion did Moshe draw at the end of the game?",
+        "options": ["(a) That basketball is too fast to understand", "(b) That Hapoel were the better team", "(c) That if a team keeps the ball and does not rush, they win", "(d) That Maccabi won only because of their tall centre"],
+        "correct_answer": "c"
+      }
+    ]
+  }
+}

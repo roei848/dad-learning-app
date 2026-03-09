@@ -1,4 +1,4 @@
-import restaurantData from '../../data/restaurant.json';
+import restaurantData from '../../data/lifestyle/restaurant.json';
 import { useAppDispatch, useAppSelector } from '../../app/hooks';
 import { resetSession } from '../../store/sessionSlice';
 import type { WordBankItem } from '../../types';

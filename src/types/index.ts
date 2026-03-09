@@ -1,3 +1,5 @@
+import React from 'react';
+
 // Word Bank
 export interface WordBankItem {
   word: string;
@@ -39,6 +41,13 @@ export interface Section {
   word_bank: WordBankItem[];
   stage_1_sentences: SentenceQuestion[];
   stage_2_story: StoryData;
+}
+
+// Category metadata (for home screen category cards)
+export interface CategoryMeta {
+  name: string;
+  icon: React.ReactNode;
+  sectionCount: number;
 }
 
 // Section metadata (for home screen cards)
