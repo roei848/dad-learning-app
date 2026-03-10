@@ -41,6 +41,8 @@ Each section = one themed topic (e.g. "Dining Out", "Travel"). Adding one requir
 }
 ```
 
+**Shuffle the question-to-word mapping.** The 10 `stage_1_sentences` must NOT test words in the same sequence as `word_bank`. Randomize which question targets which word. Every word from the word_bank must appear as a correct answer exactly once, but the mapping of question → word must be shuffled (e.g., Q1 could test word_bank[4], Q2 could test word_bank[7], etc.). Never let Q1→word_bank[0], Q2→word_bank[1] ... Q10→word_bank[9].
+
 **Set `difficulty` to match the section's complexity.** Valid values: `easy | medium | hard | extreme`. Use `easy` for everyday vocabulary (greetings, food, shopping), `medium` for broader topics (travel, health), `hard` for abstract or formal language (business, law), and `extreme` for idiomatic or highly nuanced content.
 
 ## Step 2 — Create (or update) the sections registry
