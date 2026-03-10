@@ -1,0 +1,155 @@
+{
+  "section_id": "tv_streaming_01",
+  "difficulty": "easy",
+  "title": "TV & Streaming",
+  "category": "Culture",
+  "word_bank": [
+    { "word": "Binge-watch", "translation": "לצפות בסדרה ברצף / בינג'", "example": "We spent the entire weekend binge-watching the new crime series." },
+    { "word": "Episode", "translation": "פרק (בסדרה)", "example": "Each episode is about forty-five minutes long." },
+    { "word": "Season", "translation": "עונה", "example": "The second season was even more exciting than the first." },
+    { "word": "Cliffhanger", "translation": "סיום מותח", "example": "The episode ended on a cliffhanger — we had to know what happened next." },
+    { "word": "Streaming", "translation": "סטרימינג / צפייה מקוונת", "example": "Streaming services have changed the way families watch television." },
+    { "word": "Subscription", "translation": "מנוי", "example": "We pay a monthly subscription to watch unlimited films and series." },
+    { "word": "Series", "translation": "סדרה", "example": "This series has five seasons and over sixty episodes in total." },
+    { "word": "Premiere", "translation": "שידור ראשון / בכורה", "example": "The whole family gathered to watch the season premiere together." },
+    { "word": "Rerun", "translation": "שידור חוזר", "example": "There was nothing new on TV so we watched a rerun of an old favourite." },
+    { "word": "On demand", "translation": "לפי דרישה / לצפייה בכל עת", "example": "With on demand viewing, you can watch any episode whenever you want." }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 6,
+      "question": "We pay for a monthly _____ so the whole family can watch unlimited series and films.",
+      "options": ["(a) Cliffhanger", "(b) Rerun", "(c) Subscription", "(d) Episode"],
+      "correct_answer": "c",
+      "hint_hebrew": "תשלום קבוע עבור גישה לשירות"
+    },
+    {
+      "id": 2,
+      "question": "We watched three _____ in a row last night — it was almost midnight before we stopped.",
+      "options": ["(a) Seasons", "(b) Episodes", "(c) Reruns", "(d) Premieres"],
+      "correct_answer": "b",
+      "hint_hebrew": "פרק בודד מתוך סדרה"
+    },
+    {
+      "id": 9,
+      "question": "There was nothing new to watch, so we put on a _____ of a show we had already seen.",
+      "options": ["(a) Rerun", "(b) Series", "(c) Subscription", "(d) Cliffhanger"],
+      "correct_answer": "a",
+      "hint_hebrew": "שידור של תוכנית שכבר שודרה בעבר"
+    },
+    {
+      "id": 4,
+      "question": "The last scene of the episode was a total _____ — someone was standing outside the door and we never saw who it was.",
+      "options": ["(a) Premiere", "(b) Season", "(c) On demand", "(d) Cliffhanger"],
+      "correct_answer": "d",
+      "hint_hebrew": "סיום מפתיע שמשאיר אותך בתשוקה לפרק הבא"
+    },
+    {
+      "id": 7,
+      "question": "The whole family sat together to watch the _____ of the new drama — it was finally here after months of waiting.",
+      "options": ["(a) Binge-watch", "(b) Premiere", "(c) Rerun", "(d) Streaming"],
+      "correct_answer": "b",
+      "hint_hebrew": "השידור הראשון של תוכנית חדשה"
+    },
+    {
+      "id": 1,
+      "question": "It is so easy to _____ a whole series when every episode ends with a cliffhanger.",
+      "options": ["(a) Binge-watch", "(b) Subscribe", "(c) Stream", "(d) Rerun"],
+      "correct_answer": "a",
+      "hint_hebrew": "לצפות בפרקים רבים ברצף אחד"
+    },
+    {
+      "id": 5,
+      "question": "The _____ platform lets you watch films and series without adverts for a small monthly fee.",
+      "options": ["(a) Season", "(b) Episode", "(c) Streaming", "(d) On demand"],
+      "correct_answer": "c",
+      "hint_hebrew": "שירות שמאפשר צפייה מקוונת בתוכן"
+    },
+    {
+      "id": 3,
+      "question": "The first _____ had only six episodes, but the second had ten.",
+      "options": ["(a) Rerun", "(b) Season", "(c) Premiere", "(d) Subscription"],
+      "correct_answer": "b",
+      "hint_hebrew": "קבוצת פרקים שמשתייכים לאותה שנה של סדרה"
+    },
+    {
+      "id": 10,
+      "question": "With _____ viewing, you can pause, rewind, and watch any episode at any time.",
+      "options": ["(a) On demand", "(b) Episode", "(c) Series", "(d) Cliffhanger"],
+      "correct_answer": "a",
+      "hint_hebrew": "אפשרות לצפות בתוכן בכל זמן שרוצים"
+    },
+    {
+      "id": 8,
+      "question": "This _____ has been running for seven years and still has millions of loyal viewers.",
+      "options": ["(a) Premiere", "(b) Rerun", "(c) Series", "(d) Binge-watch"],
+      "correct_answer": "c",
+      "hint_hebrew": "סדרת טלוויזיה עם מספר עונות"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "Friday night had become the Levi family's streaming night. As soon as dinner was cleared, the children ran to the sofa. They had been waiting all week for the new episode of their favourite series — a funny adventure show that had just started its second season. Dad set up the streaming service on the big TV while Mum checked that their subscription was still active. The season premiere had aired the week before, and everyone agreed it was the best one yet. Tonight's episode ended on a cliffhanger — the main character was trapped in a cave with no way out. The children groaned. 'Can we watch one more?' they begged. Dad laughed and agreed, since the show was available on demand. They watched another episode before bed. On Saturday morning, he caught his son watching a rerun of the very first episode on his tablet — clearly, the whole family was ready to binge-watch the entire series all over again.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "When did the Levi family have their streaming night?",
+        "options": ["(a) Friday night", "(b) Sunday afternoon", "(c) Saturday evening", "(d) Thursday after school"],
+        "correct_answer": "a"
+      },
+      {
+        "id": 12,
+        "question": "What kind of show was the family watching?",
+        "options": ["(a) A crime drama", "(b) A funny adventure show", "(c) A cooking competition", "(d) A historical documentary"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 13,
+        "question": "What season had just started?",
+        "options": ["(a) The first season", "(b) The third season", "(c) The second season", "(d) The fourth season"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 14,
+        "question": "What did Mum check before they started watching?",
+        "options": ["(a) That the children had finished their homework", "(b) That the remote control had batteries", "(c) That the volume was not too loud", "(d) That the subscription was still active"],
+        "correct_answer": "d"
+      },
+      {
+        "id": 15,
+        "question": "When had the season premiere aired?",
+        "options": ["(a) The week before", "(b) Two weeks before", "(c) That same evening", "(d) A month ago"],
+        "correct_answer": "a"
+      },
+      {
+        "id": 16,
+        "question": "How did Friday's episode end?",
+        "options": ["(a) With a happy resolution", "(b) With a wedding scene", "(c) With the main character escaping", "(d) With a cliffhanger"],
+        "correct_answer": "d"
+      },
+      {
+        "id": 17,
+        "question": "What was the main character's situation at the end of the episode?",
+        "options": ["(a) Lost in a forest", "(b) Trapped in a cave", "(c) Stuck on an island", "(d) Locked in a building"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 18,
+        "question": "Why did Dad agree to watch another episode?",
+        "options": ["(a) He was not tired yet", "(b) The children cried", "(c) The show was available on demand", "(d) There was nothing else to watch"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 19,
+        "question": "What was Dad's son doing on Saturday morning?",
+        "options": ["(a) Playing outside", "(b) Watching a rerun of the first episode on his tablet", "(c) Reading a book about the show", "(d) Watching a new episode"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 20,
+        "question": "What does the ending suggest about the Levi family?",
+        "options": ["(a) They prefer old shows to new ones", "(b) They watch too much TV", "(c) They are ready to binge-watch the whole series again", "(d) They are bored of the series"],
+        "correct_answer": "c"
+      }
+    ]
+  }
+}

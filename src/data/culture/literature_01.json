@@ -1,0 +1,45 @@
+{
+  "section_id": "literature_01",
+  "difficulty": "hard",
+  "title": "Books & Literature",
+  "category": "Culture",
+  "word_bank": [
+    { "word": "Metaphor", "translation": "מטאפורה / השוואה פיגורטיבית", "example": "Saying 'life is a journey' is a common metaphor in English literature." },
+    { "word": "Protagonist", "translation": "גיבור הסיפור / דמות ראשית", "example": "The protagonist of the novel is a young woman searching for her missing brother." },
+    { "word": "Foreshadowing", "translation": "רמז מוקדם / הצצה לעתיד", "example": "The dark clouds described in chapter one were foreshadowing the tragedy ahead." },
+    { "word": "Narrative", "translation": "סיפור", "example": "The novel shifts between two different narratives — one in the past and one in the present." },
+    { "word": "Symbolism", "translation": "סמליות", "example": "The broken clock in the story is symbolism for the character's refusal to move forward." },
+    { "word": "Genre", "translation": "ז'אנר / סוג ספרות", "example": "He mostly reads in the crime genre but recently tried science fiction." },
+    { "word": "Theme", "translation": "נושא מרכזי / תמה", "example": "The central theme of the book is the conflict between loyalty and personal freedom." },
+    { "word": "Climax", "translation": "שיא / נקודת שיא", "example": "The climax of the novel comes when the two brothers finally confront each other." },
+    { "word": "Epilogue", "translation": "סיום", "example": "The epilogue revealed what happened to each character ten years later." },
+    { "word": "Allegory", "translation": "אלגוריה / משל", "example": "Many readers interpret the story as an allegory for political oppression." }
+  ],
+  "stage_1_sentences": [
+    { "id": 1, "question": "The novel's main _____ was a retired teacher who discovers a dangerous secret.", "options": ["(a) epilogue", "(b) theme", "(c) protagonist", "(d) allegory"], "correct_answer": "c", "hint_hebrew": "הדמות הראשית שהסיפור עוסק בה — הגיבור" },
+    { "id": 2, "question": "The writer used the image of a caged bird as a _____ for lost freedom.", "options": ["(a) metaphor", "(b) genre", "(c) narrative", "(d) climax"], "correct_answer": "a", "hint_hebrew": "השוואה שאינה מילולית — דבר אחד מייצג אחר" },
+    { "id": 3, "question": "The _____ of betrayal runs through every chapter of the book.", "options": ["(a) foreshadowing", "(b) symbolism", "(c) epilogue", "(d) theme"], "correct_answer": "d", "hint_hebrew": "הרעיון המרכזי שהסופר רוצה להעביר בספר" },
+    { "id": 4, "question": "The story is told through two parallel narratives that only meet at the _____.", "options": ["(a) genre", "(b) climax", "(c) allegory", "(d) protagonist"], "correct_answer": "b", "hint_hebrew": "הרגע המתוח ביותר — שיא הסיפור" },
+    { "id": 5, "question": "In the opening chapter, the author uses _____ — the character drops a photograph, which hints at a loss to come.", "options": ["(a) epilogue", "(b) foreshadowing", "(c) symbolism", "(d) narrative"], "correct_answer": "b", "hint_hebrew": "כאשר הסופר שותל רמז בתחילת הסיפור לאירוע עתידי" },
+    { "id": 6, "question": "The _____ tied together all the loose ends, showing the characters' lives a decade later.", "options": ["(a) allegory", "(b) theme", "(c) epilogue", "(d) genre"], "correct_answer": "c", "hint_hebrew": "הפרק האחרון בספר — מה קורה אחרי שהסיפור נגמר" },
+    { "id": 7, "question": "He was not sure which _____ to try next — he had already read fantasy, mystery, and historical fiction.", "options": ["(a) symbolism", "(b) protagonist", "(c) narrative", "(d) genre"], "correct_answer": "d", "hint_hebrew": "קטגוריה של ספרות — כמו מתח, מדע בדיוני, רומן" },
+    { "id": 8, "question": "The whole novel can be read as an _____ for the fall of a civilization.", "options": ["(a) allegory", "(b) metaphor", "(c) foreshadowing", "(d) climax"], "correct_answer": "a", "hint_hebrew": "סיפור שמייצג אירוע או רעיון גדול יותר בעולם האמיתי" },
+    { "id": 9, "question": "The red door in the story is used as _____ for danger — it appears every time the character is about to make a mistake.", "options": ["(a) theme", "(b) narrative", "(c) symbolism", "(d) epilogue"], "correct_answer": "c", "hint_hebrew": "שימוש בחפץ או בדימוי כדי לייצג רעיון מופשט" },
+    { "id": 10, "question": "The author weaves a powerful _____ that jumps between the character's past and present.", "options": ["(a) narrative", "(b) genre", "(c) protagonist", "(d) allegory"], "correct_answer": "a", "hint_hebrew": "האופן שבו הסיפור נבנה ומסופר — המבנה הנרטיבי" }
+  ],
+  "stage_2_story": {
+    "text_en": "Every Thursday evening, a small group gathered around the table in Miriam's living room for the book club. This month, they had read a short but dense novel — a story about a painter who returns to his hometown after thirty years to settle his father's affairs. The protagonist arrives cold and detached, certain he will leave within a week. He does not. Miriam opened the discussion by asking whether anyone had noticed the foreshadowing in the very first paragraph — the painter stares at a cracked window that he does not bother to fix. 'That crack tells you everything,' she said. 'He is a man who leaves things broken.' Yaron pushed back gently. He argued that the cracked window was more than foreshadowing — it was symbolism, a recurring image that appeared each time the protagonist avoided a difficult truth. The others agreed. Someone brought up the central theme: that we inherit not just property from our parents, but also their unresolved pain. The novel was also, the group decided, an allegory for a whole generation of men who had been taught to suppress emotion. But the narrative itself was what most impressed them — non-linear, jumping between decades without confusion, building quietly toward a climax that arrived not with a dramatic confrontation but with a simple letter found in a drawer. The author had written a brief epilogue showing the painter three years later: the house repaired, a new canvas on the wall. Dina, who normally preferred the crime genre, admitted she had cried at the end. She compared the ending to a metaphor — like a seed planted in winter that only blooms the following spring. They stayed around the table for two hours, talking long after the tea had gone cold.",
+    "questions": [
+      { "id": 11, "question": "What is the book club's meeting schedule?", "options": ["(a) Every Monday", "(b) Once a month", "(c) Every Thursday evening", "(d) Every other week"], "correct_answer": "c" },
+      { "id": 12, "question": "What is the protagonist of the novel?", "options": ["(a) A retired soldier", "(b) A painter", "(c) A doctor", "(d) A teacher"], "correct_answer": "b" },
+      { "id": 13, "question": "Why does the protagonist return to his hometown?", "options": ["(a) To visit old friends", "(b) To sell his childhood home", "(c) To settle his father's affairs", "(d) To start a new painting project"], "correct_answer": "c" },
+      { "id": 14, "question": "What does Miriam say the cracked window represents as foreshadowing?", "options": ["(a) The painter's artistic talent", "(b) A man who leaves things broken", "(c) The town's neglect over time", "(d) The difficult relationship with his mother"], "correct_answer": "b" },
+      { "id": 15, "question": "What does Yaron argue the cracked window also represents?", "options": ["(a) Foreshadowing of the climax", "(b) The theme of inherited pain", "(c) Symbolism — the protagonist avoiding difficult truths", "(d) The genre of the novel"], "correct_answer": "c" },
+      { "id": 16, "question": "What does the group identify as the central theme of the novel?", "options": ["(a) The beauty of art", "(b) Inheriting not just property but unresolved pain", "(c) Returning to one's roots after failure", "(d) The conflict between city and village life"], "correct_answer": "b" },
+      { "id": 17, "question": "How does the climax of the novel arrive?", "options": ["(a) Through a dramatic confrontation", "(b) With a violent argument", "(c) With a simple letter found in a drawer", "(d) With the protagonist leaving town"], "correct_answer": "c" },
+      { "id": 18, "question": "What does the epilogue show about the painter?", "options": ["(a) He sells the house and moves abroad", "(b) He stops painting entirely", "(c) The house is repaired and a new canvas is on the wall", "(d) He reconnects with his brother"], "correct_answer": "c" },
+      { "id": 19, "question": "What genre does Dina normally prefer?", "options": ["(a) Fantasy", "(b) Science fiction", "(c) Historical fiction", "(d) Crime"], "correct_answer": "d" },
+      { "id": 20, "question": "What metaphor does Dina use to describe the ending?", "options": ["(a) A fire that burns slowly through the night", "(b) A seed planted in winter that blooms in spring", "(c) A window that finally gets repaired", "(d) A river that finds its way to the sea"], "correct_answer": "b" }
+    ]
+  }
+}

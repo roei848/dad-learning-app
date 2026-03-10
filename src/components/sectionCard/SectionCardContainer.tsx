@@ -1,9 +1,45 @@
-import React from 'react';
-import { AlertCircle, Baby, Briefcase, Camera, Car, ChefHat, CircleDot, Coffee, Dumbbell, Gift, Heart, Hotel, House, Landmark, MessageCircle, MessageSquare, Pill, Plane, PlaneTakeoff, ShoppingBag, ShoppingCart, Shirt, Stethoscope, Target, Trophy, UtensilsCrossed, Users, Waves } from 'lucide-react';
+import React from "react";
+import {
+  AlertCircle,
+  Baby,
+  BookOpen,
+  Briefcase,
+  Camera,
+  Car,
+  ChefHat,
+  CircleDot,
+  Clapperboard,
+  Coffee,
+  Dumbbell,
+  Film,
+  Gift,
+  Heart,
+  Hotel,
+  House,
+  Landmark,
+  MessageCircle,
+  MessageSquare,
+  Mic2,
+  Music,
+  Palette,
+  Pill,
+  Plane,
+  PlaneTakeoff,
+  ShoppingBag,
+  ShoppingCart,
+  Shirt,
+  Stethoscope,
+  Target,
+  Trophy,
+  Tv,
+  UtensilsCrossed,
+  Users,
+  Waves,
+} from "lucide-react";
 
-import { useAppSelector } from '../../app/hooks';
-import type { Difficulty } from '../../types';
-import SectionCard from './SectionCard';
+import SectionCard from "./SectionCard";
+import type { Difficulty } from "../../types";
+import { useAppSelector } from "../../app/hooks";
 
 export interface SectionCardContainerProps {
   sectionId: string;
@@ -43,6 +79,13 @@ const ICON_MAP: Record<string, React.ReactNode> = {
   Gift: <Gift size={48} />,
   Baby: <Baby size={48} />,
   MessageCircle: <MessageCircle size={48} />,
+  Music: <Music size={48} />,
+  Film: <Film size={48} />,
+  Tv: <Tv size={48} />,
+  Mic2: <Mic2 size={48} />,
+  Clapperboard: <Clapperboard size={48} />,
+  Palette: <Palette size={48} />,
+  BookOpen: <BookOpen size={48} />,
 };
 
 const SectionCardContainer: React.FC<SectionCardContainerProps> = ({
@@ -53,7 +96,9 @@ const SectionCardContainer: React.FC<SectionCardContainerProps> = ({
   difficulty,
   onStart,
 }) => {
-  const completedSections = useAppSelector(state => state.sections.completedSections);
+  const completedSections = useAppSelector(
+    (state) => state.sections.completedSections,
+  );
 
   const completionResult = completedSections[sectionId] ?? null;
   const isCompleted = completionResult !== null;

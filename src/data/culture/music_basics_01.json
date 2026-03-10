@@ -1,0 +1,155 @@
+{
+  "section_id": "music_basics_01",
+  "difficulty": "easy",
+  "title": "Music Basics",
+  "category": "Culture",
+  "word_bank": [
+    { "word": "Album", "translation": "אלבום", "example": "The band released a new album with twelve songs." },
+    { "word": "Concert", "translation": "קונצרט / הופעה", "example": "We bought tickets to a concert at the outdoor stadium." },
+    { "word": "Lyrics", "translation": "מילות השיר", "example": "She knows all the lyrics to her favourite song by heart." },
+    { "word": "Melody", "translation": "מנגינה", "example": "The melody of that old song stayed in my head all day." },
+    { "word": "Beat", "translation": "קצב / פעימה", "example": "The drummer set a fast beat and the whole crowd started dancing." },
+    { "word": "Singer", "translation": "זמר / זמרת", "example": "The singer's voice filled the entire concert hall." },
+    { "word": "Band", "translation": "להקה", "example": "The band played for two hours without stopping." },
+    { "word": "Rhythm", "translation": "קצב", "example": "Children naturally clap along to the rhythm of a song." },
+    { "word": "Track", "translation": "שיר באלבום", "example": "My favourite track on the album is the third one." },
+    { "word": "Tune", "translation": "לחן / מנגינה קצרה", "example": "He whistled a cheerful tune while he cooked dinner." }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 6,
+      "question": "The _____ walked onto the stage and the crowd went wild with excitement.",
+      "options": ["(a) Beat", "(b) Singer", "(c) Track", "(d) Tune"],
+      "correct_answer": "b",
+      "hint_hebrew": "האדם שמבצע את השיר על הבמה"
+    },
+    {
+      "id": 3,
+      "question": "She printed out the _____ so she could follow along and learn all the words.",
+      "options": ["(a) Album", "(b) Rhythm", "(c) Lyrics", "(d) Concert"],
+      "correct_answer": "c",
+      "hint_hebrew": "הטקסט הכתוב של שיר"
+    },
+    {
+      "id": 10,
+      "question": "He always whistles a little _____ when he is in a good mood.",
+      "options": ["(a) Tune", "(b) Beat", "(c) Band", "(d) Track"],
+      "correct_answer": "a",
+      "hint_hebrew": "מנגינה קצרה ופשוטה"
+    },
+    {
+      "id": 7,
+      "question": "The _____ has five members — two guitarists, a bassist, a drummer, and a singer.",
+      "options": ["(a) Melody", "(b) Concert", "(c) Tune", "(d) Band"],
+      "correct_answer": "d",
+      "hint_hebrew": "קבוצת מוזיקאים שמופיעים יחד"
+    },
+    {
+      "id": 1,
+      "question": "The new _____ includes ten songs and a bonus acoustic version of the hit single.",
+      "options": ["(a) Album", "(b) Beat", "(c) Rhythm", "(d) Singer"],
+      "correct_answer": "a",
+      "hint_hebrew": "אוסף שירים שיוצא יחד"
+    },
+    {
+      "id": 4,
+      "question": "The soft _____ of the piano filled the room and made everyone feel calm.",
+      "options": ["(a) Lyrics", "(b) Track", "(c) Melody", "(d) Concert"],
+      "correct_answer": "c",
+      "hint_hebrew": "הצד המוזיקלי של השיר, לא המילים"
+    },
+    {
+      "id": 8,
+      "question": "The baby started swaying as soon as she heard the _____ of the music.",
+      "options": ["(a) Album", "(b) Rhythm", "(c) Singer", "(d) Lyrics"],
+      "correct_answer": "b",
+      "hint_hebrew": "הדפוס החוזר של צלילים בזמן"
+    },
+    {
+      "id": 2,
+      "question": "The outdoor _____ lasted three hours, and the crowd sang along to every song.",
+      "options": ["(a) Tune", "(b) Beat", "(c) Concert", "(d) Track"],
+      "correct_answer": "c",
+      "hint_hebrew": "הופעת מוזיקה חיה בפני קהל"
+    },
+    {
+      "id": 9,
+      "question": "My favourite _____ on the playlist is the one that starts with the piano solo.",
+      "options": ["(a) Track", "(b) Band", "(c) Melody", "(d) Concert"],
+      "correct_answer": "a",
+      "hint_hebrew": "שיר בודד בתוך רשימה או אלבום"
+    },
+    {
+      "id": 5,
+      "question": "The drummer kept a steady _____ throughout the entire song, never missing a note.",
+      "options": ["(a) Lyrics", "(b) Album", "(c) Tune", "(d) Beat"],
+      "correct_answer": "d",
+      "hint_hebrew": "הפעימה הבסיסית שמניעה את המוזיקה"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "On a warm Friday evening, Yossi and his teenage daughter drove to an open-air concert in the park. The band had just released a new album, and this was their first live show in two years. They found a good spot on the grass and spread out a blanket. When the singer stepped onto the stage, the crowd cheered loudly. The beat of the drums kicked in first, followed by a gentle melody from the guitar. Yossi did not know all the lyrics, but his daughter sang every single word. Between songs, she explained what each track was about — some were sad, some were funny. By the end of the night, even Yossi found himself tapping his foot to the rhythm. On the drive home, a familiar tune came on the radio. 'That's from their old album,' his daughter said, smiling. Yossi turned up the volume.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "Where was the concert held?",
+        "options": ["(a) In an open-air park", "(b) At a stadium", "(c) In a concert hall", "(d) At a school"],
+        "correct_answer": "a"
+      },
+      {
+        "id": 12,
+        "question": "How long had it been since the band's last live show?",
+        "options": ["(a) One year", "(b) Two years", "(c) Six months", "(d) Three years"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 13,
+        "question": "What did Yossi and his daughter sit on?",
+        "options": ["(a) A blanket on the grass", "(b) Wooden benches", "(c) Chairs they brought", "(d) Steps near the stage"],
+        "correct_answer": "a"
+      },
+      {
+        "id": 14,
+        "question": "What instrument started the music first?",
+        "options": ["(a) The guitar", "(b) The piano", "(c) The bass", "(d) The drums"],
+        "correct_answer": "d"
+      },
+      {
+        "id": 15,
+        "question": "Who knew all the lyrics to the songs?",
+        "options": ["(a) Yossi", "(b) Both of them", "(c) His daughter", "(d) Neither of them"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 16,
+        "question": "What did the daughter explain between songs?",
+        "options": ["(a) The history of the band", "(b) What each track was about", "(c) How to play the instruments", "(d) The names of the musicians"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 17,
+        "question": "How did Yossi show he was enjoying the music by the end?",
+        "options": ["(a) He sang along", "(b) He danced", "(c) He tapped his foot to the rhythm", "(d) He clapped loudly"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 18,
+        "question": "Where did they hear another tune they recognized?",
+        "options": ["(a) At a restaurant after the show", "(b) On the radio in the car", "(c) On the daughter's phone", "(d) At the park exit"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 19,
+        "question": "What did the daughter say about the tune on the radio?",
+        "options": ["(a) That it was her favourite song", "(b) That it was from the new album", "(c) That it was from their old album", "(d) That it was not by the same band"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 20,
+        "question": "What did Yossi do when he heard the familiar tune?",
+        "options": ["(a) Changed the station", "(b) Turned up the volume", "(c) Pulled over the car", "(d) Started singing"],
+        "correct_answer": "b"
+      }
+    ]
+  }
+}

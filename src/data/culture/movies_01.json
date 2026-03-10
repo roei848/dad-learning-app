@@ -1,0 +1,155 @@
+{
+  "section_id": "movies_01",
+  "difficulty": "easy",
+  "title": "At the Movies",
+  "category": "Culture",
+  "word_bank": [
+    { "word": "Ticket", "translation": "כרטיס", "example": "We bought our tickets online to avoid the long queue at the cinema." },
+    { "word": "Popcorn", "translation": "פופקורן", "example": "She always orders a large bucket of popcorn before the film starts." },
+    { "word": "Trailer", "translation": "טריילר / תשדיר", "example": "The trailer made the movie look exciting, but the film itself was disappointing." },
+    { "word": "Sequel", "translation": "סרט המשך", "example": "The sequel was even better than the original film." },
+    { "word": "Director", "translation": "במאי", "example": "The director spent three years making this film." },
+    { "word": "Subtitles", "translation": "כתוביות", "example": "I always watch foreign films with subtitles so I can understand the dialogue." },
+    { "word": "Premiere", "translation": "בכורה / הקרנה ראשונה", "example": "The stars arrived by limousine to attend the Hollywood premiere." },
+    { "word": "Genre", "translation": "ז'אנר / סוג", "example": "His favourite genre is comedy, but his wife prefers thrillers." },
+    { "word": "Cast", "translation": "שחקנים / הרכב שחקנים", "example": "The film has an impressive cast of award-winning actors." },
+    { "word": "Blockbuster", "translation": "שובר קופות / להיט קולנועי", "example": "The new superhero film is the biggest blockbuster of the summer." }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 4,
+      "question": "The third film in the series is a _____ — it continues the story from where the second film ended.",
+      "options": ["(a) Sequel", "(b) Genre", "(c) Premiere", "(d) Trailer"],
+      "correct_answer": "a",
+      "hint_hebrew": "סרט שממשיך סרט קודם"
+    },
+    {
+      "id": 8,
+      "question": "My father prefers action movies — that is his favourite _____.",
+      "options": ["(a) Cast", "(b) Subtitles", "(c) Genre", "(d) Director"],
+      "correct_answer": "c",
+      "hint_hebrew": "קטגוריה או סוג של סרט"
+    },
+    {
+      "id": 1,
+      "question": "I forgot to buy a _____ in advance, so we had to wait in line for twenty minutes.",
+      "options": ["(a) Popcorn", "(b) Ticket", "(c) Sequel", "(d) Blockbuster"],
+      "correct_answer": "b",
+      "hint_hebrew": "מה שצריך כדי להיכנס לקולנוע"
+    },
+    {
+      "id": 6,
+      "question": "Dad turned on the _____ because the characters spoke too fast to understand.",
+      "options": ["(a) Trailer", "(b) Cast", "(c) Subtitles", "(d) Genre"],
+      "correct_answer": "c",
+      "hint_hebrew": "כתוביות שמופיעות בתחתית המסך"
+    },
+    {
+      "id": 10,
+      "question": "The new superhero film is the biggest _____ of the year — everyone is talking about it.",
+      "options": ["(a) Blockbuster", "(b) Sequel", "(c) Premiere", "(d) Ticket"],
+      "correct_answer": "a",
+      "hint_hebrew": "סרט מאוד פופולרי שמכניס הרבה כסף"
+    },
+    {
+      "id": 3,
+      "question": "The _____ showed the best scenes from the movie, which made us want to see it right away.",
+      "options": ["(a) Genre", "(b) Trailer", "(c) Cast", "(d) Popcorn"],
+      "correct_answer": "b",
+      "hint_hebrew": "סרטון קצר שמפרסם סרט לפני יציאתו"
+    },
+    {
+      "id": 7,
+      "question": "The _____ of the film includes three Oscar-winning actors and two famous comedians.",
+      "options": ["(a) Director", "(b) Ticket", "(c) Sequel", "(d) Cast"],
+      "correct_answer": "d",
+      "hint_hebrew": "כל השחקנים שמשתתפים בסרט"
+    },
+    {
+      "id": 2,
+      "question": "She bought a large _____ and a cold drink before finding their seats in the dark hall.",
+      "options": ["(a) Popcorn", "(b) Subtitles", "(c) Blockbuster", "(d) Ticket"],
+      "correct_answer": "a",
+      "hint_hebrew": "חטיף פופולרי שאוכלים בסרט"
+    },
+    {
+      "id": 5,
+      "question": "The famous _____ took three years to film this epic adventure in New Zealand.",
+      "options": ["(a) Genre", "(b) Director", "(c) Premiere", "(d) Trailer"],
+      "correct_answer": "b",
+      "hint_hebrew": "האדם שמפנה את הסרט ואחראי על החזון האמנותי"
+    },
+    {
+      "id": 9,
+      "question": "The actors wore evening gowns and suits to attend the glamorous _____ in Los Angeles.",
+      "options": ["(a) Sequel", "(b) Popcorn", "(c) Premiere", "(d) Blockbuster"],
+      "correct_answer": "c",
+      "hint_hebrew": "הקרנה ראשונה רשמית של סרט"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "It was a rainy Saturday afternoon, and Avi decided to take his two children to see the new blockbuster that everyone at school was talking about. He bought three tickets at the counter and let each child choose a snack. His daughter picked a small popcorn, while his son went straight for a giant one. Before the main film, they watched a trailer for an exciting sequel to another movie they had loved last year. When the film began, Avi was grateful that the cinema offered subtitles in Hebrew — the cast spoke quickly and used a lot of slang. The director had done a wonderful job mixing action with humour. At the end, the children clapped and immediately asked if there would be another sequel. On the way home, they argued cheerfully about which genre they would choose next time — his daughter wanted a comedy, but his son was already dreaming of the premiere of the next superhero film.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "Why did Avi choose to go to the cinema that day?",
+        "options": ["(a) It was raining outside", "(b) It was a school holiday", "(c) The children had been asking for weeks", "(d) He had free tickets"],
+        "correct_answer": "a"
+      },
+      {
+        "id": 12,
+        "question": "How many tickets did Avi buy?",
+        "options": ["(a) Two", "(b) Four", "(c) Three", "(d) Five"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 13,
+        "question": "What snack did Avi's daughter choose?",
+        "options": ["(a) A giant popcorn", "(b) A small popcorn", "(c) Nachos", "(d) A hot dog"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "What did they watch before the main film?",
+        "options": ["(a) A short film", "(b) Advertisements", "(c) A trailer for a sequel", "(d) A music video"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 15,
+        "question": "Why was Avi grateful for the subtitles?",
+        "options": ["(a) His children were learning to read", "(b) The cast spoke quickly and used a lot of slang", "(c) The film was in a foreign language", "(d) The sound was too low"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 16,
+        "question": "What two elements did the director mix in the film?",
+        "options": ["(a) Drama and romance", "(b) Mystery and horror", "(c) Action and humour", "(d) Fantasy and history"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 17,
+        "question": "What did the children do at the end of the film?",
+        "options": ["(a) Fell asleep", "(b) Clapped and asked about a sequel", "(c) Left early", "(d) Asked to watch it again"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 18,
+        "question": "What genre did Avi's daughter want to see next time?",
+        "options": ["(a) Thriller", "(b) Action", "(c) Horror", "(d) Comedy"],
+        "correct_answer": "d"
+      },
+      {
+        "id": 19,
+        "question": "What was Avi's son dreaming of on the way home?",
+        "options": ["(a) A sequel to the film they just saw", "(b) The premiere of the next superhero film", "(c) Watching a comedy with his sister", "(d) Buying more popcorn"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 20,
+        "question": "How would you describe the family's mood on the way home?",
+        "options": ["(a) Quiet and tired", "(b) Upset about the film", "(c) Cheerful and arguing about next time", "(d) Bored and ready for dinner"],
+        "correct_answer": "c"
+      }
+    ]
+  }
+}

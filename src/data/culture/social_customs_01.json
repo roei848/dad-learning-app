@@ -1,0 +1,155 @@
+{
+  "section_id": "social_customs_01",
+  "difficulty": "easy",
+  "title": "Social Customs",
+  "category": "Culture",
+  "word_bank": [
+    { "word": "Handshake", "translation": "לחיצת יד", "example": "In many Western countries, a firm handshake is the standard greeting in business." },
+    { "word": "Tip", "translation": "טיפ / תשר", "example": "It is common to leave a tip of fifteen to twenty percent at American restaurants." },
+    { "word": "RSVP", "translation": "אנא אשר הגעה (מצרפתית)", "example": "The invitation says RSVP by Friday so the host knows how many people are coming." },
+    { "word": "Potluck", "translation": "ארוחה משותפת (כל אחד מביא מנה)", "example": "We are having a potluck dinner — please bring a dish to share with everyone." },
+    { "word": "Small talk", "translation": "שיחה קלה / סמול טוק", "example": "Americans often start conversations with small talk about the weather or sports." },
+    { "word": "Queue", "translation": "תור / שורה", "example": "Please join the queue — everyone waits their turn here." },
+    { "word": "Etiquette", "translation": "נימוס / כללי התנהגות", "example": "Good table etiquette includes keeping your phone away during a meal." },
+    { "word": "Compliment", "translation": "מחמאה", "example": "He gave her a genuine compliment about her presentation at work." },
+    { "word": "Formality", "translation": "פורמליות / רשמיות", "example": "The job interview required a high level of formality — he wore a suit and tie." },
+    { "word": "Custom", "translation": "מנהג / מסורת", "example": "It is a custom in many American homes to remove your shoes at the front door." }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 3,
+      "question": "The invitation asks that you _____ by the end of the week so the host can prepare enough food.",
+      "options": ["(a) Tip", "(b) Queue", "(c) RSVP", "(d) Compliment"],
+      "correct_answer": "c",
+      "hint_hebrew": "להשיב להזמנה ולאשר אם אתה מגיע"
+    },
+    {
+      "id": 7,
+      "question": "The new employee learned quickly that office _____ meant always greeting the manager first.",
+      "options": ["(a) Custom", "(b) Etiquette", "(c) Handshake", "(d) Formality"],
+      "correct_answer": "b",
+      "hint_hebrew": "כללי ההתנהגות המקובלים במצב חברתי"
+    },
+    {
+      "id": 1,
+      "question": "The manager greeted each candidate with a confident _____ at the start of the interview.",
+      "options": ["(a) Handshake", "(b) Compliment", "(c) Small talk", "(d) Tip"],
+      "correct_answer": "a",
+      "hint_hebrew": "אופן הברכה הפיזי הנפוץ במערב"
+    },
+    {
+      "id": 5,
+      "question": "Before getting to the main topic of conversation, they made a bit of _____ about the weather.",
+      "options": ["(a) Queue", "(b) Small talk", "(c) Formality", "(d) Custom"],
+      "correct_answer": "b",
+      "hint_hebrew": "שיחה קלה וחברותית שאין בה עומק"
+    },
+    {
+      "id": 9,
+      "question": "The meeting had a high level of _____ — everyone used full titles and formal English.",
+      "options": ["(a) Tip", "(b) RSVP", "(c) Potluck", "(d) Formality"],
+      "correct_answer": "d",
+      "hint_hebrew": "רשמיות גבוהה בהתנהגות ובשפה"
+    },
+    {
+      "id": 2,
+      "question": "After the excellent service, he left a generous _____ for the waiter at the restaurant.",
+      "options": ["(a) Tip", "(b) Handshake", "(c) Compliment", "(d) Queue"],
+      "correct_answer": "a",
+      "hint_hebrew": "כסף נוסף שנותנים לאיש שירות כהוקרה"
+    },
+    {
+      "id": 10,
+      "question": "It is a _____ in the United States to say 'thank you' when someone opens a door for you.",
+      "options": ["(a) RSVP", "(b) Etiquette", "(c) Custom", "(d) Formality"],
+      "correct_answer": "c",
+      "hint_hebrew": "מנהג חברתי שמועבר מדור לדור"
+    },
+    {
+      "id": 4,
+      "question": "The office party was a _____ dinner — every employee brought a different dish from home.",
+      "options": ["(a) Small talk", "(b) Potluck", "(c) Tip", "(d) Queue"],
+      "correct_answer": "b",
+      "hint_hebrew": "ארוחה שבה כל אחד מביא מנה להשתתפות"
+    },
+    {
+      "id": 6,
+      "question": "There was a long _____ at the checkout, so we decided to come back later.",
+      "options": ["(a) Compliment", "(b) Custom", "(c) Etiquette", "(d) Queue"],
+      "correct_answer": "d",
+      "hint_hebrew": "שורת אנשים שממתינים בסבלנות"
+    },
+    {
+      "id": 8,
+      "question": "She gave him a warm _____ about the dinner he had cooked — it made him smile all evening.",
+      "options": ["(a) Formality", "(b) Compliment", "(c) Handshake", "(d) RSVP"],
+      "correct_answer": "b",
+      "hint_hebrew": "דבר חיובי שאומרים על מישהו או משהו"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "When Moshe received an invitation to his American colleague's dinner party, he was a little nervous. The invitation said RSVP by Tuesday, so he replied immediately to say he would come. He also asked if it was a potluck, and his colleague told him to bring a dessert. On the evening of the party, Moshe arrived with a homemade cake. His colleague greeted him at the door with a warm handshake. The atmosphere was relaxed, but Moshe paid attention to the etiquette — he waited in the queue at the food table and did not take seconds until everyone had been served. He made small talk with the guests standing nearby, asking about their work and the neighbourhood. One guest gave him a lovely compliment about his cake. Later, when Moshe left the restaurant where they had stopped for coffee, he remembered to leave a tip for the server. Walking home, he reflected that American social customs were different from what he was used to, but the formality of the event had made him feel respected and welcome.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "Who invited Moshe to the dinner party?",
+        "options": ["(a) His American colleague", "(b) His neighbour", "(c) His wife's friend", "(d) His boss"],
+        "correct_answer": "a"
+      },
+      {
+        "id": 12,
+        "question": "By when did the invitation ask Moshe to reply?",
+        "options": ["(a) Monday", "(b) Wednesday", "(c) Friday", "(d) Tuesday"],
+        "correct_answer": "d"
+      },
+      {
+        "id": 13,
+        "question": "What did Moshe bring to the dinner?",
+        "options": ["(a) A bottle of wine", "(b) A homemade cake", "(c) A salad", "(d) Nothing — it was not a potluck"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "How did Moshe's colleague greet him at the door?",
+        "options": ["(a) With a hug", "(b) With a wave", "(c) With a bow", "(d) With a handshake"],
+        "correct_answer": "d"
+      },
+      {
+        "id": 15,
+        "question": "What did Moshe do at the food table that showed good etiquette?",
+        "options": ["(a) He waited in the queue and did not take seconds until everyone was served", "(b) He helped serve the other guests", "(c) He brought his own plate", "(d) He complimented the host on every dish"],
+        "correct_answer": "a"
+      },
+      {
+        "id": 16,
+        "question": "What did Moshe talk about with the guests nearby?",
+        "options": ["(a) Politics and religion", "(b) His childhood in Israel", "(c) Their work and the neighbourhood", "(d) The food at the party"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 17,
+        "question": "What compliment did a guest give Moshe?",
+        "options": ["(a) About his English", "(b) About his cake", "(c) About his suit", "(d) About his warm personality"],
+        "correct_answer": "b"
+      },
+      {
+        "id": 18,
+        "question": "Where did the group stop after the dinner party?",
+        "options": ["(a) A bar", "(b) A bakery", "(c) A restaurant for coffee", "(d) A friend's house"],
+        "correct_answer": "c"
+      },
+      {
+        "id": 19,
+        "question": "What did Moshe remember to do when leaving the coffee stop?",
+        "options": ["(a) Leave a tip for the server", "(b) Say goodbye to everyone", "(c) Take home the leftover cake", "(d) Pay for his colleague's coffee"],
+        "correct_answer": "a"
+      },
+      {
+        "id": 20,
+        "question": "How did Moshe feel about the formality of the evening?",
+        "options": ["(a) He felt it was too stiff and uncomfortable", "(b) He did not notice it", "(c) He felt it made him respected and welcome", "(d) He preferred more casual events"],
+        "correct_answer": "c"
+      }
+    ]
+  }
+}

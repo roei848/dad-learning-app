@@ -1,5 +1,5 @@
 import React, { useEffect, useMemo, useState } from 'react';
-import { Coffee, Globe, Heart, Trophy } from 'lucide-react';
+import { Coffee, Globe, Heart, Star, Trophy } from 'lucide-react';
 import Home from './Home';
 import beachData from '../../data/travel/beach.json';
 import hotelData from '../../data/travel/hotel.json';
@@ -40,6 +40,16 @@ import familyDaily01Data from '../../data/family/family_daily_01.json';
 import familyCelebrations01Data from '../../data/family/family_celebrations_01.json';
 import familyRelationships01Data from '../../data/family/family_relationships_01.json';
 import familyConversations01Data from '../../data/family/family_conversations_01.json';
+import historyEvents01Data from '../../data/culture/history_events_01.json';
+import musicBasics01Data from '../../data/culture/music_basics_01.json';
+import movies01Data from '../../data/culture/movies_01.json';
+import socialCustoms01Data from '../../data/culture/social_customs_01.json';
+import tvStreaming01Data from '../../data/culture/tv_streaming_01.json';
+import musicConcerts01Data from '../../data/culture/music_concerts_01.json';
+import moviesCinema02Data from '../../data/culture/movies_cinema_02.json';
+import artMuseums01Data from '../../data/culture/art_museums_01.json';
+import literature01Data from '../../data/culture/literature_01.json';
+import culturalIdioms01Data from '../../data/culture/cultural_idioms_01.json';
 import type { CategoryMeta, Difficulty, SectionMeta } from '../../types';
 import { startSection } from '../../store/sessionSlice';
 import { loadSections } from '../../store/sectionsSlice';
@@ -51,6 +61,7 @@ const CATEGORY_ICONS: Record<string, React.ReactNode> = {
   Lifestyle: <Coffee size={48} />,
   'Daily Life': <Coffee size={48} />,
   Family: <Heart size={48} />,
+  Culture: <Star size={48} />,
 };
 
 const HomeContainer: React.FC = () => {
@@ -332,6 +343,76 @@ const HomeContainer: React.FC = () => {
         category: familyConversations01Data.category,
         icon: 'MessageCircle',
         difficulty: familyConversations01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: historyEvents01Data.section_id,
+        title: historyEvents01Data.title,
+        category: historyEvents01Data.category,
+        icon: 'Landmark',
+        difficulty: historyEvents01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: musicBasics01Data.section_id,
+        title: musicBasics01Data.title,
+        category: musicBasics01Data.category,
+        icon: 'Music',
+        difficulty: musicBasics01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: movies01Data.section_id,
+        title: movies01Data.title,
+        category: movies01Data.category,
+        icon: 'Film',
+        difficulty: movies01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: socialCustoms01Data.section_id,
+        title: socialCustoms01Data.title,
+        category: socialCustoms01Data.category,
+        icon: 'Users',
+        difficulty: socialCustoms01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: tvStreaming01Data.section_id,
+        title: tvStreaming01Data.title,
+        category: tvStreaming01Data.category,
+        icon: 'Tv',
+        difficulty: tvStreaming01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: musicConcerts01Data.section_id,
+        title: musicConcerts01Data.title,
+        category: musicConcerts01Data.category,
+        icon: 'Mic2',
+        difficulty: musicConcerts01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: moviesCinema02Data.section_id,
+        title: moviesCinema02Data.title,
+        category: moviesCinema02Data.category,
+        icon: 'Clapperboard',
+        difficulty: moviesCinema02Data.difficulty as Difficulty,
+      },
+      {
+        section_id: artMuseums01Data.section_id,
+        title: artMuseums01Data.title,
+        category: artMuseums01Data.category,
+        icon: 'Palette',
+        difficulty: artMuseums01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: literature01Data.section_id,
+        title: literature01Data.title,
+        category: literature01Data.category,
+        icon: 'BookOpen',
+        difficulty: literature01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: culturalIdioms01Data.section_id,
+        title: culturalIdioms01Data.title,
+        category: culturalIdioms01Data.category,
+        icon: 'MessageSquare',
+        difficulty: culturalIdioms01Data.difficulty as Difficulty,
       },
     ];
     dispatch(loadSections(sectionsMeta));

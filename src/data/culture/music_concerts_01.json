@@ -1,0 +1,45 @@
+{
+  "section_id": "music_concerts_01",
+  "difficulty": "medium",
+  "title": "Music & Concerts",
+  "category": "Culture",
+  "word_bank": [
+    { "word": "Venue", "translation": "מקום אירוע", "example": "The concert venue held over ten thousand people." },
+    { "word": "Setlist", "translation": "רשימת שירים", "example": "The band posted their setlist online before the show." },
+    { "word": "Encore", "translation": "הדרן / עוד פעם", "example": "The crowd cheered so loudly that the band came back for an encore." },
+    { "word": "Backstage", "translation": "מאחורי הקלעים", "example": "Only people with special passes are allowed backstage." },
+    { "word": "Rehearsal", "translation": "חזרה / אימון", "example": "The musicians arrived early for a final rehearsal before the show." },
+    { "word": "Merchandise", "translation": "מוצרי מותג / סחורה", "example": "She bought a T-shirt and a poster from the merchandise stand." },
+    { "word": "Acoustic", "translation": "אקוסטי", "example": "The singer performed an acoustic version of his most famous song." },
+    { "word": "Gig", "translation": "הופעה", "example": "The band played a small gig at a local bar last Friday." },
+    { "word": "Standing ovation", "translation": "מחיאות כפיים בעמידה", "example": "The orchestra received a standing ovation after the final movement." },
+    { "word": "Tour", "translation": "סיבוב הופעות", "example": "The band is going on a world tour starting next month." }
+  ],
+  "stage_1_sentences": [
+    { "id": 1, "question": "The guitarist played an _____ set — just him, a stool, and one guitar.", "options": ["(a) acoustic", "(b) encore", "(c) backstage", "(d) merchandise"], "correct_answer": "a", "hint_hebrew": "ביצוע ללא חשמל, רק כלי נגינה טבעי" },
+    { "id": 2, "question": "After the final song, the audience screamed for an _____.", "options": ["(a) gig", "(b) tour", "(c) encore", "(d) rehearsal"], "correct_answer": "c", "hint_hebrew": "הקהל רוצה עוד — הזמר חוזר לבמה" },
+    { "id": 3, "question": "They spent two hours at _____ before the concert to get everything right.", "options": ["(a) merchandise", "(b) rehearsal", "(c) venue", "(d) setlist"], "correct_answer": "b", "hint_hebrew": "כשמתאמנים לפני הופעה" },
+    { "id": 4, "question": "The band's _____ included twenty cities across Europe.", "options": ["(a) encore", "(b) gig", "(c) standing ovation", "(d) tour"], "correct_answer": "d", "hint_hebrew": "סיבוב הופעות בהרבה ערים" },
+    { "id": 5, "question": "They checked the _____ and saw their favourite song was third on the list.", "options": ["(a) setlist", "(b) venue", "(c) merchandise", "(d) backstage"], "correct_answer": "a", "hint_hebrew": "רשימת השירים שהלהקה מתכננת לנגן" },
+    { "id": 6, "question": "The whole crowd rose to its feet and gave a _____.", "options": ["(a) rehearsal", "(b) gig", "(c) tour", "(d) standing ovation"], "correct_answer": "d", "hint_hebrew": "כשקמים ומוחאים כפיים מהתרגשות" },
+    { "id": 7, "question": "He bought a hoodie and a keyring from the _____ table near the entrance.", "options": ["(a) merchandise", "(b) acoustic", "(c) encore", "(d) venue"], "correct_answer": "a", "hint_hebrew": "חנות מוצרים של הלהקה בהופעה" },
+    { "id": 8, "question": "The _____ was a beautiful outdoor amphitheatre by the sea.", "options": ["(a) setlist", "(b) tour", "(c) venue", "(d) rehearsal"], "correct_answer": "c", "hint_hebrew": "המקום שבו מתקיימת ההופעה" },
+    { "id": 9, "question": "It was only a small _____ at a café, but the music was fantastic.", "options": ["(a) encore", "(b) gig", "(c) standing ovation", "(d) backstage"], "correct_answer": "b", "hint_hebrew": "הופעה קטנה ולא פורמלית" },
+    { "id": 10, "question": "Her press pass allowed her to go _____ and meet the band after the show.", "options": ["(a) setlist", "(b) merchandise", "(c) acoustic", "(d) backstage"], "correct_answer": "d", "hint_hebrew": "האזור מאחורי הבמה, לא נגיש לקהל הרגיל" }
+  ],
+  "stage_2_story": {
+    "text_en": "David had promised his daughter Noa a night she would never forget, and he kept his word. The venue was a grand outdoor amphitheatre on the edge of the city, and the moment they walked through the gates, Noa grabbed his arm with excitement. They stopped at the merchandise stand and she picked out a T-shirt with the band's logo, while David bought a poster to hang in her room. The setlist was taped to a speaker by the stage, and Noa read every song title aloud, counting down to her favourites. The opening act played a quiet acoustic set that silenced the crowd — just two guitars and a single voice floating through the warm night air. Then came the main band after their final rehearsal, and the whole amphitheatre exploded with cheering. Song after song filled the night sky, and when the lights went dark after the last number, nobody moved. The crowd clapped and stomped until the band walked back out for an encore, playing two more songs to thunderous applause. At the very end, every person in the venue rose to their feet and gave a standing ovation that lasted a full minute. David looked at Noa — her face lit up, her voice gone from singing — and he thought to himself that this small gig in their city was better than any world tour he had ever watched on television. On the drive home, she rested her head on his shoulder and said, 'Dad, this was the best night of my life.'",
+    "questions": [
+      { "id": 11, "question": "What kind of place was the venue?", "options": ["(a) An indoor arena", "(b) A small café", "(c) A grand outdoor amphitheatre", "(d) A stadium with a roof"], "correct_answer": "c" },
+      { "id": 12, "question": "What did Noa buy from the merchandise stand?", "options": ["(a) A poster", "(b) A keyring", "(c) A cap", "(d) A T-shirt"], "correct_answer": "d" },
+      { "id": 13, "question": "What did David buy from the merchandise stand?", "options": ["(a) A T-shirt", "(b) A poster", "(c) A hoodie", "(d) A wristband"], "correct_answer": "b" },
+      { "id": 14, "question": "Where was the setlist posted?", "options": ["(a) On the entrance gate", "(b) On the merchandise stand", "(c) On a speaker by the stage", "(d) On the band's website"], "correct_answer": "c" },
+      { "id": 15, "question": "How did the opening act perform?", "options": ["(a) With a full band and drums", "(b) As an acoustic set with two guitars", "(c) With electronic music", "(d) With an orchestra"], "correct_answer": "b" },
+      { "id": 16, "question": "What happened after the main band finished their last song?", "options": ["(a) Everyone left immediately", "(b) David and Noa went backstage", "(c) The crowd clapped and stomped for an encore", "(d) The lights stayed on"], "correct_answer": "c" },
+      { "id": 17, "question": "How long did the standing ovation last?", "options": ["(a) Thirty seconds", "(b) Two minutes", "(c) A full minute", "(d) Five minutes"], "correct_answer": "c" },
+      { "id": 18, "question": "How many extra songs did the band play in the encore?", "options": ["(a) One", "(b) Two", "(c) Three", "(d) Four"], "correct_answer": "b" },
+      { "id": 19, "question": "What did Noa do on the drive home?", "options": ["(a) She fell asleep", "(b) She listened to the setlist again", "(c) She rested her head on David's shoulder", "(d) She called her friends"], "correct_answer": "c" },
+      { "id": 20, "question": "What did David compare the gig to at the end of the story?", "options": ["(a) A rehearsal he once attended", "(b) A world tour he had watched on television", "(c) A previous concert at the same venue", "(d) A backstage visit with the band"], "correct_answer": "b" }
+    ]
+  }
+}

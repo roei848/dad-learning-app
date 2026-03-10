@@ -1,0 +1,45 @@
+{
+  "section_id": "movies_cinema_02",
+  "difficulty": "medium",
+  "title": "Film Genres & Reviews",
+  "category": "Culture",
+  "word_bank": [
+    { "word": "Screenplay", "translation": "תסריט", "example": "The writer spent three years developing the screenplay for the film." },
+    { "word": "Plot twist", "translation": "פיתול עלילתי / הפתעה בסיפור", "example": "Nobody expected the plot twist at the end — it changed everything." },
+    { "word": "Cinematography", "translation": "צילום קולנועי", "example": "The film won an award for its stunning cinematography." },
+    { "word": "Box office", "translation": "קופות  / הכנסות", "example": "The action movie broke box office records in its opening weekend." },
+    { "word": "Franchise", "translation": "זכיינות / סדרת סרטים", "example": "The superhero franchise now has twelve films and two TV series." },
+    { "word": "Reboot", "translation": "הפקה מחדש / התחלה חדשה", "example": "The studio announced a reboot of the classic spy series with a new cast." },
+    { "word": "Suspense", "translation": "מתח", "example": "The director kept the audience in suspense until the very last scene." },
+    { "word": "Monologue", "translation": "מונולוג", "example": "The actor's opening monologue lasted five minutes and left everyone speechless." },
+    { "word": "Climax", "translation": "שיא / נקודת שיא", "example": "The climax of the film was an intense chase scene through the city." },
+    { "word": "Narration", "translation": "פרשנות / הקראה", "example": "The film's narration was delivered by a child looking back on her past." }
+  ],
+  "stage_1_sentences": [
+    { "id": 1, "question": "The _____ of the thriller kept everyone gripping their seats until the final minute.", "options": ["(a) reboot", "(b) suspense", "(c) narration", "(d) franchise"], "correct_answer": "b", "hint_hebrew": "תחושת מתח ותהייה מה יקרה — אי-ודאות מותחת" },
+    { "id": 2, "question": "The young actress wrote the entire _____ herself before pitching it to the studio.", "options": ["(a) screenplay", "(b) monologue", "(c) box office", "(d) climax"], "correct_answer": "a", "hint_hebrew": "הטקסט הכתוב של הסרט — הבסיס לכל הפקה" },
+    { "id": 3, "question": "The _____ sequence at the end left the audience completely stunned.", "options": ["(a) narration", "(b) franchise", "(c) plot twist", "(d) cinematography"], "correct_answer": "c", "hint_hebrew": "כשהסיפור פונה לכיוון שאף אחד לא ציפה לו" },
+    { "id": 4, "question": "The _____ figures showed that over five million tickets were sold in the first week.", "options": ["(a) climax", "(b) box office", "(c) reboot", "(d) monologue"], "correct_answer": "b", "hint_hebrew": "נתוני מכירת כרטיסים ורווחי הסרט בבתי קולנוע" },
+    { "id": 5, "question": "The film's _____ was introduced by a voice-over that explained events from the future.", "options": ["(a) screenplay", "(b) suspense", "(c) narration", "(d) franchise"], "correct_answer": "c", "hint_hebrew": "קול שמספר את הסיפור מחוץ לפעולה עצמה" },
+    { "id": 6, "question": "The famous villain delivered a powerful _____ that became the most quoted scene in the film.", "options": ["(a) monologue", "(b) reboot", "(c) plot twist", "(d) climax"], "correct_answer": "a", "hint_hebrew": "נאום ארוך של דמות אחת — ללא שיחה" },
+    { "id": 7, "question": "The _____ built to a breathtaking final confrontation between the hero and the villain.", "options": ["(a) narration", "(b) box office", "(c) screenplay", "(d) climax"], "correct_answer": "d", "hint_hebrew": "הנקודה הגבוהה ביותר של המתח בסרט" },
+    { "id": 8, "question": "The black-and-white _____ gave the film a classic, timeless look.", "options": ["(a) franchise", "(b) cinematography", "(c) suspense", "(d) monologue"], "correct_answer": "b", "hint_hebrew": "אמנות הצילום — כיצד הסרט נראה ויזואלית" },
+    { "id": 9, "question": "After ten years, the studio decided to produce a _____ with an entirely new cast.", "options": ["(a) climax", "(b) screenplay", "(c) reboot", "(d) narration"], "correct_answer": "c", "hint_hebrew": "להתחיל את הסדרה מחדש עם גישה חדשה" },
+    { "id": 10, "question": "The _____ now spans eight films, three animated series, and a theme park ride.", "options": ["(a) franchise", "(b) plot twist", "(c) box office", "(d) monologue"], "correct_answer": "a", "hint_hebrew": "סדרה ארוכה של סרטים הקשורים זה לזה" }
+  ],
+  "stage_2_story": {
+    "text_en": "It had been years since Yossi had been to the cinema with his whole family. His son Eitan had suggested a new thriller that everyone was talking about, and so on Friday evening they found themselves in the front row of a packed hall. From the opening credits, the cinematography was extraordinary — the camera swept across foggy mountains and abandoned streets in a way that made Yossi lean forward in his seat. The narration began quietly, a woman's voice describing events from twenty years in the past, pulling the audience slowly into the mystery. Within minutes, the suspense was palpable. Nobody reached for popcorn. Nobody checked their phone. Eitan whispered that the screenplay had originally been a short story by a novelist he admired, and that the studio had fought for the rights for over a decade. Halfway through, a sudden plot twist flipped the entire story upside down — the man they had trusted was the one who had caused everything. The audience gasped. The film climbed steadily toward its climax: a single room, two characters, and a ten-minute monologue that left the hall in complete silence. When the credits rolled, everyone sat still. On the way home, Eitan explained that the film was part of a larger franchise — a trilogy — and that the second film had actually been a reboot of an earlier version made in the nineties. Yossi had not known any of this, but he did know that despite all the box office hits he had heard about over the years, this was the best film he had ever seen with his son.",
+    "questions": [
+      { "id": 11, "question": "Why did the family go to the cinema on Friday evening?", "options": ["(a) It was a birthday celebration", "(b) Eitan had suggested a new thriller", "(c) They had free tickets", "(d) It was a school trip"], "correct_answer": "b" },
+      { "id": 12, "question": "What made the cinematography stand out?", "options": ["(a) It was filmed entirely in black and white", "(b) It used animated sequences", "(c) The camera swept across foggy mountains and abandoned streets", "(d) It was shot in slow motion"], "correct_answer": "c" },
+      { "id": 13, "question": "Who delivered the opening narration?", "options": ["(a) An elderly man", "(b) A child", "(c) A soldier", "(d) A woman's voice"], "correct_answer": "d" },
+      { "id": 14, "question": "What did the plot twist reveal?", "options": ["(a) The villain was actually the narrator", "(b) The man they trusted had caused everything", "(c) The woman had been lying the whole time", "(d) The events never really happened"], "correct_answer": "b" },
+      { "id": 15, "question": "What was the original source of the screenplay?", "options": ["(a) A comic book", "(b) A TV series", "(c) A short story by a novelist", "(d) A true crime documentary"], "correct_answer": "c" },
+      { "id": 16, "question": "What happened at the climax of the film?", "options": ["(a) A car chase through the city", "(b) A battle scene with hundreds of extras", "(c) A single room scene with a long monologue", "(d) The hero escaped from prison"], "correct_answer": "c" },
+      { "id": 17, "question": "How did the audience react when the credits rolled?", "options": ["(a) They clapped loudly", "(b) They left quickly", "(c) They sat still in silence", "(d) They booed the ending"], "correct_answer": "c" },
+      { "id": 18, "question": "What did Eitan tell Yossi about the film after they left?", "options": ["(a) The director had quit halfway through filming", "(b) It was part of a franchise and the second film was a reboot", "(c) It had failed badly at the box office", "(d) The screenplay had won an award"], "correct_answer": "b" },
+      { "id": 19, "question": "Which decade was the earlier version of the film made in?", "options": ["(a) The seventies", "(b) The eighties", "(c) The nineties", "(d) The two-thousands"], "correct_answer": "c" },
+      { "id": 20, "question": "How did Yossi feel about the film?", "options": ["(a) He found it too long and confusing", "(b) He thought it was the best film he had seen with his son", "(c) He preferred the earlier version from the nineties", "(d) He was disappointed by the ending"], "correct_answer": "b" }
+    ]
+  }
+}

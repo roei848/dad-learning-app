@@ -38,6 +38,16 @@ import familyDaily01Data from './family/family_daily_01.json';
 import familyCelebrations01Data from './family/family_celebrations_01.json';
 import familyRelationships01Data from './family/family_relationships_01.json';
 import familyConversations01Data from './family/family_conversations_01.json';
+import historyEvents01Data from './culture/history_events_01.json';
+import musicBasics01Data from './culture/music_basics_01.json';
+import movies01Data from './culture/movies_01.json';
+import socialCustoms01Data from './culture/social_customs_01.json';
+import tvStreaming01Data from './culture/tv_streaming_01.json';
+import musicConcerts01Data from './culture/music_concerts_01.json';
+import moviesCinema02Data from './culture/movies_cinema_02.json';
+import artMuseums01Data from './culture/art_museums_01.json';
+import literature01Data from './culture/literature_01.json';
+import culturalIdioms01Data from './culture/cultural_idioms_01.json';
 
 const sectionsRegistry: Record<string, Section> = {
   [restaurantData.section_id]: restaurantData as unknown as Section,
@@ -79,6 +89,16 @@ const sectionsRegistry: Record<string, Section> = {
   [familyCelebrations01Data.section_id]: familyCelebrations01Data as unknown as Section,
   [familyRelationships01Data.section_id]: familyRelationships01Data as unknown as Section,
   [familyConversations01Data.section_id]: familyConversations01Data as unknown as Section,
+  [historyEvents01Data.section_id]: historyEvents01Data as unknown as Section,
+  [musicBasics01Data.section_id]: musicBasics01Data as unknown as Section,
+  [movies01Data.section_id]: movies01Data as unknown as Section,
+  [socialCustoms01Data.section_id]: socialCustoms01Data as unknown as Section,
+  [tvStreaming01Data.section_id]: tvStreaming01Data as unknown as Section,
+  [musicConcerts01Data.section_id]: musicConcerts01Data as unknown as Section,
+  [moviesCinema02Data.section_id]: moviesCinema02Data as unknown as Section,
+  [artMuseums01Data.section_id]: artMuseums01Data as unknown as Section,
+  [literature01Data.section_id]: literature01Data as unknown as Section,
+  [culturalIdioms01Data.section_id]: culturalIdioms01Data as unknown as Section,
 };
 
 export default sectionsRegistry;

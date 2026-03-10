@@ -1,0 +1,45 @@
+{
+  "section_id": "art_museums_01",
+  "difficulty": "medium",
+  "title": "Art & Museums",
+  "category": "Culture",
+  "word_bank": [
+    { "word": "Exhibit", "translation": "תערוכה / פריט לתצוגה", "example": "The museum opened a new exhibit on ancient Egyptian art." },
+    { "word": "Gallery", "translation": "גלריה", "example": "They walked slowly through the gallery, reading every label." },
+    { "word": "Sculpture", "translation": "פסל", "example": "The large marble sculpture stood in the centre of the hall." },
+    { "word": "Portrait", "translation": "ציור פנים", "example": "The portrait showed a woman with calm eyes and a slight smile." },
+    { "word": "Abstract", "translation": "מופשט", "example": "The abstract painting used only circles and bold splashes of colour." },
+    { "word": "Canvas", "translation": "בד ציור", "example": "The artist stretched a fresh canvas before starting the new piece." },
+    { "word": "Curator", "translation": "אוצּר / אמון על תערוכה", "example": "The curator gave a private tour of the collection to the school group." },
+    { "word": "Collection", "translation": "אוסף", "example": "The museum's permanent collection includes works from five centuries." },
+    { "word": "Masterpiece", "translation": "יצירת מופת", "example": "Critics agreed that the final painting was the artist's true masterpiece." },
+    { "word": "Patron", "translation": "מממן / תורם לאמנות", "example": "The wealthy patron donated a large sum to restore the museum's roof." }
+  ],
+  "stage_1_sentences": [
+    { "id": 1, "question": "The _____ on the third floor displayed works donated by a local businessman.", "options": ["(a) patron", "(b) collection", "(c) canvas", "(d) sculpture"], "correct_answer": "b", "hint_hebrew": "קבוצה של יצירות אמנות שנאספו יחד" },
+    { "id": 2, "question": "The bronze _____ in the entrance hall had been there for over a hundred years.", "options": ["(a) portrait", "(b) abstract", "(c) exhibit", "(d) sculpture"], "correct_answer": "d", "hint_hebrew": "יצירה תלת-ממדית — לא ציור אלא פסל" },
+    { "id": 3, "question": "The _____ explained the history behind each painting with great passion.", "options": ["(a) patron", "(b) canvas", "(c) curator", "(d) gallery"], "correct_answer": "c", "hint_hebrew": "האדם האחראי על ניהול ואצירת תערוכת האמנות" },
+    { "id": 4, "question": "The _____ hung on the main wall — a huge painting of squares and swirling colours with no clear subject.", "options": ["(a) abstract", "(b) masterpiece", "(c) exhibit", "(d) portrait"], "correct_answer": "a", "hint_hebrew": "סגנון אמנות ללא צורות מזוהות — מופשט" },
+    { "id": 5, "question": "The _____ of the old king showed him seated on a golden throne in full uniform.", "options": ["(a) canvas", "(b) portrait", "(c) collection", "(d) patron"], "correct_answer": "b", "hint_hebrew": "ציור המתאר את פניו ודמותו של אדם ספציפי" },
+    { "id": 6, "question": "A wealthy _____ funded the entire new wing of the museum.", "options": ["(a) curator", "(b) sculpture", "(c) patron", "(d) exhibit"], "correct_answer": "c", "hint_hebrew": "אדם עשיר שתומך כלכלית באמנות ובאמנים" },
+    { "id": 7, "question": "This painting is widely considered the artist's greatest _____ — his finest work.", "options": ["(a) gallery", "(b) canvas", "(c) abstract", "(d) masterpiece"], "correct_answer": "d", "hint_hebrew": "היצירה הטובה ביותר — הישג אמנותי עליון" },
+    { "id": 8, "question": "The painter stretched a wide _____ across the studio wall and began sketching in charcoal.", "options": ["(a) canvas", "(b) exhibit", "(c) collection", "(d) sculpture"], "correct_answer": "a", "hint_hebrew": "המשטח שעליו הצייר מצייר — בד מתוח על מסגרת" },
+    { "id": 9, "question": "The special _____ on Impressionist painters attracted record numbers of visitors.", "options": ["(a) patron", "(b) portrait", "(c) masterpiece", "(d) exhibit"], "correct_answer": "d", "hint_hebrew": "תצוגה מיוחדת של אמנות — בדרך כלל זמנית" },
+    { "id": 10, "question": "They spent the whole afternoon walking through the _____, pausing at each painting.", "options": ["(a) gallery", "(b) sculpture", "(c) abstract", "(d) curator"], "correct_answer": "a", "hint_hebrew": "חדר או בניין שבו מוצגות יצירות אמנות" }
+  ],
+  "stage_2_story": {
+    "text_en": "On a rainy Thursday, Avi took his two children to the city's art museum for the first time. They had passed it a hundred times but never gone inside. The moment they walked through the door, his daughter Maya pointed at a bronze sculpture in the lobby — a tall, twisted figure reaching toward the ceiling — and asked if they could touch it. The security guard smiled and shook his head. A young curator met them at the entrance and offered to lead a short tour. She guided them through the permanent collection on the ground floor, explaining which pieces were donations and which had been purchased over the decades. In the second room, they stopped before a large abstract canvas. His son Omer could not decide if he liked it or not. 'It looks like someone spilled paint,' he said. The curator laughed and explained that the artist had done exactly that — on purpose. Upstairs, a temporary exhibit featured work by a local painter who had lived nearby a century ago. One portrait in the corner stopped Avi completely. The woman in the painting stared back at him with such stillness that he stood there for five minutes without speaking. The curator told them that the portrait was considered the painter's masterpiece, and that it had been bought by a generous patron fifty years ago and donated to the museum shortly after. By the time they reached the gift shop, even Omer had changed his mind about modern art. On the bus home, Maya said she wanted to buy a canvas and paint something abstract herself. Avi thought that was the best idea he had heard all week.",
+    "questions": [
+      { "id": 11, "question": "What was the weather like when the family visited the museum?", "options": ["(a) Hot and sunny", "(b) Cold and snowy", "(c) Rainy", "(d) Windy"], "correct_answer": "c" },
+      { "id": 12, "question": "What did Maya point at in the lobby?", "options": ["(a) A large portrait", "(b) A bronze sculpture", "(c) An abstract painting", "(d) A museum map"], "correct_answer": "b" },
+      { "id": 13, "question": "Who offered to lead a tour of the museum?", "options": ["(a) A security guard", "(b) A patron", "(c) A young curator", "(d) A local artist"], "correct_answer": "c" },
+      { "id": 14, "question": "What was on the ground floor of the museum?", "options": ["(a) A temporary exhibit", "(b) The gift shop", "(c) A sculpture garden", "(d) The permanent collection"], "correct_answer": "d" },
+      { "id": 15, "question": "What did Omer say about the abstract painting?", "options": ["(a) It looked like a photograph", "(b) It reminded him of the sea", "(c) It looked like someone had spilled paint", "(d) He thought it was beautiful"], "correct_answer": "c" },
+      { "id": 16, "question": "What was displayed in the temporary exhibit upstairs?", "options": ["(a) Ancient Egyptian art", "(b) Work by a local painter from a century ago", "(c) Photographs from the twentieth century", "(d) Sculptures from around the world"], "correct_answer": "b" },
+      { "id": 17, "question": "Why did Avi stop in front of the portrait in the corner?", "options": ["(a) It reminded him of his mother", "(b) It was the largest painting in the room", "(c) The woman in it stared back with such stillness", "(d) The curator pointed it out to him"], "correct_answer": "c" },
+      { "id": 18, "question": "Who had donated the portrait to the museum?", "options": ["(a) The artist himself", "(b) A generous patron", "(c) The city council", "(d) The curator's family"], "correct_answer": "b" },
+      { "id": 19, "question": "What did Maya say she wanted to do on the bus home?", "options": ["(a) Come back to the museum next week", "(b) Paint a portrait of the family", "(c) Buy a canvas and paint something abstract", "(d) Learn more about the local painter"], "correct_answer": "c" },
+      { "id": 20, "question": "How did Omer's opinion of modern art change during the visit?", "options": ["(a) He became even more critical of it", "(b) He did not change his opinion at all", "(c) He decided he preferred sculpture to painting", "(d) He changed his mind and became more open to it"], "correct_answer": "d" }
+    ]
+  }
+}
