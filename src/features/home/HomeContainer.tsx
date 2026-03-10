@@ -1,5 +1,5 @@
 import React, { useEffect, useMemo, useState } from 'react';
-import { Coffee, Globe, Trophy } from 'lucide-react';
+import { Coffee, Globe, Heart, Trophy } from 'lucide-react';
 import Home from './Home';
 import beachData from '../../data/travel/beach.json';
 import hotelData from '../../data/travel/hotel.json';
@@ -35,6 +35,11 @@ import jobInterview01Data from '../../data/lifestyle/job_interview_01.json';
 import cooking01Data from '../../data/lifestyle/cooking_01.json';
 import idioms01Data from '../../data/lifestyle/idioms_01.json';
 import transportationData from '../../data/travel/transportation.json';
+import familyMembers01Data from '../../data/family/family_members_01.json';
+import familyDaily01Data from '../../data/family/family_daily_01.json';
+import familyCelebrations01Data from '../../data/family/family_celebrations_01.json';
+import familyRelationships01Data from '../../data/family/family_relationships_01.json';
+import familyConversations01Data from '../../data/family/family_conversations_01.json';
 import type { CategoryMeta, Difficulty, SectionMeta } from '../../types';
 import { startSection } from '../../store/sessionSlice';
 import { loadSections } from '../../store/sectionsSlice';
@@ -45,6 +50,7 @@ const CATEGORY_ICONS: Record<string, React.ReactNode> = {
   Sport: <Trophy size={48} />,
   Lifestyle: <Coffee size={48} />,
   'Daily Life': <Coffee size={48} />,
+  Family: <Heart size={48} />,
 };
 
 const HomeContainer: React.FC = () => {
@@ -291,6 +297,41 @@ const HomeContainer: React.FC = () => {
         category: generalTraining04Data.category,
         icon: 'Dumbbell',
         difficulty: generalTraining04Data.difficulty as Difficulty,
+      },
+      {
+        section_id: familyMembers01Data.section_id,
+        title: familyMembers01Data.title,
+        category: familyMembers01Data.category,
+        icon: 'Users',
+        difficulty: familyMembers01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: familyDaily01Data.section_id,
+        title: familyDaily01Data.title,
+        category: familyDaily01Data.category,
+        icon: 'Heart',
+        difficulty: familyDaily01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: familyCelebrations01Data.section_id,
+        title: familyCelebrations01Data.title,
+        category: familyCelebrations01Data.category,
+        icon: 'Gift',
+        difficulty: familyCelebrations01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: familyRelationships01Data.section_id,
+        title: familyRelationships01Data.title,
+        category: familyRelationships01Data.category,
+        icon: 'Baby',
+        difficulty: familyRelationships01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: familyConversations01Data.section_id,
+        title: familyConversations01Data.title,
+        category: familyConversations01Data.category,
+        icon: 'MessageCircle',
+        difficulty: familyConversations01Data.difficulty as Difficulty,
       },
     ];
     dispatch(loadSections(sectionsMeta));

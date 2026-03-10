@@ -52,10 +52,12 @@ Containers use `useSelector` / `useDispatch` — no Redux access in Presenters.
 ## Repository & Deployment
 
 - **GitHub:** https://github.com/roei848/dad-learning-app
+- **GitHub Account:** `roei848`
 - **Hosting:** Vercel — auto-deploys on every push to `master`
 - **Build command:** `npm run build` (`tsc -b && vite build`)
 - **Output dir:** `dist/`
 - **Config:** `vercel.json` at project root
+- **CI:** Claude Code GitHub Action installed — automated PR reviews enabled
 
 ## Conventions
 

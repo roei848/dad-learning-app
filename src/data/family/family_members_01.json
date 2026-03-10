@@ -1,0 +1,45 @@
+{
+  "section_id": "family_members_01",
+  "difficulty": "easy",
+  "title": "Family Members",
+  "category": "Family",
+  "word_bank": [
+    { "word": "Mother", "translation": "אמא", "example": "My mother makes the best soup." },
+    { "word": "Father", "translation": "אבא", "example": "My father reads the newspaper every morning." },
+    { "word": "Sister", "translation": "אחות", "example": "My sister is two years younger than me." },
+    { "word": "Brother", "translation": "אח", "example": "My brother lives in Tel Aviv." },
+    { "word": "Grandfather", "translation": "סבא", "example": "My grandfather tells great stories." },
+    { "word": "Grandmother", "translation": "סבתא", "example": "My grandmother bakes cookies every Friday." },
+    { "word": "Son", "translation": "בן", "example": "Their son is starting school this year." },
+    { "word": "Daughter", "translation": "בת", "example": "His daughter loves to draw and paint." },
+    { "word": "Cousin", "translation": "בן דוד / בת דודה", "example": "My cousin comes to visit every summer." },
+    { "word": "Uncle", "translation": "דוד", "example": "My uncle is a doctor in Haifa." }
+  ],
+  "stage_1_sentences": [
+    { "id": 1, "question": "My _____ always helps me with my homework.", "options": ["(a) Mother", "(b) Cousin", "(c) Uncle", "(d) Son"], "correct_answer": "a", "hint_hebrew": "אמא שלי" },
+    { "id": 2, "question": "His _____ works at the garage on weekends.", "options": ["(a) Daughter", "(b) Father", "(c) Grandmother", "(d) Sister"], "correct_answer": "b", "hint_hebrew": "האבא שלו" },
+    { "id": 3, "question": "My _____ and I share a bedroom at home.", "options": ["(a) Uncle", "(b) Grandfather", "(c) Sister", "(d) Son"], "correct_answer": "c", "hint_hebrew": "האחות שלי" },
+    { "id": 4, "question": "Her _____ taught her how to ride a bicycle.", "options": ["(a) Cousin", "(b) Brother", "(c) Grandmother", "(d) Daughter"], "correct_answer": "b", "hint_hebrew": "האח שלה" },
+    { "id": 5, "question": "My _____ remembers the old days in great detail.", "options": ["(a) Son", "(b) Sister", "(c) Grandfather", "(d) Uncle"], "correct_answer": "c", "hint_hebrew": "הסבא שלי" },
+    { "id": 6, "question": "His _____ knits sweaters for the whole family.", "options": ["(a) Grandmother", "(b) Father", "(c) Brother", "(d) Cousin"], "correct_answer": "a", "hint_hebrew": "הסבתא שלו" },
+    { "id": 7, "question": "Their _____ scored three goals in the football match.", "options": ["(a) Uncle", "(b) Daughter", "(c) Grandfather", "(d) Son"], "correct_answer": "d", "hint_hebrew": "הבן שלהם" },
+    { "id": 8, "question": "My _____ got married last spring in a small ceremony.", "options": ["(a) Daughter", "(b) Grandmother", "(c) Mother", "(d) Son"], "correct_answer": "a", "hint_hebrew": "הבת שלי" },
+    { "id": 9, "question": "My _____ from my mother's side visits us every Passover.", "options": ["(a) Father", "(b) Son", "(c) Cousin", "(d) Sister"], "correct_answer": "c", "hint_hebrew": "בן הדוד שלי" },
+    { "id": 10, "question": "My _____ gave me his old watch as a gift.", "options": ["(a) Daughter", "(b) Uncle", "(c) Grandmother", "(d) Sister"], "correct_answer": "b", "hint_hebrew": "הדוד שלי" }
+  ],
+  "stage_2_story": {
+    "text_en": "Last Saturday, David brought his family to his parents' house for lunch. His mother cooked a big meal, and his father set the table outside in the garden. David's sister came with her husband, and his brother drove in from the north. Their grandfather sat in his favourite chair and told stories about the old country, while their grandmother handed out slices of cake she had baked the night before. David's son and daughter played with their cousin in the backyard. Even David's uncle, who rarely leaves his farm, made the trip. Everyone sat together, laughed, and ate until the sun went down. David looked around the table and felt lucky to have such a close family.",
+    "questions": [
+      { "id": 11, "question": "Where did David's family gather for lunch?", "options": ["(a) At a restaurant", "(b) At his parents' house", "(c) At his grandmother's house", "(d) At his brother's apartment"], "correct_answer": "b" },
+      { "id": 12, "question": "Who cooked the big meal?", "options": ["(a) David's sister", "(b) David's grandmother", "(c) David's mother", "(d) David's wife"], "correct_answer": "c" },
+      { "id": 13, "question": "Where did David's father set the table?", "options": ["(a) In the kitchen", "(b) In the living room", "(c) On the roof", "(d) In the garden"], "correct_answer": "d" },
+      { "id": 14, "question": "Where did David's brother drive from?", "options": ["(a) The south", "(b) The north", "(c) Jerusalem", "(d) Abroad"], "correct_answer": "b" },
+      { "id": 15, "question": "What did the grandfather do at the gathering?", "options": ["(a) Cooked the food", "(b) Set the table", "(c) Told stories", "(d) Played with the children"], "correct_answer": "c" },
+      { "id": 16, "question": "What had the grandmother baked?", "options": ["(a) Bread", "(b) Cookies", "(c) Cake", "(d) Pie"], "correct_answer": "c" },
+      { "id": 17, "question": "Where did the children play?", "options": ["(a) In the living room", "(b) In the street", "(c) In the garden", "(d) In the backyard"], "correct_answer": "d" },
+      { "id": 18, "question": "Who rarely leaves his farm?", "options": ["(a) David's father", "(b) David's uncle", "(c) David's grandfather", "(d) David's brother"], "correct_answer": "b" },
+      { "id": 19, "question": "How did the gathering end?", "options": ["(a) They watched a film together", "(b) They ate until the sun went down", "(c) They left before dinner", "(d) They had an argument"], "correct_answer": "b" },
+      { "id": 20, "question": "How did David feel at the end?", "options": ["(a) Tired and bored", "(b) Lonely", "(c) Lucky to have a close family", "(d) Upset about the food"], "correct_answer": "c" }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "section_id": "family_daily_01",
+  "difficulty": "easy",
+  "title": "Family Daily Life",
+  "category": "Family",
+  "word_bank": [
+    { "word": "Breakfast", "translation": "ארוחת בוקר", "example": "We always eat breakfast together before school." },
+    { "word": "Dinner", "translation": "ארוחת ערב", "example": "Dinner is at seven o'clock in our house." },
+    { "word": "Homework", "translation": "שיעורי בית", "example": "The children finish their homework before watching TV." },
+    { "word": "Bedtime", "translation": "שעת שינה", "example": "His bedtime is nine o'clock on school nights." },
+    { "word": "Chores", "translation": "עבודות בית", "example": "Everyone in the family helps with the chores." },
+    { "word": "Together", "translation": "ביחד", "example": "We go for a walk together every Sunday morning." },
+    { "word": "Kitchen", "translation": "מטבח", "example": "The whole family gathers in the kitchen after school." },
+    { "word": "Routine", "translation": "שגרה", "example": "A good morning routine helps the children wake up on time." },
+    { "word": "Weekend", "translation": "סוף שבוע", "example": "On the weekend we visit the grandparents." },
+    { "word": "Hug", "translation": "חיבוק", "example": "She gives her father a big hug when he comes home." }
+  ],
+  "stage_1_sentences": [
+    { "id": 1, "question": "We eat _____ together at seven in the morning.", "options": ["(a) Dinner", "(b) Homework", "(c) Breakfast", "(d) Chores"], "correct_answer": "c", "hint_hebrew": "ארוחת בוקר" },
+    { "id": 2, "question": "The family sits down for _____ after work every evening.", "options": ["(a) Bedtime", "(b) Dinner", "(c) Routine", "(d) Weekend"], "correct_answer": "b", "hint_hebrew": "ארוחת ערב" },
+    { "id": 3, "question": "The children do their _____ at the kitchen table.", "options": ["(a) Hug", "(b) Chores", "(c) Homework", "(d) Breakfast"], "correct_answer": "c", "hint_hebrew": "שיעורי בית" },
+    { "id": 4, "question": "Her _____ is half past nine on school nights.", "options": ["(a) Routine", "(b) Bedtime", "(c) Kitchen", "(d) Weekend"], "correct_answer": "b", "hint_hebrew": "שעת שינה" },
+    { "id": 5, "question": "Everyone shares the _____ like washing dishes and cleaning.", "options": ["(a) Chores", "(b) Dinner", "(c) Together", "(d) Hug"], "correct_answer": "a", "hint_hebrew": "עבודות בית" },
+    { "id": 6, "question": "We love doing things _____ as a family.", "options": ["(a) Bedtime", "(b) Kitchen", "(c) Together", "(d) Homework"], "correct_answer": "c", "hint_hebrew": "ביחד" },
+    { "id": 7, "question": "The smell of coffee fills the _____ every morning.", "options": ["(a) Weekend", "(b) Kitchen", "(c) Routine", "(d) Chores"], "correct_answer": "b", "hint_hebrew": "מטבח" },
+    { "id": 8, "question": "A good morning _____ helps everyone start the day well.", "options": ["(a) Hug", "(b) Breakfast", "(c) Routine", "(d) Dinner"], "correct_answer": "c", "hint_hebrew": "שגרה" },
+    { "id": 9, "question": "On the _____ we go to the beach or visit family.", "options": ["(a) Bedtime", "(b) Weekend", "(c) Homework", "(d) Together"], "correct_answer": "b", "hint_hebrew": "סוף שבוע" },
+    { "id": 10, "question": "She gave her dad a warm _____ when he came home late.", "options": ["(a) Dinner", "(b) Routine", "(c) Chores", "(d) Hug"], "correct_answer": "d", "hint_hebrew": "חיבוק" }
+  ],
+  "stage_2_story": {
+    "text_en": "In the Cohen family, every day follows a familiar routine. The alarm rings at seven, and the children run to the kitchen for breakfast. Their father makes eggs while their mother packs their school bags. After school, the children sit at the kitchen table and finish their homework before they are allowed any screen time. Everyone has chores — the older son takes out the rubbish, and the daughter helps set the table for dinner. The family eats dinner together at six-thirty every evening, talking about their day. On the weekend, there are no alarms. They sleep in, have a late breakfast together, and sometimes visit the grandparents. Bedtime on weekdays is nine o'clock, and the parents always end the night with a hug and a short story.",
+    "questions": [
+      { "id": 11, "question": "What time does the alarm ring in the Cohen family?", "options": ["(a) Six o'clock", "(b) Seven o'clock", "(c) Eight o'clock", "(d) Half past seven"], "correct_answer": "b" },
+      { "id": 12, "question": "Where do the children go after the alarm rings?", "options": ["(a) To the bathroom", "(b) To the living room", "(c) To the kitchen", "(d) To their parents' room"], "correct_answer": "c" },
+      { "id": 13, "question": "What does the father do in the morning?", "options": ["(a) Packs the school bags", "(b) Makes eggs", "(c) Drives to school", "(d) Takes out the rubbish"], "correct_answer": "b" },
+      { "id": 14, "question": "What must the children finish before screen time?", "options": ["(a) Their chores", "(b) Their dinner", "(c) Their homework", "(d) Their breakfast"], "correct_answer": "c" },
+      { "id": 15, "question": "What chore does the older son do?", "options": ["(a) Sets the table", "(b) Washes the dishes", "(c) Takes out the rubbish", "(d) Makes dinner"], "correct_answer": "c" },
+      { "id": 16, "question": "What time does the family eat dinner together?", "options": ["(a) Five o'clock", "(b) Six-thirty", "(c) Seven o'clock", "(d) Eight o'clock"], "correct_answer": "b" },
+      { "id": 17, "question": "What do they talk about during dinner?", "options": ["(a) The news", "(b) Sport", "(c) Their day", "(d) School homework"], "correct_answer": "c" },
+      { "id": 18, "question": "What do they do differently on the weekend?", "options": ["(a) They go to school", "(b) They sleep in and have a late breakfast", "(c) They wake up earlier", "(d) They skip dinner"], "correct_answer": "b" },
+      { "id": 19, "question": "What is the bedtime on weekdays?", "options": ["(a) Eight o'clock", "(b) Ten o'clock", "(c) Nine o'clock", "(d) Half past nine"], "correct_answer": "c" },
+      { "id": 20, "question": "How do the parents end the night?", "options": ["(a) With a film", "(b) With a hug and a short story", "(c) With homework check", "(d) With a walk outside"], "correct_answer": "b" }
+    ]
+  }
+}
