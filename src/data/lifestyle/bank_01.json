@@ -1,0 +1,295 @@
+{
+  "section_id": "bank_01",
+  "difficulty": "medium",
+  "title": "At the Bank",
+  "category": "Daily Life",
+  "word_bank": [
+    {
+      "word": "Account",
+      "translation": "חשבון בנק",
+      "example": "I opened a savings account at the bank to keep my money safe."
+    },
+    {
+      "word": "Deposit",
+      "translation": "הפקדה / להפקיד כסף",
+      "example": "I need to deposit this cheque into my account before the weekend."
+    },
+    {
+      "word": "Withdrawal",
+      "translation": "משיכת כסף",
+      "example": "I made a cash withdrawal of two hundred dollars from the ATM."
+    },
+    {
+      "word": "Balance",
+      "translation": "יתרה (כמות כסף בחשבון)",
+      "example": "I checked my balance online and saw that I still have enough money this month."
+    },
+    {
+      "word": "Transfer",
+      "translation": "העברת כסף",
+      "example": "I made a bank transfer to pay my friend back for the concert tickets."
+    },
+    {
+      "word": "Interest rate",
+      "translation": "ריבית",
+      "example": "The interest rate on this savings account is two percent per year."
+    },
+    {
+      "word": "Loan",
+      "translation": "הלוואה",
+      "example": "We took out a loan from the bank to pay for the new car."
+    },
+    {
+      "word": "PIN",
+      "translation": "קוד סודי (מספר זיהוי אישי)",
+      "example": "Never share your PIN with anyone — not even your family members."
+    },
+    {
+      "word": "Statement",
+      "translation": "דף חשבון / תדפיס",
+      "example": "I received my monthly bank statement by email and checked all the transactions."
+    },
+    {
+      "word": "Mortgage",
+      "translation": "משכנתא",
+      "example": "We signed the mortgage agreement and officially became homeowners."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "I need to _____ my salary cheque into my account as soon as possible.",
+      "options": [
+        "(a) Withdraw",
+        "(b) Deposit",
+        "(c) Transfer",
+        "(d) Balance"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "להכניס כסף לחשבון"
+    },
+    {
+      "id": 2,
+      "question": "Please do not forget your _____ when you use the ATM — you need it to access your money.",
+      "options": [
+        "(a) Statement",
+        "(b) Mortgage",
+        "(c) PIN",
+        "(d) Loan"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "הקוד הסודי לכרטיס הבנק"
+    },
+    {
+      "id": 3,
+      "question": "We applied for a _____ from the bank to help pay for the new apartment.",
+      "options": [
+        "(a) Withdrawal",
+        "(b) Balance",
+        "(c) Account",
+        "(d) Mortgage"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "הלוואה גדולה לקניית דירה או בית"
+    },
+    {
+      "id": 4,
+      "question": "I checked my _____ and realised I had spent too much money this month.",
+      "options": [
+        "(a) Balance",
+        "(b) Deposit",
+        "(c) Interest rate",
+        "(d) Transfer"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "הסכום הנוכחי של הכסף בחשבון"
+    },
+    {
+      "id": 5,
+      "question": "I made a bank _____ to pay my brother back for the money he lent me last week.",
+      "options": [
+        "(a) Statement",
+        "(b) Loan",
+        "(c) Transfer",
+        "(d) Withdrawal"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "שליחת כסף מחשבון אחד לאחר"
+    },
+    {
+      "id": 6,
+      "question": "The bank sent me my monthly _____ showing all the money I spent and received.",
+      "options": [
+        "(a) Mortgage",
+        "(b) Statement",
+        "(c) Account",
+        "(d) PIN"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "תדפיס החשבון החודשי"
+    },
+    {
+      "id": 7,
+      "question": "We took out a _____ to buy a new car and will pay it back over three years.",
+      "options": [
+        "(a) Loan",
+        "(b) Balance",
+        "(c) Deposit",
+        "(d) Interest rate"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "כסף שלווים מהבנק ומחזירים בהדרגה"
+    },
+    {
+      "id": 8,
+      "question": "I made a cash _____ at the ATM because I needed money for the market.",
+      "options": [
+        "(a) Account",
+        "(b) Transfer",
+        "(c) Withdrawal",
+        "(d) Mortgage"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "משיכת מזומן מהבנק או מכספומט"
+    },
+    {
+      "id": 9,
+      "question": "The _____ on my savings account is three percent, which means my money grows slowly.",
+      "options": [
+        "(a) Statement",
+        "(b) Interest rate",
+        "(c) PIN",
+        "(d) Loan"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "האחוז שהבנק משלם על חסכונות שלך"
+    },
+    {
+      "id": 10,
+      "question": "I opened a new bank _____ so I could start saving money every month.",
+      "options": [
+        "(a) Withdrawal",
+        "(b) Deposit",
+        "(c) Balance",
+        "(d) Account"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "חשבון שפותחים בבנק לניהול הכספים"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "Last Tuesday, Yossi decided to go to the bank to sort out some financial matters. He had been putting it off for weeks. When he arrived, a friendly clerk greeted him and asked how she could help.\n\nFirst, Yossi asked to check his account balance. The clerk told him he had three thousand and two hundred dollars. He was relieved — there was enough money to cover his bills.\n\nNext, Yossi made a cash withdrawal of three hundred dollars for his daughter's school trip. He entered his PIN carefully at the counter and the transaction went through without any problems.\n\nAfter that, he asked about taking out a loan to repair the roof of his house. The clerk explained the interest rate — it was four and a half percent per year. She printed out a statement showing all his recent transactions and told him to bring it if he decided to apply for the loan.\n\nFinally, Yossi asked about setting up a monthly bank transfer to automatically pay his electricity bill. The clerk showed him how to do it on the bank's mobile app. He thanked her, put his documents in his bag, and walked out feeling organised and calm for the first time in weeks.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "Why had Yossi been putting off going to the bank?",
+        "options": [
+          "(a) He did not have his PIN",
+          "(b) The bank was very far from his house",
+          "(c) He had been putting off the visit for weeks",
+          "(d) He was waiting for his salary to arrive"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 12,
+        "question": "What was Yossi's account balance?",
+        "options": [
+          "(a) One thousand dollars",
+          "(b) Two thousand and five hundred dollars",
+          "(c) Three thousand and two hundred dollars",
+          "(d) Four thousand dollars"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 13,
+        "question": "Why did Yossi make a cash withdrawal?",
+        "options": [
+          "(a) To pay his mortgage",
+          "(b) To pay for his daughter's school trip",
+          "(c) To buy groceries at the market",
+          "(d) To give money to his brother"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "How much money did Yossi withdraw?",
+        "options": [
+          "(a) One hundred dollars",
+          "(b) Two hundred dollars",
+          "(c) Three hundred dollars",
+          "(d) Five hundred dollars"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 15,
+        "question": "Why does Yossi want to take out a loan?",
+        "options": [
+          "(a) To buy a new car",
+          "(b) To pay for a holiday",
+          "(c) To repair the roof of his house",
+          "(d) To open a new business"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 16,
+        "question": "What was the interest rate on the loan?",
+        "options": [
+          "(a) Two percent per year",
+          "(b) Three percent per year",
+          "(c) Four and a half percent per year",
+          "(d) Six percent per year"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 17,
+        "question": "What did the clerk print out for Yossi?",
+        "options": [
+          "(a) A mortgage agreement",
+          "(b) A statement showing his recent transactions",
+          "(c) A new bank card",
+          "(d) A loan application form"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 18,
+        "question": "What did Yossi want to set up at the end of his visit?",
+        "options": [
+          "(a) A new savings account",
+          "(b) A monthly transfer to pay his electricity bill automatically",
+          "(c) A joint account with his wife",
+          "(d) An automatic deposit from his employer"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 19,
+        "question": "How did the clerk show Yossi how to set up the transfer?",
+        "options": [
+          "(a) She gave him a printed instruction booklet",
+          "(b) She called the bank's phone line",
+          "(c) She showed him on the bank's mobile app",
+          "(d) She did it for him on the computer"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 20,
+        "question": "How did Yossi feel when he left the bank?",
+        "options": [
+          "(a) Worried about his balance",
+          "(b) Angry at the long wait",
+          "(c) Confused about the loan details",
+          "(d) Organised and calm"
+        ],
+        "correct_answer": "d"
+      }
+    ]
+  }
+}

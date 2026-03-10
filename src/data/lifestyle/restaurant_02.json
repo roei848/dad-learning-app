@@ -1,0 +1,295 @@
+{
+  "section_id": "restaurant_02",
+  "difficulty": "easy",
+  "title": "Dining Out 2",
+  "category": "Daily Life",
+  "word_bank": [
+    {
+      "word": "Compliment",
+      "translation": "מחמאה",
+      "example": "The chef sent a compliment to our table — a small dessert, free of charge."
+    },
+    {
+      "word": "Allergy",
+      "translation": "אלרגיה",
+      "example": "I have an allergy to nuts, so I always ask the waiter before ordering."
+    },
+    {
+      "word": "Vegetarian",
+      "translation": "צמחוני",
+      "example": "My daughter is vegetarian, so she ordered the pasta with vegetables."
+    },
+    {
+      "word": "Spicy",
+      "translation": "חריף",
+      "example": "The curry was very spicy, so I drank a lot of water."
+    },
+    {
+      "word": "Chef",
+      "translation": "שף / טבח ראשי",
+      "example": "The chef came out of the kitchen to greet the guests and explain the menu."
+    },
+    {
+      "word": "Sauce",
+      "translation": "רוטב",
+      "example": "Could you please bring some extra sauce on the side?"
+    },
+    {
+      "word": "Leftover",
+      "translation": "שאריות אוכל",
+      "example": "The portion was huge, so I took the leftover home in a box."
+    },
+    {
+      "word": "Takeout",
+      "translation": "אוכל לקחת הביתה",
+      "example": "We were too tired to cook, so we ordered takeout from the Thai restaurant."
+    },
+    {
+      "word": "Receipt",
+      "translation": "קבלה",
+      "example": "I asked for a receipt so I could claim the meal as a business expense."
+    },
+    {
+      "word": "Recommendation",
+      "translation": "המלצה",
+      "example": "Do you have any recommendation for a dish that is not too heavy?"
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "Excuse me, I have a nut _____ — can you tell me which dishes are safe for me to eat?",
+      "options": [
+        "(a) Recommendation",
+        "(b) Sauce",
+        "(c) Allergy",
+        "(d) Leftover"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "תגובה של הגוף לאוכל מסוים"
+    },
+    {
+      "id": 2,
+      "question": "The waiter's _____ was the grilled sea bass — he said it was the best dish on the menu.",
+      "options": [
+        "(a) Receipt",
+        "(b) Recommendation",
+        "(c) Takeout",
+        "(d) Allergy"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "עצה על מה כדאי לבחור"
+    },
+    {
+      "id": 3,
+      "question": "My wife is _____, so she only orders dishes without meat or fish.",
+      "options": [
+        "(a) Spicy",
+        "(b) Leftover",
+        "(c) Vegetarian",
+        "(d) Chef"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "אדם שלא אוכל בשר"
+    },
+    {
+      "id": 4,
+      "question": "The _____ came to our table to explain how he prepared tonight's special dish.",
+      "options": [
+        "(a) Sauce",
+        "(b) Chef",
+        "(c) Receipt",
+        "(d) Takeout"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "האדם שמבשל במסעדה"
+    },
+    {
+      "id": 5,
+      "question": "Is the curry very _____? I do not like food that is too hot.",
+      "options": [
+        "(a) Vegetarian",
+        "(b) Leftover",
+        "(c) Spicy",
+        "(d) Sauce"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "אוכל שגורם לתחושת חום בפה"
+    },
+    {
+      "id": 6,
+      "question": "Could you bring some tomato _____ on the side? I like to dip my bread in it.",
+      "options": [
+        "(a) Sauce",
+        "(b) Allergy",
+        "(c) Recommendation",
+        "(d) Receipt"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "נוזל שמוסיפים לאוכל לתוספת טעם"
+    },
+    {
+      "id": 7,
+      "question": "The portion was enormous, so I asked for a box to take the _____ home.",
+      "options": [
+        "(a) Takeout",
+        "(b) Chef",
+        "(c) Leftover",
+        "(d) Compliment"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "האוכל שנשאר אחרי הארוחה"
+    },
+    {
+      "id": 8,
+      "question": "We did not feel like cooking tonight, so we ordered _____ from the pizza place.",
+      "options": [
+        "(a) Allergy",
+        "(b) Receipt",
+        "(c) Vegetarian",
+        "(d) Takeout"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "אוכל שמזמינים ולוקחים הביתה"
+    },
+    {
+      "id": 9,
+      "question": "Please give me the _____ — I need it for work because this was a business lunch.",
+      "options": [
+        "(a) Receipt",
+        "(b) Sauce",
+        "(c) Spicy",
+        "(d) Leftover"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "הנייר שמוכיח שילמת"
+    },
+    {
+      "id": 10,
+      "question": "The manager sent a _____ to our table and said our meal was on the house because of the long wait.",
+      "options": [
+        "(a) Allergy",
+        "(b) Takeout",
+        "(c) Compliment",
+        "(d) Recommendation"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "מחווה נחמדה כדי לגרום למישהו להרגיש מיוחד"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "On Saturday evening, David and his son Yoav decided to try the new Thai restaurant on Main Street. When they sat down, the waiter asked if they had any allergies. David mentioned that Yoav was allergic to peanuts, so the waiter made a note and promised to inform the chef.\n\nThe waiter's recommendation was the green chicken curry, but David asked whether it was spicy. The waiter said it was mild and could be made even less spicy on request. David ordered it, and Yoav chose a vegetarian noodle dish with tofu.\n\nBoth meals arrived with a small bowl of sauce on the side. David's curry was rich and flavorful without being too hot. Yoav loved his noodles and ate every last bite.\n\nThe portions were very generous. David could not finish his meal, so he asked for a box to take the leftover home. At the end, the waiter brought the receipt, and the manager also sent a compliment — two small coconut desserts as a gift for the table.\n\nOn the way home, Yoav said they should order takeout from there next weekend too. David laughed and agreed — it had been a perfect evening.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "Where did David and Yoav go for dinner?",
+        "options": [
+          "(a) An Italian restaurant on Park Avenue",
+          "(b) A Thai restaurant on Main Street",
+          "(c) A Chinese restaurant near their home",
+          "(d) A Japanese restaurant in the city center"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 12,
+        "question": "What allergy did Yoav have?",
+        "options": [
+          "(a) He was allergic to dairy",
+          "(b) He was allergic to gluten",
+          "(c) He was allergic to peanuts",
+          "(d) He was allergic to shellfish"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 13,
+        "question": "What was the waiter's recommendation?",
+        "options": [
+          "(a) The vegetarian noodle dish",
+          "(b) The green chicken curry",
+          "(c) The spicy beef stir-fry",
+          "(d) The coconut soup"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "Why did David ask about the curry before ordering?",
+        "options": [
+          "(a) He wanted to know the price",
+          "(b) He was concerned it might be too spicy",
+          "(c) He was allergic to chicken",
+          "(d) He did not like Thai food"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 15,
+        "question": "What did Yoav order?",
+        "options": [
+          "(a) Green chicken curry",
+          "(b) Spicy beef noodles",
+          "(c) A vegetarian noodle dish with tofu",
+          "(d) Fried rice with shrimp"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 16,
+        "question": "What was served on the side with both meals?",
+        "options": [
+          "(a) A basket of bread",
+          "(b) A small bowl of sauce",
+          "(c) A cup of soup",
+          "(d) A side salad"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 17,
+        "question": "Why did David ask for a box?",
+        "options": [
+          "(a) He wanted to bring food for his wife",
+          "(b) The food was not good",
+          "(c) He could not finish his meal and wanted to take the leftover home",
+          "(d) Yoav did not finish his noodles"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 18,
+        "question": "What compliment did the manager send to the table?",
+        "options": [
+          "(a) A free glass of wine",
+          "(b) Two small coconut desserts",
+          "(c) A discount on the bill",
+          "(d) A bowl of soup"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 19,
+        "question": "What did Yoav suggest on the way home?",
+        "options": [
+          "(a) That they should go back the next day",
+          "(b) That they should order takeout from there next weekend",
+          "(c) That the food was too spicy",
+          "(d) That he preferred Italian food"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 20,
+        "question": "How did David feel about the evening?",
+        "options": [
+          "(a) He was disappointed with the service",
+          "(b) He thought the food was too expensive",
+          "(c) He agreed it had been a perfect evening",
+          "(d) He wanted to try a different restaurant next time"
+        ],
+        "correct_answer": "c"
+      }
+    ]
+  }
+}

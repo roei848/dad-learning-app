@@ -1,0 +1,295 @@
+{
+  "section_id": "idioms_01",
+  "difficulty": "extreme",
+  "title": "Everyday Idioms",
+  "category": "Daily Life",
+  "word_bank": [
+    {
+      "word": "Break the ice",
+      "translation": "לשבור את הקרח",
+      "example": "He told a funny joke to break the ice at the beginning of the meeting."
+    },
+    {
+      "word": "Bite the bullet",
+      "translation": "לקבל משהו קשה בסבר פנים",
+      "example": "I did not want to go to the dentist, but I bit the bullet and made the appointment."
+    },
+    {
+      "word": "Under the weather",
+      "translation": "לא מרגיש טוב",
+      "example": "I am feeling a bit under the weather today, so I will stay home and rest."
+    },
+    {
+      "word": "Hit the nail on the head",
+      "translation": "לפגוע בול / לומר בדיוק את הדבר הנכון",
+      "example": "You hit the nail on the head — that is exactly what the problem is."
+    },
+    {
+      "word": "Cost an arm and a leg",
+      "translation": "לעלות הון תועפות / מאוד יקר",
+      "example": "The new car cost an arm and a leg, but it was worth every penny."
+    },
+    {
+      "word": "Piece of cake",
+      "translation": "קל מאוד",
+      "example": "I thought the exam would be hard, but it was a piece of cake."
+    },
+    {
+      "word": "Once in a blue moon",
+      "translation": "לעיתים נדירות מאוד",
+      "example": "My uncle visits us once in a blue moon — maybe once every two years."
+    },
+    {
+      "word": "Burn bridges",
+      "translation": "לשרוף גשרים — לפגוע בקשר לצמיתות",
+      "example": "Do not burn bridges when you leave a job — you never know when you might need their help."
+    },
+    {
+      "word": "Spill the beans",
+      "translation": "לגלות סוד",
+      "example": "He accidentally spilled the beans about the surprise party before it happened."
+    },
+    {
+      "word": "Kill two birds with one stone",
+      "translation": "לפגוע בשני ציפורים במכה אחת — להשיג שני דברים בפעולה אחת",
+      "example": "I went to the post office on the way to the supermarket — killed two birds with one stone."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "Nobody knew each other at the party, so David told a funny story to _____ and make everyone relax.",
+      "options": [
+        "(a) Spill the beans",
+        "(b) Break the ice",
+        "(c) Burn bridges",
+        "(d) Bite the bullet"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "לעשות משהו כדי להוריד את המתח בין אנשים שלא מכירים"
+    },
+    {
+      "id": 2,
+      "question": "If something is extremely expensive, you can say it _____.",
+      "options": [
+        "(a) Kills two birds with one stone",
+        "(b) Is a piece of cake",
+        "(c) Costs an arm and a leg",
+        "(d) Hits the nail on the head"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "ביטוי שמשמעותו שמשהו עולה הרבה מאוד כסף"
+    },
+    {
+      "id": 3,
+      "question": "I do not feel well today — I am a little _____ and I think I have a slight fever.",
+      "options": [
+        "(a) Once in a blue moon",
+        "(b) Burning bridges",
+        "(c) Killing two birds with one stone",
+        "(d) Under the weather"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "ביטוי שמשמעותו שאתה לא מרגיש טוב, קצת חולה"
+    },
+    {
+      "id": 4,
+      "question": "I did not want to have the difficult conversation with my boss, but I decided to _____ and just do it.",
+      "options": [
+        "(a) Bite the bullet",
+        "(b) Spill the beans",
+        "(c) Break the ice",
+        "(d) Hit the nail on the head"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "לעשות משהו קשה או לא נעים, גם כשקשה"
+    },
+    {
+      "id": 5,
+      "question": "You said exactly what I was thinking — you really _____!",
+      "options": [
+        "(a) Burned bridges",
+        "(b) Spilled the beans",
+        "(c) Hit the nail on the head",
+        "(d) Cost an arm and a leg"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "ביטוי שמשמעותו שאמרת בדיוק את הדבר הנכון"
+    },
+    {
+      "id": 6,
+      "question": "Do not worry, the test is easy — it will be a _____!",
+      "options": [
+        "(a) Piece of cake",
+        "(b) Blue moon",
+        "(c) Broken bridge",
+        "(d) Bitten bullet"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "ביטוי שמשמעותו שמשהו קל מאוד"
+    },
+    {
+      "id": 7,
+      "question": "My children clean their rooms _____ — I have to ask them ten times before they do it.",
+      "options": [
+        "(a) Like a piece of cake",
+        "(b) Once in a blue moon",
+        "(c) Under the weather",
+        "(d) Killing two birds with one stone"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "ביטוי שמשמעותו שמשהו קורה לעיתים נדירות מאוד"
+    },
+    {
+      "id": 8,
+      "question": "When he left the company, he sent an angry email to everyone. It was a big mistake — he completely _____.",
+      "options": [
+        "(a) Broke the ice",
+        "(b) Spilled the beans",
+        "(c) Burned his bridges",
+        "(d) Hit the nail on the head"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "ביטוי שמשמעותו שפגעת בקשר באופן קבוע"
+    },
+    {
+      "id": 9,
+      "question": "My daughter was supposed to keep the birthday party secret, but she _____ and told her brother everything.",
+      "options": [
+        "(a) Spilled the beans",
+        "(b) Bit the bullet",
+        "(c) Broke the ice",
+        "(d) Killed two birds with one stone"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "ביטוי שמשמעותו לחשוף בטעות מידע סודי"
+    },
+    {
+      "id": 10,
+      "question": "I went to the bank and the pharmacy in the same trip — I really managed to _____.",
+      "options": [
+        "(a) Burn bridges",
+        "(b) Break the ice",
+        "(c) Kill two birds with one stone",
+        "(d) Bite the bullet"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "ביטוי שמשמעותו שהשגת שני דברים בפעולה אחת"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "Ilan had not spoken to his neighbour, Mr Greenberg, in over a year. They had argued about a parking space and things had been cold between them ever since. Ilan's wife kept saying, 'You need to break the ice before you burn your bridges completely.'\n\nOne morning, Ilan saw Mr Greenberg struggling with heavy shopping bags in the hallway. He decided to bite the bullet and offered to help. Mr Greenberg looked surprised but said, 'Thank you — I am feeling a bit under the weather today.'\n\nThey walked inside together and Ilan helped carry the bags to the kitchen. It felt a little awkward at first, but once they started talking about their families, the conversation flowed. Mr Greenberg even made coffee and they sat down for half an hour.\n\n'I have to say,' said Mr Greenberg, 'you hit the nail on the head when you said the parking problem was about respect, not just space. I think I overreacted.'\n\nIlan smiled. He felt it was a piece of cake to forgive someone once you really talked to them. He also mentioned that he was going to the hardware store and offered to pick up some items for Mr Greenberg too — kill two birds with one stone.\n\nThey shook hands at the door. Ilan thought: the repair that costs an arm and a leg is not the parking lot — it is the damage you do to a friendship.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "Why had Ilan not spoken to Mr Greenberg for over a year?",
+        "options": [
+          "(a) Because Mr Greenberg had moved away",
+          "(b) Because they had argued about a parking space",
+          "(c) Because Ilan had been travelling for work",
+          "(d) Because they had different working hours"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 12,
+        "question": "What did Ilan's wife warn him about?",
+        "options": [
+          "(a) That Mr Greenberg was planning to move",
+          "(b) That the argument was Ilan's fault",
+          "(c) That he needed to break the ice before burning his bridges completely",
+          "(d) That he should apologise in writing"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 13,
+        "question": "What did Ilan see that made him decide to act?",
+        "options": [
+          "(a) Mr Greenberg waving at him from the window",
+          "(b) Mr Greenberg struggling with heavy shopping bags",
+          "(c) Mr Greenberg's wife asking for help",
+          "(d) A note under his door from Mr Greenberg"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "What does 'bite the bullet' mean in the context of the story?",
+        "options": [
+          "(a) Ilan decided to run away from the situation",
+          "(b) Ilan forced himself to do something difficult and uncomfortable",
+          "(c) Ilan asked his wife to speak to Mr Greenberg instead",
+          "(d) Ilan pretended not to see Mr Greenberg"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 15,
+        "question": "Why was Mr Greenberg having a difficult morning?",
+        "options": [
+          "(a) He had forgotten his keys",
+          "(b) He was feeling under the weather",
+          "(c) He had hurt his back",
+          "(d) His car had broken down"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 16,
+        "question": "What did Mr Greenberg say that Ilan had 'hit the nail on the head' about?",
+        "options": [
+          "(a) That the parking space was too small",
+          "(b) That neighbours should always share things",
+          "(c) That the parking problem was about respect, not just space",
+          "(d) That they should have resolved it sooner"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 17,
+        "question": "What does 'a piece of cake' mean as Ilan uses it in the story?",
+        "options": [
+          "(a) He wanted to eat something sweet",
+          "(b) Forgiving someone felt easy once you really talked to them",
+          "(c) The conversation was boring and predictable",
+          "(d) The problem was not worth worrying about"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 18,
+        "question": "How did Ilan offer to 'kill two birds with one stone'?",
+        "options": [
+          "(a) By fixing the parking problem and the garden fence at the same time",
+          "(b) By picking up items for Mr Greenberg on his trip to the hardware store",
+          "(c) By talking to both Mr Greenberg and his wife at the same time",
+          "(d) By paying for both their coffees and the shopping"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 19,
+        "question": "What does Ilan say 'costs an arm and a leg' at the end of the story?",
+        "options": [
+          "(a) The parking space renovation",
+          "(b) The hardware store trip",
+          "(c) The coffee Mr Greenberg made",
+          "(d) The damage you do to a friendship"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 20,
+        "question": "How did the encounter between Ilan and Mr Greenberg end?",
+        "options": [
+          "(a) They agreed to write a formal letter settling the parking dispute",
+          "(b) Mr Greenberg asked Ilan to leave",
+          "(c) They shook hands at the door",
+          "(d) They went together to speak to the building manager"
+        ],
+        "correct_answer": "c"
+      }
+    ]
+  }
+}

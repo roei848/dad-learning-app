@@ -1,0 +1,295 @@
+{
+  "section_id": "home_chores_01",
+  "difficulty": "easy",
+  "title": "Around the House",
+  "category": "Daily Life",
+  "word_bank": [
+    {
+      "word": "Vacuum",
+      "translation": "לשאוב אבק / שואב אבק",
+      "example": "I vacuum the living room carpet every Friday before Shabbat."
+    },
+    {
+      "word": "Laundry",
+      "translation": "כביסה",
+      "example": "I did three loads of laundry on Sunday and hung everything out to dry."
+    },
+    {
+      "word": "Dusty",
+      "translation": "מאובק",
+      "example": "The shelves were dusty because nobody had cleaned them in two weeks."
+    },
+    {
+      "word": "Mop",
+      "translation": "לסחוב / מגב רצפות",
+      "example": "After sweeping the kitchen floor, I mopped it with soapy water."
+    },
+    {
+      "word": "Garbage",
+      "translation": "אשפה",
+      "example": "Please take out the garbage — the bin is completely full."
+    },
+    {
+      "word": "Organize",
+      "translation": "לארגן / לסדר",
+      "example": "I spent the morning trying to organize the storage room — it was a mess."
+    },
+    {
+      "word": "Repair",
+      "translation": "לתקן / תיקון",
+      "example": "The kitchen tap was dripping, so I called someone to repair it."
+    },
+    {
+      "word": "Sweep",
+      "translation": "לטאטא",
+      "example": "Could you sweep the porch? There are dry leaves everywhere."
+    },
+    {
+      "word": "Chore",
+      "translation": "מטלה ביתית",
+      "example": "Washing the dishes is my least favourite chore, but someone has to do it."
+    },
+    {
+      "word": "Schedule",
+      "translation": "לוח זמנים / ללוח זמנים",
+      "example": "We made a cleaning schedule so that everyone in the family shares the chores."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "I need to _____ the whole apartment today because we have guests coming tonight.",
+      "options": [
+        "(a) Repair",
+        "(b) Vacuum",
+        "(c) Schedule",
+        "(d) Laundry"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "לנקות שטיח עם מכשיר חשמלי"
+    },
+    {
+      "id": 2,
+      "question": "The bookcase in the hallway is very _____ — I have not wiped it in weeks.",
+      "options": [
+        "(a) Dusty",
+        "(b) Organize",
+        "(c) Mop",
+        "(d) Chore"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "מכוסה באבק"
+    },
+    {
+      "id": 3,
+      "question": "Could you _____ the kitchen floor? It is dirty and I already swept it.",
+      "options": [
+        "(a) Laundry",
+        "(b) Garbage",
+        "(c) Mop",
+        "(d) Schedule"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "לנקות רצפה עם מים וסחבה"
+    },
+    {
+      "id": 4,
+      "question": "Please take out the _____ — the bag is full and starting to smell.",
+      "options": [
+        "(a) Sweep",
+        "(b) Repair",
+        "(c) Chore",
+        "(d) Garbage"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "פסולת שצריך לזרוק"
+    },
+    {
+      "id": 5,
+      "question": "I need to do two loads of _____ today — we have run out of clean shirts.",
+      "options": [
+        "(a) Laundry",
+        "(b) Organize",
+        "(c) Vacuum",
+        "(d) Dusty"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "הכביסה שצריך לרחוץ"
+    },
+    {
+      "id": 6,
+      "question": "I want to _____ the kitchen cupboards this weekend — everything is mixed up inside.",
+      "options": [
+        "(a) Repair",
+        "(b) Sweep",
+        "(c) Organize",
+        "(d) Mop"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "לסדר דברים בצורה מסודרת"
+    },
+    {
+      "id": 7,
+      "question": "The broken window handle needs a _____ before winter comes.",
+      "options": [
+        "(a) Chore",
+        "(b) Repair",
+        "(c) Laundry",
+        "(d) Garbage"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "לתקן משהו שלא עובד"
+    },
+    {
+      "id": 8,
+      "question": "Can you _____ the balcony? There are sand and dry leaves all over the floor.",
+      "options": [
+        "(a) Schedule",
+        "(b) Dusty",
+        "(c) Vacuum",
+        "(d) Sweep"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "לנקות רצפה עם מטאטא"
+    },
+    {
+      "id": 9,
+      "question": "Cleaning the bathroom is his least favourite _____, but he always does it without complaining.",
+      "options": [
+        "(a) Chore",
+        "(b) Laundry",
+        "(c) Mop",
+        "(d) Schedule"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "משימה ביתית שחוזרת על עצמה"
+    },
+    {
+      "id": 10,
+      "question": "We made a weekly _____ so the kids know which chore they are responsible for each day.",
+      "options": [
+        "(a) Garbage",
+        "(b) Repair",
+        "(c) Schedule",
+        "(d) Dusty"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "תכנון של מה נעשה ומתי"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "Every Saturday morning, David likes to do a thorough clean of the house. This week, he made a schedule and divided the chores among the family.\n\nDavid started by vacuuming the living room and the bedrooms. The rugs were quite dusty because nobody had cleaned them since last weekend. After that, he swept the kitchen floor to remove crumbs and dust, then mopped it with hot soapy water until it was shining.\n\nHis son Yoav was responsible for taking out the garbage. There were two full bags — one from the kitchen and one from the bathroom. His daughter Mia was asked to organize the hallway cupboard, which had become a mess of shoes, bags, and jackets.\n\nDavid's wife sorted and started the laundry. She did two full loads — one for dark clothes and one for light ones.\n\nIn the afternoon, David noticed that the bathroom tap was dripping. He decided it needed a repair, so he watched a short video online and fixed it himself in about twenty minutes.\n\nBy evening, the apartment was clean and tidy. Everyone felt proud of what they had accomplished together as a team.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "When does David like to do a thorough clean of the house?",
+        "options": [
+          "(a) Every Sunday evening",
+          "(b) Every Friday afternoon",
+          "(c) Every Saturday morning",
+          "(d) Every Wednesday night"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 12,
+        "question": "Why were the rugs quite dusty?",
+        "options": [
+          "(a) The windows had been left open all week",
+          "(b) Nobody had cleaned them since last weekend",
+          "(c) The vacuum cleaner was broken",
+          "(d) They had recently painted the walls"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 13,
+        "question": "What did David do after sweeping the kitchen floor?",
+        "options": [
+          "(a) He vacuumed the bedrooms",
+          "(b) He took out the garbage",
+          "(c) He mopped it with hot soapy water",
+          "(d) He organized the cupboard"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 14,
+        "question": "What was Yoav responsible for?",
+        "options": [
+          "(a) Doing the laundry",
+          "(b) Taking out the garbage",
+          "(c) Mopping the kitchen",
+          "(d) Repairing the tap"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 15,
+        "question": "How many garbage bags were there?",
+        "options": [
+          "(a) One",
+          "(b) Three",
+          "(c) Four",
+          "(d) Two"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 16,
+        "question": "What did Mia need to organize?",
+        "options": [
+          "(a) The kitchen cupboards",
+          "(b) The hallway cupboard",
+          "(c) The bedroom wardrobes",
+          "(d) The bathroom cabinet"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 17,
+        "question": "How many loads of laundry did David's wife do?",
+        "options": [
+          "(a) One",
+          "(b) Three",
+          "(c) Two",
+          "(d) Four"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 18,
+        "question": "What problem did David notice in the afternoon?",
+        "options": [
+          "(a) The washing machine was broken",
+          "(b) The bathroom tap was dripping",
+          "(c) A window handle was broken",
+          "(d) The vacuum cleaner stopped working"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 19,
+        "question": "How did David repair the tap?",
+        "options": [
+          "(a) He called a plumber",
+          "(b) He asked a neighbor for help",
+          "(c) He left it for another day",
+          "(d) He watched a short video online and fixed it himself"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 20,
+        "question": "How did everyone feel at the end of the day?",
+        "options": [
+          "(a) Tired and annoyed",
+          "(b) Proud of what they had accomplished together",
+          "(c) Disappointed because the house was still messy",
+          "(d) Too exhausted to talk"
+        ],
+        "correct_answer": "b"
+      }
+    ]
+  }
+}

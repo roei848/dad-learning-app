@@ -1,0 +1,295 @@
+{
+  "section_id": "pharmacy_01",
+  "difficulty": "medium",
+  "title": "At the Pharmacy",
+  "category": "Daily Life",
+  "word_bank": [
+    {
+      "word": "Prescription",
+      "translation": "מרשם רופא",
+      "example": "The doctor gave me a prescription for antibiotics, and I took it to the pharmacy."
+    },
+    {
+      "word": "Dosage",
+      "translation": "מינון (כמות התרופה שצריך לקחת)",
+      "example": "The dosage for adults is two tablets three times a day with food."
+    },
+    {
+      "word": "Side effects",
+      "translation": "תופעות לוואי",
+      "example": "One of the side effects of this medicine is drowsiness, so do not drive after taking it."
+    },
+    {
+      "word": "Over-the-counter",
+      "translation": "ללא מרשם (תרופה שניתן לקנות ישירות)",
+      "example": "Paracetamol is an over-the-counter medicine that you can buy without a prescription."
+    },
+    {
+      "word": "Pharmacist",
+      "translation": "רוקח",
+      "example": "I asked the pharmacist which medicine was best for a sore throat."
+    },
+    {
+      "word": "Refill",
+      "translation": "מילוי מחדש של מרשם",
+      "example": "I called the pharmacy to ask for a refill of my blood pressure medication."
+    },
+    {
+      "word": "Generic",
+      "translation": "תרופה גנרית (זולה יותר, אותו חומר פעיל)",
+      "example": "The generic version of this medicine costs half the price and works just as well."
+    },
+    {
+      "word": "Ointment",
+      "translation": "משחה",
+      "example": "The doctor told me to apply the ointment to the rash twice a day for a week."
+    },
+    {
+      "word": "Tablet",
+      "translation": "טבלייה / כדור",
+      "example": "Take one tablet in the morning and one at night after eating."
+    },
+    {
+      "word": "Expiry",
+      "translation": "תאריך תפוגה",
+      "example": "Always check the expiry date on medicine before you take it."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "The doctor wrote me a _____ for antibiotics, and I took it straight to the pharmacy.",
+      "options": [
+        "(a) Dosage",
+        "(b) Refill",
+        "(c) Prescription",
+        "(d) Ointment"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "ניירת מהרופא שמאשרת לקנות תרופה"
+    },
+    {
+      "id": 2,
+      "question": "The _____ is one tablet twice a day — once in the morning and once before bed.",
+      "options": [
+        "(a) Expiry",
+        "(b) Dosage",
+        "(c) Generic",
+        "(d) Side effects"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "הכמות והתדירות שבה לוקחים תרופה"
+    },
+    {
+      "id": 3,
+      "question": "I asked the _____ whether I could take this medicine with my other tablets.",
+      "options": [
+        "(a) Over-the-counter",
+        "(b) Tablet",
+        "(c) Pharmacist",
+        "(d) Refill"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "המומחה בבית המרקחת שמייעץ על תרופות"
+    },
+    {
+      "id": 4,
+      "question": "This cream is available _____, so you do not need a doctor's note to buy it.",
+      "options": [
+        "(a) Over-the-counter",
+        "(b) Generic",
+        "(c) Prescription",
+        "(d) Expiry"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "תרופה שאפשר לקנות ישירות בלי מרשם"
+    },
+    {
+      "id": 5,
+      "question": "Please check the _____ date on the medicine before you use it.",
+      "options": [
+        "(a) Ointment",
+        "(b) Tablet",
+        "(c) Dosage",
+        "(d) Expiry"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "התאריך שאחריו התרופה אינה תקינה לשימוש"
+    },
+    {
+      "id": 6,
+      "question": "One of the _____ of this antibiotic is that it may cause an upset stomach.",
+      "options": [
+        "(a) Side effects",
+        "(b) Refill",
+        "(c) Generic",
+        "(d) Prescription"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "תגובות לא רצויות שעלולות להופיע בעת נטילת תרופה"
+    },
+    {
+      "id": 7,
+      "question": "The _____ version of this medicine costs the same but is much cheaper.",
+      "options": [
+        "(a) Dosage",
+        "(b) Expiry",
+        "(c) Generic",
+        "(d) Ointment"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "תרופה זולה יותר עם אותו חומר פעיל כמו המותג"
+    },
+    {
+      "id": 8,
+      "question": "The pharmacist told me to apply this _____ to the skin infection morning and night.",
+      "options": [
+        "(a) Tablet",
+        "(b) Ointment",
+        "(c) Side effects",
+        "(d) Refill"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "חומר שמי שמורחים על העור לטיפול"
+    },
+    {
+      "id": 9,
+      "question": "I need a _____ of my blood pressure medication because I have run out.",
+      "options": [
+        "(a) Prescription",
+        "(b) Refill",
+        "(c) Expiry",
+        "(d) Dosage"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "בקשה לחידוש של תרופה שנגמרה"
+    },
+    {
+      "id": 10,
+      "question": "Take two _____ with a full glass of water after every meal.",
+      "options": [
+        "(a) Generic",
+        "(b) Ointment",
+        "(c) Over-the-counter",
+        "(d) Tablets"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "כדורים שבולעים עם מים"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "On Wednesday morning, Avi woke up with a bad cough and a sore throat. He decided not to call a doctor straight away and instead went to the pharmacy to ask for advice.\n\nWhen he arrived, the pharmacist greeted him and listened carefully as Avi described his symptoms. The pharmacist suggested an over-the-counter syrup for the cough — no prescription needed. He also recommended a throat spray and told Avi to take one tablet of paracetamol every six hours if he had a temperature.\n\nAvi picked up the medicines and asked about the dosage for the syrup. The pharmacist said two teaspoons three times a day, always after eating. He also warned Avi about one of the side effects: the syrup might make him feel a little drowsy, so he should avoid driving.\n\nAvi noticed the cough syrup had a generic label and asked if it worked as well as the branded version. The pharmacist explained it was exactly the same medicine, just a cheaper version.\n\nBefore leaving, Avi also asked for a refill of his father's heart medication. He handed over the prescription and the pharmacist processed it quickly. Avi checked the expiry dates on all the boxes and paid at the counter. He thanked the pharmacist and went home to rest.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "Why did Avi go to the pharmacy instead of calling a doctor?",
+        "options": [
+          "(a) Because the doctor's clinic was closed",
+          "(b) Because he wanted advice without calling a doctor straight away",
+          "(c) Because he did not have health insurance",
+          "(d) Because his wife told him to go there"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 12,
+        "question": "What did Avi complain about when he arrived at the pharmacy?",
+        "options": [
+          "(a) A headache and a fever",
+          "(b) A bad cough and a sore throat",
+          "(c) A stomach ache and nausea",
+          "(d) A rash on his arm"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 13,
+        "question": "What kind of cough syrup did the pharmacist recommend?",
+        "options": [
+          "(a) A prescription-only medicine",
+          "(b) A syrup that requires a doctor's note",
+          "(c) An over-the-counter syrup",
+          "(d) A syrup that is only for children"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 14,
+        "question": "What was the dosage for the cough syrup?",
+        "options": [
+          "(a) One teaspoon twice a day before eating",
+          "(b) Three teaspoons once a day at bedtime",
+          "(c) Two teaspoons three times a day after eating",
+          "(d) Half a teaspoon four times a day"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 15,
+        "question": "What side effect did the pharmacist warn Avi about?",
+        "options": [
+          "(a) The syrup might cause a headache",
+          "(b) The syrup might make him feel drowsy",
+          "(c) The syrup might cause an allergic reaction",
+          "(d) The syrup might upset his stomach"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 16,
+        "question": "Why should Avi avoid driving after taking the syrup?",
+        "options": [
+          "(a) Because it affects his eyesight",
+          "(b) Because it might make him feel drowsy",
+          "(c) Because it causes dizziness",
+          "(d) Because it raises his blood pressure"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 17,
+        "question": "What is the difference between the generic syrup and the branded version?",
+        "options": [
+          "(a) The generic version is stronger",
+          "(b) The branded version works faster",
+          "(c) They are the same medicine but the generic is cheaper",
+          "(d) The generic has fewer side effects"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 18,
+        "question": "Whose medication did Avi ask to refill?",
+        "options": [
+          "(a) His own blood pressure medication",
+          "(b) His wife's diabetes medication",
+          "(c) His son's asthma medication",
+          "(d) His father's heart medication"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 19,
+        "question": "What did Avi check before paying?",
+        "options": [
+          "(a) The price of each medicine",
+          "(b) The expiry dates on all the boxes",
+          "(c) The dosage instructions on each label",
+          "(d) The name of the pharmacist"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 20,
+        "question": "What did Avi do after leaving the pharmacy?",
+        "options": [
+          "(a) He called his doctor to report his symptoms",
+          "(b) He went to buy food at the market",
+          "(c) He went home to rest",
+          "(d) He went back to work"
+        ],
+        "correct_answer": "c"
+      }
+    ]
+  }
+}

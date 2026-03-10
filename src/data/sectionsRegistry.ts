@@ -21,10 +21,32 @@ import shoppingData from './travel/shopping.json';
 import emergencyData from './travel/emergency.json';
 import sightseeingData from './travel/sightseeing.json';
 import restaurantData from './lifestyle/restaurant.json';
+import restaurant02Data from './lifestyle/restaurant_02.json';
+import supermarket01Data from './lifestyle/supermarket_01.json';
+import doctor01Data from './lifestyle/doctor_01.json';
+import homeChores01Data from './lifestyle/home_chores_01.json';
+import wardrobe01Data from './lifestyle/wardrobe_01.json';
+import cafe01Data from './lifestyle/cafe_01.json';
+import bank01Data from './lifestyle/bank_01.json';
+import pharmacy01Data from './lifestyle/pharmacy_01.json';
+import jobInterview01Data from './lifestyle/job_interview_01.json';
+import cooking01Data from './lifestyle/cooking_01.json';
+import idioms01Data from './lifestyle/idioms_01.json';
 import transportationData from './travel/transportation.json';
 
 const sectionsRegistry: Record<string, Section> = {
   [restaurantData.section_id]: restaurantData as unknown as Section,
+  [restaurant02Data.section_id]: restaurant02Data as unknown as Section,
+  [supermarket01Data.section_id]: supermarket01Data as unknown as Section,
+  [doctor01Data.section_id]: doctor01Data as unknown as Section,
+  [homeChores01Data.section_id]: homeChores01Data as unknown as Section,
+  [wardrobe01Data.section_id]: wardrobe01Data as unknown as Section,
+  [cafe01Data.section_id]: cafe01Data as unknown as Section,
+  [bank01Data.section_id]: bank01Data as unknown as Section,
+  [pharmacy01Data.section_id]: pharmacy01Data as unknown as Section,
+  [jobInterview01Data.section_id]: jobInterview01Data as unknown as Section,
+  [cooking01Data.section_id]: cooking01Data as unknown as Section,
+  [idioms01Data.section_id]: idioms01Data as unknown as Section,
   [footballData.section_id]: footballData as unknown as Section,
   [football02Data.section_id]: football02Data as unknown as Section,
   [football03Data.section_id]: football03Data as unknown as Section,

@@ -1,0 +1,295 @@
+{
+  "section_id": "supermarket_01",
+  "difficulty": "easy",
+  "title": "At the Supermarket",
+  "category": "Daily Life",
+  "word_bank": [
+    {
+      "word": "Aisle",
+      "translation": "מעבר / שורה בסופרמרקט",
+      "example": "The cereal is in aisle four, next to the coffee and tea."
+    },
+    {
+      "word": "Cart",
+      "translation": "עגלת קניות",
+      "example": "I took a cart at the entrance because I had a long shopping list."
+    },
+    {
+      "word": "Checkout",
+      "translation": "קופה / תשלום",
+      "example": "There was a long line at the checkout, so we waited for about ten minutes."
+    },
+    {
+      "word": "Cashier",
+      "translation": "קופאי / קופאית",
+      "example": "The cashier scanned all the items and told me the total."
+    },
+    {
+      "word": "Discount",
+      "translation": "הנחה",
+      "example": "There was a fifty percent discount on pasta this week, so I bought three packs."
+    },
+    {
+      "word": "Expiry date",
+      "translation": "תאריך תפוגה",
+      "example": "Always check the expiry date before buying milk or yogurt."
+    },
+    {
+      "word": "Produce",
+      "translation": "ירקות ופירות טריים",
+      "example": "The produce section had fresh strawberries and tomatoes on sale."
+    },
+    {
+      "word": "Shelf",
+      "translation": "מדף",
+      "example": "I could not reach the top shelf, so I asked someone to help me."
+    },
+    {
+      "word": "Coupon",
+      "translation": "קופון / שובר הנחה",
+      "example": "I used a coupon from the newspaper to get one dollar off the orange juice."
+    },
+    {
+      "word": "Basket",
+      "translation": "סל קניות",
+      "example": "For just a few items, I grabbed a basket instead of a cart."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "I picked up a _____ at the door because I only needed a few things.",
+      "options": [
+        "(a) Cashier",
+        "(b) Shelf",
+        "(c) Basket",
+        "(d) Coupon"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "כלי קטן לנשיאת מספר פריטים בקניות"
+    },
+    {
+      "id": 2,
+      "question": "Excuse me, which _____ has the cooking oil? I cannot find it.",
+      "options": [
+        "(a) Aisle",
+        "(b) Checkout",
+        "(c) Discount",
+        "(d) Produce"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "השורה בין המדפים בסופרמרקט"
+    },
+    {
+      "id": 3,
+      "question": "The _____ section was full of fresh vegetables and ripe fruit.",
+      "options": [
+        "(a) Coupon",
+        "(b) Cart",
+        "(c) Expiry date",
+        "(d) Produce"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "מחלקת ירקות ופירות"
+    },
+    {
+      "id": 4,
+      "question": "I always check the _____ on dairy products before I put them in my cart.",
+      "options": [
+        "(a) Cashier",
+        "(b) Expiry date",
+        "(c) Discount",
+        "(d) Aisle"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "התאריך שאחריו המוצר כבר לא טוב"
+    },
+    {
+      "id": 5,
+      "question": "There is a big _____ on chicken this week — forty percent off the regular price.",
+      "options": [
+        "(a) Shelf",
+        "(b) Basket",
+        "(c) Discount",
+        "(d) Checkout"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "הפחתת מחיר"
+    },
+    {
+      "id": 6,
+      "question": "I loaded a large _____ with everything on my list and pushed it to the checkout.",
+      "options": [
+        "(a) Coupon",
+        "(b) Cart",
+        "(c) Cashier",
+        "(d) Aisle"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "עגלה גדולה לנשיאת הקניות"
+    },
+    {
+      "id": 7,
+      "question": "The _____ smiled and greeted me as she scanned each item.",
+      "options": [
+        "(a) Shelf",
+        "(b) Produce",
+        "(c) Cashier",
+        "(d) Discount"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "האדם שגובה את התשלום בסוף הקניות"
+    },
+    {
+      "id": 8,
+      "question": "The cereal boxes on the top _____ were out of my reach.",
+      "options": [
+        "(a) Checkout",
+        "(b) Shelf",
+        "(c) Basket",
+        "(d) Coupon"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "הדף האופקי שעליו מסודרים המוצרים"
+    },
+    {
+      "id": 9,
+      "question": "I had a _____ for a free yogurt, so I paid less at the checkout.",
+      "options": [
+        "(a) Coupon",
+        "(b) Aisle",
+        "(c) Expiry date",
+        "(d) Cart"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "פיסת נייר שמעניקה לך הנחה על מוצר"
+    },
+    {
+      "id": 10,
+      "question": "The _____ line was very short, so I paid and left the store quickly.",
+      "options": [
+        "(a) Produce",
+        "(b) Discount",
+        "(c) Checkout",
+        "(d) Shelf"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "האזור שבו משלמים לפני שיוצאים"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "On Thursday afternoon, David went to the supermarket to buy groceries for the week. He took a large cart at the entrance because his list was long. First, he headed to the produce section to pick up tomatoes, cucumbers, and a bag of apples. He always checked the expiry date on the packaged salads before putting them in the cart.\n\nNext, he walked down the dairy aisle and found that yogurt was on a big discount — buy two, get one free. He grabbed three packs. On the shelf above the yogurt, he spotted a new brand of cheese and decided to try it.\n\nAfter collecting everything on his list, David remembered he had two coupons in his wallet — one for bread and one for orange juice. He made sure to bring both items so he could use the coupons at the checkout.\n\nAt the checkout, a friendly cashier scanned all the items and applied the coupons. The total came to sixty-two shekels less than David had expected. He paid, took his bags, and drove home feeling pleased. He had saved money and found everything he needed without any trouble.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "Why did David take a large cart at the entrance?",
+        "options": [
+          "(a) Because the baskets were all taken",
+          "(b) Because his shopping list was long",
+          "(c) Because the cart was free to use",
+          "(d) Because he was buying for a party"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 12,
+        "question": "What did David check before buying the packaged salads?",
+        "options": [
+          "(a) The price per kilogram",
+          "(b) The brand name",
+          "(c) The expiry date",
+          "(d) The number of calories"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 13,
+        "question": "What was the discount on yogurt?",
+        "options": [
+          "(a) Fifty percent off all yogurt",
+          "(b) Buy two, get one free",
+          "(c) One shekel off each pack",
+          "(d) A free yogurt with every purchase over fifty shekels"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "Where did David find the new brand of cheese?",
+        "options": [
+          "(a) In the produce section",
+          "(b) Near the checkout",
+          "(c) On the shelf above the yogurt",
+          "(d) In the frozen food aisle"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 15,
+        "question": "How many coupons did David have?",
+        "options": [
+          "(a) One",
+          "(b) Three",
+          "(c) Four",
+          "(d) Two"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 16,
+        "question": "What items did David's coupons cover?",
+        "options": [
+          "(a) Milk and eggs",
+          "(b) Bread and orange juice",
+          "(c) Yogurt and cheese",
+          "(d) Pasta and sauce"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 17,
+        "question": "Who applied the coupons at the checkout?",
+        "options": [
+          "(a) David did it himself on a machine",
+          "(b) The store manager",
+          "(c) The friendly cashier",
+          "(d) A customer service assistant"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 18,
+        "question": "How much less did David pay than he expected?",
+        "options": [
+          "(a) Twenty shekels less",
+          "(b) Forty shekels less",
+          "(c) Sixty-two shekels less",
+          "(d) One hundred shekels less"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 19,
+        "question": "What fruit did David buy in the produce section?",
+        "options": [
+          "(a) Oranges and bananas",
+          "(b) Strawberries and grapes",
+          "(c) A bag of apples",
+          "(d) Mangoes and pears"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 20,
+        "question": "How did David feel when he left the store?",
+        "options": [
+          "(a) Tired and frustrated",
+          "(b) Pleased because he saved money and found everything he needed",
+          "(c) Worried that he had forgotten something",
+          "(d) Disappointed with the prices"
+        ],
+        "correct_answer": "b"
+      }
+    ]
+  }
+}

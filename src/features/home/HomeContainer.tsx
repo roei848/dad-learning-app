@@ -23,6 +23,17 @@ import shoppingData from '../../data/travel/shopping.json';
 import emergencyData from '../../data/travel/emergency.json';
 import sightseeingData from '../../data/travel/sightseeing.json';
 import restaurantData from '../../data/lifestyle/restaurant.json';
+import restaurant02Data from '../../data/lifestyle/restaurant_02.json';
+import supermarket01Data from '../../data/lifestyle/supermarket_01.json';
+import doctor01Data from '../../data/lifestyle/doctor_01.json';
+import homeChores01Data from '../../data/lifestyle/home_chores_01.json';
+import wardrobe01Data from '../../data/lifestyle/wardrobe_01.json';
+import cafe01Data from '../../data/lifestyle/cafe_01.json';
+import bank01Data from '../../data/lifestyle/bank_01.json';
+import pharmacy01Data from '../../data/lifestyle/pharmacy_01.json';
+import jobInterview01Data from '../../data/lifestyle/job_interview_01.json';
+import cooking01Data from '../../data/lifestyle/cooking_01.json';
+import idioms01Data from '../../data/lifestyle/idioms_01.json';
 import transportationData from '../../data/travel/transportation.json';
 import type { CategoryMeta, Difficulty, SectionMeta } from '../../types';
 import { startSection } from '../../store/sessionSlice';
@@ -33,6 +44,7 @@ const CATEGORY_ICONS: Record<string, React.ReactNode> = {
   Travel: <Globe size={48} />,
   Sport: <Trophy size={48} />,
   Lifestyle: <Coffee size={48} />,
+  'Daily Life': <Coffee size={48} />,
 };
 
 const HomeContainer: React.FC = () => {
@@ -48,6 +60,83 @@ const HomeContainer: React.FC = () => {
         category: restaurantData.category,
         icon: 'UtensilsCrossed',
         difficulty: restaurantData.difficulty as Difficulty,
+      },
+      {
+        section_id: restaurant02Data.section_id,
+        title: restaurant02Data.title,
+        category: restaurant02Data.category,
+        icon: 'UtensilsCrossed',
+        difficulty: restaurant02Data.difficulty as Difficulty,
+      },
+      {
+        section_id: supermarket01Data.section_id,
+        title: supermarket01Data.title,
+        category: supermarket01Data.category,
+        icon: 'ShoppingCart',
+        difficulty: supermarket01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: doctor01Data.section_id,
+        title: doctor01Data.title,
+        category: doctor01Data.category,
+        icon: 'Stethoscope',
+        difficulty: doctor01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: homeChores01Data.section_id,
+        title: homeChores01Data.title,
+        category: homeChores01Data.category,
+        icon: 'House',
+        difficulty: homeChores01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: wardrobe01Data.section_id,
+        title: wardrobe01Data.title,
+        category: wardrobe01Data.category,
+        icon: 'Shirt',
+        difficulty: wardrobe01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: cafe01Data.section_id,
+        title: cafe01Data.title,
+        category: cafe01Data.category,
+        icon: 'Coffee',
+        difficulty: cafe01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: bank01Data.section_id,
+        title: bank01Data.title,
+        category: bank01Data.category,
+        icon: 'Landmark',
+        difficulty: bank01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: pharmacy01Data.section_id,
+        title: pharmacy01Data.title,
+        category: pharmacy01Data.category,
+        icon: 'Pill',
+        difficulty: pharmacy01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: jobInterview01Data.section_id,
+        title: jobInterview01Data.title,
+        category: jobInterview01Data.category,
+        icon: 'Briefcase',
+        difficulty: jobInterview01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: cooking01Data.section_id,
+        title: cooking01Data.title,
+        category: cooking01Data.category,
+        icon: 'ChefHat',
+        difficulty: cooking01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: idioms01Data.section_id,
+        title: idioms01Data.title,
+        category: idioms01Data.category,
+        icon: 'MessageSquare',
+        difficulty: idioms01Data.difficulty as Difficulty,
       },
       {
         section_id: footballData.section_id,

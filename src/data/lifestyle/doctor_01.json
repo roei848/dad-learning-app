@@ -1,0 +1,295 @@
+{
+  "section_id": "doctor_01",
+  "difficulty": "easy",
+  "title": "At the Doctor",
+  "category": "Daily Life",
+  "word_bank": [
+    {
+      "word": "Appointment",
+      "translation": "תור / פגישה",
+      "example": "I made an appointment with my doctor for next Monday at ten o'clock."
+    },
+    {
+      "word": "Symptom",
+      "translation": "תסמין / סימפטום",
+      "example": "The main symptom of a cold is a runny nose and a sore throat."
+    },
+    {
+      "word": "Prescription",
+      "translation": "מרשם רופא",
+      "example": "The doctor gave me a prescription for antibiotics to treat the infection."
+    },
+    {
+      "word": "Fever",
+      "translation": "חום (גוף)",
+      "example": "My son had a fever of thirty-nine degrees, so I took him to the doctor."
+    },
+    {
+      "word": "Checkup",
+      "translation": "בדיקת שגרה / ביקורת רפואית",
+      "example": "I go for a full medical checkup every year to make sure everything is fine."
+    },
+    {
+      "word": "Insurance",
+      "translation": "ביטוח",
+      "example": "My health insurance covers most of the cost of the visit."
+    },
+    {
+      "word": "Waiting room",
+      "translation": "חדר המתנה",
+      "example": "I sat in the waiting room for twenty minutes before the doctor called my name."
+    },
+    {
+      "word": "Treatment",
+      "translation": "טיפול רפואי",
+      "example": "The doctor explained the treatment and said I would feel better within a week."
+    },
+    {
+      "word": "Specialist",
+      "translation": "רופא מומחה",
+      "example": "My family doctor referred me to a specialist for a more detailed examination."
+    },
+    {
+      "word": "Diagnosis",
+      "translation": "אבחנה רפואית",
+      "example": "After reviewing the test results, the doctor gave a diagnosis of mild anemia."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "I called the clinic this morning and made an _____ for Thursday at two o'clock.",
+      "options": [
+        "(a) Insurance",
+        "(b) Appointment",
+        "(c) Diagnosis",
+        "(d) Treatment"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "שמירת זמן פגישה מראש"
+    },
+    {
+      "id": 2,
+      "question": "My first _____ was a headache that did not go away for two days.",
+      "options": [
+        "(a) Prescription",
+        "(b) Checkup",
+        "(c) Symptom",
+        "(d) Specialist"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "סימן של מחלה שמרגישים בגוף"
+    },
+    {
+      "id": 3,
+      "question": "The doctor checked my temperature and said I had a _____ of thirty-eight and a half degrees.",
+      "options": [
+        "(a) Fever",
+        "(b) Waiting room",
+        "(c) Insurance",
+        "(d) Treatment"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "טמפרטורת גוף גבוהה מהרגיל"
+    },
+    {
+      "id": 4,
+      "question": "I sat in the _____ and read a magazine while waiting to be seen.",
+      "options": [
+        "(a) Diagnosis",
+        "(b) Waiting room",
+        "(c) Prescription",
+        "(d) Checkup"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "המקום שבו יושבים לפני הכניסה לרופא"
+    },
+    {
+      "id": 5,
+      "question": "The doctor wrote a _____ for pain medication and told me to take it twice a day.",
+      "options": [
+        "(a) Symptom",
+        "(b) Specialist",
+        "(c) Insurance",
+        "(d) Prescription"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "הנייר מהרופא שמאפשר לקנות תרופה"
+    },
+    {
+      "id": 6,
+      "question": "My health _____ covers all regular doctor visits, but not dental care.",
+      "options": [
+        "(a) Checkup",
+        "(b) Fever",
+        "(c) Insurance",
+        "(d) Diagnosis"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "הסכם שמכסה הוצאות רפואיות"
+    },
+    {
+      "id": 7,
+      "question": "Every year I go for an annual _____ to make sure my blood pressure and cholesterol are normal.",
+      "options": [
+        "(a) Checkup",
+        "(b) Appointment",
+        "(c) Waiting room",
+        "(d) Symptom"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "בדיקה רפואית שגרתית"
+    },
+    {
+      "id": 8,
+      "question": "The _____ was a course of antibiotics for ten days, and I started to feel better after three days.",
+      "options": [
+        "(a) Fever",
+        "(b) Treatment",
+        "(c) Specialist",
+        "(d) Diagnosis"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "מה שהרופא עושה כדי לרפא אותך"
+    },
+    {
+      "id": 9,
+      "question": "My doctor referred me to a heart _____ for more tests.",
+      "options": [
+        "(a) Prescription",
+        "(b) Diagnosis",
+        "(c) Checkup",
+        "(d) Specialist"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "רופא עם ידע מיוחד בתחום מסוים"
+    },
+    {
+      "id": 10,
+      "question": "After all the tests came back, the doctor's _____ was that I had a mild ear infection.",
+      "options": [
+        "(a) Diagnosis",
+        "(b) Waiting room",
+        "(c) Fever",
+        "(d) Insurance"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "מה שהרופא קובע לאחר הבדיקה"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "Last Tuesday, David woke up feeling unwell. His main symptoms were a sore throat, a headache, and a mild fever of thirty-eight degrees. He decided to call his family doctor and make an appointment for the same morning.\n\nWhen David arrived at the clinic, he checked in at the front desk and sat down in the waiting room. There were a few other patients ahead of him, so he waited about fifteen minutes before the nurse called his name.\n\nThe doctor examined David carefully. She looked at his throat, listened to his chest, and measured his temperature again. After the examination, her diagnosis was a bacterial throat infection. She explained the treatment clearly — a five-day course of antibiotics — and wrote a prescription that David could take to any pharmacy.\n\nDavid asked if he needed to see a specialist. The doctor said it was not necessary for now, but if the symptoms did not improve after a week, she would refer him to one. She also reminded him to book his annual checkup soon. David thanked her, picked up the prescription, and stopped at the pharmacy on his way home. By the next morning, he already felt a little better.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "What were David's main symptoms when he woke up?",
+        "options": [
+          "(a) Back pain and dizziness",
+          "(b) A sore throat, headache, and mild fever",
+          "(c) A cough and stomach pain",
+          "(d) Tiredness and a rash"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 12,
+        "question": "What was David's temperature?",
+        "options": [
+          "(a) Thirty-six degrees",
+          "(b) Thirty-nine degrees",
+          "(c) Thirty-eight degrees",
+          "(d) Forty degrees"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 13,
+        "question": "How long did David wait in the waiting room?",
+        "options": [
+          "(a) About five minutes",
+          "(b) About fifteen minutes",
+          "(c) About thirty minutes",
+          "(d) About one hour"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "What did the doctor do during the examination?",
+        "options": [
+          "(a) She took a blood sample",
+          "(b) She only checked his blood pressure",
+          "(c) She looked at his throat, listened to his chest, and measured his temperature",
+          "(d) She sent him for an X-ray"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 15,
+        "question": "What was the doctor's diagnosis?",
+        "options": [
+          "(a) A viral cold",
+          "(b) A bacterial throat infection",
+          "(c) Tonsillitis requiring surgery",
+          "(d) Mild flu"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 16,
+        "question": "What treatment did the doctor prescribe?",
+        "options": [
+          "(a) Rest and plenty of water",
+          "(b) A five-day course of antibiotics",
+          "(c) A vitamin supplement for two weeks",
+          "(d) A steroid injection"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 17,
+        "question": "Did David need to see a specialist immediately?",
+        "options": [
+          "(a) Yes, the doctor sent him right away",
+          "(b) No, but the doctor would refer him if symptoms did not improve after a week",
+          "(c) Yes, he needed a specialist for the prescription",
+          "(d) No, and the doctor said he would never need one"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 18,
+        "question": "What did the doctor remind David to book?",
+        "options": [
+          "(a) A follow-up appointment for the next day",
+          "(b) A dental checkup",
+          "(c) His annual checkup",
+          "(d) A specialist consultation"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 19,
+        "question": "Where did David stop on the way home?",
+        "options": [
+          "(a) At the hospital for blood tests",
+          "(b) At a specialist clinic",
+          "(c) At the pharmacy to fill his prescription",
+          "(d) At the supermarket to buy vitamins"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 20,
+        "question": "How did David feel the next morning?",
+        "options": [
+          "(a) Much worse than before",
+          "(b) Exactly the same",
+          "(c) Completely recovered",
+          "(d) A little better"
+        ],
+        "correct_answer": "d"
+      }
+    ]
+  }
+}

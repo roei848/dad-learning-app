@@ -1,0 +1,295 @@
+{
+  "section_id": "cooking_01",
+  "difficulty": "hard",
+  "title": "In the Kitchen",
+  "category": "Daily Life",
+  "word_bank": [
+    {
+      "word": "Simmer",
+      "translation": "לבשל על אש קטנה",
+      "example": "Let the soup simmer for twenty minutes until all the vegetables are soft."
+    },
+    {
+      "word": "Marinate",
+      "translation": "להשרות בתיבול",
+      "example": "I marinated the chicken in lemon juice and garlic for two hours before cooking it."
+    },
+    {
+      "word": "Preheat",
+      "translation": "לחמם מראש",
+      "example": "Preheat the oven to 180 degrees before you put the cake inside."
+    },
+    {
+      "word": "Chop",
+      "translation": "לחתוך / לקצוץ",
+      "example": "Please chop the onions into small pieces and add them to the pan."
+    },
+    {
+      "word": "Seasoning",
+      "translation": "תיבול",
+      "example": "The seasoning in this dish is perfect — just the right amount of salt, pepper, and cumin."
+    },
+    {
+      "word": "Batter",
+      "translation": "בלילה",
+      "example": "Mix the eggs, flour, and milk together to make the batter for the pancakes."
+    },
+    {
+      "word": "Garnish",
+      "translation": "קישוט / תוספת לעיטור המנה",
+      "example": "He placed a sprig of fresh parsley as a garnish on top of the soup before serving."
+    },
+    {
+      "word": "Ingredient",
+      "translation": "מרכיב",
+      "example": "Make sure you have all the ingredients ready before you start cooking."
+    },
+    {
+      "word": "Sauté",
+      "translation": "לטגן קלות / לצלות במחבת עם מעט שמן",
+      "example": "Sauté the onions and garlic in olive oil for three minutes before adding the tomatoes."
+    },
+    {
+      "word": "Portion",
+      "translation": "מנה / כמות המוגשת לאדם אחד",
+      "example": "The recipe makes four portions, so it is enough for the whole family."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "Please _____ the oven to 200 degrees before you put the roast inside.",
+      "options": [
+        "(a) Simmer",
+        "(b) Preheat",
+        "(c) Garnish",
+        "(d) Marinate"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "להביא את התנור לטמפרטורה הנכונה לפני הכנסת האוכל"
+    },
+    {
+      "id": 2,
+      "question": "I left the chicken to _____ in olive oil, garlic, and lemon juice overnight.",
+      "options": [
+        "(a) Chop",
+        "(b) Sauté",
+        "(c) Marinate",
+        "(d) Portion"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "להשרות בשר או דג בתיבול לפני הבישול"
+    },
+    {
+      "id": 3,
+      "question": "Let the stew _____ on low heat for half an hour so the flavours develop fully.",
+      "options": [
+        "(a) Simmer",
+        "(b) Batter",
+        "(c) Garnish",
+        "(d) Preheat"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "לבשל לאט על אש נמוכה"
+    },
+    {
+      "id": 4,
+      "question": "Please _____ the vegetables into small pieces so they cook faster.",
+      "options": [
+        "(a) Season",
+        "(b) Marinate",
+        "(c) Simmer",
+        "(d) Chop"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "לחתוך לחתיכות קטנות עם סכין"
+    },
+    {
+      "id": 5,
+      "question": "The secret to this dish is the _____ — a perfect mix of paprika, cumin, and black pepper.",
+      "options": [
+        "(a) Batter",
+        "(b) Portion",
+        "(c) Seasoning",
+        "(d) Ingredient"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "התבלינים שמוסיפים טעם לאוכל"
+    },
+    {
+      "id": 6,
+      "question": "I added a fresh lemon slice as a _____ on top of the fish before bringing it to the table.",
+      "options": [
+        "(a) Garnish",
+        "(b) Simmer",
+        "(c) Batter",
+        "(d) Chop"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "קישוט אחרון שמוסיפים על המנה לפני ההגשה"
+    },
+    {
+      "id": 7,
+      "question": "Make sure you have every _____ ready before you start cooking — it makes the process much easier.",
+      "options": [
+        "(a) Sauté",
+        "(b) Portion",
+        "(c) Preheat",
+        "(d) Ingredient"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "כל אחד מהחומרים שנדרשים במתכון"
+    },
+    {
+      "id": 8,
+      "question": "First _____ the onions and garlic in a little oil until they turn golden.",
+      "options": [
+        "(a) Sauté",
+        "(b) Marinate",
+        "(c) Simmer",
+        "(d) Batter"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "לבשל מהר עם מעט שמן במחבת חמה"
+    },
+    {
+      "id": 9,
+      "question": "Mix the flour, eggs, and milk together to make the _____ for the pancakes.",
+      "options": [
+        "(a) Garnish",
+        "(b) Seasoning",
+        "(c) Batter",
+        "(d) Portion"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "תערובת נוזלית של קמח, ביצים וחלב לפני הצלייה"
+    },
+    {
+      "id": 10,
+      "question": "This recipe makes six _____, so it is perfect for a large family dinner.",
+      "options": [
+        "(a) Ingredients",
+        "(b) Portions",
+        "(c) Batters",
+        "(d) Sautés"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "כמות המנות שהמתכון מספיק להכין"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "On Friday afternoon, Benny decided to cook a special Shabbat dinner for the whole family. He wanted to make his mother's roast chicken recipe, which he had not tried in years.\n\nFirst, he checked the recipe and made a list of every ingredient he needed. He drove to the supermarket and bought everything: fresh chicken, garlic, lemon, olive oil, and a collection of spices for the seasoning.\n\nBack home, Benny began by chopping the garlic and mixing it with lemon juice, olive oil, paprika, and cumin. He placed the chicken pieces in the marinade and left them to marinate in the fridge for two hours.\n\nWhen it was time to cook, Benny preheated the oven to 190 degrees. While waiting, he sautéed some onions in a pan until they were soft and golden. Then he placed the marinated chicken in the oven and let it roast for forty-five minutes.\n\nFor the soup, he let it simmer on low heat for thirty minutes until it was rich and flavourful. He tasted it carefully and adjusted the seasoning — a little more salt and a pinch of pepper.\n\nWhen the family sat down to eat, Benny served each person a generous portion and added a small garnish of fresh parsley on top of the soup. Everyone said it was the best Shabbat dinner they had enjoyed in a long time.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "What did Benny decide to cook on Friday afternoon?",
+        "options": [
+          "(a) A birthday cake for his daughter",
+          "(b) A special Shabbat dinner for the family",
+          "(c) A simple pasta dish for himself",
+          "(d) A barbecue for his neighbours"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 12,
+        "question": "Whose recipe did Benny decide to follow?",
+        "options": [
+          "(a) His wife's recipe",
+          "(b) A recipe he found online",
+          "(c) His mother's roast chicken recipe",
+          "(d) A recipe from a cooking show"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 13,
+        "question": "What did Benny do before going to the supermarket?",
+        "options": [
+          "(a) He called his mother for the recipe",
+          "(b) He made a list of every ingredient he needed",
+          "(c) He cleaned the kitchen",
+          "(d) He preheated the oven"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "What did Benny use to make the marinade?",
+        "options": [
+          "(a) Soy sauce, ginger, and honey",
+          "(b) Yoghurt, garlic, and cumin",
+          "(c) Garlic, lemon juice, olive oil, paprika, and cumin",
+          "(d) Vinegar, mustard, and herbs"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 15,
+        "question": "How long did Benny leave the chicken to marinate?",
+        "options": [
+          "(a) Thirty minutes",
+          "(b) One hour",
+          "(c) Two hours",
+          "(d) Overnight"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 16,
+        "question": "To what temperature did Benny preheat the oven?",
+        "options": [
+          "(a) 160 degrees",
+          "(b) 175 degrees",
+          "(c) 200 degrees",
+          "(d) 190 degrees"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 17,
+        "question": "What did Benny do while waiting for the oven to heat up?",
+        "options": [
+          "(a) He made the batter for dessert",
+          "(b) He sautéed some onions until they were soft and golden",
+          "(c) He chopped the vegetables for the salad",
+          "(d) He set the table for the family"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 18,
+        "question": "How did Benny cook the soup?",
+        "options": [
+          "(a) He boiled it on high heat for ten minutes",
+          "(b) He let it simmer on low heat for thirty minutes",
+          "(c) He microwaved it for five minutes",
+          "(d) He cooked it in the oven alongside the chicken"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 19,
+        "question": "What did Benny adjust after tasting the soup?",
+        "options": [
+          "(a) He added more lemon juice",
+          "(b) He added more vegetables",
+          "(c) He added a little more salt and pepper",
+          "(d) He added more olive oil"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 20,
+        "question": "What did Benny add as a garnish on top of the soup?",
+        "options": [
+          "(a) A slice of lemon",
+          "(b) A spoonful of sour cream",
+          "(c) Croutons",
+          "(d) Fresh parsley"
+        ],
+        "correct_answer": "d"
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "section_id": "job_interview_01",
+  "difficulty": "hard",
+  "title": "Job Interview",
+  "category": "Daily Life",
+  "word_bank": [
+    {
+      "word": "Resume",
+      "translation": "קורות חיים",
+      "example": "I updated my resume before applying for the new position at the company."
+    },
+    {
+      "word": "Qualification",
+      "translation": "כישורים / תעודות",
+      "example": "His qualifications include a degree in engineering and five years of experience."
+    },
+    {
+      "word": "Reference",
+      "translation": "ממליץ / המלצה",
+      "example": "My previous manager agreed to be a reference and speak about my work."
+    },
+    {
+      "word": "Negotiate",
+      "translation": "לנהל משא ומתן / להתמקח",
+      "example": "I was able to negotiate a higher salary than the original offer."
+    },
+    {
+      "word": "Responsibility",
+      "translation": "אחריות",
+      "example": "One of my main responsibilities in my previous job was managing the team's schedule."
+    },
+    {
+      "word": "Punctual",
+      "translation": "דייקן / מגיע בזמן",
+      "example": "It is important to be punctual for a job interview — never arrive late."
+    },
+    {
+      "word": "Initiative",
+      "translation": "יוזמה",
+      "example": "The manager was impressed because I showed initiative and solved the problem without being asked."
+    },
+    {
+      "word": "Deadline",
+      "translation": "מועד אחרון / דדליין",
+      "example": "We always deliver our projects on time because the team takes deadlines seriously."
+    },
+    {
+      "word": "Probation",
+      "translation": "תקופת ניסיון",
+      "example": "The new employee will be on probation for three months before becoming a permanent staff member."
+    },
+    {
+      "word": "Promotion",
+      "translation": "קידום בעבודה",
+      "example": "After two years of hard work, she finally received a promotion to senior manager."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "I printed three copies of my _____ and brought them to the interview.",
+      "options": [
+        "(a) Deadline",
+        "(b) Resume",
+        "(c) Probation",
+        "(d) Reference"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "מסמך שמתאר את ניסיון העבודה וההשכלה שלך"
+    },
+    {
+      "id": 2,
+      "question": "My old manager agreed to be my _____ and told the company I was a reliable worker.",
+      "options": [
+        "(a) Qualification",
+        "(b) Promotion",
+        "(c) Reference",
+        "(d) Initiative"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "אדם שממליץ עליך לעבודה"
+    },
+    {
+      "id": 3,
+      "question": "It is very important to be _____ for an interview — arriving late makes a very bad impression.",
+      "options": [
+        "(a) Punctual",
+        "(b) Negotiate",
+        "(c) Probation",
+        "(d) Responsibility"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "להגיע בדיוק בזמן, לא מאוחר"
+    },
+    {
+      "id": 4,
+      "question": "After working hard for two years, Dan finally received a _____ and became a senior manager.",
+      "options": [
+        "(a) Deadline",
+        "(b) Resume",
+        "(c) Probation",
+        "(d) Promotion"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "עלייה בדרגה ובשכר בעבודה"
+    },
+    {
+      "id": 5,
+      "question": "I decided to _____ my salary offer because I felt my experience was worth more.",
+      "options": [
+        "(a) Negotiate",
+        "(b) Reference",
+        "(c) Qualification",
+        "(d) Initiative"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "לנסות להשיג תנאים טובים יותר בשיחה עם המעסיק"
+    },
+    {
+      "id": 6,
+      "question": "She showed great _____ by fixing the problem before her manager even noticed it.",
+      "options": [
+        "(a) Probation",
+        "(b) Deadline",
+        "(c) Initiative",
+        "(d) Resume"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "פעולה עצמאית ויזומה בלי להמתין להנחיות"
+    },
+    {
+      "id": 7,
+      "question": "The new employee will be on _____ for the first three months before getting a permanent contract.",
+      "options": [
+        "(a) Qualification",
+        "(b) Probation",
+        "(c) Responsibility",
+        "(d) Promotion"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "תקופת ניסיון בתחילת עבודה חדשה"
+    },
+    {
+      "id": 8,
+      "question": "One of my main _____ was training new employees when they joined the company.",
+      "options": [
+        "(a) References",
+        "(b) Deadlines",
+        "(c) Responsibilities",
+        "(d) Promotions"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "תפקידים ומטלות שהיו עליך בעבודה"
+    },
+    {
+      "id": 9,
+      "question": "We need to finish the project before the _____ next Friday, so everyone must work quickly.",
+      "options": [
+        "(a) Deadline",
+        "(b) Resume",
+        "(c) Probation",
+        "(d) Reference"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "תאריך האחרון להגשת עבודה או משימה"
+    },
+    {
+      "id": 10,
+      "question": "Her _____ include a master's degree in business and ten years of experience in sales.",
+      "options": [
+        "(a) Initiatives",
+        "(b) Deadlines",
+        "(c) Qualifications",
+        "(d) Promotions"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "תארים, תעודות וניסיון שמכשירים אותך לתפקיד"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "Rami had been looking for a new job for two months. He updated his resume, gathered his references, and finally got an interview at a large marketing company in the city centre.\n\nThe night before, Rami prepared carefully. He ironed his shirt, read about the company online, and set three alarms so he would be punctual. He knew that arriving on time was essential.\n\nThe interview started at ten o'clock. The manager, a woman named Ms Cohen, asked Rami about his qualifications and his previous responsibilities. Rami spoke confidently. He described how he had shown initiative in his last job — he had noticed a problem with the team's workflow and suggested a solution that saved the company a lot of time.\n\nMs Cohen also asked how Rami handled deadlines under pressure. He explained that he always planned ahead and communicated with his team to make sure nothing was missed.\n\nAt the end, she mentioned that the position came with a three-month probation period. She also said the salary was fixed, but Rami politely tried to negotiate a small increase based on his experience. Ms Cohen said she would consider it.\n\nTwo days later, Rami received a phone call with a job offer. The company agreed to his salary request. He accepted immediately and felt proud — all the preparation had paid off.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "How long had Rami been looking for a new job?",
+        "options": [
+          "(a) One week",
+          "(b) One month",
+          "(c) Two months",
+          "(d) Six months"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 12,
+        "question": "What did Rami do the night before the interview?",
+        "options": [
+          "(a) He called his references to prepare them",
+          "(b) He ironed his shirt, read about the company, and set three alarms",
+          "(c) He practised answers with his wife",
+          "(d) He printed extra copies of his resume"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 13,
+        "question": "Why did Rami set three alarms?",
+        "options": [
+          "(a) Because he had three meetings that morning",
+          "(b) Because the interview was very early",
+          "(c) Because he wanted to be punctual",
+          "(d) Because he was nervous and could not sleep"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 14,
+        "question": "Who interviewed Rami?",
+        "options": [
+          "(a) The company director",
+          "(b) A woman named Ms Cohen",
+          "(c) The head of the sales department",
+          "(d) His future team leader"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 15,
+        "question": "What example of initiative did Rami describe?",
+        "options": [
+          "(a) He trained new employees without being asked",
+          "(b) He worked overtime every week",
+          "(c) He noticed a workflow problem and suggested a solution",
+          "(d) He completed a project two weeks early"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 16,
+        "question": "How did Rami say he handles deadlines under pressure?",
+        "options": [
+          "(a) He asks his manager for an extension",
+          "(b) He works alone until everything is done",
+          "(c) He delegates the work to junior staff",
+          "(d) He plans ahead and communicates with his team"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 17,
+        "question": "What did Ms Cohen say about the probation period?",
+        "options": [
+          "(a) There was no probation period",
+          "(b) The probation period was six months",
+          "(c) The probation period was three months",
+          "(d) The probation period was one year"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 18,
+        "question": "What did Rami try to negotiate?",
+        "options": [
+          "(a) More vacation days",
+          "(b) A shorter probation period",
+          "(c) A small salary increase",
+          "(d) The option to work from home"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 19,
+        "question": "When did Rami receive the job offer?",
+        "options": [
+          "(a) At the end of the interview",
+          "(b) The next morning",
+          "(c) Two days later",
+          "(d) One week later"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 20,
+        "question": "Did the company agree to Rami's salary request?",
+        "options": [
+          "(a) No, they refused and kept the original offer",
+          "(b) Yes, they agreed to his request",
+          "(c) They offered him a smaller increase than he asked for",
+          "(d) They said they would decide after the probation period"
+        ],
+        "correct_answer": "b"
+      }
+    ]
+  }
+}

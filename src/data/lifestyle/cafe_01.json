@@ -1,0 +1,295 @@
+{
+  "section_id": "cafe_01",
+  "difficulty": "medium",
+  "title": "At the Café",
+  "category": "Daily Life",
+  "word_bank": [
+    {
+      "word": "Espresso",
+      "translation": "אספרסו",
+      "example": "I ordered a double espresso because I needed extra energy this morning."
+    },
+    {
+      "word": "Cappuccino",
+      "translation": "קפוצ'ינו",
+      "example": "A cappuccino is made with espresso, steamed milk, and a thick layer of foam."
+    },
+    {
+      "word": "Barista",
+      "translation": "בריסטה / מכין קפה מקצועי",
+      "example": "The barista at this café makes the best latte art I have ever seen."
+    },
+    {
+      "word": "Foam",
+      "translation": "קצף",
+      "example": "I love the thick foam on top of my cappuccino — it makes it feel special."
+    },
+    {
+      "word": "Pastry",
+      "translation": "מאפה",
+      "example": "I bought a croissant and other pastries from the bakery section of the café."
+    },
+    {
+      "word": "Loyalty card",
+      "translation": "כרטיס נאמנות",
+      "example": "After ten coffees, my loyalty card gives me a free drink."
+    },
+    {
+      "word": "Decaf",
+      "translation": "נטול קפאין",
+      "example": "My doctor told me to drink decaf coffee in the evenings so I can sleep better."
+    },
+    {
+      "word": "Syrup",
+      "translation": "סירופ",
+      "example": "She added vanilla syrup to her latte to make it sweeter."
+    },
+    {
+      "word": "Takeaway",
+      "translation": "לקחת מהמקום (בהקשר אוכל)",
+      "example": "I was in a hurry, so I ordered a takeaway coffee and drank it on the way to work."
+    },
+    {
+      "word": "Queue",
+      "translation": "תור",
+      "example": "There was a long queue at the café, so we waited five minutes before ordering."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "The _____ carefully prepared the coffee and drew a beautiful leaf shape in the foam.",
+      "options": [
+        "(a) Barista",
+        "(b) Queue",
+        "(c) Decaf",
+        "(d) Syrup"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "האדם המקצועי שמכין קפה בבית קפה"
+    },
+    {
+      "id": 2,
+      "question": "I always drink _____ after six in the evening because caffeine keeps me awake at night.",
+      "options": [
+        "(a) Espresso",
+        "(b) Foam",
+        "(c) Decaf",
+        "(d) Pastry"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "קפה ללא קפאין"
+    },
+    {
+      "id": 3,
+      "question": "There was a huge _____ outside the popular café, so we decided to come back later.",
+      "options": [
+        "(a) Loyalty card",
+        "(b) Takeaway",
+        "(c) Cappuccino",
+        "(d) Queue"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "שורת המתנה של אנשים"
+    },
+    {
+      "id": 4,
+      "question": "She added caramel _____ to her coffee to make it taste sweeter.",
+      "options": [
+        "(a) Foam",
+        "(b) Syrup",
+        "(c) Espresso",
+        "(d) Pastry"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "נוזל מתוק להוספה לשתייה"
+    },
+    {
+      "id": 5,
+      "question": "Every time I buy a coffee, they stamp my _____ — after ten stamps I get a free drink.",
+      "options": [
+        "(a) Queue",
+        "(b) Takeaway",
+        "(c) Loyalty card",
+        "(d) Barista"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "כרטיס שנותן הנחה או משקה חינם ללקוחות קבועים"
+    },
+    {
+      "id": 6,
+      "question": "I was late for the bus, so I ordered a _____ coffee and ran out of the café.",
+      "options": [
+        "(a) Foam",
+        "(b) Takeaway",
+        "(c) Decaf",
+        "(d) Cappuccino"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "לקחת את האוכל או השתייה החוצה ולא לשבת בפנים"
+    },
+    {
+      "id": 7,
+      "question": "My favourite breakfast is a _____ with a warm croissant from the bakery.",
+      "options": [
+        "(a) Cappuccino",
+        "(b) Queue",
+        "(c) Loyalty card",
+        "(d) Syrup"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "קפה עם חלב מוקצף ושכבת קצף עבה"
+    },
+    {
+      "id": 8,
+      "question": "The barista made a strong _____ using freshly ground coffee beans.",
+      "options": [
+        "(a) Pastry",
+        "(b) Foam",
+        "(c) Espresso",
+        "(d) Takeaway"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "קפה חזק ומרוכז שמוגש בכוס קטנה"
+    },
+    {
+      "id": 9,
+      "question": "I bought a chocolate _____ to eat with my morning coffee — it was soft and delicious.",
+      "options": [
+        "(a) Decaf",
+        "(b) Syrup",
+        "(c) Queue",
+        "(d) Pastry"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "מאפה מתוק שנאכל לצד קפה"
+    },
+    {
+      "id": 10,
+      "question": "The _____ on top of my coffee was so thick and creamy that I did not want to stir it.",
+      "options": [
+        "(a) Foam",
+        "(b) Barista",
+        "(c) Espresso",
+        "(d) Loyalty card"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "הקצף הלבן שנמצא מעל הקפה"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "Every Saturday morning, Moshe stops at a small café near his house before going to the market. The café is always busy on weekends, so there is usually a long queue by the entrance. Moshe does not mind waiting because he enjoys watching the barista work — the young man moves quickly and makes every coffee look like a work of art.\n\nWhen it is Moshe's turn, he orders his usual: a large cappuccino with an extra shot of espresso and no syrup. He has been coming here for three years, so the barista already knows his order. Moshe also picks up a warm pastry — usually an almond croissant — to eat at the small table by the window.\n\nHe pulls out his loyalty card and hands it over. Today is the tenth stamp, which means his coffee is free. He smiles and feels like he has won a small prize.\n\nMoshe does not like to rush on Saturday mornings. He sits for twenty minutes, drinks his coffee slowly, and reads the news on his phone. The foam on top of the cappuccino is thick and sweet. He thinks about ordering a takeaway next week so he can drink it in the park, but then he decides — no, sitting here is the best part of his weekend.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "When does Moshe visit the café?",
+        "options": [
+          "(a) Every weekday morning before work",
+          "(b) Every Saturday morning before going to the market",
+          "(c) Every Sunday afternoon with his family",
+          "(d) Every Friday evening after dinner"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 12,
+        "question": "Why is there usually a long queue at the café on weekends?",
+        "options": [
+          "(a) Because the café is very small",
+          "(b) Because the prices are very low",
+          "(c) Because the café is always busy on weekends",
+          "(d) Because there is only one barista working"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 13,
+        "question": "What does Moshe order to drink?",
+        "options": [
+          "(a) A decaf latte with vanilla syrup",
+          "(b) A large cappuccino with an extra shot of espresso and no syrup",
+          "(c) A small espresso with caramel foam",
+          "(d) A hot chocolate with extra foam"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "How long has Moshe been going to this café?",
+        "options": [
+          "(a) For six months",
+          "(b) For one year",
+          "(c) For two years",
+          "(d) For three years"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 15,
+        "question": "What pastry does Moshe usually buy?",
+        "options": [
+          "(a) A chocolate muffin",
+          "(b) A cinnamon roll",
+          "(c) An almond croissant",
+          "(d) A blueberry scone"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 16,
+        "question": "Why is Moshe's coffee free today?",
+        "options": [
+          "(a) Because it is his birthday",
+          "(b) Because the barista made a mistake",
+          "(c) Because the café is having a special promotion",
+          "(d) Because he has collected ten stamps on his loyalty card"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 17,
+        "question": "What does Moshe do while sitting at the café?",
+        "options": [
+          "(a) He talks on the phone with his wife",
+          "(b) He reads a newspaper he brought from home",
+          "(c) He reads the news on his phone",
+          "(d) He works on his laptop"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 18,
+        "question": "How long does Moshe usually sit at the café?",
+        "options": [
+          "(a) Five minutes",
+          "(b) Twenty minutes",
+          "(c) One hour",
+          "(d) Half an hour"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 19,
+        "question": "What does Moshe consider doing next week?",
+        "options": [
+          "(a) Trying a different café across the street",
+          "(b) Bringing his children with him",
+          "(c) Ordering a takeaway coffee to drink in the park",
+          "(d) Coming to the café earlier to avoid the queue"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 20,
+        "question": "What does Moshe decide at the end of the story?",
+        "options": [
+          "(a) He will stop coming to the café on Saturdays",
+          "(b) He will ask the barista to teach him how to make coffee",
+          "(c) He will bring his family next time",
+          "(d) Sitting at the café is the best part of his weekend"
+        ],
+        "correct_answer": "d"
+      }
+    ]
+  }
+}

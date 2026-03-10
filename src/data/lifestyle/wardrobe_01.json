@@ -1,0 +1,295 @@
+{
+  "section_id": "wardrobe_01",
+  "difficulty": "easy",
+  "title": "Getting Dressed",
+  "category": "Daily Life",
+  "word_bank": [
+    {
+      "word": "Iron",
+      "translation": "לגהץ / מגהץ",
+      "example": "I need to iron my shirt before the meeting — it is very wrinkled."
+    },
+    {
+      "word": "Outfit",
+      "translation": "תלבושת / לוק",
+      "example": "She picked out a smart outfit for the job interview."
+    },
+    {
+      "word": "Casual",
+      "translation": "קז'ואל / בלתי רשמי",
+      "example": "The office dress code is casual on Fridays — jeans are allowed."
+    },
+    {
+      "word": "Formal",
+      "translation": "רשמי / פורמלי",
+      "example": "I need to wear formal clothes to the conference — a suit and tie."
+    },
+    {
+      "word": "Sleeve",
+      "translation": "שרוול",
+      "example": "It is hot today, so I rolled up my sleeves while working."
+    },
+    {
+      "word": "Collar",
+      "translation": "צווארון",
+      "example": "His shirt collar was too tight, so he loosened the top button."
+    },
+    {
+      "word": "Fabric",
+      "translation": "בד",
+      "example": "This jacket is made from a light fabric that is perfect for summer."
+    },
+    {
+      "word": "Wrinkle",
+      "translation": "קמט",
+      "example": "There was a big wrinkle on the back of my trousers after I sat on the train."
+    },
+    {
+      "word": "Size",
+      "translation": "מידה",
+      "example": "Could you bring me this shirt in a medium size? The large is too big."
+    },
+    {
+      "word": "Fitting room",
+      "translation": "חדר מדידה",
+      "example": "I went into the fitting room to try on three pairs of trousers."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "I need to _____ my work trousers — they are full of wrinkles from the suitcase.",
+      "options": [
+        "(a) Size",
+        "(b) Collar",
+        "(c) Iron",
+        "(d) Fitting room"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "לפשט קמטים מהבגד עם חום"
+    },
+    {
+      "id": 2,
+      "question": "The dinner is _____, so you need to wear a suit and tie tonight.",
+      "options": [
+        "(a) Casual",
+        "(b) Wrinkle",
+        "(c) Fabric",
+        "(d) Formal"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "לבוש מסודר ורשמי"
+    },
+    {
+      "id": 3,
+      "question": "On weekends I prefer to dress _____ — just jeans and a comfortable T-shirt.",
+      "options": [
+        "(a) Casual",
+        "(b) Sleeve",
+        "(c) Outfit",
+        "(d) Iron"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "לבוש נוח ולא רשמי"
+    },
+    {
+      "id": 4,
+      "question": "He picked a great _____ for the wedding — a navy blue suit with a white shirt.",
+      "options": [
+        "(a) Fabric",
+        "(b) Wrinkle",
+        "(c) Outfit",
+        "(d) Fitting room"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "שילוב של בגדים שלובשים יחד"
+    },
+    {
+      "id": 5,
+      "question": "This shirt has a long _____ — it is good for winter but too warm for summer.",
+      "options": [
+        "(a) Collar",
+        "(b) Sleeve",
+        "(c) Size",
+        "(d) Casual"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "החלק של הבגד שמכסה את הזרוע"
+    },
+    {
+      "id": 6,
+      "question": "The _____ on his shirt was stiff and uncomfortable around his neck.",
+      "options": [
+        "(a) Wrinkle",
+        "(b) Collar",
+        "(c) Fabric",
+        "(d) Outfit"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "החלק העליון של הבגד סביב הצוואר"
+    },
+    {
+      "id": 7,
+      "question": "This jacket is made from a light, breathable _____ that is perfect for summer travel.",
+      "options": [
+        "(a) Iron",
+        "(b) Size",
+        "(c) Formal",
+        "(d) Fabric"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "החומר שממנו עשוי הבגד"
+    },
+    {
+      "id": 8,
+      "question": "There is a big _____ on the front of your shirt — you should iron it before the meeting.",
+      "options": [
+        "(a) Wrinkle",
+        "(b) Sleeve",
+        "(c) Fitting room",
+        "(d) Casual"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "קפל בבגד שנוצר מישיבה או שינה"
+    },
+    {
+      "id": 9,
+      "question": "Excuse me, do you have this jacket in my _____ ? I am a medium.",
+      "options": [
+        "(a) Collar",
+        "(b) Outfit",
+        "(c) Size",
+        "(d) Wrinkle"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "הגודל שמתאים לגוף שלך"
+    },
+    {
+      "id": 10,
+      "question": "I went into the _____ to try on the trousers before deciding whether to buy them.",
+      "options": [
+        "(a) Fabric",
+        "(b) Fitting room",
+        "(c) Iron",
+        "(d) Sleeve"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "החדר הקטן בחנות שבו מנסים בגדים"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "On Sunday morning, David had an important work event — a formal lunch with clients from abroad. He opened his wardrobe and tried to choose the right outfit. He decided on his dark grey suit, a white shirt, and a blue tie.\n\nWhen he took the shirt out of the wardrobe, he noticed it was full of wrinkles. He set up the iron and carefully ironed the shirt, paying extra attention to the collar and the sleeves. The fabric was quite delicate, so he used a low heat setting.\n\nBefore the event, David also went to a clothing shop to buy a new belt. He was not sure about his size, so the shop assistant helped him. David tried a few options in the fitting room and chose a brown leather belt that matched his shoes perfectly.\n\nThe dress code for the event was formal, but at the office earlier that morning it had been casual Friday. David felt a little strange changing from jeans and a T-shirt into a full suit, but he knew it was the right choice for the occasion.\n\nWhen he arrived, his boss complimented him on his outfit. David felt confident and well-prepared for the meeting.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "What kind of event did David have on Sunday?",
+        "options": [
+          "(a) A casual team lunch at the office",
+          "(b) A formal lunch with clients from abroad",
+          "(c) A birthday party for a colleague",
+          "(d) A job interview at a new company"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 12,
+        "question": "What outfit did David choose?",
+        "options": [
+          "(a) A black suit and a red tie",
+          "(b) Jeans and a white shirt",
+          "(c) A dark grey suit, a white shirt, and a blue tie",
+          "(d) A navy blazer and casual trousers"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 13,
+        "question": "Why did David need to iron his shirt?",
+        "options": [
+          "(a) It was wet from the wash",
+          "(b) It was full of wrinkles",
+          "(c) The collar was too stiff",
+          "(d) The sleeves were too long"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "Which parts of the shirt did David pay extra attention to while ironing?",
+        "options": [
+          "(a) The back and the front buttons",
+          "(b) The collar and the sleeves",
+          "(c) The pockets and the hem",
+          "(d) The shoulders and the sides"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 15,
+        "question": "Why did David use a low heat setting on the iron?",
+        "options": [
+          "(a) He was in a hurry",
+          "(b) He did not know how to use the iron",
+          "(c) The fabric was quite delicate",
+          "(d) The iron was broken"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 16,
+        "question": "What did David go to the clothing shop to buy?",
+        "options": [
+          "(a) A new tie",
+          "(b) A new belt",
+          "(c) A new shirt",
+          "(d) A new jacket"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 17,
+        "question": "Why did David go into the fitting room?",
+        "options": [
+          "(a) To change into his suit",
+          "(b) To check a wrinkle in his shirt",
+          "(c) To try on belt options before choosing",
+          "(d) To get help from the shop assistant"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 18,
+        "question": "What was the dress code at the office that morning?",
+        "options": [
+          "(a) Formal — suit and tie required",
+          "(b) Smart casual — no jeans",
+          "(c) Casual Friday — jeans allowed",
+          "(d) Sports clothes only"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 19,
+        "question": "What color was the belt David chose?",
+        "options": [
+          "(a) Black",
+          "(b) Dark navy",
+          "(c) Brown",
+          "(d) Grey"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 20,
+        "question": "What happened when David arrived at the event?",
+        "options": [
+          "(a) He realized he forgot his tie",
+          "(b) His boss complimented him on his outfit",
+          "(c) He was told the dress code was actually casual",
+          "(d) A client spilled food on his shirt"
+        ],
+        "correct_answer": "b"
+      }
+    ]
+  }
+}
