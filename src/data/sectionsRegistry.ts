@@ -33,6 +33,11 @@ import jobInterview01Data from './lifestyle/job_interview_01.json';
 import cooking01Data from './lifestyle/cooking_01.json';
 import idioms01Data from './lifestyle/idioms_01.json';
 import transportationData from './travel/transportation.json';
+import familyMembers01Data from './family/family_members_01.json';
+import familyDaily01Data from './family/family_daily_01.json';
+import familyCelebrations01Data from './family/family_celebrations_01.json';
+import familyRelationships01Data from './family/family_relationships_01.json';
+import familyConversations01Data from './family/family_conversations_01.json';
 
 const sectionsRegistry: Record<string, Section> = {
   [restaurantData.section_id]: restaurantData as unknown as Section,
@@ -69,6 +74,11 @@ const sectionsRegistry: Record<string, Section> = {
   [shoppingData.section_id]: shoppingData as unknown as Section,
   [emergencyData.section_id]: emergencyData as unknown as Section,
   [beachData.section_id]: beachData as unknown as Section,
+  [familyMembers01Data.section_id]: familyMembers01Data as unknown as Section,
+  [familyDaily01Data.section_id]: familyDaily01Data as unknown as Section,
+  [familyCelebrations01Data.section_id]: familyCelebrations01Data as unknown as Section,
+  [familyRelationships01Data.section_id]: familyRelationships01Data as unknown as Section,
+  [familyConversations01Data.section_id]: familyConversations01Data as unknown as Section,
 };
 
 export default sectionsRegistry;

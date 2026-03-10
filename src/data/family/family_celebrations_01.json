@@ -1,0 +1,45 @@
+{
+  "section_id": "family_celebrations_01",
+  "difficulty": "easy",
+  "title": "Family Celebrations",
+  "category": "Family",
+  "word_bank": [
+    { "word": "Birthday", "translation": "יום הולדת", "example": "Today is my son's birthday — he turns eight." },
+    { "word": "Cake", "translation": "עוגה", "example": "We ordered a chocolate cake for the party." },
+    { "word": "Candles", "translation": "נרות", "example": "She blew out all the candles in one breath." },
+    { "word": "Gift", "translation": "מתנה", "example": "He wrapped the gift in blue paper." },
+    { "word": "Party", "translation": "מסיבה", "example": "The children's party started at four in the afternoon." },
+    { "word": "Invitation", "translation": "הזמנה", "example": "We sent invitations to the whole family." },
+    { "word": "Celebrate", "translation": "לחגוג", "example": "We celebrate every birthday with a big meal." },
+    { "word": "Holiday", "translation": "חג", "example": "Passover is my favourite holiday." },
+    { "word": "Decoration", "translation": "קישוט", "example": "The children helped hang the decorations." },
+    { "word": "Wish", "translation": "ברכה / משאלה", "example": "Make a wish before you blow out the candles." }
+  ],
+  "stage_1_sentences": [
+    { "id": 7, "question": "Our family loves to _____ every milestone together.", "options": ["(a) Wish", "(b) Decorate", "(c) Celebrate", "(d) Invite"], "correct_answer": "c", "hint_hebrew": "לחגוג" },
+    { "id": 3, "question": "There were sixty _____ on grandfather's birthday cake.", "options": ["(a) Candles", "(b) Invitations", "(c) Wishes", "(d) Decorations"], "correct_answer": "a", "hint_hebrew": "נרות" },
+    { "id": 9, "question": "The children helped hang colourful _____ around the room.", "options": ["(a) Candles", "(b) Wishes", "(c) Cakes", "(d) Decorations"], "correct_answer": "d", "hint_hebrew": "קישוטים" },
+    { "id": 1, "question": "My grandfather's _____ is on the fifteenth of March.", "options": ["(a) Decoration", "(b) Birthday", "(c) Party", "(d) Candles"], "correct_answer": "b", "hint_hebrew": "יום הולדת" },
+    { "id": 5, "question": "We planned a surprise _____ for my mother's sixtieth birthday.", "options": ["(a) Wish", "(b) Party", "(c) Candle", "(d) Invitation"], "correct_answer": "b", "hint_hebrew": "מסיבה" },
+    { "id": 10, "question": "She closed her eyes and made a _____ before blowing out the candles.", "options": ["(a) Gift", "(b) Party", "(c) Wish", "(d) Invitation"], "correct_answer": "c", "hint_hebrew": "משאלה" },
+    { "id": 4, "question": "She opened every _____ with a big smile on her face.", "options": ["(a) Holiday", "(b) Party", "(c) Birthday", "(d) Gift"], "correct_answer": "d", "hint_hebrew": "מתנה" },
+    { "id": 6, "question": "We sent an _____ to everyone in the family.", "options": ["(a) Invitation", "(b) Decoration", "(c) Birthday", "(d) Cake"], "correct_answer": "a", "hint_hebrew": "הזמנה" },
+    { "id": 2, "question": "My wife baked a beautiful _____ with strawberries on top.", "options": ["(a) Gift", "(b) Wish", "(c) Cake", "(d) Holiday"], "correct_answer": "c", "hint_hebrew": "עוגה" },
+    { "id": 8, "question": "Hanukkah is a _____ we always spend with the whole family.", "options": ["(a) Holiday", "(b) Cake", "(c) Gift", "(d) Party"], "correct_answer": "a", "hint_hebrew": "חג" }
+  ],
+  "stage_2_story": {
+    "text_en": "This year, the family decided to throw a surprise party for grandfather's seventieth birthday. His daughter sent invitations to more than thirty relatives. The children helped hang colourful decorations around the living room, and someone ordered a large chocolate cake with seventy candles. When grandfather walked through the door, everyone shouted 'Surprise!' He laughed and nearly dropped his hat. He opened gift after gift — books, warm clothes, a photo album full of family memories. When it was time for the cake, grandfather made a wish, took a deep breath, and blew out every candle. Everyone clapped and cheered. It was the best birthday celebration the family had ever had, and grandfather said it was the happiest day of his year.",
+    "questions": [
+      { "id": 11, "question": "What birthday was the grandfather celebrating?", "options": ["(a) Sixtieth", "(b) Sixty-fifth", "(c) Seventieth", "(d) Seventy-fifth"], "correct_answer": "c" },
+      { "id": 12, "question": "Who sent the invitations?", "options": ["(a) Grandfather", "(b) His daughter", "(c) His son", "(d) His wife"], "correct_answer": "b" },
+      { "id": 13, "question": "How many relatives received invitations?", "options": ["(a) Ten", "(b) Twenty", "(c) More than thirty", "(d) About fifty"], "correct_answer": "c" },
+      { "id": 14, "question": "What kind of cake was ordered?", "options": ["(a) Strawberry", "(b) Vanilla", "(c) Lemon", "(d) Chocolate"], "correct_answer": "d" },
+      { "id": 15, "question": "How many candles were on the cake?", "options": ["(a) Sixty", "(b) Seventy", "(c) Eighty", "(d) Fifty"], "correct_answer": "b" },
+      { "id": 16, "question": "What did everyone shout when grandfather arrived?", "options": ["(a) Happy Birthday", "(b) Welcome", "(c) Surprise", "(d) Congratulations"], "correct_answer": "c" },
+      { "id": 17, "question": "What was one of the gifts grandfather received?", "options": ["(a) A bicycle", "(b) A photo album", "(c) A new phone", "(d) A holiday voucher"], "correct_answer": "b" },
+      { "id": 18, "question": "What did grandfather do before blowing out the candles?", "options": ["(a) Said a speech", "(b) Cut the cake", "(c) Made a wish", "(d) Opened a gift"], "correct_answer": "c" },
+      { "id": 19, "question": "What did everyone do after he blew out the candles?", "options": ["(a) Sang a song", "(b) Clapped and cheered", "(c) Left the party", "(d) Took photos"], "correct_answer": "b" },
+      { "id": 20, "question": "What did grandfather say at the end?", "options": ["(a) He was tired", "(b) It was the happiest day of his year", "(c) He wanted more cake", "(d) He was surprised by the number of guests"], "correct_answer": "b" }
+    ]
+  }
+}

@@ -1,5 +1,5 @@
 import React from 'react';
-import { AlertCircle, Briefcase, Camera, Car, ChefHat, CircleDot, Coffee, Dumbbell, Hotel, House, Landmark, MessageSquare, Pill, Plane, PlaneTakeoff, ShoppingBag, ShoppingCart, Shirt, Stethoscope, Target, Trophy, UtensilsCrossed, Waves } from 'lucide-react';
+import { AlertCircle, Baby, Briefcase, Camera, Car, ChefHat, CircleDot, Coffee, Dumbbell, Gift, Heart, Hotel, House, Landmark, MessageCircle, MessageSquare, Pill, Plane, PlaneTakeoff, ShoppingBag, ShoppingCart, Shirt, Stethoscope, Target, Trophy, UtensilsCrossed, Users, Waves } from 'lucide-react';
 
 import { useAppSelector } from '../../app/hooks';
 import type { Difficulty } from '../../types';
@@ -38,6 +38,11 @@ const ICON_MAP: Record<string, React.ReactNode> = {
   Briefcase: <Briefcase size={48} />,
   ChefHat: <ChefHat size={48} />,
   MessageSquare: <MessageSquare size={48} />,
+  Users: <Users size={48} />,
+  Heart: <Heart size={48} />,
+  Gift: <Gift size={48} />,
+  Baby: <Baby size={48} />,
+  MessageCircle: <MessageCircle size={48} />,
 };
 
 const SectionCardContainer: React.FC<SectionCardContainerProps> = ({

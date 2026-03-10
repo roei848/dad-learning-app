@@ -1,0 +1,45 @@
+{
+  "section_id": "family_conversations_01",
+  "difficulty": "hard",
+  "title": "Family Conversations",
+  "category": "Family",
+  "word_bank": [
+    { "word": "Advice", "translation": "עצה", "example": "My father gave me good advice about finding a job." },
+    { "word": "Compromise", "translation": "פשרה", "example": "They reached a compromise about the holiday plans." },
+    { "word": "Disagreement", "translation": "חילוקי דעות", "example": "There was a small disagreement about where to spend the weekend." },
+    { "word": "Reconcile", "translation": "להתפייס", "example": "After the argument, the brothers decided to reconcile." },
+    { "word": "Support", "translation": "תמיכה", "example": "She felt her parents' support throughout her studies." },
+    { "word": "Responsibility", "translation": "אחריות", "example": "He took responsibility for his mistake and apologised." },
+    { "word": "Concern", "translation": "דאגה", "example": "His parents expressed concern about his late nights." },
+    { "word": "Guidance", "translation": "הדרכה", "example": "Young adults still need guidance from their parents sometimes." },
+    { "word": "Trust", "translation": "אמון", "example": "Building trust takes time and consistent behaviour." },
+    { "word": "Resolve", "translation": "לפתור", "example": "The family sat down together to resolve the conflict calmly." }
+  ],
+  "stage_1_sentences": [
+    { "id": 1, "question": "My father's _____ helped me make a difficult decision at work.", "options": ["(a) Concern", "(b) Advice", "(c) Disagreement", "(d) Trust"], "correct_answer": "b", "hint_hebrew": "עצה" },
+    { "id": 2, "question": "After a long discussion, they reached a _____ that made everyone happy.", "options": ["(a) Compromise", "(b) Resolve", "(c) Guidance", "(d) Responsibility"], "correct_answer": "a", "hint_hebrew": "פשרה" },
+    { "id": 3, "question": "There was a _____ about who should pay for the holiday dinner.", "options": ["(a) Support", "(b) Trust", "(c) Disagreement", "(d) Reconcile"], "correct_answer": "c", "hint_hebrew": "חילוקי דעות" },
+    { "id": 4, "question": "After three difficult months, the two brothers finally agreed to _____.", "options": ["(a) Advice", "(b) Resolve", "(c) Reconcile", "(d) Concern"], "correct_answer": "c", "hint_hebrew": "להתפייס" },
+    { "id": 5, "question": "Her family's _____ gave her the strength to continue her studies.", "options": ["(a) Support", "(b) Disagreement", "(c) Guidance", "(d) Compromise"], "correct_answer": "a", "hint_hebrew": "תמיכה" },
+    { "id": 6, "question": "He accepted full _____ for missing the family dinner.", "options": ["(a) Trust", "(b) Responsibility", "(c) Reconcile", "(d) Advice"], "correct_answer": "b", "hint_hebrew": "אחריות" },
+    { "id": 7, "question": "Her parents expressed deep _____ about her decision to move abroad.", "options": ["(a) Concern", "(b) Compromise", "(c) Resolve", "(d) Guidance"], "correct_answer": "a", "hint_hebrew": "דאגה" },
+    { "id": 8, "question": "A parent's _____ is most valuable during the teenage years.", "options": ["(a) Disagreement", "(b) Guidance", "(c) Responsibility", "(d) Reconcile"], "correct_answer": "b", "hint_hebrew": "הדרכה" },
+    { "id": 9, "question": "It takes years to build _____ between a parent and a teenager.", "options": ["(a) Advice", "(b) Compromise", "(c) Trust", "(d) Support"], "correct_answer": "c", "hint_hebrew": "אמון" },
+    { "id": 10, "question": "They sat together at the table to _____ their differences calmly.", "options": ["(a) Resolve", "(b) Concern", "(c) Reconcile", "(d) Guidance"], "correct_answer": "a", "hint_hebrew": "לפתור" }
+  ],
+  "stage_2_story": {
+    "text_en": "David and his seventeen-year-old son, Yoni, had been having disagreements for weeks. Yoni wanted to stay out late with his friends, but David expressed concern about his safety and his school performance. One evening, they sat down at the kitchen table to resolve the issue calmly. David shared his advice based on his own experience as a young man. Yoni listened, then explained how much he valued his independence and the trust of his father. They reached a compromise — Yoni would come home by eleven on weekends, and in return, David would give him more responsibility to manage his own time during the week. Both of them accepted the terms. David reminded his son that guidance is not control, and Yoni acknowledged his father's support. They reconciled that evening with a handshake and a shared cup of tea. From that point forward, their relationship grew stronger.",
+    "questions": [
+      { "id": 11, "question": "What had David and his son been having for weeks?", "options": ["(a) Long conversations", "(b) Disagreements", "(c) Family dinners", "(d) Football matches"], "correct_answer": "b" },
+      { "id": 12, "question": "What was Yoni's wish?", "options": ["(a) To drive the car", "(b) To stay out late with friends", "(c) To leave school", "(d) To move to another city"], "correct_answer": "b" },
+      { "id": 13, "question": "What was David's concern?", "options": ["(a) Yoni's diet", "(b) Yoni's music", "(c) Yoni's safety and school performance", "(d) Yoni's friends' backgrounds"], "correct_answer": "c" },
+      { "id": 14, "question": "Where did they sit to resolve the issue?", "options": ["(a) In the living room", "(b) In Yoni's bedroom", "(c) At the kitchen table", "(d) In the garden"], "correct_answer": "c" },
+      { "id": 15, "question": "What did Yoni say he valued?", "options": ["(a) Extra pocket money", "(b) His independence and his father's trust", "(c) More screen time", "(d) A later school start"], "correct_answer": "b" },
+      { "id": 16, "question": "What was Yoni's part of the compromise?", "options": ["(a) To come home by ten on weekdays", "(b) To come home by eleven on weekends", "(c) To stop seeing his friends", "(d) To study for extra hours"], "correct_answer": "b" },
+      { "id": 17, "question": "What did David give Yoni in return?", "options": ["(a) More pocket money", "(b) More responsibility to manage his own time", "(c) A new phone", "(d) Permission to drive"], "correct_answer": "b" },
+      { "id": 18, "question": "What did David remind his son about guidance?", "options": ["(a) That guidance is punishment", "(b) That guidance is not control", "(c) That guidance is unnecessary at seventeen", "(d) That guidance comes from school"], "correct_answer": "b" },
+      { "id": 19, "question": "How did they reconcile?", "options": ["(a) With a hug and a promise", "(b) With a handshake and a shared cup of tea", "(c) With a written agreement", "(d) With a family meal"], "correct_answer": "b" },
+      { "id": 20, "question": "What happened to their relationship after that evening?", "options": ["(a) It stayed the same", "(b) It became more distant", "(c) It grew stronger", "(d) It ended badly"], "correct_answer": "c" }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "section_id": "family_relationships_01",
+  "difficulty": "medium",
+  "title": "Family Relationships",
+  "category": "Family",
+  "word_bank": [
+    { "word": "Relative", "translation": "קרוב משפחה", "example": "We have relatives living in three different countries." },
+    { "word": "In-law", "translation": "חם / חמות / גיס וכו'", "example": "My father-in-law is a retired engineer." },
+    { "word": "Nephew", "translation": "אחיין", "example": "My nephew just started his first year of university." },
+    { "word": "Niece", "translation": "אחיינית", "example": "My niece loves drawing and wants to be an artist." },
+    { "word": "Stepfather", "translation": "אבא חורג", "example": "Her stepfather has been part of the family for ten years." },
+    { "word": "Stepmother", "translation": "אמא חורגת", "example": "His stepmother is kind and very patient with the children." },
+    { "word": "Godparent", "translation": "סנדק / סנדקית", "example": "Her godparent attended every important event in her life." },
+    { "word": "Ancestor", "translation": "אבות אבותיי", "example": "Our ancestors came to Israel from Poland and Morocco." },
+    { "word": "Generation", "translation": "דור", "example": "Three generations of the family live in the same city." },
+    { "word": "Extended", "translation": "מורחב", "example": "The extended family gathered for the holiday weekend." }
+  ],
+  "stage_1_sentences": [
+    { "id": 1, "question": "We have a _____ who lives in Canada and visits once a year.", "options": ["(a) Relative", "(b) Ancestor", "(c) Generation", "(d) Stepfather"], "correct_answer": "a", "hint_hebrew": "קרוב משפחה" },
+    { "id": 2, "question": "My mother-_____ cooks the most amazing food at every family event.", "options": ["(a) Niece", "(b) In-law", "(c) Relative", "(d) Ancestor"], "correct_answer": "b", "hint_hebrew": "חמות / חם" },
+    { "id": 3, "question": "My _____ is seven years old and already speaks two languages.", "options": ["(a) Godparent", "(b) Extended", "(c) Nephew", "(d) Stepmother"], "correct_answer": "c", "hint_hebrew": "אחיין" },
+    { "id": 4, "question": "His _____ plays the piano and hopes to study music.", "options": ["(a) Ancestor", "(b) Niece", "(c) Generation", "(d) Relative"], "correct_answer": "b", "hint_hebrew": "אחיינית" },
+    { "id": 5, "question": "Her _____ raised her as his own daughter after the divorce.", "options": ["(a) Nephew", "(b) Stepfather", "(c) Godparent", "(d) In-law"], "correct_answer": "b", "hint_hebrew": "אבא חורג" },
+    { "id": 6, "question": "His _____ bakes a cake for his birthday every single year.", "options": ["(a) Stepmother", "(b) Generation", "(c) Ancestor", "(d) Extended"], "correct_answer": "a", "hint_hebrew": "אמא חורגת" },
+    { "id": 7, "question": "Her _____ has been present at every important moment in her life.", "options": ["(a) Relative", "(b) Niece", "(c) Godparent", "(d) Stepfather"], "correct_answer": "c", "hint_hebrew": "סנדק / סנדקית" },
+    { "id": 8, "question": "Our _____ came to this country more than a hundred years ago.", "options": ["(a) Ancestors", "(b) Nephews", "(c) In-laws", "(d) Generations"], "correct_answer": "a", "hint_hebrew": "אבות קדמונים" },
+    { "id": 9, "question": "Our family has three _____ living in the same neighbourhood.", "options": ["(a) Godparents", "(b) Extended", "(c) Generations", "(d) Nieces"], "correct_answer": "c", "hint_hebrew": "דורות" },
+    { "id": 10, "question": "The _____ family came together from across the country for the wedding.", "options": ["(a) In-law", "(b) Extended", "(c) Ancestor", "(d) Nephew"], "correct_answer": "b", "hint_hebrew": "מורחב" }
+  ],
+  "stage_2_story": {
+    "text_en": "Every summer, the Levi family holds a large reunion in the north of the country. Relatives travel from Tel Aviv, Haifa, and even from abroad. At the last reunion, three generations sat under one roof — grandparents, parents, and grandchildren. The in-laws joined for the first time, and everyone was happy to welcome them. David's nephew ran around the garden while his niece sat quietly with a book. The stepfather of one of the cousins helped grill the food, and the children's godparent brought homemade jam as a gift. Someone put up an old photograph on the wall showing their ancestors from a small village in Eastern Europe. Looking at that photo, the family was reminded of how far they had come — and how strong the bond between each generation remains.",
+    "questions": [
+      { "id": 11, "question": "Where does the Levi family hold its reunion?", "options": ["(a) In Tel Aviv", "(b) In the south", "(c) In the north of the country", "(d) Abroad"], "correct_answer": "c" },
+      { "id": 12, "question": "How many generations sat under one roof?", "options": ["(a) Two", "(b) Three", "(c) Four", "(d) Five"], "correct_answer": "b" },
+      { "id": 13, "question": "Who joined the reunion for the first time?", "options": ["(a) The cousins", "(b) The in-laws", "(c) The godparents", "(d) The nephews"], "correct_answer": "b" },
+      { "id": 14, "question": "What was the nephew doing?", "options": ["(a) Reading a book", "(b) Eating", "(c) Grilling food", "(d) Running around the garden"], "correct_answer": "d" },
+      { "id": 15, "question": "What was the niece doing?", "options": ["(a) Playing football", "(b) Sitting quietly with a book", "(c) Helping in the kitchen", "(d) Taking photographs"], "correct_answer": "b" },
+      { "id": 16, "question": "What did the stepfather help with?", "options": ["(a) Decorating", "(b) Driving", "(c) Grilling the food", "(d) Setting the table"], "correct_answer": "c" },
+      { "id": 17, "question": "What did the godparent bring as a gift?", "options": ["(a) Wine", "(b) Flowers", "(c) Homemade jam", "(d) A book"], "correct_answer": "c" },
+      { "id": 18, "question": "What was put up on the wall?", "options": ["(a) A painting", "(b) A map", "(c) An old photograph of ancestors", "(d) A family tree"], "correct_answer": "c" },
+      { "id": 19, "question": "Where were the ancestors from?", "options": ["(a) North Africa", "(b) A small village in Eastern Europe", "(c) South America", "(d) Central Asia"], "correct_answer": "b" },
+      { "id": 20, "question": "What did the photo remind the family of?", "options": ["(a) How much food they ate", "(b) How far they had come and the bond between generations", "(c) How difficult the journey was", "(d) How many relatives they had lost"], "correct_answer": "b" }
+    ]
+  }
+}
