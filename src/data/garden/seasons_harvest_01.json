@@ -1,0 +1,295 @@
+{
+  "section_id": "seasons_harvest_01",
+  "difficulty": "hard",
+  "title": "Seasons & Harvest",
+  "category": "Garden",
+  "word_bank": [
+    {
+      "word": "Yield",
+      "translation": "תנובה / יבול",
+      "example": "This year's yield of tomatoes exceeded our expectations thanks to the warm summer."
+    },
+    {
+      "word": "Perennial",
+      "translation": "רב-שנתי",
+      "example": "Lavender is a perennial plant that returns every spring without replanting."
+    },
+    {
+      "word": "Annual",
+      "translation": "חד-שנתי",
+      "example": "Basil is an annual herb that must be sown again each season."
+    },
+    {
+      "word": "Dormant",
+      "translation": "רדום / בתרדמה",
+      "example": "During the cold months, the rose bushes become dormant and stop producing new growth."
+    },
+    {
+      "word": "Germinate",
+      "translation": "לנבוט",
+      "example": "The seeds need moisture and warmth to germinate successfully in early spring."
+    },
+    {
+      "word": "Cultivation",
+      "translation": "עיבוד / גידול",
+      "example": "Proper cultivation of the soil before planting ensures stronger root development."
+    },
+    {
+      "word": "Orchard",
+      "translation": "מטע / פרדס",
+      "example": "My grandfather's orchard has over fifty apple and pear trees."
+    },
+    {
+      "word": "Canopy",
+      "translation": "חופה / צמרת העץ",
+      "example": "The dense canopy of the old oak tree provides welcome shade during summer."
+    },
+    {
+      "word": "Abundance",
+      "translation": "שפע",
+      "example": "The late-summer garden produces an abundance of zucchini and peppers."
+    },
+    {
+      "word": "Preserve",
+      "translation": "לשמר / לכבוש",
+      "example": "We preserve the extra cucumbers by pickling them in jars for the winter."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "The apple trees in the _____ were heavy with fruit by late September.",
+      "options": [
+        "(a) Cultivation",
+        "(b) Canopy",
+        "(c) Orchard",
+        "(d) Abundance"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "שטח שבו מגדלים עצי פרי"
+    },
+    {
+      "id": 2,
+      "question": "In winter, the fig tree becomes _____ and loses all its leaves until spring arrives.",
+      "options": [
+        "(a) Annual",
+        "(b) Dormant",
+        "(c) Perennial",
+        "(d) Germinate"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "מצב שבו הצמח מפסיק לגדול ונח"
+    },
+    {
+      "id": 3,
+      "question": "We decided to _____ the extra tomatoes by making jars of sauce for the colder months.",
+      "options": [
+        "(a) Germinate",
+        "(b) Yield",
+        "(c) Cultivate",
+        "(d) Preserve"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "לשמור אוכל לזמן ארוך, כמו לכבוש או לייבש"
+    },
+    {
+      "id": 4,
+      "question": "The thick _____ of the walnut tree blocked most of the sunlight from reaching the ground below.",
+      "options": [
+        "(a) Orchard",
+        "(b) Yield",
+        "(c) Canopy",
+        "(d) Abundance"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "השכבה העליונה של ענפים ועלים שמכסה כמו גג"
+    },
+    {
+      "id": 5,
+      "question": "Sunflowers are _____ plants, so you need to buy new seeds and replant them every year.",
+      "options": [
+        "(a) Dormant",
+        "(b) Annual",
+        "(c) Perennial",
+        "(d) Preserve"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "צמח שחי רק עונה אחת"
+    },
+    {
+      "id": 6,
+      "question": "After weeks of careful watering, the tiny seeds finally began to _____ and push through the soil.",
+      "options": [
+        "(a) Germinate",
+        "(b) Preserve",
+        "(c) Yield",
+        "(d) Cultivate"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "כשזרע מתחיל לצמוח ומוציא נבט"
+    },
+    {
+      "id": 7,
+      "question": "The _____ of our vegetable garden this season was enough to feed the whole neighborhood.",
+      "options": [
+        "(a) Canopy",
+        "(b) Cultivation",
+        "(c) Yield",
+        "(d) Orchard"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "כמות התוצרת שהגינה מייצרת"
+    },
+    {
+      "id": 8,
+      "question": "Asparagus is a _____ vegetable, meaning once you plant it, it will produce spears for many years.",
+      "options": [
+        "(a) Annual",
+        "(b) Dormant",
+        "(c) Abundance",
+        "(d) Perennial"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "צמח שחוזר לגדול שנה אחרי שנה"
+    },
+    {
+      "id": 9,
+      "question": "The summer garden produced such an _____ of peppers that we gave bags away to friends.",
+      "options": [
+        "(a) Orchard",
+        "(b) Abundance",
+        "(c) Cultivation",
+        "(d) Canopy"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "כמות גדולה מאוד, שפע"
+    },
+    {
+      "id": 10,
+      "question": "Successful _____ requires understanding the soil, rotating crops, and managing water carefully.",
+      "options": [
+        "(a) Cultivation",
+        "(b) Germinate",
+        "(c) Preserve",
+        "(d) Yield"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "התהליך של עיבוד האדמה וגידול צמחים"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "When Yosef retired, he decided to transform the empty lot behind his house into a productive garden. He spent the first autumn preparing the soil — the careful cultivation of the land involved removing stones, adding compost, and testing the soil's acidity. He knew that proper groundwork would determine the success of every season to come.\n\nAs winter arrived, most of the garden lay dormant. The bare trees stood silent, and the perennial herbs he had planted — rosemary, thyme, and sage — showed no signs of life above ground. But Yosef understood that beneath the frozen surface, roots were quietly strengthening. He used this quiet period to plan his crop rotation, sketching out which beds would hold tomatoes, which would grow beans, and where the squash would climb.\n\nWhen spring finally broke through, Yosef planted dozens of seeds in small trays indoors. Within ten days, the first seeds began to germinate, sending pale green shoots toward the windowsill light. He transplanted the strongest seedlings into the garden beds as soon as the last frost had passed. He also set aside a corner of the property for an orchard, planting young apple, plum, and pomegranate trees that he hoped would bear fruit within three years.\n\nSummer was the season of rapid growth. The annual vegetables — tomatoes, cucumbers, and peppers — grew vigorously and demanded daily watering. The dense canopy of a large fig tree at the garden's edge provided welcome shade where Yosef could rest during the hottest afternoons. By July, the yield from just four tomato plants was more than his family could eat in a week.\n\nBy late August, the garden produced an astonishing abundance of fruits and vegetables. Baskets overflowed with eggplants, herbs, and ripe figs. Yosef's wife, Miriam, helped him preserve the surplus — they pickled cucumbers, dried herbs, and made jars of tomato sauce that would last through the winter months. The pantry shelves filled up with colorful jars, each one a reminder of the summer's warmth.\n\nAs autumn returned, Yosef reflected on the full cycle of his garden. He planted garlic cloves and winter onions, covered the empty beds with mulch, and pruned the young orchard trees. He felt a deep satisfaction knowing that the rhythm of the seasons — planting, growing, harvesting, and resting — would continue year after year.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "What did Yosef do during his first autumn in the garden?",
+        "options": [
+          "(a) He planted fruit trees and built a greenhouse",
+          "(b) He prepared the soil by removing stones, adding compost, and testing acidity",
+          "(c) He harvested vegetables left by the previous owner",
+          "(d) He installed an irrigation system and built raised beds"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 12,
+        "question": "Which perennial herbs did Yosef plant?",
+        "options": [
+          "(a) Basil, mint, and cilantro",
+          "(b) Rosemary, thyme, and sage",
+          "(c) Parsley, dill, and oregano",
+          "(d) Lavender, chamomile, and lemongrass"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 13,
+        "question": "What did Yosef do during the dormant winter months?",
+        "options": [
+          "(a) He traveled abroad and left the garden unattended",
+          "(b) He built a heated greenhouse to keep plants growing",
+          "(c) He planned his crop rotation and sketched out planting beds",
+          "(d) He harvested root vegetables from beneath the snow"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 14,
+        "question": "How long did it take for the first seeds to germinate in spring?",
+        "options": [
+          "(a) Three days",
+          "(b) One week",
+          "(c) Ten days",
+          "(d) Two weeks"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 15,
+        "question": "What kinds of trees did Yosef plant in his orchard?",
+        "options": [
+          "(a) Orange, lemon, and grapefruit trees",
+          "(b) Apple, plum, and pomegranate trees",
+          "(c) Cherry, peach, and apricot trees",
+          "(d) Olive, almond, and walnut trees"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 16,
+        "question": "Which of the following is described as an annual vegetable in the story?",
+        "options": [
+          "(a) Rosemary",
+          "(b) Sage",
+          "(c) Tomatoes",
+          "(d) Fig"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 17,
+        "question": "What role did the canopy of the fig tree play in Yosef's garden?",
+        "options": [
+          "(a) It protected the vegetables from heavy rain",
+          "(b) It provided shade where Yosef could rest during hot afternoons",
+          "(c) It attracted pollinators to the garden",
+          "(d) It served as a natural trellis for climbing plants"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 18,
+        "question": "What was remarkable about the yield from just four tomato plants?",
+        "options": [
+          "(a) They produced enough to sell at the local market",
+          "(b) They produced more than his family could eat in a week",
+          "(c) They grew to over two meters tall",
+          "(d) They ripened earlier than expected"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 19,
+        "question": "How did Yosef and Miriam preserve the surplus harvest?",
+        "options": [
+          "(a) They froze everything in a large chest freezer",
+          "(b) They donated it all to a local food bank",
+          "(c) They pickled cucumbers, dried herbs, and made jars of tomato sauce",
+          "(d) They sold the extra produce at a farmers' market"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 20,
+        "question": "What did Yosef plant as autumn returned at the end of the story?",
+        "options": [
+          "(a) Spring flower bulbs and new fruit trees",
+          "(b) Garlic cloves and winter onions",
+          "(c) Lettuce and spinach for a winter harvest",
+          "(d) Cover crops to enrich the soil"
+        ],
+        "correct_answer": "b"
+      }
+    ]
+  }
+}

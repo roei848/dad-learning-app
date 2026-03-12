@@ -48,6 +48,11 @@ import moviesCinema02Data from './culture/movies_cinema_02.json';
 import artMuseums01Data from './culture/art_museums_01.json';
 import literature01Data from './culture/literature_01.json';
 import culturalIdioms01Data from './culture/cultural_idioms_01.json';
+import gardenBasics01Data from './garden/garden_basics_01.json';
+import flowersPlants01Data from './garden/flowers_plants_01.json';
+import vegetableGarden01Data from './garden/vegetable_garden_01.json';
+import gardenCare01Data from './garden/garden_care_01.json';
+import seasonsHarvest01Data from './garden/seasons_harvest_01.json';
 
 const sectionsRegistry: Record<string, Section> = {
   [restaurantData.section_id]: restaurantData as unknown as Section,
@@ -99,6 +104,11 @@ const sectionsRegistry: Record<string, Section> = {
   [artMuseums01Data.section_id]: artMuseums01Data as unknown as Section,
   [literature01Data.section_id]: literature01Data as unknown as Section,
   [culturalIdioms01Data.section_id]: culturalIdioms01Data as unknown as Section,
+  [gardenBasics01Data.section_id]: gardenBasics01Data as unknown as Section,
+  [flowersPlants01Data.section_id]: flowersPlants01Data as unknown as Section,
+  [vegetableGarden01Data.section_id]: vegetableGarden01Data as unknown as Section,
+  [gardenCare01Data.section_id]: gardenCare01Data as unknown as Section,
+  [seasonsHarvest01Data.section_id]: seasonsHarvest01Data as unknown as Section,
 };
 
 export default sectionsRegistry;

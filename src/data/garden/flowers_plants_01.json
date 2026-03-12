@@ -1,0 +1,295 @@
+{
+  "section_id": "flowers_plants_01",
+  "difficulty": "easy",
+  "title": "Flowers & Plants",
+  "category": "Garden",
+  "word_bank": [
+    {
+      "word": "Petal",
+      "translation": "עלה כותרת",
+      "example": "Each petal of the rose was soft and red."
+    },
+    {
+      "word": "Stem",
+      "translation": "גבעול",
+      "example": "The stem of the sunflower was tall and strong."
+    },
+    {
+      "word": "Root",
+      "translation": "שורש",
+      "example": "The root grows deep into the soil to find water."
+    },
+    {
+      "word": "Bloom",
+      "translation": "לפרוח / פריחה",
+      "example": "The roses bloom every spring and fill the garden with color."
+    },
+    {
+      "word": "Sunflower",
+      "translation": "חמנייה",
+      "example": "The sunflower turned its face toward the sun."
+    },
+    {
+      "word": "Rose bush",
+      "translation": "שיח ורדים",
+      "example": "We planted a rose bush near the front door of the house."
+    },
+    {
+      "word": "Tulip",
+      "translation": "צבעוני",
+      "example": "The red tulip opened its petals in the warm morning light."
+    },
+    {
+      "word": "Lily",
+      "translation": "שושן / חבצלת",
+      "example": "The white lily in the vase made the room smell wonderful."
+    },
+    {
+      "word": "Bouquet",
+      "translation": "זר פרחים",
+      "example": "He gave his wife a beautiful bouquet of flowers for her birthday."
+    },
+    {
+      "word": "Garden bed",
+      "translation": "ערוגה",
+      "example": "We prepared the garden bed with fresh soil before planting the seeds."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "I picked a beautiful _____ for my wife on our anniversary.",
+      "options": [
+        "(a) Stem",
+        "(b) Bouquet",
+        "(c) Root",
+        "(d) Garden bed"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "אוסף פרחים שנותנים כמתנה"
+    },
+    {
+      "id": 2,
+      "question": "The flowers began to _____ after the first warm week of spring.",
+      "options": [
+        "(a) Petal",
+        "(b) Sunflower",
+        "(c) Bloom",
+        "(d) Tulip"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "כשפרחים נפתחים ומראים את הצבעים שלהם"
+    },
+    {
+      "id": 3,
+      "question": "The tall _____ in the corner of the yard always faces the sun.",
+      "options": [
+        "(a) Lily",
+        "(b) Rose bush",
+        "(c) Garden bed",
+        "(d) Sunflower"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "פרח גדול וצהוב שפונה לכיוון השמש"
+    },
+    {
+      "id": 4,
+      "question": "Be careful when you cut the flower — hold it by the _____ so you do not hurt your fingers.",
+      "options": [
+        "(a) Root",
+        "(b) Stem",
+        "(c) Bouquet",
+        "(d) Bloom"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "החלק הירוק והארוך שמחזיק את הפרח"
+    },
+    {
+      "id": 5,
+      "question": "We planted a _____ next to the garden fence, and now it is full of red flowers.",
+      "options": [
+        "(a) Tulip",
+        "(b) Petal",
+        "(c) Rose bush",
+        "(d) Lily"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "שיח שמגדל ורדים"
+    },
+    {
+      "id": 6,
+      "question": "The _____ of the old tree spread so far underground that it reached the neighbor's yard.",
+      "options": [
+        "(a) Root",
+        "(b) Stem",
+        "(c) Petal",
+        "(d) Bouquet"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "החלק של הצמח שנמצא מתחת לאדמה"
+    },
+    {
+      "id": 7,
+      "question": "The white _____ in the vase filled the entire room with a sweet smell.",
+      "options": [
+        "(a) Sunflower",
+        "(b) Garden bed",
+        "(c) Root",
+        "(d) Lily"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "פרח לבן ויפה עם ריח נעים, שושן"
+    },
+    {
+      "id": 8,
+      "question": "One pink _____ fell from the flower and landed gently on the grass.",
+      "options": [
+        "(a) Petal",
+        "(b) Tulip",
+        "(c) Bloom",
+        "(d) Rose bush"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "החלק הצבעוני והרך של הפרח"
+    },
+    {
+      "id": 9,
+      "question": "We dug a new _____ along the path and filled it with colorful flowers.",
+      "options": [
+        "(a) Bouquet",
+        "(b) Stem",
+        "(c) Garden bed",
+        "(d) Sunflower"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "שטח מוכן באדמה לשתילת פרחים"
+    },
+    {
+      "id": 10,
+      "question": "In Holland, the _____ is the most famous flower, and it comes in many beautiful colors.",
+      "options": [
+        "(a) Lily",
+        "(b) Tulip",
+        "(c) Rose bush",
+        "(d) Bloom"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "פרח צבעוני שמפורסם בהולנד"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "David loved spending time in his garden. Every spring, he would prepare the garden beds with fresh soil and plan which flowers to plant that year.\n\nOne Saturday morning, David went to the plant shop and bought tulip bulbs, a small rose bush, and a packet of sunflower seeds. He also picked up a young lily plant because his wife, Sarah, always loved the sweet smell of lilies.\n\nBack at home, David started working in the garden. First, he dug a new garden bed along the stone path. He placed the tulip bulbs carefully in the soil and covered them gently. Then he planted the rose bush in a sunny corner near the fence. He made sure the roots were deep enough in the ground so the bush would grow strong.\n\nNext, David planted the sunflower seeds along the back wall. He knew that in a few months, their tall stems would reach high above the fence. Finally, he placed the lily plant near the kitchen window, where Sarah could see it every morning.\n\nWeeks passed, and one by one the flowers began to bloom. The tulips opened their colorful petals first, followed by the rose bush, which was covered in soft pink flowers. The sunflowers grew tall and golden, and the lily filled the air with its lovely smell.\n\nOn a warm Friday afternoon, David cut some of the best flowers and made a beautiful bouquet for Sarah. When she came home, she saw the garden and the bouquet on the table. Her eyes filled with happy tears. \"This is the most beautiful surprise,\" she said, giving David a big hug.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "What does David love to do every spring?",
+        "options": [
+          "(a) Paint the house",
+          "(b) Prepare garden beds and plan which flowers to plant",
+          "(c) Travel to Holland to see tulips",
+          "(d) Buy new furniture for the garden"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 12,
+        "question": "What did David buy at the plant shop?",
+        "options": [
+          "(a) Roses, daisies, and orchids",
+          "(b) Tulip bulbs, a rose bush, sunflower seeds, and a lily plant",
+          "(c) Only sunflower seeds and a watering can",
+          "(d) A large bouquet of mixed flowers"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 13,
+        "question": "Why did David buy a lily plant?",
+        "options": [
+          "(a) Because it was on sale",
+          "(b) Because lilies grow very fast",
+          "(c) Because his wife Sarah always loved the smell of lilies",
+          "(d) Because his neighbor asked him to"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 14,
+        "question": "Where did David dig the new garden bed?",
+        "options": [
+          "(a) In the backyard near the pool",
+          "(b) Along the stone path",
+          "(c) Next to the neighbor's fence",
+          "(d) In the front yard by the street"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 15,
+        "question": "Why did David plant the roots of the rose bush deep in the ground?",
+        "options": [
+          "(a) So the children would not pull it out",
+          "(b) So it would be hidden from the neighbors",
+          "(c) So the bush would grow strong",
+          "(d) So it would bloom faster"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 16,
+        "question": "Where did David plant the sunflower seeds?",
+        "options": [
+          "(a) In pots on the balcony",
+          "(b) Along the back wall",
+          "(c) In the middle of the lawn",
+          "(d) Near the kitchen window"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 17,
+        "question": "Which flowers were the first to bloom?",
+        "options": [
+          "(a) The sunflowers",
+          "(b) The roses",
+          "(c) The lilies",
+          "(d) The tulips"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 18,
+        "question": "What happened to the stems of the sunflowers after a few months?",
+        "options": [
+          "(a) They broke in the wind",
+          "(b) They grew tall and reached high above the fence",
+          "(c) They stayed very short",
+          "(d) They turned brown and died"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 19,
+        "question": "What did David make for Sarah on Friday afternoon?",
+        "options": [
+          "(a) A garden bed with her name",
+          "(b) A beautiful bouquet from the garden flowers",
+          "(c) A painting of the garden",
+          "(d) A new flower pot"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 20,
+        "question": "How did Sarah react when she saw the garden and the bouquet?",
+        "options": [
+          "(a) She was angry because David changed the garden",
+          "(b) She did not notice anything different",
+          "(c) Her eyes filled with happy tears and she hugged David",
+          "(d) She asked David to plant more vegetables instead"
+        ],
+        "correct_answer": "c"
+      }
+    ]
+  }
+}

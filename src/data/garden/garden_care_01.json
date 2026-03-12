@@ -1,0 +1,295 @@
+{
+  "section_id": "garden_care_01",
+  "difficulty": "medium",
+  "title": "Garden Care",
+  "category": "Garden",
+  "word_bank": [
+    {
+      "word": "Pruning",
+      "translation": "גיזום",
+      "example": "Regular pruning encourages the rose bushes to produce more flowers each season."
+    },
+    {
+      "word": "Fertilizer",
+      "translation": "דשן",
+      "example": "I applied organic fertilizer to the soil to help the vegetables grow stronger."
+    },
+    {
+      "word": "Pesticide",
+      "translation": "חומר הדברה",
+      "example": "We had to spray a mild pesticide on the tomato plants to protect them from aphids."
+    },
+    {
+      "word": "Weed",
+      "translation": "עשב שוטה",
+      "example": "If you do not pull out every weed, they will compete with your plants for water and nutrients."
+    },
+    {
+      "word": "Mulch",
+      "translation": "חיפוי קרקע",
+      "example": "Spreading mulch around the base of the trees helps retain moisture in the soil."
+    },
+    {
+      "word": "Drainage",
+      "translation": "ניקוז",
+      "example": "Poor drainage in the garden bed caused the roots to rot after heavy rain."
+    },
+    {
+      "word": "Compost",
+      "translation": "קומפוסט",
+      "example": "We add kitchen scraps to the compost bin and use the result to enrich the garden soil."
+    },
+    {
+      "word": "Fungus",
+      "translation": "פטרייה",
+      "example": "A white fungus appeared on the leaves, so I had to treat the plant immediately."
+    },
+    {
+      "word": "Trimming",
+      "translation": "קיצוץ / עיצוב",
+      "example": "The hedge looks much neater after a thorough trimming along the edges."
+    },
+    {
+      "word": "Transplant",
+      "translation": "השתלה / העברת שתיל",
+      "example": "In early spring, I plan to transplant the seedlings from the pots into the garden bed."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "The garden bed was flooded because the _____ system was blocked by leaves and debris.",
+      "options": [
+        "(a) Mulch",
+        "(b) Drainage",
+        "(c) Compost",
+        "(d) Fertilizer"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "מערכת שמאפשרת למים לזרום החוצה מהאדמה"
+    },
+    {
+      "id": 2,
+      "question": "After the _____ spread across the leaves, the entire plant turned yellow and wilted.",
+      "options": [
+        "(a) Weed",
+        "(b) Mulch",
+        "(c) Fungus",
+        "(d) Transplant"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "יצור שגדל על צמחים וגורם למחלות"
+    },
+    {
+      "id": 3,
+      "question": "I spent the entire morning pulling out every _____ that had grown between the vegetable rows.",
+      "options": [
+        "(a) Fertilizer",
+        "(b) Pesticide",
+        "(c) Trimming",
+        "(d) Weed"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "צמח לא רצוי שגדל בגינה"
+    },
+    {
+      "id": 4,
+      "question": "We decided to _____ the young tomato plants from the greenhouse into the outdoor garden.",
+      "options": [
+        "(a) Transplant",
+        "(b) Pruning",
+        "(c) Drainage",
+        "(d) Compost"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "להעביר שתיל ממקום אחד למקום אחר"
+    },
+    {
+      "id": 5,
+      "question": "A thick layer of _____ around the flower beds keeps the soil moist and prevents weeds from growing.",
+      "options": [
+        "(a) Pesticide",
+        "(b) Fungus",
+        "(c) Mulch",
+        "(d) Pruning"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "חומר שמפזרים על האדמה כדי לשמור על לחות"
+    },
+    {
+      "id": 6,
+      "question": "The fruit trees produced twice as many apples after I applied _____ to the soil in early spring.",
+      "options": [
+        "(a) Trimming",
+        "(b) Weed",
+        "(c) Drainage",
+        "(d) Fertilizer"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "חומר שמוסיפים לאדמה כדי להזין את הצמחים"
+    },
+    {
+      "id": 7,
+      "question": "Careful _____ of the dead branches allowed more sunlight to reach the lower parts of the tree.",
+      "options": [
+        "(a) Compost",
+        "(b) Pruning",
+        "(c) Pesticide",
+        "(d) Mulch"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "חיתוך ענפים מיותרים מהעץ"
+    },
+    {
+      "id": 8,
+      "question": "We turned all the fallen leaves and vegetable scraps into rich _____ for next year's garden.",
+      "options": [
+        "(a) Transplant",
+        "(b) Fungus",
+        "(c) Compost",
+        "(d) Trimming"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "חומר אורגני מפורק שמשמש לדישון הקרקע"
+    },
+    {
+      "id": 9,
+      "question": "The gardener used a natural _____ made from neem oil to keep the insects away from the roses.",
+      "options": [
+        "(a) Drainage",
+        "(b) Pesticide",
+        "(c) Weed",
+        "(d) Fertilizer"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "חומר שמשמש להרחקת חרקים מזיקים"
+    },
+    {
+      "id": 10,
+      "question": "Regular _____ of the hedge along the fence keeps it looking tidy and prevents it from overgrowing.",
+      "options": [
+        "(a) Trimming",
+        "(b) Transplant",
+        "(c) Mulch",
+        "(d) Pruning"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "קיצוץ ועיצוב של צמחים כדי שייראו מסודרים"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "Last spring, Avi noticed that his beloved garden was in serious trouble. The tomato plants had developed a strange white fungus on their leaves, and tiny insects were eating holes in the pepper plants. To make matters worse, after every rainstorm, water would pool around the vegetable beds because the drainage was completely blocked by roots and old soil.\n\nAvi decided to tackle the problems one at a time. First, he dug narrow channels around the garden beds to improve the drainage so that rainwater could flow away properly. Then he mixed a natural pesticide from neem oil and sprayed it carefully on the affected plants to drive away the insects without harming the soil.\n\nFor the fungus problem, Avi removed all the infected leaves through careful pruning and disposed of them far from the garden. He also pulled out every weed that had grown between the rows, since weeds steal nutrients from the healthy plants.\n\nNext, Avi visited the local nursery and bought several bags of fertilizer and a large bale of mulch. He spread the fertilizer evenly across the beds to give the weakened plants a boost of nutrition. Then he laid a thick layer of mulch around the base of each plant to keep the soil moist and prevent new weeds from sprouting.\n\nAvi also decided to transplant some of the crowded seedlings into a new raised bed he had built over the weekend. Finally, he gave the overgrown hedges along the garden path a thorough trimming so that more sunlight could reach the vegetables. As autumn arrived, he collected all the garden waste — dead leaves, plant stems, and vegetable scraps — and added them to his compost bin. By the following spring, Avi's garden was healthier and more productive than ever before.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "What were the two main problems Avi noticed on his plants?",
+        "options": [
+          "(a) Dry soil and broken branches",
+          "(b) A white fungus on the tomatoes and insects eating the peppers",
+          "(c) Too much sunlight and not enough water",
+          "(d) Birds eating the fruit and strong winds"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 12,
+        "question": "Why did water pool around the vegetable beds after rainstorms?",
+        "options": [
+          "(a) The garden was on a steep hill",
+          "(b) Avi watered the plants too much",
+          "(c) The drainage was blocked by roots and old soil",
+          "(d) The mulch absorbed all the water"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 13,
+        "question": "What did Avi do first to fix the water problem?",
+        "options": [
+          "(a) He built a greenhouse over the beds",
+          "(b) He dug narrow channels to improve drainage",
+          "(c) He covered the beds with plastic sheets",
+          "(d) He moved all the plants indoors"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "What type of pesticide did Avi use against the insects?",
+        "options": [
+          "(a) A chemical spray from the hardware store",
+          "(b) A natural pesticide made from neem oil",
+          "(c) A homemade mixture of vinegar and salt",
+          "(d) An industrial-strength insect killer"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 15,
+        "question": "How did Avi deal with the fungus on the tomato leaves?",
+        "options": [
+          "(a) He sprayed the leaves with water every morning",
+          "(b) He removed the infected leaves through pruning and disposed of them",
+          "(c) He ignored the problem and hoped it would go away",
+          "(d) He replaced all the tomato plants with new ones"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 16,
+        "question": "Why did Avi pull out the weeds between the rows?",
+        "options": [
+          "(a) Because they looked ugly in the garden",
+          "(b) Because they attracted dangerous animals",
+          "(c) Because weeds steal nutrients from healthy plants",
+          "(d) Because his neighbor asked him to clean the garden"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 17,
+        "question": "What two items did Avi buy at the local nursery?",
+        "options": [
+          "(a) New seeds and garden tools",
+          "(b) Fertilizer and mulch",
+          "(c) Pots and soil",
+          "(d) Pesticide and compost"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 18,
+        "question": "Why did Avi transplant some seedlings into a new raised bed?",
+        "options": [
+          "(a) Because the original bed had been destroyed",
+          "(b) Because the seedlings were too crowded",
+          "(c) Because he wanted to grow different vegetables",
+          "(d) Because the nursery told him to do so"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 19,
+        "question": "Why did Avi give the hedges a thorough trimming?",
+        "options": [
+          "(a) So that more sunlight could reach the vegetables",
+          "(b) So that the garden would look nicer for visitors",
+          "(c) Because the city required him to cut them",
+          "(d) Because the hedges were blocking the front door"
+        ],
+        "correct_answer": "a"
+      },
+      {
+        "id": 20,
+        "question": "What did Avi do with all the garden waste in autumn?",
+        "options": [
+          "(a) He burned it in a fire pit",
+          "(b) He threw it in the regular trash",
+          "(c) He added it to his compost bin",
+          "(d) He left it on the ground as mulch"
+        ],
+        "correct_answer": "c"
+      }
+    ]
+  }
+}

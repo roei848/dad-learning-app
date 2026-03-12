@@ -1,0 +1,245 @@
+{
+  "section_id": "garden_basics_01",
+  "difficulty": "easy",
+  "title": "Garden Basics",
+  "category": "Garden",
+  "word_bank": [
+    {
+      "word": "Shovel",
+      "translation": "את חפירה",
+      "example": "I used a shovel to dig a hole for the new tree."
+    },
+    {
+      "word": "Rake",
+      "translation": "מגרפה",
+      "example": "He used the rake to gather all the fallen leaves."
+    },
+    {
+      "word": "Gloves",
+      "translation": "כפפות",
+      "example": "Always wear gloves when working with thorny plants."
+    },
+    {
+      "word": "Wheelbarrow",
+      "translation": "מריצה",
+      "example": "We loaded the wheelbarrow with soil and pushed it to the garden bed."
+    },
+    {
+      "word": "Soil",
+      "translation": "אדמה",
+      "example": "The soil in our garden is dark and rich."
+    },
+    {
+      "word": "Seeds",
+      "translation": "זרעים",
+      "example": "I planted sunflower seeds in the backyard last week."
+    },
+    {
+      "word": "Watering can",
+      "translation": "משפך השקיה",
+      "example": "She filled the watering can and gave each flower a drink."
+    },
+    {
+      "word": "Garden bed",
+      "translation": "ערוגה",
+      "example": "We built a raised garden bed for the vegetables."
+    },
+    {
+      "word": "Pot",
+      "translation": "עציץ",
+      "example": "The small herb is growing nicely in a clay pot on the windowsill."
+    },
+    {
+      "word": "Compost",
+      "translation": "קומפוסט",
+      "example": "We add compost to the soil to make it richer."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "The _____ in the backyard is perfect for growing tomatoes because it gets a lot of sun.",
+      "options": ["(a) Pot", "(b) Rake", "(c) Garden bed", "(d) Compost"],
+      "correct_answer": "c",
+      "hint_hebrew": "שטח מוגדר בגינה שבו שותלים צמחים"
+    },
+    {
+      "id": 2,
+      "question": "We loaded all the heavy rocks into the _____ and pushed it across the yard.",
+      "options": ["(a) Watering can", "(b) Wheelbarrow", "(c) Pot", "(d) Shovel"],
+      "correct_answer": "b",
+      "hint_hebrew": "עגלה עם גלגל אחד שדוחפים ביד"
+    },
+    {
+      "id": 3,
+      "question": "I bought a packet of tomato _____ and planted them in the soil this morning.",
+      "options": ["(a) Gloves", "(b) Seeds", "(c) Compost", "(d) Rake"],
+      "correct_answer": "b",
+      "hint_hebrew": "גרגרים קטנים שמהם צומח צמח חדש"
+    },
+    {
+      "id": 4,
+      "question": "After the autumn wind, I used the _____ to collect all the dry leaves from the lawn.",
+      "options": ["(a) Shovel", "(b) Pot", "(c) Rake", "(d) Watering can"],
+      "correct_answer": "c",
+      "hint_hebrew": "כלי עם שיניים ארוכות לאיסוף עלים"
+    },
+    {
+      "id": 5,
+      "question": "The basil plant was too small for the garden, so I kept it in a _____ on the kitchen table.",
+      "options": ["(a) Wheelbarrow", "(b) Garden bed", "(c) Compost", "(d) Pot"],
+      "correct_answer": "d",
+      "hint_hebrew": "כלי שבו מגדלים צמח בודד, בדרך כלל בבית"
+    },
+    {
+      "id": 6,
+      "question": "He grabbed the _____ and dug a deep hole for the new rose bush.",
+      "options": ["(a) Shovel", "(b) Gloves", "(c) Seeds", "(d) Rake"],
+      "correct_answer": "a",
+      "hint_hebrew": "כלי חפירה עם להב רחב"
+    },
+    {
+      "id": 7,
+      "question": "Put on your _____ before you touch the cactus — it has very sharp thorns.",
+      "options": ["(a) Seeds", "(b) Compost", "(c) Gloves", "(d) Soil"],
+      "correct_answer": "c",
+      "hint_hebrew": "כיסוי לידיים להגנה"
+    },
+    {
+      "id": 8,
+      "question": "We added kitchen scraps to the _____ bin to make natural food for the garden.",
+      "options": ["(a) Compost", "(b) Wheelbarrow", "(c) Watering can", "(d) Garden bed"],
+      "correct_answer": "a",
+      "hint_hebrew": "חומר טבעי שנוצר מפירוק שאריות אוכל"
+    },
+    {
+      "id": 9,
+      "question": "The _____ felt dry and sandy, so we mixed in some organic material.",
+      "options": ["(a) Rake", "(b) Soil", "(c) Pot", "(d) Gloves"],
+      "correct_answer": "b",
+      "hint_hebrew": "האדמה שבה הצמחים גדלים"
+    },
+    {
+      "id": 10,
+      "question": "She filled the _____ with water and gently poured it over the flowers.",
+      "options": ["(a) Wheelbarrow", "(b) Shovel", "(c) Watering can", "(d) Seeds"],
+      "correct_answer": "c",
+      "hint_hebrew": "כלי עם פיה מיוחדת להשקיית צמחים"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "Every Saturday morning, Avi puts on his old work clothes, grabs his gloves, and heads out to the garden. It is his favorite part of the week. His wife Miriam always says he loves his garden more than the television.\n\nThis morning, Avi decided to build a new raised garden bed near the fence. He used his shovel to dig out the area and level the ground. Then he filled his wheelbarrow with fresh soil from the pile near the shed and spread it evenly inside the wooden frame.\n\nAvi had bought a packet of cucumber seeds and a packet of lettuce seeds at the market yesterday. He made small rows in the soil with his fingers, dropped the seeds in carefully, and covered them gently. Then he took the watering can, filled it from the tap, and gave the new garden bed a good drink.\n\nNear the kitchen window, Miriam keeps three clay pots with herbs — basil, mint, and parsley. Avi noticed the basil pot looked too small, so he found a bigger pot in the shed and carefully moved the plant into it. He added a handful of compost to give the basil extra nutrition.\n\nAfter working for two hours, Avi used the rake to clean up the fallen leaves on the lawn. He put the leaves into the compost bin behind the shed. Then he washed his tools with the hose, took off his dirty gloves, and went inside for a cup of coffee. Miriam had already prepared breakfast. She smiled and said, \"The garden is lucky to have you.\"",
+    "questions": [
+      {
+        "id": 11,
+        "question": "When does Avi usually work in his garden?",
+        "options": [
+          "(a) Every Friday evening",
+          "(b) Every Saturday morning",
+          "(c) Every Sunday afternoon",
+          "(d) Every weekday before work"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 12,
+        "question": "What did Avi decide to build near the fence?",
+        "options": [
+          "(a) A tool shed",
+          "(b) A compost bin",
+          "(c) A raised garden bed",
+          "(d) A wooden bench"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 13,
+        "question": "What tool did Avi use to carry the fresh soil?",
+        "options": [
+          "(a) A rake",
+          "(b) A watering can",
+          "(c) A bucket",
+          "(d) A wheelbarrow"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 14,
+        "question": "What seeds did Avi plant in the new garden bed?",
+        "options": [
+          "(a) Tomato and pepper",
+          "(b) Cucumber and lettuce",
+          "(c) Carrot and onion",
+          "(d) Sunflower and basil"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 15,
+        "question": "What does Miriam keep in clay pots near the kitchen window?",
+        "options": [
+          "(a) Flowers",
+          "(b) Vegetables",
+          "(c) Herbs — basil, mint, and parsley",
+          "(d) Cactus plants"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 16,
+        "question": "Why did Avi move the basil to a bigger pot?",
+        "options": [
+          "(a) Because the basil was dying",
+          "(b) Because the old pot looked too small",
+          "(c) Because Miriam asked him to",
+          "(d) Because he wanted it outside"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 17,
+        "question": "What did Avi add to the basil's new pot for extra nutrition?",
+        "options": [
+          "(a) Sugar",
+          "(b) Fertilizer pellets",
+          "(c) A handful of compost",
+          "(d) Sand"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 18,
+        "question": "What did Avi use the rake for?",
+        "options": [
+          "(a) Digging holes for seeds",
+          "(b) Watering the flowers",
+          "(c) Cleaning up fallen leaves on the lawn",
+          "(d) Breaking up large rocks"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 19,
+        "question": "Where did Avi put the fallen leaves?",
+        "options": [
+          "(a) In the trash can",
+          "(b) In the compost bin behind the shed",
+          "(c) In the wheelbarrow",
+          "(d) On the garden bed"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 20,
+        "question": "What did Miriam say to Avi when he came inside?",
+        "options": [
+          "(a) \"You spent too long outside.\"",
+          "(b) \"The garden looks terrible.\"",
+          "(c) \"The garden is lucky to have you.\"",
+          "(d) \"Please go back and finish.\""
+        ],
+        "correct_answer": "c"
+      }
+    ]
+  }
+}

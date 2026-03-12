@@ -1,5 +1,5 @@
 import React, { useEffect, useMemo, useState } from 'react';
-import { Coffee, Globe, Heart, Star, Trophy } from 'lucide-react';
+import { Coffee, Globe, Heart, Sprout, Star, Trophy } from 'lucide-react';
 import Home from './Home';
 import beachData from '../../data/travel/beach.json';
 import hotelData from '../../data/travel/hotel.json';
@@ -50,6 +50,11 @@ import moviesCinema02Data from '../../data/culture/movies_cinema_02.json';
 import artMuseums01Data from '../../data/culture/art_museums_01.json';
 import literature01Data from '../../data/culture/literature_01.json';
 import culturalIdioms01Data from '../../data/culture/cultural_idioms_01.json';
+import gardenBasics01Data from '../../data/garden/garden_basics_01.json';
+import flowersPlants01Data from '../../data/garden/flowers_plants_01.json';
+import vegetableGarden01Data from '../../data/garden/vegetable_garden_01.json';
+import gardenCare01Data from '../../data/garden/garden_care_01.json';
+import seasonsHarvest01Data from '../../data/garden/seasons_harvest_01.json';
 import type { CategoryMeta, Difficulty, SectionMeta } from '../../types';
 import { startSection } from '../../store/sessionSlice';
 import { loadSections } from '../../store/sectionsSlice';
@@ -62,6 +67,7 @@ const CATEGORY_ICONS: Record<string, React.ReactNode> = {
   'Daily Life': <Coffee size={48} />,
   Family: <Heart size={48} />,
   Culture: <Star size={48} />,
+  Garden: <Sprout size={48} />,
 };
 
 const HomeContainer: React.FC = () => {
@@ -413,6 +419,41 @@ const HomeContainer: React.FC = () => {
         category: culturalIdioms01Data.category,
         icon: 'MessageSquare',
         difficulty: culturalIdioms01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: gardenBasics01Data.section_id,
+        title: gardenBasics01Data.title,
+        category: gardenBasics01Data.category,
+        icon: 'Sprout',
+        difficulty: gardenBasics01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: flowersPlants01Data.section_id,
+        title: flowersPlants01Data.title,
+        category: flowersPlants01Data.category,
+        icon: 'Flower2',
+        difficulty: flowersPlants01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: vegetableGarden01Data.section_id,
+        title: vegetableGarden01Data.title,
+        category: vegetableGarden01Data.category,
+        icon: 'Carrot',
+        difficulty: vegetableGarden01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: gardenCare01Data.section_id,
+        title: gardenCare01Data.title,
+        category: gardenCare01Data.category,
+        icon: 'Scissors',
+        difficulty: gardenCare01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: seasonsHarvest01Data.section_id,
+        title: seasonsHarvest01Data.title,
+        category: seasonsHarvest01Data.category,
+        icon: 'Sun',
+        difficulty: seasonsHarvest01Data.difficulty as Difficulty,
       },
     ];
     dispatch(loadSections(sectionsMeta));

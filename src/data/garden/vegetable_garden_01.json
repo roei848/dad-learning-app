@@ -1,0 +1,295 @@
+{
+  "section_id": "vegetable_garden_01",
+  "difficulty": "easy",
+  "title": "Vegetable Garden",
+  "category": "Garden",
+  "word_bank": [
+    {
+      "word": "Seedling",
+      "translation": "שתיל",
+      "example": "I bought a small tomato seedling and planted it in the garden."
+    },
+    {
+      "word": "Row",
+      "translation": "שורה / תלם",
+      "example": "I planted the carrots in a straight row so they would grow evenly."
+    },
+    {
+      "word": "Sprout",
+      "translation": "נבט / לנבוט",
+      "example": "After a few days, a tiny green sprout appeared above the soil."
+    },
+    {
+      "word": "Ripe",
+      "translation": "בשל",
+      "example": "The tomato turned bright red, which means it is ripe and ready to eat."
+    },
+    {
+      "word": "Vine",
+      "translation": "גפן / צמח מטפס",
+      "example": "The cucumber vine grew long and started climbing up the wooden fence."
+    },
+    {
+      "word": "Crop",
+      "translation": "יבול / גידול",
+      "example": "This year we had a wonderful crop of peppers from our garden."
+    },
+    {
+      "word": "Irrigation",
+      "translation": "השקיה",
+      "example": "We set up an irrigation system to water the vegetables every morning."
+    },
+    {
+      "word": "Greenhouse",
+      "translation": "חממה",
+      "example": "In winter, we grow lettuce inside the greenhouse where it stays warm."
+    },
+    {
+      "word": "Patch",
+      "translation": "חלקה",
+      "example": "Grandma has a small vegetable patch behind her house where she grows herbs."
+    },
+    {
+      "word": "Herb",
+      "translation": "עשב תיבול",
+      "example": "Basil is my favorite herb to add to pasta and salads."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "The tomatoes on the _____ climbed all the way up to the top of the fence.",
+      "options": [
+        "(a) Patch",
+        "(b) Vine",
+        "(c) Row",
+        "(d) Crop"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "צמח מטפס שגדל לאורך"
+    },
+    {
+      "id": 2,
+      "question": "We had a great _____ of zucchini this summer — enough to share with the neighbors.",
+      "options": [
+        "(a) Seedling",
+        "(b) Herb",
+        "(c) Crop",
+        "(d) Sprout"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "כל היבול שאספנו מהגינה"
+    },
+    {
+      "id": 3,
+      "question": "I set up a drip _____ system so the garden gets water even when I am at work.",
+      "options": [
+        "(a) Greenhouse",
+        "(b) Irrigation",
+        "(c) Patch",
+        "(d) Row"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "שיטה להשקות את הצמחים"
+    },
+    {
+      "id": 4,
+      "question": "The pepper is not _____ yet — it is still green and needs a few more days in the sun.",
+      "options": [
+        "(a) Ripe",
+        "(b) Vine",
+        "(c) Herb",
+        "(d) Seedling"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "כשפרי מוכן לאכילה ובשל"
+    },
+    {
+      "id": 5,
+      "question": "I planted the beans in a long, straight _____ from one end of the garden to the other.",
+      "options": [
+        "(a) Sprout",
+        "(b) Greenhouse",
+        "(c) Crop",
+        "(d) Row"
+      ],
+      "correct_answer": "d",
+      "hint_hebrew": "שורה ישרה של צמחים"
+    },
+    {
+      "id": 6,
+      "question": "After just five days, a small green _____ pushed through the dark soil.",
+      "options": [
+        "(a) Patch",
+        "(b) Sprout",
+        "(c) Vine",
+        "(d) Irrigation"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "צמח קטן שמתחיל לצמוח מהאדמה"
+    },
+    {
+      "id": 7,
+      "question": "Basil is an easy _____ to grow at home, and it smells wonderful.",
+      "options": [
+        "(a) Herb",
+        "(b) Seedling",
+        "(c) Crop",
+        "(d) Row"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "צמח תיבול שמוסיפים לאוכל"
+    },
+    {
+      "id": 8,
+      "question": "We grow tomatoes inside the _____ during winter because it keeps them warm.",
+      "options": [
+        "(a) Patch",
+        "(b) Row",
+        "(c) Greenhouse",
+        "(d) Vine"
+      ],
+      "correct_answer": "c",
+      "hint_hebrew": "מבנה שקוף ששומר על צמחים בחום"
+    },
+    {
+      "id": 9,
+      "question": "I bought a tiny tomato _____ at the market and planted it in a pot.",
+      "options": [
+        "(a) Crop",
+        "(b) Seedling",
+        "(c) Irrigation",
+        "(d) Herb"
+      ],
+      "correct_answer": "b",
+      "hint_hebrew": "צמח צעיר וקטן שמוכן לשתילה"
+    },
+    {
+      "id": 10,
+      "question": "Grandma has a small vegetable _____ behind her house where she grows cucumbers.",
+      "options": [
+        "(a) Patch",
+        "(b) Sprout",
+        "(c) Vine",
+        "(d) Greenhouse"
+      ],
+      "correct_answer": "a",
+      "hint_hebrew": "חלקת אדמה קטנה לגידול ירקות"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "Every spring, David looks forward to working in his backyard vegetable garden. He starts early in the season by visiting the local market, where he picks out small seedlings of tomatoes, peppers, and cucumbers. He also buys seeds for carrots and beans.\n\nBack at home, David prepares the soil in his vegetable patch. He digs the earth, removes stones, and adds fresh compost. Then he plants the seedlings and seeds in neat rows, leaving enough space between each one so they can grow well.\n\nAfter a week or two, tiny green sprouts begin to push through the soil. David feels happy every time he sees a new one appear. He waters the garden every morning, but this year he decided to install a simple irrigation system with small tubes that drip water slowly to each plant. This saves him time and keeps the soil moist.\n\nAs the weeks pass, the cucumber and tomato plants grow long vines that climb up the wooden stakes David placed in the ground. He also built a small greenhouse from clear plastic sheets, where he grows lettuce and herbs like basil and parsley. The greenhouse keeps these plants warm on cool nights.\n\nBy midsummer, the garden is full of color. The tomatoes are turning red, which means they are ripe and ready to pick. David fills a big basket with tomatoes, cucumbers, peppers, and fresh herbs. He is proud of his crop this year — it is the best one he has ever had.\n\nThat evening, David makes a big salad with everything he picked from the garden. His family sits together at the dinner table, and his children say it is the most delicious salad they have ever tasted. David smiles and thinks that all the hard work in the garden was worth it.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "When does David start preparing his vegetable garden?",
+        "options": [
+          "(a) In the middle of summer",
+          "(b) In the autumn",
+          "(c) Every spring",
+          "(d) During the winter"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 12,
+        "question": "What does David buy at the local market?",
+        "options": [
+          "(a) Garden tools and gloves",
+          "(b) Seedlings of tomatoes, peppers, and cucumbers",
+          "(c) Bags of ripe vegetables",
+          "(d) Flowers and decorations"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 13,
+        "question": "How does David arrange the plants in his garden?",
+        "options": [
+          "(a) He scatters them randomly",
+          "(b) He plants them in neat rows with space between them",
+          "(c) He puts all of them in one big pot",
+          "(d) He plants them very close together"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "What happens after a week or two of planting?",
+        "options": [
+          "(a) The plants start to die",
+          "(b) Nothing changes in the garden",
+          "(c) Tiny green sprouts push through the soil",
+          "(d) The vegetables are ready to eat"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 15,
+        "question": "Why did David install an irrigation system?",
+        "options": [
+          "(a) Because his neighbor told him to",
+          "(b) Because he wanted to decorate the garden",
+          "(c) To save time and keep the soil moist",
+          "(d) Because the plants did not need water"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 16,
+        "question": "What do the cucumber and tomato plants grow?",
+        "options": [
+          "(a) Short bushes close to the ground",
+          "(b) Long vines that climb up wooden stakes",
+          "(c) Thick tree trunks",
+          "(d) Wide leaves that cover the soil"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 17,
+        "question": "What does David grow inside his greenhouse?",
+        "options": [
+          "(a) Tomatoes and peppers",
+          "(b) Carrots and beans",
+          "(c) Lettuce and herbs like basil and parsley",
+          "(d) Cucumbers and watermelons"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 18,
+        "question": "How does David know the tomatoes are ready to pick?",
+        "options": [
+          "(a) They fall off the vine by themselves",
+          "(b) They are turning red, which means they are ripe",
+          "(c) The leaves around them turn yellow",
+          "(d) They become very small"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 19,
+        "question": "How does David feel about his crop this year?",
+        "options": [
+          "(a) Disappointed because it was small",
+          "(b) Worried because the vegetables taste bad",
+          "(c) Proud because it is the best crop he has ever had",
+          "(d) Upset because animals ate the vegetables"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 20,
+        "question": "What does David make with the vegetables he picked?",
+        "options": [
+          "(a) A big pot of soup",
+          "(b) A vegetable pizza",
+          "(c) A big salad for his family",
+          "(d) A sandwich for lunch"
+        ],
+        "correct_answer": "c"
+      }
+    ]
+  }
+}
