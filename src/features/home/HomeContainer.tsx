@@ -1,5 +1,5 @@
 import React, { useEffect, useMemo, useState } from 'react';
-import { Coffee, Globe, Heart, Sprout, Star, Trophy } from 'lucide-react';
+import { Coffee, Globe, HardHat, Heart, Sprout, Star, Trophy } from 'lucide-react';
 import Home from './Home';
 import beachData from '../../data/travel/beach.json';
 import hotelData from '../../data/travel/hotel.json';
@@ -55,6 +55,14 @@ import flowersPlants01Data from '../../data/garden/flowers_plants_01.json';
 import vegetableGarden01Data from '../../data/garden/vegetable_garden_01.json';
 import gardenCare01Data from '../../data/garden/garden_care_01.json';
 import seasonsHarvest01Data from '../../data/garden/seasons_harvest_01.json';
+import homeTools01Data from '../../data/home_diy/home_tools_01.json';
+import homePlumbing01Data from '../../data/home_diy/home_plumbing_01.json';
+import homeElectrical01Data from '../../data/home_diy/home_electrical_01.json';
+import homePainting01Data from '../../data/home_diy/home_painting_01.json';
+import homeCarpentry01Data from '../../data/home_diy/home_carpentry_01.json';
+import homeCar01Data from '../../data/home_diy/home_car_01.json';
+import homeCleaning01Data from '../../data/home_diy/home_cleaning_01.json';
+import homeRenovation01Data from '../../data/home_diy/home_renovation_01.json';
 import type { CategoryMeta, Difficulty, SectionMeta } from '../../types';
 import { startSection } from '../../store/sessionSlice';
 import { loadSections } from '../../store/sectionsSlice';
@@ -68,6 +76,7 @@ const CATEGORY_ICONS: Record<string, React.ReactNode> = {
   Family: <Heart size={48} />,
   Culture: <Star size={48} />,
   Garden: <Sprout size={48} />,
+  'Home & DIY': <HardHat size={48} />,
 };
 
 const HomeContainer: React.FC = () => {
@@ -454,6 +463,62 @@ const HomeContainer: React.FC = () => {
         category: seasonsHarvest01Data.category,
         icon: 'Sun',
         difficulty: seasonsHarvest01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: homeTools01Data.section_id,
+        title: homeTools01Data.title,
+        category: homeTools01Data.category,
+        icon: 'Wrench',
+        difficulty: homeTools01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: homePlumbing01Data.section_id,
+        title: homePlumbing01Data.title,
+        category: homePlumbing01Data.category,
+        icon: 'Droplets',
+        difficulty: homePlumbing01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: homeElectrical01Data.section_id,
+        title: homeElectrical01Data.title,
+        category: homeElectrical01Data.category,
+        icon: 'Zap',
+        difficulty: homeElectrical01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: homePainting01Data.section_id,
+        title: homePainting01Data.title,
+        category: homePainting01Data.category,
+        icon: 'Paintbrush',
+        difficulty: homePainting01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: homeCarpentry01Data.section_id,
+        title: homeCarpentry01Data.title,
+        category: homeCarpentry01Data.category,
+        icon: 'Hammer',
+        difficulty: homeCarpentry01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: homeCar01Data.section_id,
+        title: homeCar01Data.title,
+        category: homeCar01Data.category,
+        icon: 'Car',
+        difficulty: homeCar01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: homeCleaning01Data.section_id,
+        title: homeCleaning01Data.title,
+        category: homeCleaning01Data.category,
+        icon: 'Sparkles',
+        difficulty: homeCleaning01Data.difficulty as Difficulty,
+      },
+      {
+        section_id: homeRenovation01Data.section_id,
+        title: homeRenovation01Data.title,
+        category: homeRenovation01Data.category,
+        icon: 'HardHat',
+        difficulty: homeRenovation01Data.difficulty as Difficulty,
       },
     ];
     dispatch(loadSections(sectionsMeta));

@@ -1,0 +1,245 @@
+{
+  "section_id": "home_renovation_01",
+  "difficulty": "easy",
+  "title": "Home Renovation",
+  "category": "Home & DIY",
+  "word_bank": [
+    {
+      "word": "Drill",
+      "translation": "מקדחה",
+      "example": "He used a drill to make holes in the wall for the new shelves."
+    },
+    {
+      "word": "Hammer",
+      "translation": "פטיש",
+      "example": "She hit the nail with a hammer until it was flush with the wood."
+    },
+    {
+      "word": "Nail",
+      "translation": "מסמר",
+      "example": "He drove a nail into the wall to hang the picture frame."
+    },
+    {
+      "word": "Screw",
+      "translation": "בורג",
+      "example": "Use a longer screw to make sure the shelf stays firmly in place."
+    },
+    {
+      "word": "Paintbrush",
+      "translation": "מברשת צבע",
+      "example": "She dipped the paintbrush in white paint and started on the ceiling."
+    },
+    {
+      "word": "Level",
+      "translation": "פלס",
+      "example": "He checked the shelf with a level to make sure it was not crooked."
+    },
+    {
+      "word": "Tape measure",
+      "translation": "סרט מדידה",
+      "example": "Before cutting the wood, always check the length with a tape measure."
+    },
+    {
+      "word": "Sandpaper",
+      "translation": "נייר זכוכית / שמיר",
+      "example": "He rubbed the rough wooden surface with sandpaper until it felt smooth."
+    },
+    {
+      "word": "Plaster",
+      "translation": "טיח / גבס",
+      "example": "She filled the crack in the wall with plaster before painting."
+    },
+    {
+      "word": "Ladder",
+      "translation": "סולם",
+      "example": "He climbed the ladder to reach the top of the wall."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "She climbed the _____ to paint the upper part of the wall near the ceiling.",
+      "options": ["(a) Level", "(b) Ladder", "(c) Drill", "(d) Plaster"],
+      "correct_answer": "b",
+      "hint_hebrew": "מבנה עם שלבים המאפשר לטפס לגובה"
+    },
+    {
+      "id": 2,
+      "question": "He used a _____ to make four holes in the concrete wall for the new shelf brackets.",
+      "options": ["(a) Hammer", "(b) Sandpaper", "(c) Drill", "(d) Tape measure"],
+      "correct_answer": "c",
+      "hint_hebrew": "כלי חשמלי או ידני המכין חורים בקירות"
+    },
+    {
+      "id": 3,
+      "question": "Before painting, she filled the crack with _____ and let it dry overnight.",
+      "options": ["(a) Plaster", "(b) Screw", "(c) Paintbrush", "(d) Nail"],
+      "correct_answer": "a",
+      "hint_hebrew": "חומר ממלא לסתימת חורים וסדקים בקירות"
+    },
+    {
+      "id": 4,
+      "question": "She checked that the picture was straight by placing the _____ along the top edge.",
+      "options": ["(a) Sandpaper", "(b) Ladder", "(c) Level", "(d) Hammer"],
+      "correct_answer": "c",
+      "hint_hebrew": "כלי שבודק אם משהו מונח ישר ואופקי"
+    },
+    {
+      "id": 5,
+      "question": "He measured the gap with a _____ before cutting the piece of wood.",
+      "options": ["(a) Tape measure", "(b) Nail", "(c) Drill", "(d) Paintbrush"],
+      "correct_answer": "a",
+      "hint_hebrew": "סרט גמיש לוחות המשמש למדידת אורכים"
+    },
+    {
+      "id": 6,
+      "question": "The wooden surface felt rough, so she smoothed it down with _____.",
+      "options": ["(a) Plaster", "(b) Screw", "(c) Level", "(d) Sandpaper"],
+      "correct_answer": "d",
+      "hint_hebrew": "נייר מחוספס המשמש להחלקת עץ או קיר"
+    },
+    {
+      "id": 7,
+      "question": "He tightened the _____ with a screwdriver until the hinge was firmly attached to the door.",
+      "options": ["(a) Nail", "(b) Screw", "(c) Hammer", "(d) Ladder"],
+      "correct_answer": "b",
+      "hint_hebrew": "חיבור מתכתי עם חריץ שמסתובב לתוך החומר"
+    },
+    {
+      "id": 8,
+      "question": "She used a wide _____ to apply the first coat of paint to the bedroom wall.",
+      "options": ["(a) Paintbrush", "(b) Drill", "(c) Tape measure", "(d) Plaster"],
+      "correct_answer": "a",
+      "hint_hebrew": "כלי עם שיערות לטבילה בצבע ומריחה על קיר"
+    },
+    {
+      "id": 9,
+      "question": "He knocked the _____ into the wall with three firm hits and hung the clock on it.",
+      "options": ["(a) Screw", "(b) Level", "(c) Sandpaper", "(d) Nail"],
+      "correct_answer": "d",
+      "hint_hebrew": "פין מתכתי חד שמכים אותו לתוך חומר"
+    },
+    {
+      "id": 10,
+      "question": "She held the _____ steady and hit the chisel cleanly to break away the old tile.",
+      "options": ["(a) Drill", "(b) Hammer", "(c) Tape measure", "(d) Ladder"],
+      "correct_answer": "b",
+      "hint_hebrew": "כלי כבד עם ראש מתכת להכאה"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "Avi had been planning to renovate the small study room for months. One long weekend, he finally decided to do it himself. He laid out all his tools on the floor: a hammer, a drill, a tape measure, a level, sandpaper, plaster, a paintbrush, screws, nails, and a ladder.\n\nHe started by measuring the wall with the tape measure. He wanted to put up two long wooden shelves. After marking the spots with a pencil, he pressed the level against the wall to make sure the marks were perfectly horizontal. Then he picked up the drill and made four clean holes at the marked positions.\n\nBefore inserting the wall plugs and screws, Avi noticed a long crack running across the lower part of the wall. He mixed a small amount of plaster, pressed it firmly into the crack with a spatula, and smoothed it flat. He let it dry for an hour.\n\nOnce the plaster was dry, he rubbed it down with sandpaper until the surface was smooth and even. Then he painted the entire wall with two coats of soft white paint using a wide paintbrush. For the top of the wall near the ceiling, he climbed the ladder carefully.\n\nAfter the paint dried, he attached the shelf brackets using screws and a screwdriver. He placed the wooden boards on the brackets and tapped a nail at each end to hold them in place. He checked everything one more time with the level. The shelves were straight and solid. Avi stepped back, looked at the room, and felt very proud of his work.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "When did Avi finally decide to renovate the study room?",
+        "options": [
+          "(a) During a regular weekday evening",
+          "(b) Over a long weekend",
+          "(c) After calling a professional",
+          "(d) On a Friday morning"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 12,
+        "question": "What did Avi want to put on the wall?",
+        "options": [
+          "(a) A large painting",
+          "(b) New tiles",
+          "(c) Two long wooden shelves",
+          "(d) A television bracket"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 13,
+        "question": "What did Avi use to check that his pencil marks were perfectly horizontal?",
+        "options": [
+          "(a) The tape measure",
+          "(b) A ruler",
+          "(c) The level",
+          "(d) His eyes"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 14,
+        "question": "What did Avi discover before inserting the screws?",
+        "options": [
+          "(a) The wall was too thin",
+          "(b) A long crack in the lower part of the wall",
+          "(c) He had the wrong size drill bit",
+          "(d) The shelves were the wrong length"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 15,
+        "question": "What did Avi use to fix the crack in the wall?",
+        "options": [
+          "(a) Glue",
+          "(b) Paint",
+          "(c) Sandpaper",
+          "(d) Plaster"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 16,
+        "question": "How long did Avi let the plaster dry?",
+        "options": [
+          "(a) Ten minutes",
+          "(b) One hour",
+          "(c) Overnight",
+          "(d) Two days"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 17,
+        "question": "What did Avi do to the dried plaster before painting?",
+        "options": [
+          "(a) He poured water on it",
+          "(b) He hit it with the hammer",
+          "(c) He rubbed it down with sandpaper",
+          "(d) He drilled a hole through it"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 18,
+        "question": "How many coats of paint did Avi apply to the wall?",
+        "options": [
+          "(a) One coat",
+          "(b) Three coats",
+          "(c) Four coats",
+          "(d) Two coats"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 19,
+        "question": "Why did Avi climb the ladder?",
+        "options": [
+          "(a) To reach the ceiling light",
+          "(b) To paint the top of the wall near the ceiling",
+          "(c) To drill holes at the top of the wall",
+          "(d) To measure the wall height"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 20,
+        "question": "How did Avi feel when he finished the room?",
+        "options": [
+          "(a) Disappointed with the result",
+          "(b) Too tired to care",
+          "(c) Very proud of his work",
+          "(d) Angry that it took so long"
+        ],
+        "correct_answer": "c"
+      }
+    ]
+  }
+}

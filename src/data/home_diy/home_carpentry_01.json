@@ -1,0 +1,245 @@
+{
+  "section_id": "home_carpentry_01",
+  "difficulty": "easy",
+  "title": "Home Carpentry",
+  "category": "Home DIY",
+  "word_bank": [
+    {
+      "word": "Hammer",
+      "translation": "פטיש",
+      "example": "He used a hammer to drive the nail into the wooden board."
+    },
+    {
+      "word": "Nail",
+      "translation": "מסמר",
+      "example": "She hammered a nail into the wall to hang the picture frame."
+    },
+    {
+      "word": "Drill",
+      "translation": "מקדחה",
+      "example": "He used a drill to make a hole in the shelf before inserting the screw."
+    },
+    {
+      "word": "Screw",
+      "translation": "בורג",
+      "example": "Tighten every screw so the shelf does not wobble."
+    },
+    {
+      "word": "Saw",
+      "translation": "מסור",
+      "example": "She used a saw to cut the plank to the right length."
+    },
+    {
+      "word": "Plank",
+      "translation": "קרש עץ",
+      "example": "He placed a long wooden plank across two supports to make a simple shelf."
+    },
+    {
+      "word": "Measuring tape",
+      "translation": "סרט מדידה",
+      "example": "Always use a measuring tape before cutting wood to avoid mistakes."
+    },
+    {
+      "word": "Level",
+      "translation": "פלס",
+      "example": "He held the level against the shelf to check that it was perfectly horizontal."
+    },
+    {
+      "word": "Sandpaper",
+      "translation": "נייר זכוכית",
+      "example": "She sanded the wooden surface with sandpaper until it was smooth."
+    },
+    {
+      "word": "Wood glue",
+      "translation": "דבק עץ",
+      "example": "He applied wood glue to both pieces before pressing them together."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "He checked the shelf with a _____ to make sure it was not tilting to one side.",
+      "options": ["(a) Drill", "(b) Level", "(c) Saw", "(d) Hammer"],
+      "correct_answer": "b",
+      "hint_hebrew": "כלי שבודק אם משהו ישר לגמרי"
+    },
+    {
+      "id": 2,
+      "question": "She measured the wall with a _____ before deciding how long to cut the board.",
+      "options": ["(a) Measuring tape", "(b) Screw", "(c) Wood glue", "(d) Plank"],
+      "correct_answer": "a",
+      "hint_hebrew": "סרט גמיש עם סנטימטרים שמודדים בו"
+    },
+    {
+      "id": 3,
+      "question": "He used a _____ to cut the long wooden board into two equal pieces.",
+      "options": ["(a) Sandpaper", "(b) Level", "(c) Saw", "(d) Drill"],
+      "correct_answer": "c",
+      "hint_hebrew": "כלי עם להב משונן לחיתוך עץ"
+    },
+    {
+      "id": 4,
+      "question": "She applied _____ along the joint and pressed the two pieces of wood firmly together.",
+      "options": ["(a) Wood glue", "(b) Nail", "(c) Sandpaper", "(d) Screw"],
+      "correct_answer": "a",
+      "hint_hebrew": "חומר דביק מיוחד שמחבר חתיכות עץ"
+    },
+    {
+      "id": 5,
+      "question": "Before painting the shelf, he rubbed the surface with _____ to remove the rough texture.",
+      "options": ["(a) Measuring tape", "(b) Plank", "(c) Wood glue", "(d) Sandpaper"],
+      "correct_answer": "d",
+      "hint_hebrew": "נייר מחוספס שמחליק משטחים"
+    },
+    {
+      "id": 6,
+      "question": "He laid a wide _____ across the two brackets to create a simple storage shelf.",
+      "options": ["(a) Plank", "(b) Drill", "(c) Hammer", "(d) Level"],
+      "correct_answer": "a",
+      "hint_hebrew": "לוח עץ ארוך ושטוח"
+    },
+    {
+      "id": 7,
+      "question": "She used a _____ to make pilot holes in the wall before inserting the wall anchors.",
+      "options": ["(a) Saw", "(b) Nail", "(c) Measuring tape", "(d) Drill"],
+      "correct_answer": "d",
+      "hint_hebrew": "כלי חשמלי שמקדח חורים"
+    },
+    {
+      "id": 8,
+      "question": "He hit the _____ three times with the hammer until it was completely inside the wood.",
+      "options": ["(a) Level", "(b) Nail", "(c) Sandpaper", "(d) Wood glue"],
+      "correct_answer": "b",
+      "hint_hebrew": "חתיכת מתכת חדה שמסמרים בפטיש"
+    },
+    {
+      "id": 9,
+      "question": "She tightened each _____ with the electric driver until the bookcase stopped shaking.",
+      "options": ["(a) Screw", "(b) Plank", "(c) Hammer", "(d) Saw"],
+      "correct_answer": "a",
+      "hint_hebrew": "חתיכת מתכת עם חריץ שמחברים עם מברג"
+    },
+    {
+      "id": 10,
+      "question": "He picked up the _____ and drove the last nail into the frame with two firm strikes.",
+      "options": ["(a) Drill", "(b) Measuring tape", "(c) Hammer", "(d) Wood glue"],
+      "correct_answer": "c",
+      "hint_hebrew": "כלי כבד ומקושקש שמוצאים בארגז כלים"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "Avi wanted to build a bookcase for the hallway. He had been collecting books for years, and they were stacked in piles on the floor. One Sunday morning, he went to the hardware store and bought six wooden planks, a box of screws, and a small bottle of wood glue.\n\nBack home, he cleared a space in the garage and laid out all his tools: the drill, the saw, the hammer, the level, the measuring tape, and a sheet of sandpaper. He started by measuring each plank carefully with the measuring tape and marking where to cut.\n\nHe put on his safety glasses and used the saw to cut the planks to the right lengths. The cutting made a lot of sawdust, so he swept the floor before moving on. Then he rubbed each cut edge with sandpaper until the wood felt smooth under his fingers.\n\nAvi applied wood glue along the joints and held the pieces together. Then he pre-drilled small holes with the drill so the wood would not split. He drove each screw firmly into place. When the frame was assembled, he put the level on the top shelf to check that everything was straight. He had to loosen two screws and adjust slightly before it was perfectly level.\n\nHe carried the bookcase inside and placed it against the hallway wall. He used the hammer to tap in a few nails at the back to fix it to the wall so it would not fall forward. Miriam walked by and immediately started arranging books on the shelves. \"You built this yourself?\" she said, clearly impressed. Avi smiled. \"Measure twice, cut once,\" he said.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "Why did Avi want to build a bookcase?",
+        "options": [
+          "(a) Miriam asked him to",
+          "(b) The old bookcase was broken",
+          "(c) His books were stacked in piles on the floor",
+          "(d) He wanted a new hobby"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 12,
+        "question": "What did Avi buy at the hardware store?",
+        "options": [
+          "(a) Nails, paint, and a hammer",
+          "(b) Six planks, a box of screws, and wood glue",
+          "(c) A drill, a saw, and sandpaper",
+          "(d) Brackets, bolts, and a level"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 13,
+        "question": "What did Avi use to measure the planks before cutting?",
+        "options": [
+          "(a) A level",
+          "(b) A ruler on the workbench",
+          "(c) A measuring tape",
+          "(d) The saw itself"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 14,
+        "question": "What did Avi do to the cut edges of the wood?",
+        "options": [
+          "(a) Painted them with wood glue",
+          "(b) Rubbed them with sandpaper until smooth",
+          "(c) Drilled holes through them",
+          "(d) Wrapped them with tape"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 15,
+        "question": "Why did Avi pre-drill small holes before inserting the screws?",
+        "options": [
+          "(a) So the screws would go in faster",
+          "(b) So the wood would not split",
+          "(c) Because the wood was too thin",
+          "(d) Because the screws were too short"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 16,
+        "question": "What did Avi use to check that the bookcase was straight?",
+        "options": [
+          "(a) The measuring tape",
+          "(b) His eye",
+          "(c) A level",
+          "(d) The drill"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 17,
+        "question": "What did Avi have to do to make the bookcase perfectly level?",
+        "options": [
+          "(a) Add more wood glue",
+          "(b) Cut one plank shorter",
+          "(c) Loosen two screws and adjust slightly",
+          "(d) Replace the bottom plank"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 18,
+        "question": "How did Avi fix the bookcase to the wall?",
+        "options": [
+          "(a) With wood glue",
+          "(b) With screws through the sides",
+          "(c) With a metal bracket",
+          "(d) With a hammer and nails at the back"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 19,
+        "question": "What did Miriam do when she saw the finished bookcase?",
+        "options": [
+          "(a) She checked it with the level",
+          "(b) She immediately started arranging books on the shelves",
+          "(c) She asked Avi to paint it",
+          "(d) She moved it to the living room"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 20,
+        "question": "What saying did Avi use at the end of the story?",
+        "options": [
+          "(a) \"If it is not broken, do not fix it.\"",
+          "(b) \"Work hard, play harder.\"",
+          "(c) \"Measure twice, cut once.\"",
+          "(d) \"The right tool for the right job.\""
+        ],
+        "correct_answer": "c"
+      }
+    ]
+  }
+}

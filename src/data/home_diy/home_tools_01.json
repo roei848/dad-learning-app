@@ -1,0 +1,245 @@
+{
+  "section_id": "home_tools_01",
+  "difficulty": "easy",
+  "title": "Home Tools",
+  "category": "Home DIY",
+  "word_bank": [
+    {
+      "word": "Hammer",
+      "translation": "פטיש",
+      "example": "He used a hammer to drive the nail into the wall."
+    },
+    {
+      "word": "Screwdriver",
+      "translation": "מברג",
+      "example": "She tightened the loose screw with a screwdriver."
+    },
+    {
+      "word": "Drill",
+      "translation": "מקדחה",
+      "example": "I used a drill to make a hole in the wall for the shelf."
+    },
+    {
+      "word": "Wrench",
+      "translation": "מפתח ברגים",
+      "example": "He tightened the bolt under the sink with a wrench."
+    },
+    {
+      "word": "Tape measure",
+      "translation": "סרט מדידה",
+      "example": "Always use a tape measure before cutting wood to the right length."
+    },
+    {
+      "word": "Level",
+      "translation": "פלס",
+      "example": "She checked that the shelf was straight using a level."
+    },
+    {
+      "word": "Saw",
+      "translation": "מסור",
+      "example": "He cut the wooden plank in half with a saw."
+    },
+    {
+      "word": "Pliers",
+      "translation": "צבת",
+      "example": "I used pliers to pull out the bent nail from the board."
+    },
+    {
+      "word": "Sandpaper",
+      "translation": "נייר זכוכית",
+      "example": "She smoothed the rough wooden surface with sandpaper before painting."
+    },
+    {
+      "word": "Toolbox",
+      "translation": "ארגז כלים",
+      "example": "He keeps all his tools organized inside a red metal toolbox."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "Before hanging the picture, he checked the wall with a _____ to make sure it would be perfectly straight.",
+      "options": ["(a) Saw", "(b) Level", "(c) Pliers", "(d) Wrench"],
+      "correct_answer": "b",
+      "hint_hebrew": "כלי שמראה אם משהו ישר ומאוזן"
+    },
+    {
+      "id": 2,
+      "question": "She opened her _____ and looked for the right tool to fix the broken cabinet door.",
+      "options": ["(a) Toolbox", "(b) Sandpaper", "(c) Drill", "(d) Tape measure"],
+      "correct_answer": "a",
+      "hint_hebrew": "קופסה שבה שומרים את כל הכלים"
+    },
+    {
+      "id": 3,
+      "question": "He used a _____ to cut the wooden board to fit the shelf space exactly.",
+      "options": ["(a) Hammer", "(b) Wrench", "(c) Saw", "(d) Level"],
+      "correct_answer": "c",
+      "hint_hebrew": "כלי עם להב משונן לחיתוך עץ"
+    },
+    {
+      "id": 4,
+      "question": "I need to check the exact length of this plank — where is the _____?",
+      "options": ["(a) Pliers", "(b) Screwdriver", "(c) Sandpaper", "(d) Tape measure"],
+      "correct_answer": "d",
+      "hint_hebrew": "כלי גמיש למדידת אורך"
+    },
+    {
+      "id": 5,
+      "question": "She rubbed the wooden chair with _____ until the surface felt smooth and ready for varnish.",
+      "options": ["(a) Sandpaper", "(b) Level", "(c) Hammer", "(d) Saw"],
+      "correct_answer": "a",
+      "hint_hebrew": "נייר מחוספס להחלקת משטחים"
+    },
+    {
+      "id": 6,
+      "question": "The screw was too tight to turn by hand, so he grabbed a _____ from the drawer.",
+      "options": ["(a) Drill", "(b) Wrench", "(c) Toolbox", "(d) Screwdriver"],
+      "correct_answer": "d",
+      "hint_hebrew": "כלי לסיבוב ברגים"
+    },
+    {
+      "id": 7,
+      "question": "He drove three nails into the wall using a _____ to hang the heavy mirror.",
+      "options": ["(a) Tape measure", "(b) Hammer", "(c) Pliers", "(d) Sandpaper"],
+      "correct_answer": "b",
+      "hint_hebrew": "כלי להכנסת מסמרים לקיר"
+    },
+    {
+      "id": 8,
+      "question": "I used a _____ to make two holes in the wall for the new bookshelf brackets.",
+      "options": ["(a) Saw", "(b) Level", "(c) Drill", "(d) Pliers"],
+      "correct_answer": "c",
+      "hint_hebrew": "כלי חשמלי לקידוח חורים"
+    },
+    {
+      "id": 9,
+      "question": "He grabbed the _____ and used it to grip the broken pipe tightly while he twisted it loose.",
+      "options": ["(a) Wrench", "(b) Pliers", "(c) Screwdriver", "(d) Toolbox"],
+      "correct_answer": "b",
+      "hint_hebrew": "כלי אחיזה עם שתי ידיות מתכת"
+    },
+    {
+      "id": 10,
+      "question": "She tightened every bolt under the kitchen sink using an adjustable _____.",
+      "options": ["(a) Hammer", "(b) Tape measure", "(c) Sandpaper", "(d) Wrench"],
+      "correct_answer": "d",
+      "hint_hebrew": "כלי להידוק אומות וברגים גדולים"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "On Saturday afternoon, Avi decided it was finally time to fix a few things around the house that had been bothering him for weeks. He carried his toolbox from the storage room to the living room and set it on the floor.\n\nThe first job was to hang a large family photo on the wall. Avi picked up his tape measure and marked the exact spot on the wall where he wanted the nail to go. Then he checked the mark with his level to make sure the picture would hang straight. Satisfied, he grabbed his hammer and drove the nail firmly into the wall. The photo looked perfect.\n\nNext, Avi moved to the kitchen. The cabinet door had a loose hinge with two screws that kept falling out. He found the right screwdriver in his toolbox and tightened both screws carefully. The door swung smoothly again.\n\nAfter that, he went to the balcony where a wooden bench had been sitting unfinished for a month. The surface was rough, so he spent fifteen minutes rubbing it with sandpaper until it was completely smooth. Then he used his drill to make four holes for the bolts that would hold the bench legs firmly in place. He tightened the bolts with his wrench.\n\nBefore cutting a wooden strip to cover the gap under the balcony door, Avi measured the length with his tape measure twice. Then he clamped the wood to the table and cut it cleanly with his saw. He even used his pliers to remove a small bent nail that was sticking out of the wood.\n\nBy evening, Avi had fixed everything on his list. He packed all his tools neatly back into the toolbox and called his son. \"Come see — I fixed the bench, the cabinet, and the photo,\" he said proudly. His son looked around and said, \"Dad, you should have been a carpenter.\"",
+    "questions": [
+      {
+        "id": 11,
+        "question": "When did Avi decide to fix things around the house?",
+        "options": [
+          "(a) On Friday morning",
+          "(b) On Saturday afternoon",
+          "(c) On Sunday evening",
+          "(d) On Wednesday after work"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 12,
+        "question": "What was the first job Avi did?",
+        "options": [
+          "(a) Fix the kitchen cabinet",
+          "(b) Sand the wooden bench",
+          "(c) Hang a large family photo",
+          "(d) Cut a wooden strip for the door"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 13,
+        "question": "What did Avi use to check that the picture would hang straight?",
+        "options": [
+          "(a) A tape measure",
+          "(b) A level",
+          "(c) A screwdriver",
+          "(d) A ruler"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "What was wrong with the kitchen cabinet door?",
+        "options": [
+          "(a) It had a crack in the wood",
+          "(b) It was painted the wrong color",
+          "(c) It had a broken handle",
+          "(d) It had a loose hinge with falling screws"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 15,
+        "question": "What tool did Avi use to fix the cabinet door?",
+        "options": [
+          "(a) A wrench",
+          "(b) A hammer",
+          "(c) A screwdriver",
+          "(d) Pliers"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 16,
+        "question": "Why did Avi use sandpaper on the balcony bench?",
+        "options": [
+          "(a) To make it look older",
+          "(b) Because the surface was rough",
+          "(c) To remove old paint",
+          "(d) Because his son asked him to"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 17,
+        "question": "What did Avi use to make holes for the bench leg bolts?",
+        "options": [
+          "(a) A saw",
+          "(b) A hammer and nail",
+          "(c) A drill",
+          "(d) A screwdriver"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 18,
+        "question": "How many times did Avi measure the wooden strip before cutting it?",
+        "options": [
+          "(a) Once",
+          "(b) Three times",
+          "(c) He did not measure it",
+          "(d) Twice"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 19,
+        "question": "What did Avi use the pliers for?",
+        "options": [
+          "(a) Tightening the bench bolts",
+          "(b) Removing a small bent nail from the wood",
+          "(c) Holding the wood while cutting",
+          "(d) Pulling screws from the cabinet"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 20,
+        "question": "What did Avi's son say when he saw the finished work?",
+        "options": [
+          "(a) \"You forgot to fix the door.\"",
+          "(b) \"That took too long.\"",
+          "(c) \"Dad, you should have been a carpenter.\"",
+          "(d) \"The photo is not straight.\""
+        ],
+        "correct_answer": "c"
+      }
+    ]
+  }
+}

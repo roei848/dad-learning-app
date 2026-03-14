@@ -1,0 +1,245 @@
+{
+  "section_id": "home_cleaning_01",
+  "difficulty": "easy",
+  "title": "Home Cleaning",
+  "category": "Home & DIY",
+  "word_bank": [
+    {
+      "word": "Vacuum",
+      "translation": "שואב אבק",
+      "example": "She ran the vacuum over the carpet to pick up all the crumbs."
+    },
+    {
+      "word": "Mop",
+      "translation": "מגב / ספוגית רצפה",
+      "example": "After sweeping, he used a mop to clean the kitchen floor."
+    },
+    {
+      "word": "Broom",
+      "translation": "מטאטא",
+      "example": "I grabbed the broom and swept the fallen leaves off the porch."
+    },
+    {
+      "word": "Sponge",
+      "translation": "ספוג",
+      "example": "She wiped the stovetop with a damp sponge."
+    },
+    {
+      "word": "Detergent",
+      "translation": "חומר ניקוי",
+      "example": "Add a cap of detergent to the washing machine before starting the cycle."
+    },
+    {
+      "word": "Dustpan",
+      "translation": "יעה / מגרפת אשפה",
+      "example": "He swept all the dirt into the dustpan and threw it in the bin."
+    },
+    {
+      "word": "Cloth",
+      "translation": "מטלית",
+      "example": "She used a dry cloth to wipe the dust off the shelves."
+    },
+    {
+      "word": "Scrub",
+      "translation": "לשפשף",
+      "example": "You need to scrub the bathroom tiles to remove the mold."
+    },
+    {
+      "word": "Bucket",
+      "translation": "דלי",
+      "example": "He filled a bucket with hot water and soap to wash the floor."
+    },
+    {
+      "word": "Bleach",
+      "translation": "אקונומיקה / מולבן",
+      "example": "She used bleach to disinfect the toilet and bathroom sink."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "She used a wet _____ to wipe the grease off the stovetop after cooking.",
+      "options": ["(a) Broom", "(b) Sponge", "(c) Dustpan", "(d) Vacuum"],
+      "correct_answer": "b",
+      "hint_hebrew": "חומר ספוגי המשמש לניגוב ושטיפת משטחים"
+    },
+    {
+      "id": 2,
+      "question": "He swept the whole hallway and then collected the dirt with a _____.",
+      "options": ["(a) Mop", "(b) Bleach", "(c) Dustpan", "(d) Cloth"],
+      "correct_answer": "c",
+      "hint_hebrew": "כלי שטוח שאוספים אליו לכלוך לאחר טאטוא"
+    },
+    {
+      "id": 3,
+      "question": "The carpet in the living room looked dirty, so she turned on the _____ and went over it twice.",
+      "options": ["(a) Bucket", "(b) Vacuum", "(c) Scrub", "(d) Detergent"],
+      "correct_answer": "b",
+      "hint_hebrew": "מכשיר חשמלי לשאיבת אבק מרצפות ושטיחים"
+    },
+    {
+      "id": 4,
+      "question": "He poured some _____ into the sink to kill the bacteria around the drain.",
+      "options": ["(a) Cloth", "(b) Mop", "(c) Broom", "(d) Bleach"],
+      "correct_answer": "d",
+      "hint_hebrew": "חומר כימי חזק המשמש לחיטוי ולהלבנה"
+    },
+    {
+      "id": 5,
+      "question": "She filled the _____ with hot soapy water and carried it to the bathroom.",
+      "options": ["(a) Bucket", "(b) Sponge", "(c) Dustpan", "(d) Vacuum"],
+      "correct_answer": "a",
+      "hint_hebrew": "כלי נשיאה גדול לנוזלים, עגול עם ידית"
+    },
+    {
+      "id": 6,
+      "question": "After sweeping, he dipped the _____ in clean water and washed the kitchen floor.",
+      "options": ["(a) Cloth", "(b) Bleach", "(c) Mop", "(d) Scrub"],
+      "correct_answer": "c",
+      "hint_hebrew": "כלי לשטיפת רצפות עם ראש סיבים ומוט ארוך"
+    },
+    {
+      "id": 7,
+      "question": "I used a dry _____ to polish the mirror until it was completely clear.",
+      "options": ["(a) Dustpan", "(b) Cloth", "(c) Bucket", "(d) Broom"],
+      "correct_answer": "b",
+      "hint_hebrew": "פיסת בד לניגוב ואבק"
+    },
+    {
+      "id": 8,
+      "question": "You need to _____ the bathroom tiles hard to get rid of all the soap scum.",
+      "options": ["(a) Vacuum", "(b) Bleach", "(c) Scrub", "(d) Mop"],
+      "correct_answer": "c",
+      "hint_hebrew": "פועל שמשמעותו לשפשף בחוזקה לניקוי"
+    },
+    {
+      "id": 9,
+      "question": "He grabbed the _____ and swept the crumbs from under the kitchen table.",
+      "options": ["(a) Sponge", "(b) Detergent", "(c) Broom", "(d) Bucket"],
+      "correct_answer": "c",
+      "hint_hebrew": "כלי ניקוי עם ידית ארוכה ושיער בתחתית"
+    },
+    {
+      "id": 10,
+      "question": "Add one spoon of _____ to the hot water to cut through the grease on the dishes.",
+      "options": ["(a) Detergent", "(b) Cloth", "(c) Dustpan", "(d) Vacuum"],
+      "correct_answer": "a",
+      "hint_hebrew": "חומר ניקוי נוזלי לכלים ומשטחים"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "Every Friday, Avi and his wife do a deep clean of the house before Shabbat. They divide the rooms between them and work together until everything is spotless.\n\nAvi always starts with the floors. First he takes the broom and sweeps through the entire apartment — the hallway, the kitchen, and the living room. He collects all the dust and crumbs into the dustpan and empties it into the bin. Then he fills a bucket with hot water and adds a small amount of detergent. He dips the mop in, wrings it out, and goes over every floor carefully.\n\nFor the bathrooms, Avi uses bleach. He pours it around the toilet bowl and along the edges of the sink, lets it sit for a few minutes, then scrubs with a stiff brush. The tiles on the walls he wipes down with a damp sponge, working from top to bottom so the dirty water drips down.\n\nMeanwhile, his wife handles the bedrooms. She runs the vacuum over all the carpets and rugs, and uses a dry cloth to wipe the dust off the shelves and furniture.\n\nWhen Avi finishes the bathrooms, he rinses his tools under the tap, hangs the mop to dry, and puts everything back in the cleaning cupboard. The whole process takes about two hours. By midday, the apartment is clean and fresh. Avi makes coffee and they sit together at the kitchen table. \"Same time next week,\" Miriam always says with a smile.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "When do Avi and his wife do their deep clean?",
+        "options": [
+          "(a) Every Saturday morning",
+          "(b) Every Sunday evening",
+          "(c) Every Friday before Shabbat",
+          "(d) Once a month"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 12,
+        "question": "What does Avi do first when cleaning the floors?",
+        "options": [
+          "(a) He mops with hot water",
+          "(b) He uses the vacuum",
+          "(c) He sweeps with the broom",
+          "(d) He pours bleach on the floor"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 13,
+        "question": "What does Avi add to the hot water in the bucket?",
+        "options": [
+          "(a) Bleach",
+          "(b) Detergent",
+          "(c) Vinegar",
+          "(d) Nothing"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "What does Avi use bleach for?",
+        "options": [
+          "(a) Mopping the kitchen floor",
+          "(b) Cleaning the carpets",
+          "(c) Cleaning the toilet and sink in the bathroom",
+          "(d) Washing the dishes"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 15,
+        "question": "What does Avi use to clean the tiles on the bathroom walls?",
+        "options": [
+          "(a) A dry cloth",
+          "(b) A vacuum",
+          "(c) Bleach and a brush",
+          "(d) A damp sponge"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 16,
+        "question": "Which direction does Avi wipe the bathroom tiles?",
+        "options": [
+          "(a) Bottom to top",
+          "(b) Left to right",
+          "(c) Top to bottom",
+          "(d) In circles"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 17,
+        "question": "What does Avi's wife use to clean the bedrooms?",
+        "options": [
+          "(a) A mop and bucket",
+          "(b) A vacuum and a dry cloth",
+          "(c) Bleach and a sponge",
+          "(d) A broom and dustpan"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 18,
+        "question": "How long does the whole cleaning process take?",
+        "options": [
+          "(a) About one hour",
+          "(b) About four hours",
+          "(c) About two hours",
+          "(d) All day"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 19,
+        "question": "What does Avi do with the mop after he finishes?",
+        "options": [
+          "(a) He puts it in the bucket",
+          "(b) He throws it away",
+          "(c) He leaves it on the floor",
+          "(d) He hangs it to dry"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 20,
+        "question": "What does Miriam say at the end of the cleaning?",
+        "options": [
+          "(a) \"We need to do this more often.\"",
+          "(b) \"Same time next week.\"",
+          "(c) \"I am too tired to cook.\"",
+          "(d) \"The house is still dirty.\""
+        ],
+        "correct_answer": "b"
+      }
+    ]
+  }
+}

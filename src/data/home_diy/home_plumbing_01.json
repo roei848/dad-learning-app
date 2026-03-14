@@ -1,0 +1,245 @@
+{
+  "section_id": "home_plumbing_01",
+  "difficulty": "easy",
+  "title": "Home Plumbing",
+  "category": "Home DIY",
+  "word_bank": [
+    {
+      "word": "Pipe",
+      "translation": "צינור",
+      "example": "The cold water pipe under the sink started leaking this morning."
+    },
+    {
+      "word": "Faucet",
+      "translation": "ברז",
+      "example": "The kitchen faucet drips all night and wastes a lot of water."
+    },
+    {
+      "word": "Drain",
+      "translation": "ניקוז",
+      "example": "The shower drain is blocked and water is pooling on the floor."
+    },
+    {
+      "word": "Valve",
+      "translation": "שסתום",
+      "example": "Turn the main valve off before you start any plumbing repair."
+    },
+    {
+      "word": "Leak",
+      "translation": "נזילה",
+      "example": "There is a small leak behind the washing machine that we need to fix."
+    },
+    {
+      "word": "Seal",
+      "translation": "איטום",
+      "example": "He applied a rubber seal around the pipe joint to stop the dripping."
+    },
+    {
+      "word": "Pressure",
+      "translation": "לחץ מים",
+      "example": "The water pressure in our shower is very low in the mornings."
+    },
+    {
+      "word": "Plunger",
+      "translation": "פומפייה",
+      "example": "She used a plunger to clear the blocked toilet quickly."
+    },
+    {
+      "word": "Water heater",
+      "translation": "דוד מים",
+      "example": "The water heater stopped working so we had no hot water this morning."
+    },
+    {
+      "word": "Overflow",
+      "translation": "הצפה",
+      "example": "The bathtub overflow prevented the floor from flooding when the tap was left on."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "The bathroom toilet was completely blocked, so he grabbed the _____ and cleared it in two minutes.",
+      "options": ["(a) Valve", "(b) Plunger", "(c) Seal", "(d) Overflow"],
+      "correct_answer": "b",
+      "hint_hebrew": "כלי גומי לפתיחת סתימות"
+    },
+    {
+      "id": 2,
+      "question": "Before replacing the broken _____, she turned off the main water supply to the apartment.",
+      "options": ["(a) Pressure", "(b) Plunger", "(c) Faucet", "(d) Overflow"],
+      "correct_answer": "c",
+      "hint_hebrew": "ברז שממנו זורם מים בכיור או באמבטיה"
+    },
+    {
+      "id": 3,
+      "question": "He noticed a small _____ under the kitchen sink and put a bucket there until the plumber arrived.",
+      "options": ["(a) Drain", "(b) Leak", "(c) Water heater", "(d) Pipe"],
+      "correct_answer": "b",
+      "hint_hebrew": "מים שזולגים ממקום שהם לא אמורים"
+    },
+    {
+      "id": 4,
+      "question": "The shower _____ was so slow that the water reached our ankles before it went down.",
+      "options": ["(a) Pressure", "(b) Seal", "(c) Drain", "(d) Valve"],
+      "correct_answer": "c",
+      "hint_hebrew": "הפתח שדרכו מים זורמים החוצה מהרצפה"
+    },
+    {
+      "id": 5,
+      "question": "We had no hot water this morning because the _____ broke down overnight.",
+      "options": ["(a) Water heater", "(b) Faucet", "(c) Overflow", "(d) Plunger"],
+      "correct_answer": "a",
+      "hint_hebrew": "מכשיר שמחמם את המים בבית"
+    },
+    {
+      "id": 6,
+      "question": "The plumber wrapped a new rubber _____ around the joint to stop the pipe from dripping.",
+      "options": ["(a) Pipe", "(b) Drain", "(c) Pressure", "(d) Seal"],
+      "correct_answer": "d",
+      "hint_hebrew": "חומר איטום שמונע נזילות בחיבורים"
+    },
+    {
+      "id": 7,
+      "question": "Always shut the main _____ before you open any pipe connection in the house.",
+      "options": ["(a) Overflow", "(b) Leak", "(c) Valve", "(d) Plunger"],
+      "correct_answer": "c",
+      "hint_hebrew": "ברז ראשי שעוצר את זרימת המים"
+    },
+    {
+      "id": 8,
+      "question": "The cold water _____ behind the washing machine cracked and flooded the laundry room.",
+      "options": ["(a) Seal", "(b) Pipe", "(c) Water heater", "(d) Drain"],
+      "correct_answer": "b",
+      "hint_hebrew": "צינור שדרכו עוברים המים"
+    },
+    {
+      "id": 9,
+      "question": "The water _____ in our apartment is very low — the shower feels like light rain.",
+      "options": ["(a) Overflow", "(b) Valve", "(c) Faucet", "(d) Pressure"],
+      "correct_answer": "d",
+      "hint_hebrew": "עוצמת זרימת המים"
+    },
+    {
+      "id": 10,
+      "question": "The bathtub has a small _____ hole near the top so it never completely floods even if you forget the tap on.",
+      "options": ["(a) Overflow", "(b) Leak", "(c) Plunger", "(d) Seal"],
+      "correct_answer": "a",
+      "hint_hebrew": "פתח גלישה שמונע הצפה של האמבטיה"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "One Tuesday morning, Avi walked into the kitchen and immediately heard a dripping sound. He looked under the sink and found a small leak — water was slowly dripping from the joint where the cold water pipe connected to the faucet. He put a bowl under the drip and called his neighbor Yossi, who used to work as a plumber.\n\nYossi arrived within an hour. The first thing he did was go to the hallway and shut the main valve, cutting off all the water supply to the apartment. \"Always start here,\" Yossi said. \"Never open a pipe while the water is still running.\"\n\nYossi examined the joint and saw that the rubber seal had worn out completely. He replaced it with a new one from his bag, then tightened the connection with a wrench. He told Avi to open the valve again slowly to test it. There was no more drip — the leak was fixed.\n\nWhile Yossi was there, Avi showed him two more problems. The bathroom drain was slow — hair and soap had built up inside it. Yossi poured a cleaning solution down the drain and used a small plunger to push it through. The water drained normally within minutes.\n\nThe second problem was the shower faucet — it dripped all night even when turned off tightly. Yossi said the internal washer was old and needed replacement. He fixed it in ten minutes.\n\nAvi also asked about the water pressure, which had felt weak for months. Yossi checked the pressure valve near the main pipe and adjusted it slightly. The shower pressure improved immediately.\n\nBefore leaving, Yossi reminded Avi to check the water heater once a year. \"If it leaks or makes noise, call someone right away — you don't want an overflow in your apartment,\" he said. Avi thanked him warmly and offered him coffee. Yossi smiled and said, \"Now you know where every valve and pipe in your home is. That's worth a lot.\"",
+    "questions": [
+      {
+        "id": 11,
+        "question": "What problem did Avi discover on Tuesday morning?",
+        "options": [
+          "(a) A blocked toilet",
+          "(b) A broken water heater",
+          "(c) A small leak under the kitchen sink",
+          "(d) A slow shower drain"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 12,
+        "question": "What was the first thing Yossi did when he arrived?",
+        "options": [
+          "(a) He fixed the faucet",
+          "(b) He shut the main valve",
+          "(c) He checked the water pressure",
+          "(d) He opened the pipe joint"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 13,
+        "question": "What caused the leak under the kitchen sink?",
+        "options": [
+          "(a) A cracked pipe",
+          "(b) A broken faucet handle",
+          "(c) A worn-out rubber seal",
+          "(d) Low water pressure"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 14,
+        "question": "What caused the bathroom drain to be slow?",
+        "options": [
+          "(a) A broken pipe",
+          "(b) A closed valve",
+          "(c) Hair and soap buildup",
+          "(d) Low water pressure"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 15,
+        "question": "What tool did Yossi use to help clear the bathroom drain?",
+        "options": [
+          "(a) A wrench",
+          "(b) A small plunger",
+          "(c) A drill",
+          "(d) Sandpaper"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 16,
+        "question": "Why did the shower faucet keep dripping even when turned off?",
+        "options": [
+          "(a) The pipe had a crack",
+          "(b) The valve was open",
+          "(c) The seal was too tight",
+          "(d) The internal washer was old"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 17,
+        "question": "What did Yossi do to improve the shower water pressure?",
+        "options": [
+          "(a) He replaced the entire pipe",
+          "(b) He installed a new faucet",
+          "(c) He adjusted the pressure valve",
+          "(d) He opened the overflow"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 18,
+        "question": "What did Yossi advise Avi to check once a year?",
+        "options": [
+          "(a) The bathroom drain",
+          "(b) The kitchen faucet",
+          "(c) The water heater",
+          "(d) The main valve"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 19,
+        "question": "What did Yossi warn could happen if the water heater leaks and is ignored?",
+        "options": [
+          "(a) Low water pressure",
+          "(b) An overflow in the apartment",
+          "(c) A broken seal",
+          "(d) A blocked drain"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 20,
+        "question": "What did Yossi say to Avi before leaving?",
+        "options": [
+          "(a) \"Call a professional next time.\"",
+          "(b) \"The pipes are very old here.\"",
+          "(c) \"You should replace all the faucets.\"",
+          "(d) \"Now you know where every valve and pipe in your home is.\""
+        ],
+        "correct_answer": "d"
+      }
+    ]
+  }
+}

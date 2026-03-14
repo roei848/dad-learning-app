@@ -1,0 +1,245 @@
+{
+  "section_id": "home_painting_01",
+  "difficulty": "easy",
+  "title": "Home Painting",
+  "category": "Home DIY",
+  "word_bank": [
+    {
+      "word": "Paintbrush",
+      "translation": "מברשת צבע",
+      "example": "She used a wide paintbrush to cover the wall quickly."
+    },
+    {
+      "word": "Roller",
+      "translation": "גליל צביעה",
+      "example": "A roller is much faster than a brush when painting large walls."
+    },
+    {
+      "word": "Paint tray",
+      "translation": "מגש צבע",
+      "example": "He poured the paint into the paint tray and loaded the roller."
+    },
+    {
+      "word": "Primer",
+      "translation": "בסיס צבע",
+      "example": "Always apply primer before painting so the color looks even."
+    },
+    {
+      "word": "Masking tape",
+      "translation": "סרט הדבקה לצביעה",
+      "example": "He stuck masking tape along the window frame to keep the glass clean."
+    },
+    {
+      "word": "Drop cloth",
+      "translation": "יריעת הגנה",
+      "example": "Spread a drop cloth on the floor before you start painting the ceiling."
+    },
+    {
+      "word": "Paint can",
+      "translation": "פח צבע",
+      "example": "She opened the paint can and stirred the color before starting."
+    },
+    {
+      "word": "Sandpaper",
+      "translation": "נייר זכוכית",
+      "example": "He rubbed the wall with sandpaper to make it smooth before painting."
+    },
+    {
+      "word": "Stirrer",
+      "translation": "מוט ערבוב",
+      "example": "Use a stirrer to mix the paint thoroughly before applying it."
+    },
+    {
+      "word": "Second coat",
+      "translation": "שכבה שנייה",
+      "example": "The color looked patchy after one layer, so we applied a second coat."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "He used the _____ to mix the paint until the color was smooth and even.",
+      "options": ["(a) Roller", "(b) Stirrer", "(c) Masking tape", "(d) Drop cloth"],
+      "correct_answer": "b",
+      "hint_hebrew": "מוט דק שמערבבים איתו את הצבע"
+    },
+    {
+      "id": 2,
+      "question": "She covered the floor with a _____ to protect it from paint drips.",
+      "options": ["(a) Drop cloth", "(b) Primer", "(c) Paint tray", "(d) Second coat"],
+      "correct_answer": "a",
+      "hint_hebrew": "יריעת בד או ניילון שמגינה על הרצפה"
+    },
+    {
+      "id": 3,
+      "question": "Before painting, we applied _____ to the bare wall so the color would stick evenly.",
+      "options": ["(a) Masking tape", "(b) Paint can", "(c) Primer", "(d) Sandpaper"],
+      "correct_answer": "c",
+      "hint_hebrew": "שכבה ראשונה שמכינה את הקיר לפני הצבע הסופי"
+    },
+    {
+      "id": 4,
+      "question": "He stuck _____ around all the door frames so the paint would not get on the wood.",
+      "options": ["(a) Drop cloth", "(b) Masking tape", "(c) Second coat", "(d) Stirrer"],
+      "correct_answer": "b",
+      "hint_hebrew": "סרט דביק שמגן על שוליים בזמן צביעה"
+    },
+    {
+      "id": 5,
+      "question": "After the first layer dried, the color looked uneven, so she added a _____.",
+      "options": ["(a) Paint tray", "(b) Primer", "(c) Roller", "(d) Second coat"],
+      "correct_answer": "d",
+      "hint_hebrew": "שכבת צבע נוספת לאחר הראשונה"
+    },
+    {
+      "id": 6,
+      "question": "She opened the _____ and saw the paint had dried a little, so she added some water.",
+      "options": ["(a) Paint can", "(b) Drop cloth", "(c) Sandpaper", "(d) Masking tape"],
+      "correct_answer": "a",
+      "hint_hebrew": "המיכל המתכתי שבו נמכר הצבע"
+    },
+    {
+      "id": 7,
+      "question": "He used _____ to smooth the rough patches on the wall before applying primer.",
+      "options": ["(a) Stirrer", "(b) Roller", "(c) Sandpaper", "(d) Paint tray"],
+      "correct_answer": "c",
+      "hint_hebrew": "נייר מחוספס שמשטח פני שטח"
+    },
+    {
+      "id": 8,
+      "question": "She poured the white paint into the _____ and loaded her roller before starting the wall.",
+      "options": ["(a) Paint tray", "(b) Drop cloth", "(c) Second coat", "(d) Primer"],
+      "correct_answer": "a",
+      "hint_hebrew": "מגש שטוח שמכניסים בו את הגליל"
+    },
+    {
+      "id": 9,
+      "question": "A _____ covers large areas much faster than working with a small brush.",
+      "options": ["(a) Sandpaper", "(b) Stirrer", "(c) Masking tape", "(d) Roller"],
+      "correct_answer": "d",
+      "hint_hebrew": "כלי עגול ומגולגל שמרחים איתו צבע על קירות"
+    },
+    {
+      "id": 10,
+      "question": "He used a fine _____ to cut in around the ceiling edge where the roller could not reach.",
+      "options": ["(a) Paintbrush", "(b) Drop cloth", "(c) Paint can", "(d) Second coat"],
+      "correct_answer": "a",
+      "hint_hebrew": "כלי עם שערות שצובעים בו פינות ופרטים קטנים"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "Avi decided it was time to repaint the living room. The old paint had faded and there were a few cracks in the wall. He planned to do the work over the weekend.\n\nOn Saturday morning, he moved the furniture to the center of the room and spread a large drop cloth over everything. Then he stuck masking tape carefully along the baseboards, window frames, and ceiling edges so the paint would not go where it was not supposed to.\n\nHe opened the paint can and used a stirrer to mix the paint until it was smooth. Before painting the walls, he took a piece of sandpaper and rubbed the cracks and rough spots until the surface was even. Then he rolled primer onto the entire wall and let it dry for an hour.\n\nWhen the primer was dry, Avi poured the light grey paint into the paint tray and loaded the roller. He painted the large flat areas of the wall with the roller in long smooth strokes. For the corners and edges, he switched to a smaller paintbrush.\n\nAfter the first layer dried, the color looked a little thin and uneven in some places. So Avi applied a second coat, starting from the top and working down. This time the color looked rich and even.\n\nMiriam came in to check the progress. She looked at the walls and smiled. \"It looks like a different room,\" she said. Avi peeled off the masking tape carefully, folded up the drop cloth, and cleaned his roller and paintbrush in the sink. The living room looked fresh and new.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "Why did Avi decide to repaint the living room?",
+        "options": [
+          "(a) Miriam asked for a new color",
+          "(b) The paint had faded and there were cracks",
+          "(c) He had leftover paint from another project",
+          "(d) The room was too dark"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 12,
+        "question": "What did Avi do with the furniture before painting?",
+        "options": [
+          "(a) He moved it to another room",
+          "(b) He covered it with masking tape",
+          "(c) He moved it to the center and covered it with a drop cloth",
+          "(d) He left it in place"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 13,
+        "question": "Where did Avi stick the masking tape?",
+        "options": [
+          "(a) On the furniture",
+          "(b) On the drop cloth",
+          "(c) Along the baseboards, window frames, and ceiling edges",
+          "(d) On the paint can"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 14,
+        "question": "What did Avi use the stirrer for?",
+        "options": [
+          "(a) To spread the primer",
+          "(b) To mix the paint until smooth",
+          "(c) To smooth the wall cracks",
+          "(d) To clean the roller"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 15,
+        "question": "What did Avi apply to the wall before the paint?",
+        "options": [
+          "(a) A second coat",
+          "(b) Sandpaper",
+          "(c) Primer",
+          "(d) Masking tape"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 16,
+        "question": "What tool did Avi use for the corners and edges?",
+        "options": [
+          "(a) A roller",
+          "(b) A stirrer",
+          "(c) A paintbrush",
+          "(d) Sandpaper"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 17,
+        "question": "Why did Avi apply a second coat?",
+        "options": [
+          "(a) Because Miriam asked for a darker color",
+          "(b) Because the first layer dried too fast",
+          "(c) Because the color looked thin and uneven",
+          "(d) Because the primer showed through"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 18,
+        "question": "What did Miriam say when she saw the finished walls?",
+        "options": [
+          "(a) \"I do not like the color.\"",
+          "(b) \"It looks like a different room.\"",
+          "(c) \"You missed some spots.\"",
+          "(d) \"You should have hired someone.\""
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 19,
+        "question": "What did Avi do with the masking tape when he finished?",
+        "options": [
+          "(a) He left it on the wall",
+          "(b) He threw it in the paint tray",
+          "(c) He peeled it off carefully",
+          "(d) He covered it with a second coat"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 20,
+        "question": "Where did Avi clean his tools after finishing?",
+        "options": [
+          "(a) In the garden with a hose",
+          "(b) In a bucket outside",
+          "(c) In the sink",
+          "(d) With the drop cloth"
+        ],
+        "correct_answer": "c"
+      }
+    ]
+  }
+}

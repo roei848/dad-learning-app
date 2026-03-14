@@ -53,6 +53,14 @@ import flowersPlants01Data from './garden/flowers_plants_01.json';
 import vegetableGarden01Data from './garden/vegetable_garden_01.json';
 import gardenCare01Data from './garden/garden_care_01.json';
 import seasonsHarvest01Data from './garden/seasons_harvest_01.json';
+import homeTools01Data from './home_diy/home_tools_01.json';
+import homePlumbing01Data from './home_diy/home_plumbing_01.json';
+import homeElectrical01Data from './home_diy/home_electrical_01.json';
+import homePainting01Data from './home_diy/home_painting_01.json';
+import homeCarpentry01Data from './home_diy/home_carpentry_01.json';
+import homeCar01Data from './home_diy/home_car_01.json';
+import homeCleaning01Data from './home_diy/home_cleaning_01.json';
+import homeRenovation01Data from './home_diy/home_renovation_01.json';
 
 const sectionsRegistry: Record<string, Section> = {
   [restaurantData.section_id]: restaurantData as unknown as Section,
@@ -109,6 +117,14 @@ const sectionsRegistry: Record<string, Section> = {
   [vegetableGarden01Data.section_id]: vegetableGarden01Data as unknown as Section,
   [gardenCare01Data.section_id]: gardenCare01Data as unknown as Section,
   [seasonsHarvest01Data.section_id]: seasonsHarvest01Data as unknown as Section,
+  [homeTools01Data.section_id]: homeTools01Data as unknown as Section,
+  [homePlumbing01Data.section_id]: homePlumbing01Data as unknown as Section,
+  [homeElectrical01Data.section_id]: homeElectrical01Data as unknown as Section,
+  [homePainting01Data.section_id]: homePainting01Data as unknown as Section,
+  [homeCarpentry01Data.section_id]: homeCarpentry01Data as unknown as Section,
+  [homeCar01Data.section_id]: homeCar01Data as unknown as Section,
+  [homeCleaning01Data.section_id]: homeCleaning01Data as unknown as Section,
+  [homeRenovation01Data.section_id]: homeRenovation01Data as unknown as Section,
 };
 
 export default sectionsRegistry;

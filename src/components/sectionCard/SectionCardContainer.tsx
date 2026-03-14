@@ -11,10 +11,13 @@ import {
   CircleDot,
   Clapperboard,
   Coffee,
+  Droplets,
   Dumbbell,
   Film,
   Flower2,
   Gift,
+  Hammer,
+  HardHat,
   Heart,
   Hotel,
   House,
@@ -23,6 +26,7 @@ import {
   MessageSquare,
   Mic2,
   Music,
+  Paintbrush,
   Palette,
   Pill,
   Plane,
@@ -31,6 +35,7 @@ import {
   ShoppingBag,
   ShoppingCart,
   Shirt,
+  Sparkles,
   Sprout,
   Stethoscope,
   Sun,
@@ -40,6 +45,8 @@ import {
   UtensilsCrossed,
   Users,
   Waves,
+  Wrench,
+  Zap,
 } from "lucide-react";
 
 import SectionCard from "./SectionCard";
@@ -96,6 +103,13 @@ const ICON_MAP: Record<string, React.ReactNode> = {
   Carrot: <Carrot size={48} />,
   Scissors: <Scissors size={48} />,
   Sun: <Sun size={48} />,
+  Wrench: <Wrench size={48} />,
+  Droplets: <Droplets size={48} />,
+  Zap: <Zap size={48} />,
+  Paintbrush: <Paintbrush size={48} />,
+  Hammer: <Hammer size={48} />,
+  Sparkles: <Sparkles size={48} />,
+  HardHat: <HardHat size={48} />,
 };
 
 const SectionCardContainer: React.FC<SectionCardContainerProps> = ({

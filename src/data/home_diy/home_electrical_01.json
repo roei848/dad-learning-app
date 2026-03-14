@@ -1,0 +1,245 @@
+{
+  "section_id": "home_electrical_01",
+  "difficulty": "easy",
+  "title": "Home Electrical",
+  "category": "Home DIY",
+  "word_bank": [
+    {
+      "word": "Circuit breaker",
+      "translation": "מפסק חשמל ראשי",
+      "example": "When too many appliances were on, the circuit breaker tripped and cut the power."
+    },
+    {
+      "word": "Outlet",
+      "translation": "שקע חשמל",
+      "example": "I plugged the lamp into the outlet near the door."
+    },
+    {
+      "word": "Switch",
+      "translation": "מתג",
+      "example": "Flip the switch on the wall to turn on the hallway light."
+    },
+    {
+      "word": "Fuse",
+      "translation": "נתיך",
+      "example": "The old fuse burned out and we had to replace it with a new one."
+    },
+    {
+      "word": "Wire",
+      "translation": "חוט חשמל",
+      "example": "The electrician connected the red wire to the positive terminal."
+    },
+    {
+      "word": "Voltage",
+      "translation": "מתח חשמלי",
+      "example": "Always check the voltage before connecting any appliance."
+    },
+    {
+      "word": "Screwdriver",
+      "translation": "מברג",
+      "example": "He used a flat-head screwdriver to open the electrical panel cover."
+    },
+    {
+      "word": "Insulation tape",
+      "translation": "סרט בידוד",
+      "example": "Wrap insulation tape around any exposed wire to prevent electric shock."
+    },
+    {
+      "word": "Light bulb",
+      "translation": "נורה",
+      "example": "The light bulb in the kitchen stopped working so I replaced it."
+    },
+    {
+      "word": "Extension cord",
+      "translation": "כבל מאריך",
+      "example": "I used an extension cord to reach the power outlet across the room."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "Too many devices were running at the same time, so the _____ tripped and the whole house went dark.",
+      "options": ["(a) Fuse", "(b) Circuit breaker", "(c) Outlet", "(d) Switch"],
+      "correct_answer": "b",
+      "hint_hebrew": "המכשיר שמנתק חשמל אוטומטית כשיש עומס"
+    },
+    {
+      "id": 2,
+      "question": "The television has a short cable, so I connected an _____ to reach the nearest wall socket.",
+      "options": ["(a) Insulation tape", "(b) Wire", "(c) Extension cord", "(d) Light bulb"],
+      "correct_answer": "c",
+      "hint_hebrew": "כבל ארוך שמאריך את טווח שקע החשמל"
+    },
+    {
+      "id": 3,
+      "question": "Before touching any wires, he turned off the power and wrapped the ends with _____.",
+      "options": ["(a) Insulation tape", "(b) Voltage", "(c) Fuse", "(d) Switch"],
+      "correct_answer": "a",
+      "hint_hebrew": "סרט שחור שמגן מפני מגע בחוטים חשופים"
+    },
+    {
+      "id": 4,
+      "question": "The lamp stopped working, so I unscrewed the old _____ and put a new one in its place.",
+      "options": ["(a) Outlet", "(b) Light bulb", "(c) Wire", "(d) Circuit breaker"],
+      "correct_answer": "b",
+      "hint_hebrew": "הדבר שמאיר כשעובר בו חשמל"
+    },
+    {
+      "id": 5,
+      "question": "I used a _____ to tighten the screws on the new electrical panel cover.",
+      "options": ["(a) Fuse", "(b) Extension cord", "(c) Screwdriver", "(d) Switch"],
+      "correct_answer": "c",
+      "hint_hebrew": "כלי ידני שמסובב ברגים"
+    },
+    {
+      "id": 6,
+      "question": "The device stopped working because the _____ inside burned out and needed replacing.",
+      "options": ["(a) Fuse", "(b) Voltage", "(c) Outlet", "(d) Wire"],
+      "correct_answer": "a",
+      "hint_hebrew": "רכיב בטיחות חד-פעמי שנשרף כשיש עומס"
+    },
+    {
+      "id": 7,
+      "question": "The electrician checked the _____ to make sure the current was safe for the appliance.",
+      "options": ["(a) Light bulb", "(b) Switch", "(c) Voltage", "(d) Insulation tape"],
+      "correct_answer": "c",
+      "hint_hebrew": "עוצמת המתח החשמלי במעגל"
+    },
+    {
+      "id": 8,
+      "question": "There is no _____ on that wall, so there is nowhere to plug in the refrigerator.",
+      "options": ["(a) Wire", "(b) Outlet", "(c) Fuse", "(d) Screwdriver"],
+      "correct_answer": "b",
+      "hint_hebrew": "פתח בקיר שאליו מחברים תקע"
+    },
+    {
+      "id": 9,
+      "question": "He pressed the _____ next to the door and the bedroom light came on.",
+      "options": ["(a) Extension cord", "(b) Circuit breaker", "(c) Switch", "(d) Light bulb"],
+      "correct_answer": "c",
+      "hint_hebrew": "לחצן על הקיר לכיבוי והדלקת אור"
+    },
+    {
+      "id": 10,
+      "question": "The electrician connected the copper _____ carefully before closing the junction box.",
+      "options": ["(a) Insulation tape", "(b) Wire", "(c) Outlet", "(d) Voltage"],
+      "correct_answer": "b",
+      "hint_hebrew": "מוליך חשמל דק שמחבר בין רכיבים"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "Last Thursday evening, the lights in the living room suddenly went off. Avi checked the circuit breaker in the hallway and saw that one switch had tripped. He reset it, but the lights went off again a minute later. He knew something was wrong.\n\nAvi decided to investigate. He turned off the main power and opened the junction box near the window. Inside, he could see one wire with damaged insulation. The copper underneath was exposed. He went to the storage room and came back with his screwdriver, a roll of insulation tape, and a new fuse.\n\nHe carefully wrapped the exposed wire with insulation tape, making sure no copper was visible. Then he replaced the old fuse in the box with the new one. He also checked the outlet on the wall nearby and made sure the connections were tight.\n\nAfter closing everything up, Avi turned the main power back on. He flipped the switch on the wall — the living room lights came on and stayed on. He plugged the floor lamp back into the outlet, and it worked perfectly.\n\nMiriam walked in and said, \"Did you fix it?\" Avi smiled and held up the old burned fuse. \"This was the problem,\" he said. Miriam laughed and said, \"You are better than calling an electrician.\" Avi put away his screwdriver and extension cord and went to make tea.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "What happened to the lights in the living room?",
+        "options": [
+          "(a) They flickered all night",
+          "(b) They suddenly went off",
+          "(c) They became very bright",
+          "(d) They made a loud noise"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 12,
+        "question": "Where did Avi check first when the lights went off?",
+        "options": [
+          "(a) The fuse box in the kitchen",
+          "(b) The outlet near the sofa",
+          "(c) The circuit breaker in the hallway",
+          "(d) The switch on the wall"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 13,
+        "question": "What did Avi find inside the junction box?",
+        "options": [
+          "(a) A broken light bulb",
+          "(b) A wire with damaged insulation",
+          "(c) A loose outlet cover",
+          "(d) A burned extension cord"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "What three items did Avi bring from the storage room?",
+        "options": [
+          "(a) Pliers, gloves, and a hammer",
+          "(b) A screwdriver, insulation tape, and a new fuse",
+          "(c) A light bulb, a wire, and tape",
+          "(d) An extension cord, a drill, and screws"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 15,
+        "question": "What did Avi wrap with insulation tape?",
+        "options": [
+          "(a) The circuit breaker switch",
+          "(b) The wall outlet",
+          "(c) The exposed copper wire",
+          "(d) The new fuse"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 16,
+        "question": "What did Avi replace inside the junction box?",
+        "options": [
+          "(a) The circuit breaker",
+          "(b) The outlet",
+          "(c) The wire",
+          "(d) The fuse"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 17,
+        "question": "How did Avi know the repair was successful?",
+        "options": [
+          "(a) The voltage reading was normal",
+          "(b) The lights came on and stayed on",
+          "(c) Miriam told him the power was back",
+          "(d) The circuit breaker stopped tripping"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 18,
+        "question": "What did Avi show Miriam as proof of the problem?",
+        "options": [
+          "(a) The damaged wire",
+          "(b) The broken light bulb",
+          "(c) The old burned fuse",
+          "(d) The insulation tape"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 19,
+        "question": "What did Miriam say about Avi's repair work?",
+        "options": [
+          "(a) \"You should have called an electrician.\"",
+          "(b) \"You are better than calling an electrician.\"",
+          "(c) \"Next time be more careful.\"",
+          "(d) \"The lights are still dim.\""
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 20,
+        "question": "What did Avi do after putting away his tools?",
+        "options": [
+          "(a) He went to sleep",
+          "(b) He watched television",
+          "(c) He checked the other outlets",
+          "(d) He went to make tea"
+        ],
+        "correct_answer": "d"
+      }
+    ]
+  }
+}

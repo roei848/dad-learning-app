@@ -1,0 +1,245 @@
+{
+  "section_id": "home_car_01",
+  "difficulty": "easy",
+  "title": "Car Maintenance",
+  "category": "Home & DIY",
+  "word_bank": [
+    {
+      "word": "Oil",
+      "translation": "שמן",
+      "example": "You should change the engine oil every few thousand kilometers."
+    },
+    {
+      "word": "Tire",
+      "translation": "צמיג",
+      "example": "One of the front tires was completely flat this morning."
+    },
+    {
+      "word": "Battery",
+      "translation": "סוללה / מצבר",
+      "example": "The car would not start because the battery was dead."
+    },
+    {
+      "word": "Wrench",
+      "translation": "מפתח ברגים",
+      "example": "He used a wrench to tighten the bolts under the hood."
+    },
+    {
+      "word": "Jack",
+      "translation": "ג'ק / מגבה",
+      "example": "You need a jack to lift the car before changing a tire."
+    },
+    {
+      "word": "Brake",
+      "translation": "בלם",
+      "example": "The mechanic checked the brake pads and said they needed replacing."
+    },
+    {
+      "word": "Coolant",
+      "translation": "נוזל קירור",
+      "example": "Always make sure the coolant level is correct before a long drive."
+    },
+    {
+      "word": "Filter",
+      "translation": "פילטר / מסנן",
+      "example": "A dirty air filter can reduce the engine's performance."
+    },
+    {
+      "word": "Gauge",
+      "translation": "מד / מחוג",
+      "example": "The fuel gauge showed the tank was almost empty."
+    },
+    {
+      "word": "Mechanic",
+      "translation": "מכונאי",
+      "example": "We took the car to the mechanic because it was making a strange noise."
+    }
+  ],
+  "stage_1_sentences": [
+    {
+      "id": 1,
+      "question": "The _____ showed the engine was overheating, so we pulled over immediately.",
+      "options": ["(a) Filter", "(b) Gauge", "(c) Wrench", "(d) Jack"],
+      "correct_answer": "b",
+      "hint_hebrew": "מכשיר מדידה שמראה רמות שונות ברכב"
+    },
+    {
+      "id": 2,
+      "question": "He opened the hood and used a _____ to tighten a loose bolt near the engine.",
+      "options": ["(a) Brake", "(b) Tire", "(c) Wrench", "(d) Coolant"],
+      "correct_answer": "c",
+      "hint_hebrew": "כלי ידני לסגירה ופתיחה של ברגים"
+    },
+    {
+      "id": 3,
+      "question": "The car would not stop properly, so the _____ pads needed to be replaced.",
+      "options": ["(a) Oil", "(b) Battery", "(c) Brake", "(d) Filter"],
+      "correct_answer": "c",
+      "hint_hebrew": "המערכת שמאטה ועוצרת את הרכב"
+    },
+    {
+      "id": 4,
+      "question": "Without a _____, you cannot lift the car high enough to remove the wheel.",
+      "options": ["(a) Jack", "(b) Gauge", "(c) Mechanic", "(d) Coolant"],
+      "correct_answer": "a",
+      "hint_hebrew": "מכשיר להרמת רכב מהאדמה"
+    },
+    {
+      "id": 5,
+      "question": "We checked the _____ level because the engine was running very hot.",
+      "options": ["(a) Tire", "(b) Wrench", "(c) Brake", "(d) Coolant"],
+      "correct_answer": "d",
+      "hint_hebrew": "נוזל שמונע מהמנוע להתחמם יתר על המידה"
+    },
+    {
+      "id": 6,
+      "question": "The left rear _____ had a nail in it, so we had to change it on the side of the road.",
+      "options": ["(a) Battery", "(b) Oil", "(c) Filter", "(d) Tire"],
+      "correct_answer": "d",
+      "hint_hebrew": "הגלגל הגומי של הרכב"
+    },
+    {
+      "id": 7,
+      "question": "The _____ was too weak to start the car on the cold winter morning.",
+      "options": ["(a) Battery", "(b) Gauge", "(c) Jack", "(d) Mechanic"],
+      "correct_answer": "a",
+      "hint_hebrew": "רכיב שמספק חשמל להפעלת הרכב"
+    },
+    {
+      "id": 8,
+      "question": "He changed the engine _____ himself because the old one had turned black and thick.",
+      "options": ["(a) Filter", "(b) Oil", "(c) Brake", "(d) Wrench"],
+      "correct_answer": "b",
+      "hint_hebrew": "נוזל שמשמן את חלקי המנוע הפנימיים"
+    },
+    {
+      "id": 9,
+      "question": "The air _____ was so clogged that the engine was not getting enough oxygen.",
+      "options": ["(a) Coolant", "(b) Jack", "(c) Filter", "(d) Oil"],
+      "correct_answer": "c",
+      "hint_hebrew": "רכיב שמסנן לכלוך מהאוויר או מהנוזלים"
+    },
+    {
+      "id": 10,
+      "question": "We brought the car to a _____ who found the problem within ten minutes.",
+      "options": ["(a) Tire", "(b) Mechanic", "(c) Battery", "(d) Gauge"],
+      "correct_answer": "b",
+      "hint_hebrew": "איש מקצוע שמתקן רכבים"
+    }
+  ],
+  "stage_2_story": {
+    "text_en": "Avi has always liked taking care of his own car. He says it saves money and teaches you something useful. Every few months, he spends a Sunday morning in the driveway doing basic maintenance.\n\nThis Sunday, the first thing he checked was the oil. He pulled out the dipstick and saw the oil was dark and old. He grabbed his wrench, removed the drain plug, and let the old oil run out into a metal pan. Then he poured in fresh oil and checked the gauge on the dashboard to make sure the level was correct.\n\nNext, Avi looked at the air filter. It was grey and dusty, so he replaced it with a new one from the box he had bought at the parts shop. He also topped up the coolant reservoir, which was slightly below the minimum line.\n\nAvi then walked around the car and pressed on each tire with his hand. The rear left tire felt soft. He took out the pump from the trunk and added air until the pressure was right. He also checked the brake pads by looking through the wheel spokes. They still had good thickness, so no change was needed.\n\nFinally, Avi connected a tester to the battery terminals. The reading was low, which explained why the car had been slow to start lately. He decided to take it to the mechanic early in the week to get a new battery installed. He closed the hood, washed his hands, and went inside for lunch. The car was ready for another few months.",
+    "questions": [
+      {
+        "id": 11,
+        "question": "When does Avi usually do car maintenance?",
+        "options": [
+          "(a) Every Friday night",
+          "(b) On a Sunday morning in the driveway",
+          "(c) At the mechanic's garage",
+          "(d) During his lunch break"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 12,
+        "question": "What did Avi discover when he checked the oil?",
+        "options": [
+          "(a) The oil level was too high",
+          "(b) The oil was fresh and clean",
+          "(c) The oil was dark and old",
+          "(d) There was no oil at all"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 13,
+        "question": "What tool did Avi use to remove the drain plug?",
+        "options": [
+          "(a) A jack",
+          "(b) A screwdriver",
+          "(c) A wrench",
+          "(d) A gauge"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 14,
+        "question": "Why did Avi replace the air filter?",
+        "options": [
+          "(a) It was the wrong size",
+          "(b) It had a hole in it",
+          "(c) It was grey and dusty",
+          "(d) The mechanic told him to"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 15,
+        "question": "What was wrong with the coolant level?",
+        "options": [
+          "(a) It was empty",
+          "(b) It was slightly below the minimum line",
+          "(c) It was too full",
+          "(d) The coolant had changed color"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 16,
+        "question": "Which tire felt soft when Avi pressed on it?",
+        "options": [
+          "(a) The front left tire",
+          "(b) The front right tire",
+          "(c) The rear right tire",
+          "(d) The rear left tire"
+        ],
+        "correct_answer": "d"
+      },
+      {
+        "id": 17,
+        "question": "How did Avi check the brake pads?",
+        "options": [
+          "(a) He drove and pressed the brake hard",
+          "(b) He looked through the wheel spokes",
+          "(c) He asked the mechanic",
+          "(d) He removed the entire wheel"
+        ],
+        "correct_answer": "b"
+      },
+      {
+        "id": 18,
+        "question": "What did the battery tester reading tell Avi?",
+        "options": [
+          "(a) The battery was fully charged",
+          "(b) The battery needed more coolant",
+          "(c) The battery level was low",
+          "(d) The battery was brand new"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 19,
+        "question": "What did Avi plan to do about the battery?",
+        "options": [
+          "(a) Replace it himself at home",
+          "(b) Ignore it for now",
+          "(c) Take the car to the mechanic early in the week",
+          "(d) Buy a new car"
+        ],
+        "correct_answer": "c"
+      },
+      {
+        "id": 20,
+        "question": "What did Avi do after finishing all the checks?",
+        "options": [
+          "(a) He drove to the mechanic immediately",
+          "(b) He closed the hood, washed his hands, and went inside for lunch",
+          "(c) He took the car for a test drive",
+          "(d) He called Miriam to come and help"
+        ],
+        "correct_answer": "b"
+      }
+    ]
+  }
+}
